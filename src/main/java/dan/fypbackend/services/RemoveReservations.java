@@ -1,4 +1,4 @@
-package dan.fypbackend;
+package dan.fypbackend.services;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -6,14 +6,12 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.Calendar;
-import java.util.Date;
 import java.util.TimerTask;
 
 public class RemoveReservations extends TimerTask {
-
+    @Deprecated
     @Override
     public void run() {
-        System.out.print(String.valueOf(new Date(System.currentTimeMillis())) + "\n");
         FirebaseDatabase.getInstance().getReference("reservation")
                 .addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
