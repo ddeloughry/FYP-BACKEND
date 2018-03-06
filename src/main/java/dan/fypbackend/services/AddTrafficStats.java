@@ -13,10 +13,15 @@ import java.util.Calendar;
 import java.util.TimerTask;
 
 public class AddTrafficStats extends TimerTask {
+    private final ArrayList<CarPark> carParksList;
+
+    public AddTrafficStats(ArrayList<CarPark> carParksList) {
+        this.carParksList = carParksList;
+    }
+
     @Deprecated
     @Override
     public void run() {
-        ArrayList<CarPark> carParksList = LoadCarParks.get("http://data.corkcity.ie/api/action/datastore_search?resource_id=6cc1028e-7388-4bc5-95b7-667a59aa76dc");
         assert carParksList != null;
         String[] carParkNames = new String[carParksList.size()];
 
