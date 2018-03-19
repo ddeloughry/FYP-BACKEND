@@ -1,6 +1,6 @@
+
 package dan.fypbackend.services;
 
-import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import dan.fypbackend.model.CarPark;
 import dan.fypbackend.model.TrafficStat;
@@ -10,26 +10,26 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
 import java.util.TimerTask;
 
 public class AddTrafficStats extends TimerTask {
+    private final ArrayList<CarPark> carParksList;
+    private JSONObject weather;
+    private String[] carParkNames;
+    public AddTrafficStats(ArrayList<CarPark> carParksList) {
+        this.carParksList = carParksList;
+    }
+
     @Deprecated
     @Override
     public void run() {
-        ArrayList<CarPark> carParksList = LoadCarParks.get("http://data.corkcity.ie/api/action/datastore_search?resource_id=6cc1028e-7388-4bc5-95b7-667a59aa76dc");
         assert carParksList != null;
-        String[] carParkNames = new String[carParksList.size()];
-
-        // east
+        carParkNames = new String[carParksList.size()];
         StringBuilder urlStringEast = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Youghal&destinations=");
-        // north
         StringBuilder urlStringNorth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Mallow,Cork&destinations=");
-        // west
         StringBuilder urlStringWest = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Macroom,Cork&destinations=");
-        // south
         StringBuilder urlStringSouth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Clonakilty,Cork&destinations=");
-
-
         int i = 0;
         while (i < carParksList.size()) {
             if (i == carParksList.size() - 1) {
@@ -50,26 +50,15 @@ public class AddTrafficStats extends TimerTask {
         urlStringNorth.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
         urlStringWest.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
         urlStringSouth.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
-
-
-        // east
         ArrayList<TrafficStat> trafficStatsEast = new ArrayList<>();
-        // east
         ArrayList<TrafficStat> trafficStatsNorth = new ArrayList<>();
-        // east
         ArrayList<TrafficStat> trafficStatsWest = new ArrayList<>();
-        // east
         ArrayList<TrafficStat> trafficStatsSouth = new ArrayList<>();
-
         JSONObject jsonTrafficEast = RetrieveJsonObject.get(urlStringEast.toString());
         JSONObject jsonTrafficWest = RetrieveJsonObject.get(urlStringWest.toString());
         JSONObject jsonTrafficSouth = RetrieveJsonObject.get(urlStringSouth.toString());
         JSONObject jsonTrafficNorth = RetrieveJsonObject.get(urlStringNorth.toString());
-
-
         JSONObject jsonWeather = RetrieveJsonObject.get("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570");
-
-        Calendar now = Calendar.getInstance();
         try {
             assert jsonTrafficEast != null;
             JSONArray jsonTrafficElementsEast = (jsonTrafficEast.getJSONArray("rows")).getJSONObject(0).getJSONArray("elements");
@@ -80,60 +69,33 @@ public class AddTrafficStats extends TimerTask {
             assert jsonTrafficNorth != null;
             JSONArray jsonTrafficElementsNorth = (jsonTrafficNorth.getJSONArray("rows")).getJSONObject(0).getJSONArray("elements");
             assert jsonWeather != null;
-            JSONObject weather = (jsonWeather.getJSONArray("weather")).getJSONObject(0);
+            weather = (jsonWeather.getJSONArray("weather")).getJSONObject(0);
             for (int index = 0; index < jsonTrafficElementsEast.length(); index++) {
-                // east
-                TrafficStat eastTrafficStat = new TrafficStat();
-                eastTrafficStat.setCarParkName(carParkNames[index]);
-                eastTrafficStat.setDayOfWeek(now.get(Calendar.DAY_OF_WEEK));
-                eastTrafficStat.setMinutes(Double.parseDouble((((
-                        jsonTrafficElementsEast.getJSONObject(index)).getJSONObject("duration_in_traffic")).getString("text")).replaceAll("[^\\d.]", "")));
-                eastTrafficStat.setTimeOfDay(System.currentTimeMillis());
-                eastTrafficStat.setWeather(weather.getString("description"));
-                trafficStatsEast.add(eastTrafficStat);
-                // west
-                TrafficStat westTrafficStat = new TrafficStat();
-                westTrafficStat.setCarParkName(carParkNames[index]);
-                westTrafficStat.setDayOfWeek(now.get(Calendar.DAY_OF_WEEK));
-                westTrafficStat.setMinutes(Double.parseDouble((((
-                        jsonTrafficElementsWest.getJSONObject(index)).getJSONObject("duration_in_traffic")).getString("text")).replaceAll("[^\\d.]", "")));
-                westTrafficStat.setTimeOfDay(System.currentTimeMillis());
-                westTrafficStat.setWeather(weather.getString("description"));
-                trafficStatsWest.add(westTrafficStat);
-                // south
-                TrafficStat southTrafficStat = new TrafficStat();
-                southTrafficStat.setCarParkName(carParkNames[index]);
-                southTrafficStat.setDayOfWeek(now.get(Calendar.DAY_OF_WEEK));
-                southTrafficStat.setMinutes(Double.parseDouble((((
-                        jsonTrafficElementsSouth.getJSONObject(index)).getJSONObject("duration_in_traffic")).getString("text")).replaceAll("[^\\d.]", "")));
-                southTrafficStat.setTimeOfDay(System.currentTimeMillis());
-                southTrafficStat.setWeather(weather.getString("description"));
-                trafficStatsSouth.add(southTrafficStat);
-                // north
-                TrafficStat northTrafficStat = new TrafficStat();
-                northTrafficStat.setCarParkName(carParkNames[index]);
-                northTrafficStat.setDayOfWeek(now.get(Calendar.DAY_OF_WEEK));
-                northTrafficStat.setMinutes(Double.parseDouble((((
-                        jsonTrafficElementsNorth.getJSONObject(index)).getJSONObject("duration_in_traffic")).getString("text")).replaceAll("[^\\d.]", "")));
-                northTrafficStat.setTimeOfDay(System.currentTimeMillis());
-                northTrafficStat.setWeather(weather.getString("description"));
-                trafficStatsNorth.add(northTrafficStat);
+                trafficStatsEast = addTrafficStat(index, trafficStatsEast, jsonTrafficElementsEast);
+                trafficStatsWest = addTrafficStat(index, trafficStatsWest, jsonTrafficElementsWest);
+                trafficStatsNorth = addTrafficStat(index, trafficStatsNorth, jsonTrafficElementsNorth);
+                trafficStatsSouth = addTrafficStat(index, trafficStatsSouth, jsonTrafficElementsSouth);
             }
 
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        // east traffic
-        DatabaseReference reservationDbEast = (FirebaseDatabase.getInstance()).getReference("traffic").child("east_traffic").child(String.valueOf(System.currentTimeMillis()));
-        reservationDbEast.setValue(trafficStatsEast);
-        // north traffic
-        DatabaseReference reservationDbNorth = (FirebaseDatabase.getInstance()).getReference("traffic").child("north_traffic").child(String.valueOf(System.currentTimeMillis()));
-        reservationDbNorth.setValue(trafficStatsNorth);
-        // west traffic
-        DatabaseReference reservationDbWest = (FirebaseDatabase.getInstance()).getReference("traffic").child("west_traffic").child(String.valueOf(System.currentTimeMillis()));
-        reservationDbWest.setValue(trafficStatsWest);
-        // south traffic
-        DatabaseReference reservationDbSouth = (FirebaseDatabase.getInstance()).getReference("traffic").child("south_traffic").child(String.valueOf(System.currentTimeMillis()));
-        reservationDbSouth.setValue(trafficStatsSouth);
+        ((FirebaseDatabase.getInstance()).getReference("traffic").child("east_traffic").child(String.valueOf(new Date(System.currentTimeMillis())))).setValue(trafficStatsEast);
+        ((FirebaseDatabase.getInstance()).getReference("traffic").child("north_traffic").child(String.valueOf(new Date(System.currentTimeMillis())))).setValue(trafficStatsNorth);
+        ((FirebaseDatabase.getInstance()).getReference("traffic").child("west_traffic").child(String.valueOf(new Date(System.currentTimeMillis())))).setValue(trafficStatsWest);
+        ((FirebaseDatabase.getInstance()).getReference("traffic").child("south_traffic").child(String.valueOf(new Date(System.currentTimeMillis())))).setValue(trafficStatsSouth);
+    }
+
+    private ArrayList<TrafficStat> addTrafficStat(int i, ArrayList<TrafficStat> trafArr, JSONArray trafJsonArr) {
+        TrafficStat eastTrafficStat;
+        eastTrafficStat = new TrafficStat();
+        eastTrafficStat.setCarParkName(carParkNames[i]);
+        eastTrafficStat.setDayOfWeek((Calendar.getInstance()).get(Calendar.DAY_OF_WEEK));
+        eastTrafficStat.setMinutes(Double.parseDouble((((
+                trafJsonArr.getJSONObject(i)).getJSONObject("duration_in_traffic")).getString("text")).replaceAll("[^\\d.]", "")));
+        eastTrafficStat.setTimeOfDay(System.currentTimeMillis());
+        eastTrafficStat.setWeather(weather.getString("description"));
+        trafArr.add(eastTrafficStat);
+        return trafArr;
     }
 }
