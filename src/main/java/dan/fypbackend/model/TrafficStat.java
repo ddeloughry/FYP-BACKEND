@@ -1,38 +1,28 @@
 package dan.fypbackend.model;
 
 public class TrafficStat {
-    private double minutes;
-    private int dayOfWeek;
-    private long timeOfDay;
-    private String weather;
-    private String carParkName;
+    private double delay;
+    private long date;
+    private String weather, carParkName, direction;
 
     public TrafficStat() {
 
     }
 
-    public long getTimeOfDay() {
-        return timeOfDay;
+    public double getDelay() {
+        return delay;
     }
 
-    public void setTimeOfDay(long timeOfDay) {
-        this.timeOfDay = timeOfDay;
+    public void setDelay(double delay) {
+        this.delay = delay;
     }
 
-    public double getMinutes() {
-        return minutes;
+    public long getDate() {
+        return date;
     }
 
-    public void setMinutes(double minutes) {
-        this.minutes = minutes;
-    }
-
-    public int getDayOfWeek() {
-        return dayOfWeek;
-    }
-
-    public void setDayOfWeek(int dayOfWeek) {
-        this.dayOfWeek = dayOfWeek;
+    public void setDate(long date) {
+        this.date = date;
     }
 
     public String getWeather() {
@@ -49,5 +39,24 @@ public class TrafficStat {
 
     public void setCarParkName(String carParkName) {
         this.carParkName = carParkName;
+    }
+
+    public String getDirection() {
+        return direction;
+    }
+
+    public void setDirection(String direction) {
+        this.direction = direction;
+    }
+
+    @Override
+    public String toString() {
+        return "TrafficStat{" +
+                "delay=" + delay +
+                ", date=" + date +
+                ", weather='" + weather + '\'' +
+                ", carParkName='" + carParkName + '\'' +
+                ", direction='" + direction + '\'' +
+                '}';
     }
 }

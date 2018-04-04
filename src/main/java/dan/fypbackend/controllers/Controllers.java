@@ -8,16 +8,15 @@ import dan.fypbackend.model.CarPark;
 import dan.fypbackend.services.AddTrafficStats;
 import dan.fypbackend.services.LoadCarParks;
 import dan.fypbackend.services.RemoveReservations;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Timer;
 
-@Controller
+@RestController
 public class Controllers {
 
     public Controllers() throws IOException {
@@ -36,9 +35,8 @@ public class Controllers {
 
     @SuppressWarnings("SameReturnValue")
     @GetMapping("/")
-    public String showServicesAreRunning(Model model) {
-        model.addAttribute("message", "Service is running");
-        return "index";
+    public String showServicesAreRunning() {
+        return "Service is running";
     }
 
 }
