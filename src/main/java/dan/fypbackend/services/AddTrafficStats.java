@@ -9,11 +9,9 @@ import org.json.JSONObject;
 
 import java.util.*;
 
+
 public class AddTrafficStats extends TimerTask {
     private final ArrayList<CarPark> carParksList;
-    private JSONObject weather;
-    private String[] carParkNames;
-    private String weatherString;
 
     public AddTrafficStats(ArrayList<CarPark> carParksList) {
         this.carParksList = carParksList;
@@ -22,7 +20,7 @@ public class AddTrafficStats extends TimerTask {
     @Deprecated
     @Override
     public void run() {
-        carParkNames = new String[carParksList.size()];
+        String[] carParkNames = new String[carParksList.size()];
         StringBuilder urlStringEast = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Youghal&destinations=");
         StringBuilder urlStringNorth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Mallow,Cork&destinations=");
         StringBuilder urlStringWest = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Macroom,Cork&destinations=");
@@ -58,8 +56,7 @@ public class AddTrafficStats extends TimerTask {
             jsonTraffics.put("west", (Objects.requireNonNull(jsonTrafficWest).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
             jsonTraffics.put("south", (Objects.requireNonNull(jsonTrafficSouth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
             jsonTraffics.put("north", (Objects.requireNonNull(jsonTrafficNorth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
-            weather = (Objects.requireNonNull(jsonWeather).getJSONArray("weather")).getJSONObject(0);
-            weatherString = weather.getString("description");
+            String weatherString = ((Objects.requireNonNull(jsonWeather).getJSONArray("weather")).getJSONObject(0)).getString("description");
             int count = 0;
             for (HashMap.Entry<String, JSONArray> entry : jsonTraffics.entrySet()) {
                 for (int index = 0; index < carParkNames.length; index++) {
