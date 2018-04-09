@@ -1,47 +1,60 @@
 import pandas
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.preprocessing import LabelEncoder
 
-directions = set()
-car_parks = set()
+parks = dict()
+weathers = dict()
+dirs = dict()
 
 
 #################################
 # Convert non numerical columns #
 #################################
 def encode_columns(dataset):
-    labelencoder = LabelEncoder()
-    dataset["car_park_name"] = labelencoder.fit_transform(dataset["car_park_name"])
-    dataset["weather"] = labelencoder.fit_transform(dataset["weather"])
-    dataset["direction"] = labelencoder.fit_transform(dataset["direction"])
+    dataset["car_park_name"] = dataset["car_park_name"].map(parks)
+    dataset["weather"] = dataset["weather"].map(weathers)
+    dataset["direction"] = dataset["direction"].map(dirs)
     return dataset
 
 
-def get_delay(dataset):
-    global directions
-    global car_parks
-    for each in dataset["direction"]:
-        directions.add(each)
-    for each in dataset["car_park_name"]:
-        car_parks.add(each)
-
-
 def my_main():
-    train = pandas.read_csv("machine_learning/data.csv", encoding="ISO-8859-1", low_memory=False)
+    training_dataset = pandas.read_csv("machine_learning/data.csv", encoding="ISO-8859-1", low_memory=False)
     test = pandas.read_csv("machine_learning/today.csv", encoding="ISO-8859-1", low_memory=False)
 
-    get_delay(train)
-    
-    train = encode_columns(train)
+    global parks
+    global weathers
+    global dirs
+    i1 = 0
+    i2 = 0
+    i3 = 0
+    for each in training_dataset["car_park_name"]:
+        if each not in parks:
+            parks[each] = i1
+            i1 += 1
+    for each in training_dataset["weather"]:
+        if each not in weathers:
+            weathers[each] = i2
+            i2 += 1
+    for each in training_dataset["direction"]:
+        if each not in dirs:
+            dirs[each] = i3
+            i3 += 1
+
+    training_dataset = encode_columns(training_dataset)
     test = encode_columns(test)
 
-    label_train = train["time"]
-    train = train.drop(["time"], axis=1)
+    training_dataset["time"] = training_dataset["time"] - training_dataset["time"].min()
+
+    times = training_dataset["time"]
+    training_dataset = training_dataset.drop(["time"], axis=1)
     nearest_n = KNeighborsClassifier()
-    nearest_n.fit(train, label_train)
+    nearest_n.fit(training_dataset, times)
     result = nearest_n.predict(test)
     final_result = pandas.DataFrame(result)
     test["time"] = final_result
+    parks = dict((v, k) for k, v in parks.items())
+    weathers = dict((v, k) for k, v in weathers.items())
+    dirs = dict((v, k) for k, v in dirs.items())
+    encode_columns(test)
     test.to_csv("machine_learning/result.csv", index=False, header=True)
 
 
