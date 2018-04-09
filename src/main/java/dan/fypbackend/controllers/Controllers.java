@@ -5,7 +5,6 @@ import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.FirebaseOptions;
 import dan.fypbackend.model.CarPark;
-import dan.fypbackend.services.AddTrafficStats;
 import dan.fypbackend.services.CalculateTrafficPrediction;
 import dan.fypbackend.services.LoadCarParks;
 import dan.fypbackend.services.RemoveReservations;
@@ -30,10 +29,10 @@ public class Controllers {
         Timer timer = new Timer();
         timer.schedule(new RemoveReservations(), 0, 5000);
         ArrayList<CarPark> carParksList = LoadCarParks.get("http://data.corkcity.ie/api/action/datastore_search?resource_id=6cc1028e-7388-4bc5-95b7-667a59aa76dc");
-        Timer timer1 = new Timer();
-        timer1.schedule(new AddTrafficStats(carParksList), 0, 600000);
+//        Timer timer1 = new Timer();
+//        timer1.schedule(new AddTrafficStats(carParksList), 0, 600000);
         Timer timer2 = new Timer();
-        timer2.schedule(new CalculateTrafficPrediction(), 0, 600000);
+        timer2.schedule(new CalculateTrafficPrediction(carParksList), 0, 5000);
     }
 
     @SuppressWarnings("SameReturnValue")

@@ -1,0 +1,1537 @@
+day,hour,minute,car_park_name,weather,direction
+2,0,0,Saint Finbarr's,light rain,north
+2,0,30,Saint Finbarr's,light rain,north
+2,1,0,Saint Finbarr's,light rain,north
+2,1,30,Saint Finbarr's,light rain,north
+2,2,0,Saint Finbarr's,light rain,north
+2,2,30,Saint Finbarr's,light rain,north
+2,3,0,Saint Finbarr's,light rain,north
+2,3,30,Saint Finbarr's,light rain,north
+2,4,0,Saint Finbarr's,light rain,north
+2,4,30,Saint Finbarr's,light rain,north
+2,5,0,Saint Finbarr's,light rain,north
+2,5,30,Saint Finbarr's,light rain,north
+2,6,0,Saint Finbarr's,light rain,north
+2,6,30,Saint Finbarr's,light rain,north
+2,7,0,Saint Finbarr's,light rain,north
+2,7,30,Saint Finbarr's,light rain,north
+2,8,0,Saint Finbarr's,light rain,north
+2,8,30,Saint Finbarr's,light rain,north
+2,9,0,Saint Finbarr's,light rain,north
+2,9,30,Saint Finbarr's,light rain,north
+2,10,0,Saint Finbarr's,light rain,north
+2,10,30,Saint Finbarr's,light rain,north
+2,11,0,Saint Finbarr's,light rain,north
+2,11,30,Saint Finbarr's,light rain,north
+2,12,0,Saint Finbarr's,light rain,north
+2,12,30,Saint Finbarr's,light rain,north
+2,13,0,Saint Finbarr's,light rain,north
+2,13,30,Saint Finbarr's,light rain,north
+2,14,0,Saint Finbarr's,light rain,north
+2,14,30,Saint Finbarr's,light rain,north
+2,15,0,Saint Finbarr's,light rain,north
+2,15,30,Saint Finbarr's,light rain,north
+2,16,0,Saint Finbarr's,light rain,north
+2,16,30,Saint Finbarr's,light rain,north
+2,17,0,Saint Finbarr's,light rain,north
+2,17,30,Saint Finbarr's,light rain,north
+2,18,0,Saint Finbarr's,light rain,north
+2,18,30,Saint Finbarr's,light rain,north
+2,19,0,Saint Finbarr's,light rain,north
+2,19,30,Saint Finbarr's,light rain,north
+2,20,0,Saint Finbarr's,light rain,north
+2,20,30,Saint Finbarr's,light rain,north
+2,21,0,Saint Finbarr's,light rain,north
+2,21,30,Saint Finbarr's,light rain,north
+2,22,0,Saint Finbarr's,light rain,north
+2,22,30,Saint Finbarr's,light rain,north
+2,23,0,Saint Finbarr's,light rain,north
+2,23,30,Saint Finbarr's,light rain,north
+2,0,0,Merchants Quay,light rain,north
+2,0,30,Merchants Quay,light rain,north
+2,1,0,Merchants Quay,light rain,north
+2,1,30,Merchants Quay,light rain,north
+2,2,0,Merchants Quay,light rain,north
+2,2,30,Merchants Quay,light rain,north
+2,3,0,Merchants Quay,light rain,north
+2,3,30,Merchants Quay,light rain,north
+2,4,0,Merchants Quay,light rain,north
+2,4,30,Merchants Quay,light rain,north
+2,5,0,Merchants Quay,light rain,north
+2,5,30,Merchants Quay,light rain,north
+2,6,0,Merchants Quay,light rain,north
+2,6,30,Merchants Quay,light rain,north
+2,7,0,Merchants Quay,light rain,north
+2,7,30,Merchants Quay,light rain,north
+2,8,0,Merchants Quay,light rain,north
+2,8,30,Merchants Quay,light rain,north
+2,9,0,Merchants Quay,light rain,north
+2,9,30,Merchants Quay,light rain,north
+2,10,0,Merchants Quay,light rain,north
+2,10,30,Merchants Quay,light rain,north
+2,11,0,Merchants Quay,light rain,north
+2,11,30,Merchants Quay,light rain,north
+2,12,0,Merchants Quay,light rain,north
+2,12,30,Merchants Quay,light rain,north
+2,13,0,Merchants Quay,light rain,north
+2,13,30,Merchants Quay,light rain,north
+2,14,0,Merchants Quay,light rain,north
+2,14,30,Merchants Quay,light rain,north
+2,15,0,Merchants Quay,light rain,north
+2,15,30,Merchants Quay,light rain,north
+2,16,0,Merchants Quay,light rain,north
+2,16,30,Merchants Quay,light rain,north
+2,17,0,Merchants Quay,light rain,north
+2,17,30,Merchants Quay,light rain,north
+2,18,0,Merchants Quay,light rain,north
+2,18,30,Merchants Quay,light rain,north
+2,19,0,Merchants Quay,light rain,north
+2,19,30,Merchants Quay,light rain,north
+2,20,0,Merchants Quay,light rain,north
+2,20,30,Merchants Quay,light rain,north
+2,21,0,Merchants Quay,light rain,north
+2,21,30,Merchants Quay,light rain,north
+2,22,0,Merchants Quay,light rain,north
+2,22,30,Merchants Quay,light rain,north
+2,23,0,Merchants Quay,light rain,north
+2,23,30,Merchants Quay,light rain,north
+2,0,0,Grand Parade,light rain,north
+2,0,30,Grand Parade,light rain,north
+2,1,0,Grand Parade,light rain,north
+2,1,30,Grand Parade,light rain,north
+2,2,0,Grand Parade,light rain,north
+2,2,30,Grand Parade,light rain,north
+2,3,0,Grand Parade,light rain,north
+2,3,30,Grand Parade,light rain,north
+2,4,0,Grand Parade,light rain,north
+2,4,30,Grand Parade,light rain,north
+2,5,0,Grand Parade,light rain,north
+2,5,30,Grand Parade,light rain,north
+2,6,0,Grand Parade,light rain,north
+2,6,30,Grand Parade,light rain,north
+2,7,0,Grand Parade,light rain,north
+2,7,30,Grand Parade,light rain,north
+2,8,0,Grand Parade,light rain,north
+2,8,30,Grand Parade,light rain,north
+2,9,0,Grand Parade,light rain,north
+2,9,30,Grand Parade,light rain,north
+2,10,0,Grand Parade,light rain,north
+2,10,30,Grand Parade,light rain,north
+2,11,0,Grand Parade,light rain,north
+2,11,30,Grand Parade,light rain,north
+2,12,0,Grand Parade,light rain,north
+2,12,30,Grand Parade,light rain,north
+2,13,0,Grand Parade,light rain,north
+2,13,30,Grand Parade,light rain,north
+2,14,0,Grand Parade,light rain,north
+2,14,30,Grand Parade,light rain,north
+2,15,0,Grand Parade,light rain,north
+2,15,30,Grand Parade,light rain,north
+2,16,0,Grand Parade,light rain,north
+2,16,30,Grand Parade,light rain,north
+2,17,0,Grand Parade,light rain,north
+2,17,30,Grand Parade,light rain,north
+2,18,0,Grand Parade,light rain,north
+2,18,30,Grand Parade,light rain,north
+2,19,0,Grand Parade,light rain,north
+2,19,30,Grand Parade,light rain,north
+2,20,0,Grand Parade,light rain,north
+2,20,30,Grand Parade,light rain,north
+2,21,0,Grand Parade,light rain,north
+2,21,30,Grand Parade,light rain,north
+2,22,0,Grand Parade,light rain,north
+2,22,30,Grand Parade,light rain,north
+2,23,0,Grand Parade,light rain,north
+2,23,30,Grand Parade,light rain,north
+2,0,0,Carrolls Quay,light rain,north
+2,0,30,Carrolls Quay,light rain,north
+2,1,0,Carrolls Quay,light rain,north
+2,1,30,Carrolls Quay,light rain,north
+2,2,0,Carrolls Quay,light rain,north
+2,2,30,Carrolls Quay,light rain,north
+2,3,0,Carrolls Quay,light rain,north
+2,3,30,Carrolls Quay,light rain,north
+2,4,0,Carrolls Quay,light rain,north
+2,4,30,Carrolls Quay,light rain,north
+2,5,0,Carrolls Quay,light rain,north
+2,5,30,Carrolls Quay,light rain,north
+2,6,0,Carrolls Quay,light rain,north
+2,6,30,Carrolls Quay,light rain,north
+2,7,0,Carrolls Quay,light rain,north
+2,7,30,Carrolls Quay,light rain,north
+2,8,0,Carrolls Quay,light rain,north
+2,8,30,Carrolls Quay,light rain,north
+2,9,0,Carrolls Quay,light rain,north
+2,9,30,Carrolls Quay,light rain,north
+2,10,0,Carrolls Quay,light rain,north
+2,10,30,Carrolls Quay,light rain,north
+2,11,0,Carrolls Quay,light rain,north
+2,11,30,Carrolls Quay,light rain,north
+2,12,0,Carrolls Quay,light rain,north
+2,12,30,Carrolls Quay,light rain,north
+2,13,0,Carrolls Quay,light rain,north
+2,13,30,Carrolls Quay,light rain,north
+2,14,0,Carrolls Quay,light rain,north
+2,14,30,Carrolls Quay,light rain,north
+2,15,0,Carrolls Quay,light rain,north
+2,15,30,Carrolls Quay,light rain,north
+2,16,0,Carrolls Quay,light rain,north
+2,16,30,Carrolls Quay,light rain,north
+2,17,0,Carrolls Quay,light rain,north
+2,17,30,Carrolls Quay,light rain,north
+2,18,0,Carrolls Quay,light rain,north
+2,18,30,Carrolls Quay,light rain,north
+2,19,0,Carrolls Quay,light rain,north
+2,19,30,Carrolls Quay,light rain,north
+2,20,0,Carrolls Quay,light rain,north
+2,20,30,Carrolls Quay,light rain,north
+2,21,0,Carrolls Quay,light rain,north
+2,21,30,Carrolls Quay,light rain,north
+2,22,0,Carrolls Quay,light rain,north
+2,22,30,Carrolls Quay,light rain,north
+2,23,0,Carrolls Quay,light rain,north
+2,23,30,Carrolls Quay,light rain,north
+2,0,0,City Hall - Eglington Street,light rain,north
+2,0,30,City Hall - Eglington Street,light rain,north
+2,1,0,City Hall - Eglington Street,light rain,north
+2,1,30,City Hall - Eglington Street,light rain,north
+2,2,0,City Hall - Eglington Street,light rain,north
+2,2,30,City Hall - Eglington Street,light rain,north
+2,3,0,City Hall - Eglington Street,light rain,north
+2,3,30,City Hall - Eglington Street,light rain,north
+2,4,0,City Hall - Eglington Street,light rain,north
+2,4,30,City Hall - Eglington Street,light rain,north
+2,5,0,City Hall - Eglington Street,light rain,north
+2,5,30,City Hall - Eglington Street,light rain,north
+2,6,0,City Hall - Eglington Street,light rain,north
+2,6,30,City Hall - Eglington Street,light rain,north
+2,7,0,City Hall - Eglington Street,light rain,north
+2,7,30,City Hall - Eglington Street,light rain,north
+2,8,0,City Hall - Eglington Street,light rain,north
+2,8,30,City Hall - Eglington Street,light rain,north
+2,9,0,City Hall - Eglington Street,light rain,north
+2,9,30,City Hall - Eglington Street,light rain,north
+2,10,0,City Hall - Eglington Street,light rain,north
+2,10,30,City Hall - Eglington Street,light rain,north
+2,11,0,City Hall - Eglington Street,light rain,north
+2,11,30,City Hall - Eglington Street,light rain,north
+2,12,0,City Hall - Eglington Street,light rain,north
+2,12,30,City Hall - Eglington Street,light rain,north
+2,13,0,City Hall - Eglington Street,light rain,north
+2,13,30,City Hall - Eglington Street,light rain,north
+2,14,0,City Hall - Eglington Street,light rain,north
+2,14,30,City Hall - Eglington Street,light rain,north
+2,15,0,City Hall - Eglington Street,light rain,north
+2,15,30,City Hall - Eglington Street,light rain,north
+2,16,0,City Hall - Eglington Street,light rain,north
+2,16,30,City Hall - Eglington Street,light rain,north
+2,17,0,City Hall - Eglington Street,light rain,north
+2,17,30,City Hall - Eglington Street,light rain,north
+2,18,0,City Hall - Eglington Street,light rain,north
+2,18,30,City Hall - Eglington Street,light rain,north
+2,19,0,City Hall - Eglington Street,light rain,north
+2,19,30,City Hall - Eglington Street,light rain,north
+2,20,0,City Hall - Eglington Street,light rain,north
+2,20,30,City Hall - Eglington Street,light rain,north
+2,21,0,City Hall - Eglington Street,light rain,north
+2,21,30,City Hall - Eglington Street,light rain,north
+2,22,0,City Hall - Eglington Street,light rain,north
+2,22,30,City Hall - Eglington Street,light rain,north
+2,23,0,City Hall - Eglington Street,light rain,north
+2,23,30,City Hall - Eglington Street,light rain,north
+2,0,0,Black Ash Park & Ride,light rain,north
+2,0,30,Black Ash Park & Ride,light rain,north
+2,1,0,Black Ash Park & Ride,light rain,north
+2,1,30,Black Ash Park & Ride,light rain,north
+2,2,0,Black Ash Park & Ride,light rain,north
+2,2,30,Black Ash Park & Ride,light rain,north
+2,3,0,Black Ash Park & Ride,light rain,north
+2,3,30,Black Ash Park & Ride,light rain,north
+2,4,0,Black Ash Park & Ride,light rain,north
+2,4,30,Black Ash Park & Ride,light rain,north
+2,5,0,Black Ash Park & Ride,light rain,north
+2,5,30,Black Ash Park & Ride,light rain,north
+2,6,0,Black Ash Park & Ride,light rain,north
+2,6,30,Black Ash Park & Ride,light rain,north
+2,7,0,Black Ash Park & Ride,light rain,north
+2,7,30,Black Ash Park & Ride,light rain,north
+2,8,0,Black Ash Park & Ride,light rain,north
+2,8,30,Black Ash Park & Ride,light rain,north
+2,9,0,Black Ash Park & Ride,light rain,north
+2,9,30,Black Ash Park & Ride,light rain,north
+2,10,0,Black Ash Park & Ride,light rain,north
+2,10,30,Black Ash Park & Ride,light rain,north
+2,11,0,Black Ash Park & Ride,light rain,north
+2,11,30,Black Ash Park & Ride,light rain,north
+2,12,0,Black Ash Park & Ride,light rain,north
+2,12,30,Black Ash Park & Ride,light rain,north
+2,13,0,Black Ash Park & Ride,light rain,north
+2,13,30,Black Ash Park & Ride,light rain,north
+2,14,0,Black Ash Park & Ride,light rain,north
+2,14,30,Black Ash Park & Ride,light rain,north
+2,15,0,Black Ash Park & Ride,light rain,north
+2,15,30,Black Ash Park & Ride,light rain,north
+2,16,0,Black Ash Park & Ride,light rain,north
+2,16,30,Black Ash Park & Ride,light rain,north
+2,17,0,Black Ash Park & Ride,light rain,north
+2,17,30,Black Ash Park & Ride,light rain,north
+2,18,0,Black Ash Park & Ride,light rain,north
+2,18,30,Black Ash Park & Ride,light rain,north
+2,19,0,Black Ash Park & Ride,light rain,north
+2,19,30,Black Ash Park & Ride,light rain,north
+2,20,0,Black Ash Park & Ride,light rain,north
+2,20,30,Black Ash Park & Ride,light rain,north
+2,21,0,Black Ash Park & Ride,light rain,north
+2,21,30,Black Ash Park & Ride,light rain,north
+2,22,0,Black Ash Park & Ride,light rain,north
+2,22,30,Black Ash Park & Ride,light rain,north
+2,23,0,Black Ash Park & Ride,light rain,north
+2,23,30,Black Ash Park & Ride,light rain,north
+2,0,0,North Main Street,light rain,north
+2,0,30,North Main Street,light rain,north
+2,1,0,North Main Street,light rain,north
+2,1,30,North Main Street,light rain,north
+2,2,0,North Main Street,light rain,north
+2,2,30,North Main Street,light rain,north
+2,3,0,North Main Street,light rain,north
+2,3,30,North Main Street,light rain,north
+2,4,0,North Main Street,light rain,north
+2,4,30,North Main Street,light rain,north
+2,5,0,North Main Street,light rain,north
+2,5,30,North Main Street,light rain,north
+2,6,0,North Main Street,light rain,north
+2,6,30,North Main Street,light rain,north
+2,7,0,North Main Street,light rain,north
+2,7,30,North Main Street,light rain,north
+2,8,0,North Main Street,light rain,north
+2,8,30,North Main Street,light rain,north
+2,9,0,North Main Street,light rain,north
+2,9,30,North Main Street,light rain,north
+2,10,0,North Main Street,light rain,north
+2,10,30,North Main Street,light rain,north
+2,11,0,North Main Street,light rain,north
+2,11,30,North Main Street,light rain,north
+2,12,0,North Main Street,light rain,north
+2,12,30,North Main Street,light rain,north
+2,13,0,North Main Street,light rain,north
+2,13,30,North Main Street,light rain,north
+2,14,0,North Main Street,light rain,north
+2,14,30,North Main Street,light rain,north
+2,15,0,North Main Street,light rain,north
+2,15,30,North Main Street,light rain,north
+2,16,0,North Main Street,light rain,north
+2,16,30,North Main Street,light rain,north
+2,17,0,North Main Street,light rain,north
+2,17,30,North Main Street,light rain,north
+2,18,0,North Main Street,light rain,north
+2,18,30,North Main Street,light rain,north
+2,19,0,North Main Street,light rain,north
+2,19,30,North Main Street,light rain,north
+2,20,0,North Main Street,light rain,north
+2,20,30,North Main Street,light rain,north
+2,21,0,North Main Street,light rain,north
+2,21,30,North Main Street,light rain,north
+2,22,0,North Main Street,light rain,north
+2,22,30,North Main Street,light rain,north
+2,23,0,North Main Street,light rain,north
+2,23,30,North Main Street,light rain,north
+2,0,0,Paul Street,light rain,north
+2,0,30,Paul Street,light rain,north
+2,1,0,Paul Street,light rain,north
+2,1,30,Paul Street,light rain,north
+2,2,0,Paul Street,light rain,north
+2,2,30,Paul Street,light rain,north
+2,3,0,Paul Street,light rain,north
+2,3,30,Paul Street,light rain,north
+2,4,0,Paul Street,light rain,north
+2,4,30,Paul Street,light rain,north
+2,5,0,Paul Street,light rain,north
+2,5,30,Paul Street,light rain,north
+2,6,0,Paul Street,light rain,north
+2,6,30,Paul Street,light rain,north
+2,7,0,Paul Street,light rain,north
+2,7,30,Paul Street,light rain,north
+2,8,0,Paul Street,light rain,north
+2,8,30,Paul Street,light rain,north
+2,9,0,Paul Street,light rain,north
+2,9,30,Paul Street,light rain,north
+2,10,0,Paul Street,light rain,north
+2,10,30,Paul Street,light rain,north
+2,11,0,Paul Street,light rain,north
+2,11,30,Paul Street,light rain,north
+2,12,0,Paul Street,light rain,north
+2,12,30,Paul Street,light rain,north
+2,13,0,Paul Street,light rain,north
+2,13,30,Paul Street,light rain,north
+2,14,0,Paul Street,light rain,north
+2,14,30,Paul Street,light rain,north
+2,15,0,Paul Street,light rain,north
+2,15,30,Paul Street,light rain,north
+2,16,0,Paul Street,light rain,north
+2,16,30,Paul Street,light rain,north
+2,17,0,Paul Street,light rain,north
+2,17,30,Paul Street,light rain,north
+2,18,0,Paul Street,light rain,north
+2,18,30,Paul Street,light rain,north
+2,19,0,Paul Street,light rain,north
+2,19,30,Paul Street,light rain,north
+2,20,0,Paul Street,light rain,north
+2,20,30,Paul Street,light rain,north
+2,21,0,Paul Street,light rain,north
+2,21,30,Paul Street,light rain,north
+2,22,0,Paul Street,light rain,north
+2,22,30,Paul Street,light rain,north
+2,23,0,Paul Street,light rain,north
+2,23,30,Paul Street,light rain,north
+2,0,0,Saint Finbarr's,light rain,south
+2,0,30,Saint Finbarr's,light rain,south
+2,1,0,Saint Finbarr's,light rain,south
+2,1,30,Saint Finbarr's,light rain,south
+2,2,0,Saint Finbarr's,light rain,south
+2,2,30,Saint Finbarr's,light rain,south
+2,3,0,Saint Finbarr's,light rain,south
+2,3,30,Saint Finbarr's,light rain,south
+2,4,0,Saint Finbarr's,light rain,south
+2,4,30,Saint Finbarr's,light rain,south
+2,5,0,Saint Finbarr's,light rain,south
+2,5,30,Saint Finbarr's,light rain,south
+2,6,0,Saint Finbarr's,light rain,south
+2,6,30,Saint Finbarr's,light rain,south
+2,7,0,Saint Finbarr's,light rain,south
+2,7,30,Saint Finbarr's,light rain,south
+2,8,0,Saint Finbarr's,light rain,south
+2,8,30,Saint Finbarr's,light rain,south
+2,9,0,Saint Finbarr's,light rain,south
+2,9,30,Saint Finbarr's,light rain,south
+2,10,0,Saint Finbarr's,light rain,south
+2,10,30,Saint Finbarr's,light rain,south
+2,11,0,Saint Finbarr's,light rain,south
+2,11,30,Saint Finbarr's,light rain,south
+2,12,0,Saint Finbarr's,light rain,south
+2,12,30,Saint Finbarr's,light rain,south
+2,13,0,Saint Finbarr's,light rain,south
+2,13,30,Saint Finbarr's,light rain,south
+2,14,0,Saint Finbarr's,light rain,south
+2,14,30,Saint Finbarr's,light rain,south
+2,15,0,Saint Finbarr's,light rain,south
+2,15,30,Saint Finbarr's,light rain,south
+2,16,0,Saint Finbarr's,light rain,south
+2,16,30,Saint Finbarr's,light rain,south
+2,17,0,Saint Finbarr's,light rain,south
+2,17,30,Saint Finbarr's,light rain,south
+2,18,0,Saint Finbarr's,light rain,south
+2,18,30,Saint Finbarr's,light rain,south
+2,19,0,Saint Finbarr's,light rain,south
+2,19,30,Saint Finbarr's,light rain,south
+2,20,0,Saint Finbarr's,light rain,south
+2,20,30,Saint Finbarr's,light rain,south
+2,21,0,Saint Finbarr's,light rain,south
+2,21,30,Saint Finbarr's,light rain,south
+2,22,0,Saint Finbarr's,light rain,south
+2,22,30,Saint Finbarr's,light rain,south
+2,23,0,Saint Finbarr's,light rain,south
+2,23,30,Saint Finbarr's,light rain,south
+2,0,0,Merchants Quay,light rain,south
+2,0,30,Merchants Quay,light rain,south
+2,1,0,Merchants Quay,light rain,south
+2,1,30,Merchants Quay,light rain,south
+2,2,0,Merchants Quay,light rain,south
+2,2,30,Merchants Quay,light rain,south
+2,3,0,Merchants Quay,light rain,south
+2,3,30,Merchants Quay,light rain,south
+2,4,0,Merchants Quay,light rain,south
+2,4,30,Merchants Quay,light rain,south
+2,5,0,Merchants Quay,light rain,south
+2,5,30,Merchants Quay,light rain,south
+2,6,0,Merchants Quay,light rain,south
+2,6,30,Merchants Quay,light rain,south
+2,7,0,Merchants Quay,light rain,south
+2,7,30,Merchants Quay,light rain,south
+2,8,0,Merchants Quay,light rain,south
+2,8,30,Merchants Quay,light rain,south
+2,9,0,Merchants Quay,light rain,south
+2,9,30,Merchants Quay,light rain,south
+2,10,0,Merchants Quay,light rain,south
+2,10,30,Merchants Quay,light rain,south
+2,11,0,Merchants Quay,light rain,south
+2,11,30,Merchants Quay,light rain,south
+2,12,0,Merchants Quay,light rain,south
+2,12,30,Merchants Quay,light rain,south
+2,13,0,Merchants Quay,light rain,south
+2,13,30,Merchants Quay,light rain,south
+2,14,0,Merchants Quay,light rain,south
+2,14,30,Merchants Quay,light rain,south
+2,15,0,Merchants Quay,light rain,south
+2,15,30,Merchants Quay,light rain,south
+2,16,0,Merchants Quay,light rain,south
+2,16,30,Merchants Quay,light rain,south
+2,17,0,Merchants Quay,light rain,south
+2,17,30,Merchants Quay,light rain,south
+2,18,0,Merchants Quay,light rain,south
+2,18,30,Merchants Quay,light rain,south
+2,19,0,Merchants Quay,light rain,south
+2,19,30,Merchants Quay,light rain,south
+2,20,0,Merchants Quay,light rain,south
+2,20,30,Merchants Quay,light rain,south
+2,21,0,Merchants Quay,light rain,south
+2,21,30,Merchants Quay,light rain,south
+2,22,0,Merchants Quay,light rain,south
+2,22,30,Merchants Quay,light rain,south
+2,23,0,Merchants Quay,light rain,south
+2,23,30,Merchants Quay,light rain,south
+2,0,0,Grand Parade,light rain,south
+2,0,30,Grand Parade,light rain,south
+2,1,0,Grand Parade,light rain,south
+2,1,30,Grand Parade,light rain,south
+2,2,0,Grand Parade,light rain,south
+2,2,30,Grand Parade,light rain,south
+2,3,0,Grand Parade,light rain,south
+2,3,30,Grand Parade,light rain,south
+2,4,0,Grand Parade,light rain,south
+2,4,30,Grand Parade,light rain,south
+2,5,0,Grand Parade,light rain,south
+2,5,30,Grand Parade,light rain,south
+2,6,0,Grand Parade,light rain,south
+2,6,30,Grand Parade,light rain,south
+2,7,0,Grand Parade,light rain,south
+2,7,30,Grand Parade,light rain,south
+2,8,0,Grand Parade,light rain,south
+2,8,30,Grand Parade,light rain,south
+2,9,0,Grand Parade,light rain,south
+2,9,30,Grand Parade,light rain,south
+2,10,0,Grand Parade,light rain,south
+2,10,30,Grand Parade,light rain,south
+2,11,0,Grand Parade,light rain,south
+2,11,30,Grand Parade,light rain,south
+2,12,0,Grand Parade,light rain,south
+2,12,30,Grand Parade,light rain,south
+2,13,0,Grand Parade,light rain,south
+2,13,30,Grand Parade,light rain,south
+2,14,0,Grand Parade,light rain,south
+2,14,30,Grand Parade,light rain,south
+2,15,0,Grand Parade,light rain,south
+2,15,30,Grand Parade,light rain,south
+2,16,0,Grand Parade,light rain,south
+2,16,30,Grand Parade,light rain,south
+2,17,0,Grand Parade,light rain,south
+2,17,30,Grand Parade,light rain,south
+2,18,0,Grand Parade,light rain,south
+2,18,30,Grand Parade,light rain,south
+2,19,0,Grand Parade,light rain,south
+2,19,30,Grand Parade,light rain,south
+2,20,0,Grand Parade,light rain,south
+2,20,30,Grand Parade,light rain,south
+2,21,0,Grand Parade,light rain,south
+2,21,30,Grand Parade,light rain,south
+2,22,0,Grand Parade,light rain,south
+2,22,30,Grand Parade,light rain,south
+2,23,0,Grand Parade,light rain,south
+2,23,30,Grand Parade,light rain,south
+2,0,0,Carrolls Quay,light rain,south
+2,0,30,Carrolls Quay,light rain,south
+2,1,0,Carrolls Quay,light rain,south
+2,1,30,Carrolls Quay,light rain,south
+2,2,0,Carrolls Quay,light rain,south
+2,2,30,Carrolls Quay,light rain,south
+2,3,0,Carrolls Quay,light rain,south
+2,3,30,Carrolls Quay,light rain,south
+2,4,0,Carrolls Quay,light rain,south
+2,4,30,Carrolls Quay,light rain,south
+2,5,0,Carrolls Quay,light rain,south
+2,5,30,Carrolls Quay,light rain,south
+2,6,0,Carrolls Quay,light rain,south
+2,6,30,Carrolls Quay,light rain,south
+2,7,0,Carrolls Quay,light rain,south
+2,7,30,Carrolls Quay,light rain,south
+2,8,0,Carrolls Quay,light rain,south
+2,8,30,Carrolls Quay,light rain,south
+2,9,0,Carrolls Quay,light rain,south
+2,9,30,Carrolls Quay,light rain,south
+2,10,0,Carrolls Quay,light rain,south
+2,10,30,Carrolls Quay,light rain,south
+2,11,0,Carrolls Quay,light rain,south
+2,11,30,Carrolls Quay,light rain,south
+2,12,0,Carrolls Quay,light rain,south
+2,12,30,Carrolls Quay,light rain,south
+2,13,0,Carrolls Quay,light rain,south
+2,13,30,Carrolls Quay,light rain,south
+2,14,0,Carrolls Quay,light rain,south
+2,14,30,Carrolls Quay,light rain,south
+2,15,0,Carrolls Quay,light rain,south
+2,15,30,Carrolls Quay,light rain,south
+2,16,0,Carrolls Quay,light rain,south
+2,16,30,Carrolls Quay,light rain,south
+2,17,0,Carrolls Quay,light rain,south
+2,17,30,Carrolls Quay,light rain,south
+2,18,0,Carrolls Quay,light rain,south
+2,18,30,Carrolls Quay,light rain,south
+2,19,0,Carrolls Quay,light rain,south
+2,19,30,Carrolls Quay,light rain,south
+2,20,0,Carrolls Quay,light rain,south
+2,20,30,Carrolls Quay,light rain,south
+2,21,0,Carrolls Quay,light rain,south
+2,21,30,Carrolls Quay,light rain,south
+2,22,0,Carrolls Quay,light rain,south
+2,22,30,Carrolls Quay,light rain,south
+2,23,0,Carrolls Quay,light rain,south
+2,23,30,Carrolls Quay,light rain,south
+2,0,0,City Hall - Eglington Street,light rain,south
+2,0,30,City Hall - Eglington Street,light rain,south
+2,1,0,City Hall - Eglington Street,light rain,south
+2,1,30,City Hall - Eglington Street,light rain,south
+2,2,0,City Hall - Eglington Street,light rain,south
+2,2,30,City Hall - Eglington Street,light rain,south
+2,3,0,City Hall - Eglington Street,light rain,south
+2,3,30,City Hall - Eglington Street,light rain,south
+2,4,0,City Hall - Eglington Street,light rain,south
+2,4,30,City Hall - Eglington Street,light rain,south
+2,5,0,City Hall - Eglington Street,light rain,south
+2,5,30,City Hall - Eglington Street,light rain,south
+2,6,0,City Hall - Eglington Street,light rain,south
+2,6,30,City Hall - Eglington Street,light rain,south
+2,7,0,City Hall - Eglington Street,light rain,south
+2,7,30,City Hall - Eglington Street,light rain,south
+2,8,0,City Hall - Eglington Street,light rain,south
+2,8,30,City Hall - Eglington Street,light rain,south
+2,9,0,City Hall - Eglington Street,light rain,south
+2,9,30,City Hall - Eglington Street,light rain,south
+2,10,0,City Hall - Eglington Street,light rain,south
+2,10,30,City Hall - Eglington Street,light rain,south
+2,11,0,City Hall - Eglington Street,light rain,south
+2,11,30,City Hall - Eglington Street,light rain,south
+2,12,0,City Hall - Eglington Street,light rain,south
+2,12,30,City Hall - Eglington Street,light rain,south
+2,13,0,City Hall - Eglington Street,light rain,south
+2,13,30,City Hall - Eglington Street,light rain,south
+2,14,0,City Hall - Eglington Street,light rain,south
+2,14,30,City Hall - Eglington Street,light rain,south
+2,15,0,City Hall - Eglington Street,light rain,south
+2,15,30,City Hall - Eglington Street,light rain,south
+2,16,0,City Hall - Eglington Street,light rain,south
+2,16,30,City Hall - Eglington Street,light rain,south
+2,17,0,City Hall - Eglington Street,light rain,south
+2,17,30,City Hall - Eglington Street,light rain,south
+2,18,0,City Hall - Eglington Street,light rain,south
+2,18,30,City Hall - Eglington Street,light rain,south
+2,19,0,City Hall - Eglington Street,light rain,south
+2,19,30,City Hall - Eglington Street,light rain,south
+2,20,0,City Hall - Eglington Street,light rain,south
+2,20,30,City Hall - Eglington Street,light rain,south
+2,21,0,City Hall - Eglington Street,light rain,south
+2,21,30,City Hall - Eglington Street,light rain,south
+2,22,0,City Hall - Eglington Street,light rain,south
+2,22,30,City Hall - Eglington Street,light rain,south
+2,23,0,City Hall - Eglington Street,light rain,south
+2,23,30,City Hall - Eglington Street,light rain,south
+2,0,0,Black Ash Park & Ride,light rain,south
+2,0,30,Black Ash Park & Ride,light rain,south
+2,1,0,Black Ash Park & Ride,light rain,south
+2,1,30,Black Ash Park & Ride,light rain,south
+2,2,0,Black Ash Park & Ride,light rain,south
+2,2,30,Black Ash Park & Ride,light rain,south
+2,3,0,Black Ash Park & Ride,light rain,south
+2,3,30,Black Ash Park & Ride,light rain,south
+2,4,0,Black Ash Park & Ride,light rain,south
+2,4,30,Black Ash Park & Ride,light rain,south
+2,5,0,Black Ash Park & Ride,light rain,south
+2,5,30,Black Ash Park & Ride,light rain,south
+2,6,0,Black Ash Park & Ride,light rain,south
+2,6,30,Black Ash Park & Ride,light rain,south
+2,7,0,Black Ash Park & Ride,light rain,south
+2,7,30,Black Ash Park & Ride,light rain,south
+2,8,0,Black Ash Park & Ride,light rain,south
+2,8,30,Black Ash Park & Ride,light rain,south
+2,9,0,Black Ash Park & Ride,light rain,south
+2,9,30,Black Ash Park & Ride,light rain,south
+2,10,0,Black Ash Park & Ride,light rain,south
+2,10,30,Black Ash Park & Ride,light rain,south
+2,11,0,Black Ash Park & Ride,light rain,south
+2,11,30,Black Ash Park & Ride,light rain,south
+2,12,0,Black Ash Park & Ride,light rain,south
+2,12,30,Black Ash Park & Ride,light rain,south
+2,13,0,Black Ash Park & Ride,light rain,south
+2,13,30,Black Ash Park & Ride,light rain,south
+2,14,0,Black Ash Park & Ride,light rain,south
+2,14,30,Black Ash Park & Ride,light rain,south
+2,15,0,Black Ash Park & Ride,light rain,south
+2,15,30,Black Ash Park & Ride,light rain,south
+2,16,0,Black Ash Park & Ride,light rain,south
+2,16,30,Black Ash Park & Ride,light rain,south
+2,17,0,Black Ash Park & Ride,light rain,south
+2,17,30,Black Ash Park & Ride,light rain,south
+2,18,0,Black Ash Park & Ride,light rain,south
+2,18,30,Black Ash Park & Ride,light rain,south
+2,19,0,Black Ash Park & Ride,light rain,south
+2,19,30,Black Ash Park & Ride,light rain,south
+2,20,0,Black Ash Park & Ride,light rain,south
+2,20,30,Black Ash Park & Ride,light rain,south
+2,21,0,Black Ash Park & Ride,light rain,south
+2,21,30,Black Ash Park & Ride,light rain,south
+2,22,0,Black Ash Park & Ride,light rain,south
+2,22,30,Black Ash Park & Ride,light rain,south
+2,23,0,Black Ash Park & Ride,light rain,south
+2,23,30,Black Ash Park & Ride,light rain,south
+2,0,0,North Main Street,light rain,south
+2,0,30,North Main Street,light rain,south
+2,1,0,North Main Street,light rain,south
+2,1,30,North Main Street,light rain,south
+2,2,0,North Main Street,light rain,south
+2,2,30,North Main Street,light rain,south
+2,3,0,North Main Street,light rain,south
+2,3,30,North Main Street,light rain,south
+2,4,0,North Main Street,light rain,south
+2,4,30,North Main Street,light rain,south
+2,5,0,North Main Street,light rain,south
+2,5,30,North Main Street,light rain,south
+2,6,0,North Main Street,light rain,south
+2,6,30,North Main Street,light rain,south
+2,7,0,North Main Street,light rain,south
+2,7,30,North Main Street,light rain,south
+2,8,0,North Main Street,light rain,south
+2,8,30,North Main Street,light rain,south
+2,9,0,North Main Street,light rain,south
+2,9,30,North Main Street,light rain,south
+2,10,0,North Main Street,light rain,south
+2,10,30,North Main Street,light rain,south
+2,11,0,North Main Street,light rain,south
+2,11,30,North Main Street,light rain,south
+2,12,0,North Main Street,light rain,south
+2,12,30,North Main Street,light rain,south
+2,13,0,North Main Street,light rain,south
+2,13,30,North Main Street,light rain,south
+2,14,0,North Main Street,light rain,south
+2,14,30,North Main Street,light rain,south
+2,15,0,North Main Street,light rain,south
+2,15,30,North Main Street,light rain,south
+2,16,0,North Main Street,light rain,south
+2,16,30,North Main Street,light rain,south
+2,17,0,North Main Street,light rain,south
+2,17,30,North Main Street,light rain,south
+2,18,0,North Main Street,light rain,south
+2,18,30,North Main Street,light rain,south
+2,19,0,North Main Street,light rain,south
+2,19,30,North Main Street,light rain,south
+2,20,0,North Main Street,light rain,south
+2,20,30,North Main Street,light rain,south
+2,21,0,North Main Street,light rain,south
+2,21,30,North Main Street,light rain,south
+2,22,0,North Main Street,light rain,south
+2,22,30,North Main Street,light rain,south
+2,23,0,North Main Street,light rain,south
+2,23,30,North Main Street,light rain,south
+2,0,0,Paul Street,light rain,south
+2,0,30,Paul Street,light rain,south
+2,1,0,Paul Street,light rain,south
+2,1,30,Paul Street,light rain,south
+2,2,0,Paul Street,light rain,south
+2,2,30,Paul Street,light rain,south
+2,3,0,Paul Street,light rain,south
+2,3,30,Paul Street,light rain,south
+2,4,0,Paul Street,light rain,south
+2,4,30,Paul Street,light rain,south
+2,5,0,Paul Street,light rain,south
+2,5,30,Paul Street,light rain,south
+2,6,0,Paul Street,light rain,south
+2,6,30,Paul Street,light rain,south
+2,7,0,Paul Street,light rain,south
+2,7,30,Paul Street,light rain,south
+2,8,0,Paul Street,light rain,south
+2,8,30,Paul Street,light rain,south
+2,9,0,Paul Street,light rain,south
+2,9,30,Paul Street,light rain,south
+2,10,0,Paul Street,light rain,south
+2,10,30,Paul Street,light rain,south
+2,11,0,Paul Street,light rain,south
+2,11,30,Paul Street,light rain,south
+2,12,0,Paul Street,light rain,south
+2,12,30,Paul Street,light rain,south
+2,13,0,Paul Street,light rain,south
+2,13,30,Paul Street,light rain,south
+2,14,0,Paul Street,light rain,south
+2,14,30,Paul Street,light rain,south
+2,15,0,Paul Street,light rain,south
+2,15,30,Paul Street,light rain,south
+2,16,0,Paul Street,light rain,south
+2,16,30,Paul Street,light rain,south
+2,17,0,Paul Street,light rain,south
+2,17,30,Paul Street,light rain,south
+2,18,0,Paul Street,light rain,south
+2,18,30,Paul Street,light rain,south
+2,19,0,Paul Street,light rain,south
+2,19,30,Paul Street,light rain,south
+2,20,0,Paul Street,light rain,south
+2,20,30,Paul Street,light rain,south
+2,21,0,Paul Street,light rain,south
+2,21,30,Paul Street,light rain,south
+2,22,0,Paul Street,light rain,south
+2,22,30,Paul Street,light rain,south
+2,23,0,Paul Street,light rain,south
+2,23,30,Paul Street,light rain,south
+2,0,0,Saint Finbarr's,light rain,east
+2,0,30,Saint Finbarr's,light rain,east
+2,1,0,Saint Finbarr's,light rain,east
+2,1,30,Saint Finbarr's,light rain,east
+2,2,0,Saint Finbarr's,light rain,east
+2,2,30,Saint Finbarr's,light rain,east
+2,3,0,Saint Finbarr's,light rain,east
+2,3,30,Saint Finbarr's,light rain,east
+2,4,0,Saint Finbarr's,light rain,east
+2,4,30,Saint Finbarr's,light rain,east
+2,5,0,Saint Finbarr's,light rain,east
+2,5,30,Saint Finbarr's,light rain,east
+2,6,0,Saint Finbarr's,light rain,east
+2,6,30,Saint Finbarr's,light rain,east
+2,7,0,Saint Finbarr's,light rain,east
+2,7,30,Saint Finbarr's,light rain,east
+2,8,0,Saint Finbarr's,light rain,east
+2,8,30,Saint Finbarr's,light rain,east
+2,9,0,Saint Finbarr's,light rain,east
+2,9,30,Saint Finbarr's,light rain,east
+2,10,0,Saint Finbarr's,light rain,east
+2,10,30,Saint Finbarr's,light rain,east
+2,11,0,Saint Finbarr's,light rain,east
+2,11,30,Saint Finbarr's,light rain,east
+2,12,0,Saint Finbarr's,light rain,east
+2,12,30,Saint Finbarr's,light rain,east
+2,13,0,Saint Finbarr's,light rain,east
+2,13,30,Saint Finbarr's,light rain,east
+2,14,0,Saint Finbarr's,light rain,east
+2,14,30,Saint Finbarr's,light rain,east
+2,15,0,Saint Finbarr's,light rain,east
+2,15,30,Saint Finbarr's,light rain,east
+2,16,0,Saint Finbarr's,light rain,east
+2,16,30,Saint Finbarr's,light rain,east
+2,17,0,Saint Finbarr's,light rain,east
+2,17,30,Saint Finbarr's,light rain,east
+2,18,0,Saint Finbarr's,light rain,east
+2,18,30,Saint Finbarr's,light rain,east
+2,19,0,Saint Finbarr's,light rain,east
+2,19,30,Saint Finbarr's,light rain,east
+2,20,0,Saint Finbarr's,light rain,east
+2,20,30,Saint Finbarr's,light rain,east
+2,21,0,Saint Finbarr's,light rain,east
+2,21,30,Saint Finbarr's,light rain,east
+2,22,0,Saint Finbarr's,light rain,east
+2,22,30,Saint Finbarr's,light rain,east
+2,23,0,Saint Finbarr's,light rain,east
+2,23,30,Saint Finbarr's,light rain,east
+2,0,0,Merchants Quay,light rain,east
+2,0,30,Merchants Quay,light rain,east
+2,1,0,Merchants Quay,light rain,east
+2,1,30,Merchants Quay,light rain,east
+2,2,0,Merchants Quay,light rain,east
+2,2,30,Merchants Quay,light rain,east
+2,3,0,Merchants Quay,light rain,east
+2,3,30,Merchants Quay,light rain,east
+2,4,0,Merchants Quay,light rain,east
+2,4,30,Merchants Quay,light rain,east
+2,5,0,Merchants Quay,light rain,east
+2,5,30,Merchants Quay,light rain,east
+2,6,0,Merchants Quay,light rain,east
+2,6,30,Merchants Quay,light rain,east
+2,7,0,Merchants Quay,light rain,east
+2,7,30,Merchants Quay,light rain,east
+2,8,0,Merchants Quay,light rain,east
+2,8,30,Merchants Quay,light rain,east
+2,9,0,Merchants Quay,light rain,east
+2,9,30,Merchants Quay,light rain,east
+2,10,0,Merchants Quay,light rain,east
+2,10,30,Merchants Quay,light rain,east
+2,11,0,Merchants Quay,light rain,east
+2,11,30,Merchants Quay,light rain,east
+2,12,0,Merchants Quay,light rain,east
+2,12,30,Merchants Quay,light rain,east
+2,13,0,Merchants Quay,light rain,east
+2,13,30,Merchants Quay,light rain,east
+2,14,0,Merchants Quay,light rain,east
+2,14,30,Merchants Quay,light rain,east
+2,15,0,Merchants Quay,light rain,east
+2,15,30,Merchants Quay,light rain,east
+2,16,0,Merchants Quay,light rain,east
+2,16,30,Merchants Quay,light rain,east
+2,17,0,Merchants Quay,light rain,east
+2,17,30,Merchants Quay,light rain,east
+2,18,0,Merchants Quay,light rain,east
+2,18,30,Merchants Quay,light rain,east
+2,19,0,Merchants Quay,light rain,east
+2,19,30,Merchants Quay,light rain,east
+2,20,0,Merchants Quay,light rain,east
+2,20,30,Merchants Quay,light rain,east
+2,21,0,Merchants Quay,light rain,east
+2,21,30,Merchants Quay,light rain,east
+2,22,0,Merchants Quay,light rain,east
+2,22,30,Merchants Quay,light rain,east
+2,23,0,Merchants Quay,light rain,east
+2,23,30,Merchants Quay,light rain,east
+2,0,0,Grand Parade,light rain,east
+2,0,30,Grand Parade,light rain,east
+2,1,0,Grand Parade,light rain,east
+2,1,30,Grand Parade,light rain,east
+2,2,0,Grand Parade,light rain,east
+2,2,30,Grand Parade,light rain,east
+2,3,0,Grand Parade,light rain,east
+2,3,30,Grand Parade,light rain,east
+2,4,0,Grand Parade,light rain,east
+2,4,30,Grand Parade,light rain,east
+2,5,0,Grand Parade,light rain,east
+2,5,30,Grand Parade,light rain,east
+2,6,0,Grand Parade,light rain,east
+2,6,30,Grand Parade,light rain,east
+2,7,0,Grand Parade,light rain,east
+2,7,30,Grand Parade,light rain,east
+2,8,0,Grand Parade,light rain,east
+2,8,30,Grand Parade,light rain,east
+2,9,0,Grand Parade,light rain,east
+2,9,30,Grand Parade,light rain,east
+2,10,0,Grand Parade,light rain,east
+2,10,30,Grand Parade,light rain,east
+2,11,0,Grand Parade,light rain,east
+2,11,30,Grand Parade,light rain,east
+2,12,0,Grand Parade,light rain,east
+2,12,30,Grand Parade,light rain,east
+2,13,0,Grand Parade,light rain,east
+2,13,30,Grand Parade,light rain,east
+2,14,0,Grand Parade,light rain,east
+2,14,30,Grand Parade,light rain,east
+2,15,0,Grand Parade,light rain,east
+2,15,30,Grand Parade,light rain,east
+2,16,0,Grand Parade,light rain,east
+2,16,30,Grand Parade,light rain,east
+2,17,0,Grand Parade,light rain,east
+2,17,30,Grand Parade,light rain,east
+2,18,0,Grand Parade,light rain,east
+2,18,30,Grand Parade,light rain,east
+2,19,0,Grand Parade,light rain,east
+2,19,30,Grand Parade,light rain,east
+2,20,0,Grand Parade,light rain,east
+2,20,30,Grand Parade,light rain,east
+2,21,0,Grand Parade,light rain,east
+2,21,30,Grand Parade,light rain,east
+2,22,0,Grand Parade,light rain,east
+2,22,30,Grand Parade,light rain,east
+2,23,0,Grand Parade,light rain,east
+2,23,30,Grand Parade,light rain,east
+2,0,0,Carrolls Quay,light rain,east
+2,0,30,Carrolls Quay,light rain,east
+2,1,0,Carrolls Quay,light rain,east
+2,1,30,Carrolls Quay,light rain,east
+2,2,0,Carrolls Quay,light rain,east
+2,2,30,Carrolls Quay,light rain,east
+2,3,0,Carrolls Quay,light rain,east
+2,3,30,Carrolls Quay,light rain,east
+2,4,0,Carrolls Quay,light rain,east
+2,4,30,Carrolls Quay,light rain,east
+2,5,0,Carrolls Quay,light rain,east
+2,5,30,Carrolls Quay,light rain,east
+2,6,0,Carrolls Quay,light rain,east
+2,6,30,Carrolls Quay,light rain,east
+2,7,0,Carrolls Quay,light rain,east
+2,7,30,Carrolls Quay,light rain,east
+2,8,0,Carrolls Quay,light rain,east
+2,8,30,Carrolls Quay,light rain,east
+2,9,0,Carrolls Quay,light rain,east
+2,9,30,Carrolls Quay,light rain,east
+2,10,0,Carrolls Quay,light rain,east
+2,10,30,Carrolls Quay,light rain,east
+2,11,0,Carrolls Quay,light rain,east
+2,11,30,Carrolls Quay,light rain,east
+2,12,0,Carrolls Quay,light rain,east
+2,12,30,Carrolls Quay,light rain,east
+2,13,0,Carrolls Quay,light rain,east
+2,13,30,Carrolls Quay,light rain,east
+2,14,0,Carrolls Quay,light rain,east
+2,14,30,Carrolls Quay,light rain,east
+2,15,0,Carrolls Quay,light rain,east
+2,15,30,Carrolls Quay,light rain,east
+2,16,0,Carrolls Quay,light rain,east
+2,16,30,Carrolls Quay,light rain,east
+2,17,0,Carrolls Quay,light rain,east
+2,17,30,Carrolls Quay,light rain,east
+2,18,0,Carrolls Quay,light rain,east
+2,18,30,Carrolls Quay,light rain,east
+2,19,0,Carrolls Quay,light rain,east
+2,19,30,Carrolls Quay,light rain,east
+2,20,0,Carrolls Quay,light rain,east
+2,20,30,Carrolls Quay,light rain,east
+2,21,0,Carrolls Quay,light rain,east
+2,21,30,Carrolls Quay,light rain,east
+2,22,0,Carrolls Quay,light rain,east
+2,22,30,Carrolls Quay,light rain,east
+2,23,0,Carrolls Quay,light rain,east
+2,23,30,Carrolls Quay,light rain,east
+2,0,0,City Hall - Eglington Street,light rain,east
+2,0,30,City Hall - Eglington Street,light rain,east
+2,1,0,City Hall - Eglington Street,light rain,east
+2,1,30,City Hall - Eglington Street,light rain,east
+2,2,0,City Hall - Eglington Street,light rain,east
+2,2,30,City Hall - Eglington Street,light rain,east
+2,3,0,City Hall - Eglington Street,light rain,east
+2,3,30,City Hall - Eglington Street,light rain,east
+2,4,0,City Hall - Eglington Street,light rain,east
+2,4,30,City Hall - Eglington Street,light rain,east
+2,5,0,City Hall - Eglington Street,light rain,east
+2,5,30,City Hall - Eglington Street,light rain,east
+2,6,0,City Hall - Eglington Street,light rain,east
+2,6,30,City Hall - Eglington Street,light rain,east
+2,7,0,City Hall - Eglington Street,light rain,east
+2,7,30,City Hall - Eglington Street,light rain,east
+2,8,0,City Hall - Eglington Street,light rain,east
+2,8,30,City Hall - Eglington Street,light rain,east
+2,9,0,City Hall - Eglington Street,light rain,east
+2,9,30,City Hall - Eglington Street,light rain,east
+2,10,0,City Hall - Eglington Street,light rain,east
+2,10,30,City Hall - Eglington Street,light rain,east
+2,11,0,City Hall - Eglington Street,light rain,east
+2,11,30,City Hall - Eglington Street,light rain,east
+2,12,0,City Hall - Eglington Street,light rain,east
+2,12,30,City Hall - Eglington Street,light rain,east
+2,13,0,City Hall - Eglington Street,light rain,east
+2,13,30,City Hall - Eglington Street,light rain,east
+2,14,0,City Hall - Eglington Street,light rain,east
+2,14,30,City Hall - Eglington Street,light rain,east
+2,15,0,City Hall - Eglington Street,light rain,east
+2,15,30,City Hall - Eglington Street,light rain,east
+2,16,0,City Hall - Eglington Street,light rain,east
+2,16,30,City Hall - Eglington Street,light rain,east
+2,17,0,City Hall - Eglington Street,light rain,east
+2,17,30,City Hall - Eglington Street,light rain,east
+2,18,0,City Hall - Eglington Street,light rain,east
+2,18,30,City Hall - Eglington Street,light rain,east
+2,19,0,City Hall - Eglington Street,light rain,east
+2,19,30,City Hall - Eglington Street,light rain,east
+2,20,0,City Hall - Eglington Street,light rain,east
+2,20,30,City Hall - Eglington Street,light rain,east
+2,21,0,City Hall - Eglington Street,light rain,east
+2,21,30,City Hall - Eglington Street,light rain,east
+2,22,0,City Hall - Eglington Street,light rain,east
+2,22,30,City Hall - Eglington Street,light rain,east
+2,23,0,City Hall - Eglington Street,light rain,east
+2,23,30,City Hall - Eglington Street,light rain,east
+2,0,0,Black Ash Park & Ride,light rain,east
+2,0,30,Black Ash Park & Ride,light rain,east
+2,1,0,Black Ash Park & Ride,light rain,east
+2,1,30,Black Ash Park & Ride,light rain,east
+2,2,0,Black Ash Park & Ride,light rain,east
+2,2,30,Black Ash Park & Ride,light rain,east
+2,3,0,Black Ash Park & Ride,light rain,east
+2,3,30,Black Ash Park & Ride,light rain,east
+2,4,0,Black Ash Park & Ride,light rain,east
+2,4,30,Black Ash Park & Ride,light rain,east
+2,5,0,Black Ash Park & Ride,light rain,east
+2,5,30,Black Ash Park & Ride,light rain,east
+2,6,0,Black Ash Park & Ride,light rain,east
+2,6,30,Black Ash Park & Ride,light rain,east
+2,7,0,Black Ash Park & Ride,light rain,east
+2,7,30,Black Ash Park & Ride,light rain,east
+2,8,0,Black Ash Park & Ride,light rain,east
+2,8,30,Black Ash Park & Ride,light rain,east
+2,9,0,Black Ash Park & Ride,light rain,east
+2,9,30,Black Ash Park & Ride,light rain,east
+2,10,0,Black Ash Park & Ride,light rain,east
+2,10,30,Black Ash Park & Ride,light rain,east
+2,11,0,Black Ash Park & Ride,light rain,east
+2,11,30,Black Ash Park & Ride,light rain,east
+2,12,0,Black Ash Park & Ride,light rain,east
+2,12,30,Black Ash Park & Ride,light rain,east
+2,13,0,Black Ash Park & Ride,light rain,east
+2,13,30,Black Ash Park & Ride,light rain,east
+2,14,0,Black Ash Park & Ride,light rain,east
+2,14,30,Black Ash Park & Ride,light rain,east
+2,15,0,Black Ash Park & Ride,light rain,east
+2,15,30,Black Ash Park & Ride,light rain,east
+2,16,0,Black Ash Park & Ride,light rain,east
+2,16,30,Black Ash Park & Ride,light rain,east
+2,17,0,Black Ash Park & Ride,light rain,east
+2,17,30,Black Ash Park & Ride,light rain,east
+2,18,0,Black Ash Park & Ride,light rain,east
+2,18,30,Black Ash Park & Ride,light rain,east
+2,19,0,Black Ash Park & Ride,light rain,east
+2,19,30,Black Ash Park & Ride,light rain,east
+2,20,0,Black Ash Park & Ride,light rain,east
+2,20,30,Black Ash Park & Ride,light rain,east
+2,21,0,Black Ash Park & Ride,light rain,east
+2,21,30,Black Ash Park & Ride,light rain,east
+2,22,0,Black Ash Park & Ride,light rain,east
+2,22,30,Black Ash Park & Ride,light rain,east
+2,23,0,Black Ash Park & Ride,light rain,east
+2,23,30,Black Ash Park & Ride,light rain,east
+2,0,0,North Main Street,light rain,east
+2,0,30,North Main Street,light rain,east
+2,1,0,North Main Street,light rain,east
+2,1,30,North Main Street,light rain,east
+2,2,0,North Main Street,light rain,east
+2,2,30,North Main Street,light rain,east
+2,3,0,North Main Street,light rain,east
+2,3,30,North Main Street,light rain,east
+2,4,0,North Main Street,light rain,east
+2,4,30,North Main Street,light rain,east
+2,5,0,North Main Street,light rain,east
+2,5,30,North Main Street,light rain,east
+2,6,0,North Main Street,light rain,east
+2,6,30,North Main Street,light rain,east
+2,7,0,North Main Street,light rain,east
+2,7,30,North Main Street,light rain,east
+2,8,0,North Main Street,light rain,east
+2,8,30,North Main Street,light rain,east
+2,9,0,North Main Street,light rain,east
+2,9,30,North Main Street,light rain,east
+2,10,0,North Main Street,light rain,east
+2,10,30,North Main Street,light rain,east
+2,11,0,North Main Street,light rain,east
+2,11,30,North Main Street,light rain,east
+2,12,0,North Main Street,light rain,east
+2,12,30,North Main Street,light rain,east
+2,13,0,North Main Street,light rain,east
+2,13,30,North Main Street,light rain,east
+2,14,0,North Main Street,light rain,east
+2,14,30,North Main Street,light rain,east
+2,15,0,North Main Street,light rain,east
+2,15,30,North Main Street,light rain,east
+2,16,0,North Main Street,light rain,east
+2,16,30,North Main Street,light rain,east
+2,17,0,North Main Street,light rain,east
+2,17,30,North Main Street,light rain,east
+2,18,0,North Main Street,light rain,east
+2,18,30,North Main Street,light rain,east
+2,19,0,North Main Street,light rain,east
+2,19,30,North Main Street,light rain,east
+2,20,0,North Main Street,light rain,east
+2,20,30,North Main Street,light rain,east
+2,21,0,North Main Street,light rain,east
+2,21,30,North Main Street,light rain,east
+2,22,0,North Main Street,light rain,east
+2,22,30,North Main Street,light rain,east
+2,23,0,North Main Street,light rain,east
+2,23,30,North Main Street,light rain,east
+2,0,0,Paul Street,light rain,east
+2,0,30,Paul Street,light rain,east
+2,1,0,Paul Street,light rain,east
+2,1,30,Paul Street,light rain,east
+2,2,0,Paul Street,light rain,east
+2,2,30,Paul Street,light rain,east
+2,3,0,Paul Street,light rain,east
+2,3,30,Paul Street,light rain,east
+2,4,0,Paul Street,light rain,east
+2,4,30,Paul Street,light rain,east
+2,5,0,Paul Street,light rain,east
+2,5,30,Paul Street,light rain,east
+2,6,0,Paul Street,light rain,east
+2,6,30,Paul Street,light rain,east
+2,7,0,Paul Street,light rain,east
+2,7,30,Paul Street,light rain,east
+2,8,0,Paul Street,light rain,east
+2,8,30,Paul Street,light rain,east
+2,9,0,Paul Street,light rain,east
+2,9,30,Paul Street,light rain,east
+2,10,0,Paul Street,light rain,east
+2,10,30,Paul Street,light rain,east
+2,11,0,Paul Street,light rain,east
+2,11,30,Paul Street,light rain,east
+2,12,0,Paul Street,light rain,east
+2,12,30,Paul Street,light rain,east
+2,13,0,Paul Street,light rain,east
+2,13,30,Paul Street,light rain,east
+2,14,0,Paul Street,light rain,east
+2,14,30,Paul Street,light rain,east
+2,15,0,Paul Street,light rain,east
+2,15,30,Paul Street,light rain,east
+2,16,0,Paul Street,light rain,east
+2,16,30,Paul Street,light rain,east
+2,17,0,Paul Street,light rain,east
+2,17,30,Paul Street,light rain,east
+2,18,0,Paul Street,light rain,east
+2,18,30,Paul Street,light rain,east
+2,19,0,Paul Street,light rain,east
+2,19,30,Paul Street,light rain,east
+2,20,0,Paul Street,light rain,east
+2,20,30,Paul Street,light rain,east
+2,21,0,Paul Street,light rain,east
+2,21,30,Paul Street,light rain,east
+2,22,0,Paul Street,light rain,east
+2,22,30,Paul Street,light rain,east
+2,23,0,Paul Street,light rain,east
+2,23,30,Paul Street,light rain,east
+2,0,0,Saint Finbarr's,light rain,west
+2,0,30,Saint Finbarr's,light rain,west
+2,1,0,Saint Finbarr's,light rain,west
+2,1,30,Saint Finbarr's,light rain,west
+2,2,0,Saint Finbarr's,light rain,west
+2,2,30,Saint Finbarr's,light rain,west
+2,3,0,Saint Finbarr's,light rain,west
+2,3,30,Saint Finbarr's,light rain,west
+2,4,0,Saint Finbarr's,light rain,west
+2,4,30,Saint Finbarr's,light rain,west
+2,5,0,Saint Finbarr's,light rain,west
+2,5,30,Saint Finbarr's,light rain,west
+2,6,0,Saint Finbarr's,light rain,west
+2,6,30,Saint Finbarr's,light rain,west
+2,7,0,Saint Finbarr's,light rain,west
+2,7,30,Saint Finbarr's,light rain,west
+2,8,0,Saint Finbarr's,light rain,west
+2,8,30,Saint Finbarr's,light rain,west
+2,9,0,Saint Finbarr's,light rain,west
+2,9,30,Saint Finbarr's,light rain,west
+2,10,0,Saint Finbarr's,light rain,west
+2,10,30,Saint Finbarr's,light rain,west
+2,11,0,Saint Finbarr's,light rain,west
+2,11,30,Saint Finbarr's,light rain,west
+2,12,0,Saint Finbarr's,light rain,west
+2,12,30,Saint Finbarr's,light rain,west
+2,13,0,Saint Finbarr's,light rain,west
+2,13,30,Saint Finbarr's,light rain,west
+2,14,0,Saint Finbarr's,light rain,west
+2,14,30,Saint Finbarr's,light rain,west
+2,15,0,Saint Finbarr's,light rain,west
+2,15,30,Saint Finbarr's,light rain,west
+2,16,0,Saint Finbarr's,light rain,west
+2,16,30,Saint Finbarr's,light rain,west
+2,17,0,Saint Finbarr's,light rain,west
+2,17,30,Saint Finbarr's,light rain,west
+2,18,0,Saint Finbarr's,light rain,west
+2,18,30,Saint Finbarr's,light rain,west
+2,19,0,Saint Finbarr's,light rain,west
+2,19,30,Saint Finbarr's,light rain,west
+2,20,0,Saint Finbarr's,light rain,west
+2,20,30,Saint Finbarr's,light rain,west
+2,21,0,Saint Finbarr's,light rain,west
+2,21,30,Saint Finbarr's,light rain,west
+2,22,0,Saint Finbarr's,light rain,west
+2,22,30,Saint Finbarr's,light rain,west
+2,23,0,Saint Finbarr's,light rain,west
+2,23,30,Saint Finbarr's,light rain,west
+2,0,0,Merchants Quay,light rain,west
+2,0,30,Merchants Quay,light rain,west
+2,1,0,Merchants Quay,light rain,west
+2,1,30,Merchants Quay,light rain,west
+2,2,0,Merchants Quay,light rain,west
+2,2,30,Merchants Quay,light rain,west
+2,3,0,Merchants Quay,light rain,west
+2,3,30,Merchants Quay,light rain,west
+2,4,0,Merchants Quay,light rain,west
+2,4,30,Merchants Quay,light rain,west
+2,5,0,Merchants Quay,light rain,west
+2,5,30,Merchants Quay,light rain,west
+2,6,0,Merchants Quay,light rain,west
+2,6,30,Merchants Quay,light rain,west
+2,7,0,Merchants Quay,light rain,west
+2,7,30,Merchants Quay,light rain,west
+2,8,0,Merchants Quay,light rain,west
+2,8,30,Merchants Quay,light rain,west
+2,9,0,Merchants Quay,light rain,west
+2,9,30,Merchants Quay,light rain,west
+2,10,0,Merchants Quay,light rain,west
+2,10,30,Merchants Quay,light rain,west
+2,11,0,Merchants Quay,light rain,west
+2,11,30,Merchants Quay,light rain,west
+2,12,0,Merchants Quay,light rain,west
+2,12,30,Merchants Quay,light rain,west
+2,13,0,Merchants Quay,light rain,west
+2,13,30,Merchants Quay,light rain,west
+2,14,0,Merchants Quay,light rain,west
+2,14,30,Merchants Quay,light rain,west
+2,15,0,Merchants Quay,light rain,west
+2,15,30,Merchants Quay,light rain,west
+2,16,0,Merchants Quay,light rain,west
+2,16,30,Merchants Quay,light rain,west
+2,17,0,Merchants Quay,light rain,west
+2,17,30,Merchants Quay,light rain,west
+2,18,0,Merchants Quay,light rain,west
+2,18,30,Merchants Quay,light rain,west
+2,19,0,Merchants Quay,light rain,west
+2,19,30,Merchants Quay,light rain,west
+2,20,0,Merchants Quay,light rain,west
+2,20,30,Merchants Quay,light rain,west
+2,21,0,Merchants Quay,light rain,west
+2,21,30,Merchants Quay,light rain,west
+2,22,0,Merchants Quay,light rain,west
+2,22,30,Merchants Quay,light rain,west
+2,23,0,Merchants Quay,light rain,west
+2,23,30,Merchants Quay,light rain,west
+2,0,0,Grand Parade,light rain,west
+2,0,30,Grand Parade,light rain,west
+2,1,0,Grand Parade,light rain,west
+2,1,30,Grand Parade,light rain,west
+2,2,0,Grand Parade,light rain,west
+2,2,30,Grand Parade,light rain,west
+2,3,0,Grand Parade,light rain,west
+2,3,30,Grand Parade,light rain,west
+2,4,0,Grand Parade,light rain,west
+2,4,30,Grand Parade,light rain,west
+2,5,0,Grand Parade,light rain,west
+2,5,30,Grand Parade,light rain,west
+2,6,0,Grand Parade,light rain,west
+2,6,30,Grand Parade,light rain,west
+2,7,0,Grand Parade,light rain,west
+2,7,30,Grand Parade,light rain,west
+2,8,0,Grand Parade,light rain,west
+2,8,30,Grand Parade,light rain,west
+2,9,0,Grand Parade,light rain,west
+2,9,30,Grand Parade,light rain,west
+2,10,0,Grand Parade,light rain,west
+2,10,30,Grand Parade,light rain,west
+2,11,0,Grand Parade,light rain,west
+2,11,30,Grand Parade,light rain,west
+2,12,0,Grand Parade,light rain,west
+2,12,30,Grand Parade,light rain,west
+2,13,0,Grand Parade,light rain,west
+2,13,30,Grand Parade,light rain,west
+2,14,0,Grand Parade,light rain,west
+2,14,30,Grand Parade,light rain,west
+2,15,0,Grand Parade,light rain,west
+2,15,30,Grand Parade,light rain,west
+2,16,0,Grand Parade,light rain,west
+2,16,30,Grand Parade,light rain,west
+2,17,0,Grand Parade,light rain,west
+2,17,30,Grand Parade,light rain,west
+2,18,0,Grand Parade,light rain,west
+2,18,30,Grand Parade,light rain,west
+2,19,0,Grand Parade,light rain,west
+2,19,30,Grand Parade,light rain,west
+2,20,0,Grand Parade,light rain,west
+2,20,30,Grand Parade,light rain,west
+2,21,0,Grand Parade,light rain,west
+2,21,30,Grand Parade,light rain,west
+2,22,0,Grand Parade,light rain,west
+2,22,30,Grand Parade,light rain,west
+2,23,0,Grand Parade,light rain,west
+2,23,30,Grand Parade,light rain,west
+2,0,0,Carrolls Quay,light rain,west
+2,0,30,Carrolls Quay,light rain,west
+2,1,0,Carrolls Quay,light rain,west
+2,1,30,Carrolls Quay,light rain,west
+2,2,0,Carrolls Quay,light rain,west
+2,2,30,Carrolls Quay,light rain,west
+2,3,0,Carrolls Quay,light rain,west
+2,3,30,Carrolls Quay,light rain,west
+2,4,0,Carrolls Quay,light rain,west
+2,4,30,Carrolls Quay,light rain,west
+2,5,0,Carrolls Quay,light rain,west
+2,5,30,Carrolls Quay,light rain,west
+2,6,0,Carrolls Quay,light rain,west
+2,6,30,Carrolls Quay,light rain,west
+2,7,0,Carrolls Quay,light rain,west
+2,7,30,Carrolls Quay,light rain,west
+2,8,0,Carrolls Quay,light rain,west
+2,8,30,Carrolls Quay,light rain,west
+2,9,0,Carrolls Quay,light rain,west
+2,9,30,Carrolls Quay,light rain,west
+2,10,0,Carrolls Quay,light rain,west
+2,10,30,Carrolls Quay,light rain,west
+2,11,0,Carrolls Quay,light rain,west
+2,11,30,Carrolls Quay,light rain,west
+2,12,0,Carrolls Quay,light rain,west
+2,12,30,Carrolls Quay,light rain,west
+2,13,0,Carrolls Quay,light rain,west
+2,13,30,Carrolls Quay,light rain,west
+2,14,0,Carrolls Quay,light rain,west
+2,14,30,Carrolls Quay,light rain,west
+2,15,0,Carrolls Quay,light rain,west
+2,15,30,Carrolls Quay,light rain,west
+2,16,0,Carrolls Quay,light rain,west
+2,16,30,Carrolls Quay,light rain,west
+2,17,0,Carrolls Quay,light rain,west
+2,17,30,Carrolls Quay,light rain,west
+2,18,0,Carrolls Quay,light rain,west
+2,18,30,Carrolls Quay,light rain,west
+2,19,0,Carrolls Quay,light rain,west
+2,19,30,Carrolls Quay,light rain,west
+2,20,0,Carrolls Quay,light rain,west
+2,20,30,Carrolls Quay,light rain,west
+2,21,0,Carrolls Quay,light rain,west
+2,21,30,Carrolls Quay,light rain,west
+2,22,0,Carrolls Quay,light rain,west
+2,22,30,Carrolls Quay,light rain,west
+2,23,0,Carrolls Quay,light rain,west
+2,23,30,Carrolls Quay,light rain,west
+2,0,0,City Hall - Eglington Street,light rain,west
+2,0,30,City Hall - Eglington Street,light rain,west
+2,1,0,City Hall - Eglington Street,light rain,west
+2,1,30,City Hall - Eglington Street,light rain,west
+2,2,0,City Hall - Eglington Street,light rain,west
+2,2,30,City Hall - Eglington Street,light rain,west
+2,3,0,City Hall - Eglington Street,light rain,west
+2,3,30,City Hall - Eglington Street,light rain,west
+2,4,0,City Hall - Eglington Street,light rain,west
+2,4,30,City Hall - Eglington Street,light rain,west
+2,5,0,City Hall - Eglington Street,light rain,west
+2,5,30,City Hall - Eglington Street,light rain,west
+2,6,0,City Hall - Eglington Street,light rain,west
+2,6,30,City Hall - Eglington Street,light rain,west
+2,7,0,City Hall - Eglington Street,light rain,west
+2,7,30,City Hall - Eglington Street,light rain,west
+2,8,0,City Hall - Eglington Street,light rain,west
+2,8,30,City Hall - Eglington Street,light rain,west
+2,9,0,City Hall - Eglington Street,light rain,west
+2,9,30,City Hall - Eglington Street,light rain,west
+2,10,0,City Hall - Eglington Street,light rain,west
+2,10,30,City Hall - Eglington Street,light rain,west
+2,11,0,City Hall - Eglington Street,light rain,west
+2,11,30,City Hall - Eglington Street,light rain,west
+2,12,0,City Hall - Eglington Street,light rain,west
+2,12,30,City Hall - Eglington Street,light rain,west
+2,13,0,City Hall - Eglington Street,light rain,west
+2,13,30,City Hall - Eglington Street,light rain,west
+2,14,0,City Hall - Eglington Street,light rain,west
+2,14,30,City Hall - Eglington Street,light rain,west
+2,15,0,City Hall - Eglington Street,light rain,west
+2,15,30,City Hall - Eglington Street,light rain,west
+2,16,0,City Hall - Eglington Street,light rain,west
+2,16,30,City Hall - Eglington Street,light rain,west
+2,17,0,City Hall - Eglington Street,light rain,west
+2,17,30,City Hall - Eglington Street,light rain,west
+2,18,0,City Hall - Eglington Street,light rain,west
+2,18,30,City Hall - Eglington Street,light rain,west
+2,19,0,City Hall - Eglington Street,light rain,west
+2,19,30,City Hall - Eglington Street,light rain,west
+2,20,0,City Hall - Eglington Street,light rain,west
+2,20,30,City Hall - Eglington Street,light rain,west
+2,21,0,City Hall - Eglington Street,light rain,west
+2,21,30,City Hall - Eglington Street,light rain,west
+2,22,0,City Hall - Eglington Street,light rain,west
+2,22,30,City Hall - Eglington Street,light rain,west
+2,23,0,City Hall - Eglington Street,light rain,west
+2,23,30,City Hall - Eglington Street,light rain,west
+2,0,0,Black Ash Park & Ride,light rain,west
+2,0,30,Black Ash Park & Ride,light rain,west
+2,1,0,Black Ash Park & Ride,light rain,west
+2,1,30,Black Ash Park & Ride,light rain,west
+2,2,0,Black Ash Park & Ride,light rain,west
+2,2,30,Black Ash Park & Ride,light rain,west
+2,3,0,Black Ash Park & Ride,light rain,west
+2,3,30,Black Ash Park & Ride,light rain,west
+2,4,0,Black Ash Park & Ride,light rain,west
+2,4,30,Black Ash Park & Ride,light rain,west
+2,5,0,Black Ash Park & Ride,light rain,west
+2,5,30,Black Ash Park & Ride,light rain,west
+2,6,0,Black Ash Park & Ride,light rain,west
+2,6,30,Black Ash Park & Ride,light rain,west
+2,7,0,Black Ash Park & Ride,light rain,west
+2,7,30,Black Ash Park & Ride,light rain,west
+2,8,0,Black Ash Park & Ride,light rain,west
+2,8,30,Black Ash Park & Ride,light rain,west
+2,9,0,Black Ash Park & Ride,light rain,west
+2,9,30,Black Ash Park & Ride,light rain,west
+2,10,0,Black Ash Park & Ride,light rain,west
+2,10,30,Black Ash Park & Ride,light rain,west
+2,11,0,Black Ash Park & Ride,light rain,west
+2,11,30,Black Ash Park & Ride,light rain,west
+2,12,0,Black Ash Park & Ride,light rain,west
+2,12,30,Black Ash Park & Ride,light rain,west
+2,13,0,Black Ash Park & Ride,light rain,west
+2,13,30,Black Ash Park & Ride,light rain,west
+2,14,0,Black Ash Park & Ride,light rain,west
+2,14,30,Black Ash Park & Ride,light rain,west
+2,15,0,Black Ash Park & Ride,light rain,west
+2,15,30,Black Ash Park & Ride,light rain,west
+2,16,0,Black Ash Park & Ride,light rain,west
+2,16,30,Black Ash Park & Ride,light rain,west
+2,17,0,Black Ash Park & Ride,light rain,west
+2,17,30,Black Ash Park & Ride,light rain,west
+2,18,0,Black Ash Park & Ride,light rain,west
+2,18,30,Black Ash Park & Ride,light rain,west
+2,19,0,Black Ash Park & Ride,light rain,west
+2,19,30,Black Ash Park & Ride,light rain,west
+2,20,0,Black Ash Park & Ride,light rain,west
+2,20,30,Black Ash Park & Ride,light rain,west
+2,21,0,Black Ash Park & Ride,light rain,west
+2,21,30,Black Ash Park & Ride,light rain,west
+2,22,0,Black Ash Park & Ride,light rain,west
+2,22,30,Black Ash Park & Ride,light rain,west
+2,23,0,Black Ash Park & Ride,light rain,west
+2,23,30,Black Ash Park & Ride,light rain,west
+2,0,0,North Main Street,light rain,west
+2,0,30,North Main Street,light rain,west
+2,1,0,North Main Street,light rain,west
+2,1,30,North Main Street,light rain,west
+2,2,0,North Main Street,light rain,west
+2,2,30,North Main Street,light rain,west
+2,3,0,North Main Street,light rain,west
+2,3,30,North Main Street,light rain,west
+2,4,0,North Main Street,light rain,west
+2,4,30,North Main Street,light rain,west
+2,5,0,North Main Street,light rain,west
+2,5,30,North Main Street,light rain,west
+2,6,0,North Main Street,light rain,west
+2,6,30,North Main Street,light rain,west
+2,7,0,North Main Street,light rain,west
+2,7,30,North Main Street,light rain,west
+2,8,0,North Main Street,light rain,west
+2,8,30,North Main Street,light rain,west
+2,9,0,North Main Street,light rain,west
+2,9,30,North Main Street,light rain,west
+2,10,0,North Main Street,light rain,west
+2,10,30,North Main Street,light rain,west
+2,11,0,North Main Street,light rain,west
+2,11,30,North Main Street,light rain,west
+2,12,0,North Main Street,light rain,west
+2,12,30,North Main Street,light rain,west
+2,13,0,North Main Street,light rain,west
+2,13,30,North Main Street,light rain,west
+2,14,0,North Main Street,light rain,west
+2,14,30,North Main Street,light rain,west
+2,15,0,North Main Street,light rain,west
+2,15,30,North Main Street,light rain,west
+2,16,0,North Main Street,light rain,west
+2,16,30,North Main Street,light rain,west
+2,17,0,North Main Street,light rain,west
+2,17,30,North Main Street,light rain,west
+2,18,0,North Main Street,light rain,west
+2,18,30,North Main Street,light rain,west
+2,19,0,North Main Street,light rain,west
+2,19,30,North Main Street,light rain,west
+2,20,0,North Main Street,light rain,west
+2,20,30,North Main Street,light rain,west
+2,21,0,North Main Street,light rain,west
+2,21,30,North Main Street,light rain,west
+2,22,0,North Main Street,light rain,west
+2,22,30,North Main Street,light rain,west
+2,23,0,North Main Street,light rain,west
+2,23,30,North Main Street,light rain,west
+2,0,0,Paul Street,light rain,west
+2,0,30,Paul Street,light rain,west
+2,1,0,Paul Street,light rain,west
+2,1,30,Paul Street,light rain,west
+2,2,0,Paul Street,light rain,west
+2,2,30,Paul Street,light rain,west
+2,3,0,Paul Street,light rain,west
+2,3,30,Paul Street,light rain,west
+2,4,0,Paul Street,light rain,west
+2,4,30,Paul Street,light rain,west
+2,5,0,Paul Street,light rain,west
+2,5,30,Paul Street,light rain,west
+2,6,0,Paul Street,light rain,west
+2,6,30,Paul Street,light rain,west
+2,7,0,Paul Street,light rain,west
+2,7,30,Paul Street,light rain,west
+2,8,0,Paul Street,light rain,west
+2,8,30,Paul Street,light rain,west
+2,9,0,Paul Street,light rain,west
+2,9,30,Paul Street,light rain,west
+2,10,0,Paul Street,light rain,west
+2,10,30,Paul Street,light rain,west
+2,11,0,Paul Street,light rain,west
+2,11,30,Paul Street,light rain,west
+2,12,0,Paul Street,light rain,west
+2,12,30,Paul Street,light rain,west
+2,13,0,Paul Street,light rain,west
+2,13,30,Paul Street,light rain,west
+2,14,0,Paul Street,light rain,west
+2,14,30,Paul Street,light rain,west
+2,15,0,Paul Street,light rain,west
+2,15,30,Paul Street,light rain,west
+2,16,0,Paul Street,light rain,west
+2,16,30,Paul Street,light rain,west
+2,17,0,Paul Street,light rain,west
+2,17,30,Paul Street,light rain,west
+2,18,0,Paul Street,light rain,west
+2,18,30,Paul Street,light rain,west
+2,19,0,Paul Street,light rain,west
+2,19,30,Paul Street,light rain,west
+2,20,0,Paul Street,light rain,west
+2,20,30,Paul Street,light rain,west
+2,21,0,Paul Street,light rain,west
+2,21,30,Paul Street,light rain,west
+2,22,0,Paul Street,light rain,west
+2,22,30,Paul Street,light rain,west
+2,23,0,Paul Street,light rain,west
+2,23,30,Paul Street,light rain,west
