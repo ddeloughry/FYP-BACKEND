@@ -7,6 +7,7 @@ import dan.fypbackend.model.TrafficStat;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.net.URL;
 import java.util.*;
 
 
@@ -45,11 +46,16 @@ public class AddTrafficStats extends TimerTask {
         urlStringNorth.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
         urlStringWest.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
         urlStringSouth.append("&traffic_model=pessimistic&departure_time=now&key=%20AIzaSyCzNHDdvhriV2eQ0I6gN1G7n_Vuu0chKdw");
-        JSONObject jsonTrafficEast = RetrieveJsonObject.get(urlStringEast.toString());
-        JSONObject jsonTrafficWest = RetrieveJsonObject.get(urlStringWest.toString());
-        JSONObject jsonTrafficSouth = RetrieveJsonObject.get(urlStringSouth.toString());
-        JSONObject jsonTrafficNorth = RetrieveJsonObject.get(urlStringNorth.toString());
-        JSONObject jsonWeather = RetrieveJsonObject.get("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570");
+        JSONObject jsonTrafficEast = null, jsonTrafficWest = null, jsonTrafficSouth = null, jsonTrafficNorth = null, jsonWeather = null;
+        try {
+            jsonTrafficEast = RetrieveJsonObject.get(new URL(urlStringEast.toString()));
+            jsonTrafficWest = RetrieveJsonObject.get(new URL(urlStringWest.toString()));
+            jsonTrafficSouth = RetrieveJsonObject.get(new URL(urlStringSouth.toString()));
+            jsonTrafficNorth = RetrieveJsonObject.get(new URL(urlStringNorth.toString()));
+            jsonWeather = RetrieveJsonObject.get(new URL("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570"));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         HashMap<String, JSONArray> jsonTraffics = new HashMap<>();
         try {
             jsonTraffics.put("east", (Objects.requireNonNull(jsonTrafficEast).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
@@ -71,7 +77,7 @@ public class AddTrafficStats extends TimerTask {
                 }
             }
         } catch (Exception e) {
-            System.out.print(e.toString());
+            e.printStackTrace();
         }
     }
 

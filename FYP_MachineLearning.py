@@ -1,3 +1,5 @@
+import json
+
 import pandas
 from sklearn.neighbors import KNeighborsClassifier
 
@@ -55,7 +57,13 @@ def my_main():
     weathers = dict((v, k) for k, v in weathers.items())
     dirs = dict((v, k) for k, v in dirs.items())
     encode_columns(test)
-    test.to_csv("machine_learning/result.csv", index=False, header=True)
+    # test.to_csv("machine_learning/result.csv", index=False, header=True)
+
+    parsejs = json.loads(test.to_json(orient="records"))
+    # print(json.dumps(parsejs, indent=4, sort_keys=True))
+    f = open("machine_learning/result.json", "w")
+    #f.write(json.dumps(parsejs, indent=4, sort_keys=True))
+    f.write(str(json.dumps(parsejs)))
 
 
 if __name__ == '__main__':

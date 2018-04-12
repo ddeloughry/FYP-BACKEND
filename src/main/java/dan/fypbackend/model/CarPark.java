@@ -32,6 +32,15 @@ public class CarPark {
     public void setName(String name) {
         this.name = name;
     }
+
+    @Override
+    public String toString() {
+        return "CarPark{" +
+                "latitude=" + latitude +
+                ", longitude=" + longitude +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
 
 

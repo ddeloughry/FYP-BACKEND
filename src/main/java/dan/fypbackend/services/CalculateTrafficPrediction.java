@@ -7,6 +7,8 @@ import org.json.JSONObject;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Objects;
@@ -26,15 +28,12 @@ public class CalculateTrafficPrediction extends TimerTask {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 updateTrainCsv(dataSnapshot);
-                updateTodayCsv();
-                String cmd = "python FYP_MachineLearning.py";
-                Process exec;
                 try {
-                    exec = Runtime.getRuntime().exec(cmd);
-                    System.out.print(exec.getErrorStream());
-                } catch (IOException e) {
+                    updateTodayCsv();
+                } catch (MalformedURLException e) {
                     e.printStackTrace();
                 }
+                doMlAndExportJson();
             }
 
             @Override
@@ -44,8 +43,17 @@ public class CalculateTrafficPrediction extends TimerTask {
         });
     }
 
-    private boolean updateTodayCsv() {
-        JSONObject jsonWeather = RetrieveJsonObject.get("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570");
+    private void doMlAndExportJson() {
+        String cmd = "python FYP_MachineLearning.py";
+        try {
+            Runtime.getRuntime().exec(cmd);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void updateTodayCsv() throws MalformedURLException {
+        JSONObject jsonWeather = RetrieveJsonObject.get(new URL("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570"));
         String weatherString = ((Objects.requireNonNull(jsonWeather).getJSONArray("weather")).getJSONObject(0)).getString("description");
 
         ArrayList<String> directions = new ArrayList<>();
@@ -70,7 +78,7 @@ public class CalculateTrafficPrediction extends TimerTask {
             fileWriter.write("day,hour,minute,car_park_name,weather,direction\n");
         } catch (IOException e) {
             e.printStackTrace();
-            return false;
+            return;
         }
 
         for (String direction : directions) {
@@ -88,7 +96,7 @@ public class CalculateTrafficPrediction extends TimerTask {
                             Objects.requireNonNull(fileWriter).write(String.valueOf(output));
                         } catch (IOException e) {
                             e.printStackTrace();
-                            return false;
+                            return;
                         }
                     }
                 }
@@ -98,12 +106,10 @@ public class CalculateTrafficPrediction extends TimerTask {
             Objects.requireNonNull(fileWriter).close();
         } catch (IOException e) {
             e.printStackTrace();
-            return false;
         }
-        return true;
     }
 
-    private boolean updateTrainCsv(DataSnapshot dataSnapshot) {
+    private void updateTrainCsv(DataSnapshot dataSnapshot) {
         String fileName = "machine_learning/data.csv";
         File file = new File(fileName);
         FileWriter fileWriter;
@@ -112,7 +118,7 @@ public class CalculateTrafficPrediction extends TimerTask {
             fileWriter.write("day,hour,minute,car_park_name,time,weather,direction\n");
         } catch (IOException e) {
             e.printStackTrace();
-            return false;
+            return;
         }
         for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
             StringBuilder output = new StringBuilder();
@@ -130,15 +136,13 @@ public class CalculateTrafficPrediction extends TimerTask {
                 fileWriter.write(String.valueOf(output));
             } catch (IOException e) {
                 e.printStackTrace();
-                return false;
+                return;
             }
         }
         try {
             fileWriter.close();
         } catch (IOException e) {
             e.printStackTrace();
-            return false;
         }
-        return true;
     }
 }
