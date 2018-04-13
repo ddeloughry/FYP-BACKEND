@@ -6,7 +6,7 @@
     <groupId>dan</groupId>
     <artifactId>fypbackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>fypbackend</name>
     <description>FYP backend</description>

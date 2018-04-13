@@ -34,7 +34,8 @@ public class CarPark {
     }
 
     @Override
-    public String toString() {
+    public String
+    toString() {
         return "CarPark{" +
                 "latitude=" + latitude +
                 ", longitude=" + longitude +

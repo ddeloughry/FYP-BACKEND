@@ -1,24 +1,30 @@
 
 package dan.fypbackend.services;
 
+import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import dan.fypbackend.model.CarPark;
 import dan.fypbackend.model.TrafficStat;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.net.URL;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.TimerTask;
 
 
 public class AddTrafficStats extends TimerTask {
     private final ArrayList<CarPark> carParksList;
+    private final DatabaseReference trafficDb = ((FirebaseDatabase.getInstance()).getReference("traffic"));
 
     public AddTrafficStats(ArrayList<CarPark> carParksList) {
         this.carParksList = carParksList;
     }
 
-    @Deprecated
+
     @Override
     public void run() {
         String[] carParkNames = new String[carParksList.size()];
@@ -58,22 +64,28 @@ public class AddTrafficStats extends TimerTask {
         }
         HashMap<String, JSONArray> jsonTraffics = new HashMap<>();
         try {
-            jsonTraffics.put("east", (Objects.requireNonNull(jsonTrafficEast).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
-            jsonTraffics.put("west", (Objects.requireNonNull(jsonTrafficWest).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
-            jsonTraffics.put("south", (Objects.requireNonNull(jsonTrafficSouth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
-            jsonTraffics.put("north", (Objects.requireNonNull(jsonTrafficNorth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
-            String weatherString = ((Objects.requireNonNull(jsonWeather).getJSONArray("weather")).getJSONObject(0)).getString("description");
-            int count = 0;
-            for (HashMap.Entry<String, JSONArray> entry : jsonTraffics.entrySet()) {
-                for (int index = 0; index < carParkNames.length; index++) {
-                    TrafficStat trafficStat = new TrafficStat();
-                    trafficStat.setDirection(entry.getKey());
-                    trafficStat.setDelay(getDelay(index, entry.getValue()));
-                    trafficStat.setDate(System.currentTimeMillis());
-                    trafficStat.setCarParkName(carParkNames[index]);
-                    trafficStat.setWeather(weatherString);
-                    ((FirebaseDatabase.getInstance()).getReference("traffic")).child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count)).setValue(trafficStat);
-                    count += 1;
+            if (jsonTrafficEast != null && jsonTrafficWest != null && jsonTrafficSouth != null && jsonTrafficNorth != null && jsonWeather != null) {
+                jsonTraffics.put("east", ((jsonTrafficEast).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
+                jsonTraffics.put("west", ((jsonTrafficWest).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
+                jsonTraffics.put("south", ((jsonTrafficSouth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
+                jsonTraffics.put("north", ((jsonTrafficNorth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
+                String weatherString = (((jsonWeather).getJSONArray("weather")).getJSONObject(0)).getString("description");
+                int count = 0;
+                for (HashMap.Entry<String, JSONArray> entry : jsonTraffics.entrySet()) {
+                    for (int index = 0; index < carParkNames.length; index++) {
+                        TrafficStat trafficStat = new TrafficStat();
+                        trafficStat.setDirection(entry.getKey());
+                        trafficStat.setDelay(getDelay(index, entry.getValue()));
+                        trafficStat.setDate(System.currentTimeMillis());
+                        trafficStat.setCarParkName(carParkNames[index]);
+                        trafficStat.setWeather(weatherString);
+                        try {
+                            trafficDb.child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count)).setValue(trafficStat, (error, ref) -> System.out.println("Value was set. Error = " + error));
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
+                        count += 1;
+                    }
                 }
             }
         } catch (Exception e) {
@@ -81,7 +93,9 @@ public class AddTrafficStats extends TimerTask {
         }
     }
 
-    private double getDelay(int index, JSONArray traffic) {
+    private double getDelay(int index, JSONArray traffic) throws JSONException {
         return traffic.getJSONObject(index).getJSONObject("duration_in_traffic").getDouble("value");
     }
+
+
 }

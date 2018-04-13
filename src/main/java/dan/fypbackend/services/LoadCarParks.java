@@ -9,12 +9,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class LoadCarParks {
-    public static ArrayList<CarPark> get(URL url) throws IOException {
-        if (RetrieveJsonObject.get(url) != null) {
-            return CarParkJSONParser.get(Objects.requireNonNull(RetrieveJsonObject.get(url)));
+    public static ArrayList<CarPark> get(URL url) {
+        JSONObject s = RetrieveJsonObject.get(url);
+        if (s != null) {
+            return CarParkJSONParser.get(s);
         } else {
             JSONObject jsonObject = null;
             try {
@@ -31,8 +31,11 @@ public class LoadCarParks {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            return CarParkJSONParser.get(Objects.requireNonNull(jsonObject));
+            if (jsonObject != null) {
+                return CarParkJSONParser.get(jsonObject);
+            }
         }
+        return null;
     }
 }
 
