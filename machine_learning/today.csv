@@ -1,1537 +1,1537 @@
 day,hour,minute,car_park_name,weather,direction
-6,0,0,Saint Finbarr's,mist,north
-6,0,30,Saint Finbarr's,mist,north
-6,1,0,Saint Finbarr's,mist,north
-6,1,30,Saint Finbarr's,mist,north
-6,2,0,Saint Finbarr's,mist,north
-6,2,30,Saint Finbarr's,mist,north
-6,3,0,Saint Finbarr's,mist,north
-6,3,30,Saint Finbarr's,mist,north
-6,4,0,Saint Finbarr's,mist,north
-6,4,30,Saint Finbarr's,mist,north
-6,5,0,Saint Finbarr's,mist,north
-6,5,30,Saint Finbarr's,mist,north
-6,6,0,Saint Finbarr's,mist,north
-6,6,30,Saint Finbarr's,mist,north
-6,7,0,Saint Finbarr's,mist,north
-6,7,30,Saint Finbarr's,mist,north
-6,8,0,Saint Finbarr's,mist,north
-6,8,30,Saint Finbarr's,mist,north
-6,9,0,Saint Finbarr's,mist,north
-6,9,30,Saint Finbarr's,mist,north
-6,10,0,Saint Finbarr's,mist,north
-6,10,30,Saint Finbarr's,mist,north
-6,11,0,Saint Finbarr's,mist,north
-6,11,30,Saint Finbarr's,mist,north
-6,12,0,Saint Finbarr's,mist,north
-6,12,30,Saint Finbarr's,mist,north
-6,13,0,Saint Finbarr's,mist,north
-6,13,30,Saint Finbarr's,mist,north
-6,14,0,Saint Finbarr's,mist,north
-6,14,30,Saint Finbarr's,mist,north
-6,15,0,Saint Finbarr's,mist,north
-6,15,30,Saint Finbarr's,mist,north
-6,16,0,Saint Finbarr's,mist,north
-6,16,30,Saint Finbarr's,mist,north
-6,17,0,Saint Finbarr's,mist,north
-6,17,30,Saint Finbarr's,mist,north
-6,18,0,Saint Finbarr's,mist,north
-6,18,30,Saint Finbarr's,mist,north
-6,19,0,Saint Finbarr's,mist,north
-6,19,30,Saint Finbarr's,mist,north
-6,20,0,Saint Finbarr's,mist,north
-6,20,30,Saint Finbarr's,mist,north
-6,21,0,Saint Finbarr's,mist,north
-6,21,30,Saint Finbarr's,mist,north
-6,22,0,Saint Finbarr's,mist,north
-6,22,30,Saint Finbarr's,mist,north
-6,23,0,Saint Finbarr's,mist,north
-6,23,30,Saint Finbarr's,mist,north
-6,0,0,Merchants Quay,mist,north
-6,0,30,Merchants Quay,mist,north
-6,1,0,Merchants Quay,mist,north
-6,1,30,Merchants Quay,mist,north
-6,2,0,Merchants Quay,mist,north
-6,2,30,Merchants Quay,mist,north
-6,3,0,Merchants Quay,mist,north
-6,3,30,Merchants Quay,mist,north
-6,4,0,Merchants Quay,mist,north
-6,4,30,Merchants Quay,mist,north
-6,5,0,Merchants Quay,mist,north
-6,5,30,Merchants Quay,mist,north
-6,6,0,Merchants Quay,mist,north
-6,6,30,Merchants Quay,mist,north
-6,7,0,Merchants Quay,mist,north
-6,7,30,Merchants Quay,mist,north
-6,8,0,Merchants Quay,mist,north
-6,8,30,Merchants Quay,mist,north
-6,9,0,Merchants Quay,mist,north
-6,9,30,Merchants Quay,mist,north
-6,10,0,Merchants Quay,mist,north
-6,10,30,Merchants Quay,mist,north
-6,11,0,Merchants Quay,mist,north
-6,11,30,Merchants Quay,mist,north
-6,12,0,Merchants Quay,mist,north
-6,12,30,Merchants Quay,mist,north
-6,13,0,Merchants Quay,mist,north
-6,13,30,Merchants Quay,mist,north
-6,14,0,Merchants Quay,mist,north
-6,14,30,Merchants Quay,mist,north
-6,15,0,Merchants Quay,mist,north
-6,15,30,Merchants Quay,mist,north
-6,16,0,Merchants Quay,mist,north
-6,16,30,Merchants Quay,mist,north
-6,17,0,Merchants Quay,mist,north
-6,17,30,Merchants Quay,mist,north
-6,18,0,Merchants Quay,mist,north
-6,18,30,Merchants Quay,mist,north
-6,19,0,Merchants Quay,mist,north
-6,19,30,Merchants Quay,mist,north
-6,20,0,Merchants Quay,mist,north
-6,20,30,Merchants Quay,mist,north
-6,21,0,Merchants Quay,mist,north
-6,21,30,Merchants Quay,mist,north
-6,22,0,Merchants Quay,mist,north
-6,22,30,Merchants Quay,mist,north
-6,23,0,Merchants Quay,mist,north
-6,23,30,Merchants Quay,mist,north
-6,0,0,Grand Parade,mist,north
-6,0,30,Grand Parade,mist,north
-6,1,0,Grand Parade,mist,north
-6,1,30,Grand Parade,mist,north
-6,2,0,Grand Parade,mist,north
-6,2,30,Grand Parade,mist,north
-6,3,0,Grand Parade,mist,north
-6,3,30,Grand Parade,mist,north
-6,4,0,Grand Parade,mist,north
-6,4,30,Grand Parade,mist,north
-6,5,0,Grand Parade,mist,north
-6,5,30,Grand Parade,mist,north
-6,6,0,Grand Parade,mist,north
-6,6,30,Grand Parade,mist,north
-6,7,0,Grand Parade,mist,north
-6,7,30,Grand Parade,mist,north
-6,8,0,Grand Parade,mist,north
-6,8,30,Grand Parade,mist,north
-6,9,0,Grand Parade,mist,north
-6,9,30,Grand Parade,mist,north
-6,10,0,Grand Parade,mist,north
-6,10,30,Grand Parade,mist,north
-6,11,0,Grand Parade,mist,north
-6,11,30,Grand Parade,mist,north
-6,12,0,Grand Parade,mist,north
-6,12,30,Grand Parade,mist,north
-6,13,0,Grand Parade,mist,north
-6,13,30,Grand Parade,mist,north
-6,14,0,Grand Parade,mist,north
-6,14,30,Grand Parade,mist,north
-6,15,0,Grand Parade,mist,north
-6,15,30,Grand Parade,mist,north
-6,16,0,Grand Parade,mist,north
-6,16,30,Grand Parade,mist,north
-6,17,0,Grand Parade,mist,north
-6,17,30,Grand Parade,mist,north
-6,18,0,Grand Parade,mist,north
-6,18,30,Grand Parade,mist,north
-6,19,0,Grand Parade,mist,north
-6,19,30,Grand Parade,mist,north
-6,20,0,Grand Parade,mist,north
-6,20,30,Grand Parade,mist,north
-6,21,0,Grand Parade,mist,north
-6,21,30,Grand Parade,mist,north
-6,22,0,Grand Parade,mist,north
-6,22,30,Grand Parade,mist,north
-6,23,0,Grand Parade,mist,north
-6,23,30,Grand Parade,mist,north
-6,0,0,Carrolls Quay,mist,north
-6,0,30,Carrolls Quay,mist,north
-6,1,0,Carrolls Quay,mist,north
-6,1,30,Carrolls Quay,mist,north
-6,2,0,Carrolls Quay,mist,north
-6,2,30,Carrolls Quay,mist,north
-6,3,0,Carrolls Quay,mist,north
-6,3,30,Carrolls Quay,mist,north
-6,4,0,Carrolls Quay,mist,north
-6,4,30,Carrolls Quay,mist,north
-6,5,0,Carrolls Quay,mist,north
-6,5,30,Carrolls Quay,mist,north
-6,6,0,Carrolls Quay,mist,north
-6,6,30,Carrolls Quay,mist,north
-6,7,0,Carrolls Quay,mist,north
-6,7,30,Carrolls Quay,mist,north
-6,8,0,Carrolls Quay,mist,north
-6,8,30,Carrolls Quay,mist,north
-6,9,0,Carrolls Quay,mist,north
-6,9,30,Carrolls Quay,mist,north
-6,10,0,Carrolls Quay,mist,north
-6,10,30,Carrolls Quay,mist,north
-6,11,0,Carrolls Quay,mist,north
-6,11,30,Carrolls Quay,mist,north
-6,12,0,Carrolls Quay,mist,north
-6,12,30,Carrolls Quay,mist,north
-6,13,0,Carrolls Quay,mist,north
-6,13,30,Carrolls Quay,mist,north
-6,14,0,Carrolls Quay,mist,north
-6,14,30,Carrolls Quay,mist,north
-6,15,0,Carrolls Quay,mist,north
-6,15,30,Carrolls Quay,mist,north
-6,16,0,Carrolls Quay,mist,north
-6,16,30,Carrolls Quay,mist,north
-6,17,0,Carrolls Quay,mist,north
-6,17,30,Carrolls Quay,mist,north
-6,18,0,Carrolls Quay,mist,north
-6,18,30,Carrolls Quay,mist,north
-6,19,0,Carrolls Quay,mist,north
-6,19,30,Carrolls Quay,mist,north
-6,20,0,Carrolls Quay,mist,north
-6,20,30,Carrolls Quay,mist,north
-6,21,0,Carrolls Quay,mist,north
-6,21,30,Carrolls Quay,mist,north
-6,22,0,Carrolls Quay,mist,north
-6,22,30,Carrolls Quay,mist,north
-6,23,0,Carrolls Quay,mist,north
-6,23,30,Carrolls Quay,mist,north
-6,0,0,City Hall - Eglington Street,mist,north
-6,0,30,City Hall - Eglington Street,mist,north
-6,1,0,City Hall - Eglington Street,mist,north
-6,1,30,City Hall - Eglington Street,mist,north
-6,2,0,City Hall - Eglington Street,mist,north
-6,2,30,City Hall - Eglington Street,mist,north
-6,3,0,City Hall - Eglington Street,mist,north
-6,3,30,City Hall - Eglington Street,mist,north
-6,4,0,City Hall - Eglington Street,mist,north
-6,4,30,City Hall - Eglington Street,mist,north
-6,5,0,City Hall - Eglington Street,mist,north
-6,5,30,City Hall - Eglington Street,mist,north
-6,6,0,City Hall - Eglington Street,mist,north
-6,6,30,City Hall - Eglington Street,mist,north
-6,7,0,City Hall - Eglington Street,mist,north
-6,7,30,City Hall - Eglington Street,mist,north
-6,8,0,City Hall - Eglington Street,mist,north
-6,8,30,City Hall - Eglington Street,mist,north
-6,9,0,City Hall - Eglington Street,mist,north
-6,9,30,City Hall - Eglington Street,mist,north
-6,10,0,City Hall - Eglington Street,mist,north
-6,10,30,City Hall - Eglington Street,mist,north
-6,11,0,City Hall - Eglington Street,mist,north
-6,11,30,City Hall - Eglington Street,mist,north
-6,12,0,City Hall - Eglington Street,mist,north
-6,12,30,City Hall - Eglington Street,mist,north
-6,13,0,City Hall - Eglington Street,mist,north
-6,13,30,City Hall - Eglington Street,mist,north
-6,14,0,City Hall - Eglington Street,mist,north
-6,14,30,City Hall - Eglington Street,mist,north
-6,15,0,City Hall - Eglington Street,mist,north
-6,15,30,City Hall - Eglington Street,mist,north
-6,16,0,City Hall - Eglington Street,mist,north
-6,16,30,City Hall - Eglington Street,mist,north
-6,17,0,City Hall - Eglington Street,mist,north
-6,17,30,City Hall - Eglington Street,mist,north
-6,18,0,City Hall - Eglington Street,mist,north
-6,18,30,City Hall - Eglington Street,mist,north
-6,19,0,City Hall - Eglington Street,mist,north
-6,19,30,City Hall - Eglington Street,mist,north
-6,20,0,City Hall - Eglington Street,mist,north
-6,20,30,City Hall - Eglington Street,mist,north
-6,21,0,City Hall - Eglington Street,mist,north
-6,21,30,City Hall - Eglington Street,mist,north
-6,22,0,City Hall - Eglington Street,mist,north
-6,22,30,City Hall - Eglington Street,mist,north
-6,23,0,City Hall - Eglington Street,mist,north
-6,23,30,City Hall - Eglington Street,mist,north
-6,0,0,Black Ash Park & Ride,mist,north
-6,0,30,Black Ash Park & Ride,mist,north
-6,1,0,Black Ash Park & Ride,mist,north
-6,1,30,Black Ash Park & Ride,mist,north
-6,2,0,Black Ash Park & Ride,mist,north
-6,2,30,Black Ash Park & Ride,mist,north
-6,3,0,Black Ash Park & Ride,mist,north
-6,3,30,Black Ash Park & Ride,mist,north
-6,4,0,Black Ash Park & Ride,mist,north
-6,4,30,Black Ash Park & Ride,mist,north
-6,5,0,Black Ash Park & Ride,mist,north
-6,5,30,Black Ash Park & Ride,mist,north
-6,6,0,Black Ash Park & Ride,mist,north
-6,6,30,Black Ash Park & Ride,mist,north
-6,7,0,Black Ash Park & Ride,mist,north
-6,7,30,Black Ash Park & Ride,mist,north
-6,8,0,Black Ash Park & Ride,mist,north
-6,8,30,Black Ash Park & Ride,mist,north
-6,9,0,Black Ash Park & Ride,mist,north
-6,9,30,Black Ash Park & Ride,mist,north
-6,10,0,Black Ash Park & Ride,mist,north
-6,10,30,Black Ash Park & Ride,mist,north
-6,11,0,Black Ash Park & Ride,mist,north
-6,11,30,Black Ash Park & Ride,mist,north
-6,12,0,Black Ash Park & Ride,mist,north
-6,12,30,Black Ash Park & Ride,mist,north
-6,13,0,Black Ash Park & Ride,mist,north
-6,13,30,Black Ash Park & Ride,mist,north
-6,14,0,Black Ash Park & Ride,mist,north
-6,14,30,Black Ash Park & Ride,mist,north
-6,15,0,Black Ash Park & Ride,mist,north
-6,15,30,Black Ash Park & Ride,mist,north
-6,16,0,Black Ash Park & Ride,mist,north
-6,16,30,Black Ash Park & Ride,mist,north
-6,17,0,Black Ash Park & Ride,mist,north
-6,17,30,Black Ash Park & Ride,mist,north
-6,18,0,Black Ash Park & Ride,mist,north
-6,18,30,Black Ash Park & Ride,mist,north
-6,19,0,Black Ash Park & Ride,mist,north
-6,19,30,Black Ash Park & Ride,mist,north
-6,20,0,Black Ash Park & Ride,mist,north
-6,20,30,Black Ash Park & Ride,mist,north
-6,21,0,Black Ash Park & Ride,mist,north
-6,21,30,Black Ash Park & Ride,mist,north
-6,22,0,Black Ash Park & Ride,mist,north
-6,22,30,Black Ash Park & Ride,mist,north
-6,23,0,Black Ash Park & Ride,mist,north
-6,23,30,Black Ash Park & Ride,mist,north
-6,0,0,North Main Street,mist,north
-6,0,30,North Main Street,mist,north
-6,1,0,North Main Street,mist,north
-6,1,30,North Main Street,mist,north
-6,2,0,North Main Street,mist,north
-6,2,30,North Main Street,mist,north
-6,3,0,North Main Street,mist,north
-6,3,30,North Main Street,mist,north
-6,4,0,North Main Street,mist,north
-6,4,30,North Main Street,mist,north
-6,5,0,North Main Street,mist,north
-6,5,30,North Main Street,mist,north
-6,6,0,North Main Street,mist,north
-6,6,30,North Main Street,mist,north
-6,7,0,North Main Street,mist,north
-6,7,30,North Main Street,mist,north
-6,8,0,North Main Street,mist,north
-6,8,30,North Main Street,mist,north
-6,9,0,North Main Street,mist,north
-6,9,30,North Main Street,mist,north
-6,10,0,North Main Street,mist,north
-6,10,30,North Main Street,mist,north
-6,11,0,North Main Street,mist,north
-6,11,30,North Main Street,mist,north
-6,12,0,North Main Street,mist,north
-6,12,30,North Main Street,mist,north
-6,13,0,North Main Street,mist,north
-6,13,30,North Main Street,mist,north
-6,14,0,North Main Street,mist,north
-6,14,30,North Main Street,mist,north
-6,15,0,North Main Street,mist,north
-6,15,30,North Main Street,mist,north
-6,16,0,North Main Street,mist,north
-6,16,30,North Main Street,mist,north
-6,17,0,North Main Street,mist,north
-6,17,30,North Main Street,mist,north
-6,18,0,North Main Street,mist,north
-6,18,30,North Main Street,mist,north
-6,19,0,North Main Street,mist,north
-6,19,30,North Main Street,mist,north
-6,20,0,North Main Street,mist,north
-6,20,30,North Main Street,mist,north
-6,21,0,North Main Street,mist,north
-6,21,30,North Main Street,mist,north
-6,22,0,North Main Street,mist,north
-6,22,30,North Main Street,mist,north
-6,23,0,North Main Street,mist,north
-6,23,30,North Main Street,mist,north
-6,0,0,Paul Street,mist,north
-6,0,30,Paul Street,mist,north
-6,1,0,Paul Street,mist,north
-6,1,30,Paul Street,mist,north
-6,2,0,Paul Street,mist,north
-6,2,30,Paul Street,mist,north
-6,3,0,Paul Street,mist,north
-6,3,30,Paul Street,mist,north
-6,4,0,Paul Street,mist,north
-6,4,30,Paul Street,mist,north
-6,5,0,Paul Street,mist,north
-6,5,30,Paul Street,mist,north
-6,6,0,Paul Street,mist,north
-6,6,30,Paul Street,mist,north
-6,7,0,Paul Street,mist,north
-6,7,30,Paul Street,mist,north
-6,8,0,Paul Street,mist,north
-6,8,30,Paul Street,mist,north
-6,9,0,Paul Street,mist,north
-6,9,30,Paul Street,mist,north
-6,10,0,Paul Street,mist,north
-6,10,30,Paul Street,mist,north
-6,11,0,Paul Street,mist,north
-6,11,30,Paul Street,mist,north
-6,12,0,Paul Street,mist,north
-6,12,30,Paul Street,mist,north
-6,13,0,Paul Street,mist,north
-6,13,30,Paul Street,mist,north
-6,14,0,Paul Street,mist,north
-6,14,30,Paul Street,mist,north
-6,15,0,Paul Street,mist,north
-6,15,30,Paul Street,mist,north
-6,16,0,Paul Street,mist,north
-6,16,30,Paul Street,mist,north
-6,17,0,Paul Street,mist,north
-6,17,30,Paul Street,mist,north
-6,18,0,Paul Street,mist,north
-6,18,30,Paul Street,mist,north
-6,19,0,Paul Street,mist,north
-6,19,30,Paul Street,mist,north
-6,20,0,Paul Street,mist,north
-6,20,30,Paul Street,mist,north
-6,21,0,Paul Street,mist,north
-6,21,30,Paul Street,mist,north
-6,22,0,Paul Street,mist,north
-6,22,30,Paul Street,mist,north
-6,23,0,Paul Street,mist,north
-6,23,30,Paul Street,mist,north
-6,0,0,Saint Finbarr's,mist,south
-6,0,30,Saint Finbarr's,mist,south
-6,1,0,Saint Finbarr's,mist,south
-6,1,30,Saint Finbarr's,mist,south
-6,2,0,Saint Finbarr's,mist,south
-6,2,30,Saint Finbarr's,mist,south
-6,3,0,Saint Finbarr's,mist,south
-6,3,30,Saint Finbarr's,mist,south
-6,4,0,Saint Finbarr's,mist,south
-6,4,30,Saint Finbarr's,mist,south
-6,5,0,Saint Finbarr's,mist,south
-6,5,30,Saint Finbarr's,mist,south
-6,6,0,Saint Finbarr's,mist,south
-6,6,30,Saint Finbarr's,mist,south
-6,7,0,Saint Finbarr's,mist,south
-6,7,30,Saint Finbarr's,mist,south
-6,8,0,Saint Finbarr's,mist,south
-6,8,30,Saint Finbarr's,mist,south
-6,9,0,Saint Finbarr's,mist,south
-6,9,30,Saint Finbarr's,mist,south
-6,10,0,Saint Finbarr's,mist,south
-6,10,30,Saint Finbarr's,mist,south
-6,11,0,Saint Finbarr's,mist,south
-6,11,30,Saint Finbarr's,mist,south
-6,12,0,Saint Finbarr's,mist,south
-6,12,30,Saint Finbarr's,mist,south
-6,13,0,Saint Finbarr's,mist,south
-6,13,30,Saint Finbarr's,mist,south
-6,14,0,Saint Finbarr's,mist,south
-6,14,30,Saint Finbarr's,mist,south
-6,15,0,Saint Finbarr's,mist,south
-6,15,30,Saint Finbarr's,mist,south
-6,16,0,Saint Finbarr's,mist,south
-6,16,30,Saint Finbarr's,mist,south
-6,17,0,Saint Finbarr's,mist,south
-6,17,30,Saint Finbarr's,mist,south
-6,18,0,Saint Finbarr's,mist,south
-6,18,30,Saint Finbarr's,mist,south
-6,19,0,Saint Finbarr's,mist,south
-6,19,30,Saint Finbarr's,mist,south
-6,20,0,Saint Finbarr's,mist,south
-6,20,30,Saint Finbarr's,mist,south
-6,21,0,Saint Finbarr's,mist,south
-6,21,30,Saint Finbarr's,mist,south
-6,22,0,Saint Finbarr's,mist,south
-6,22,30,Saint Finbarr's,mist,south
-6,23,0,Saint Finbarr's,mist,south
-6,23,30,Saint Finbarr's,mist,south
-6,0,0,Merchants Quay,mist,south
-6,0,30,Merchants Quay,mist,south
-6,1,0,Merchants Quay,mist,south
-6,1,30,Merchants Quay,mist,south
-6,2,0,Merchants Quay,mist,south
-6,2,30,Merchants Quay,mist,south
-6,3,0,Merchants Quay,mist,south
-6,3,30,Merchants Quay,mist,south
-6,4,0,Merchants Quay,mist,south
-6,4,30,Merchants Quay,mist,south
-6,5,0,Merchants Quay,mist,south
-6,5,30,Merchants Quay,mist,south
-6,6,0,Merchants Quay,mist,south
-6,6,30,Merchants Quay,mist,south
-6,7,0,Merchants Quay,mist,south
-6,7,30,Merchants Quay,mist,south
-6,8,0,Merchants Quay,mist,south
-6,8,30,Merchants Quay,mist,south
-6,9,0,Merchants Quay,mist,south
-6,9,30,Merchants Quay,mist,south
-6,10,0,Merchants Quay,mist,south
-6,10,30,Merchants Quay,mist,south
-6,11,0,Merchants Quay,mist,south
-6,11,30,Merchants Quay,mist,south
-6,12,0,Merchants Quay,mist,south
-6,12,30,Merchants Quay,mist,south
-6,13,0,Merchants Quay,mist,south
-6,13,30,Merchants Quay,mist,south
-6,14,0,Merchants Quay,mist,south
-6,14,30,Merchants Quay,mist,south
-6,15,0,Merchants Quay,mist,south
-6,15,30,Merchants Quay,mist,south
-6,16,0,Merchants Quay,mist,south
-6,16,30,Merchants Quay,mist,south
-6,17,0,Merchants Quay,mist,south
-6,17,30,Merchants Quay,mist,south
-6,18,0,Merchants Quay,mist,south
-6,18,30,Merchants Quay,mist,south
-6,19,0,Merchants Quay,mist,south
-6,19,30,Merchants Quay,mist,south
-6,20,0,Merchants Quay,mist,south
-6,20,30,Merchants Quay,mist,south
-6,21,0,Merchants Quay,mist,south
-6,21,30,Merchants Quay,mist,south
-6,22,0,Merchants Quay,mist,south
-6,22,30,Merchants Quay,mist,south
-6,23,0,Merchants Quay,mist,south
-6,23,30,Merchants Quay,mist,south
-6,0,0,Grand Parade,mist,south
-6,0,30,Grand Parade,mist,south
-6,1,0,Grand Parade,mist,south
-6,1,30,Grand Parade,mist,south
-6,2,0,Grand Parade,mist,south
-6,2,30,Grand Parade,mist,south
-6,3,0,Grand Parade,mist,south
-6,3,30,Grand Parade,mist,south
-6,4,0,Grand Parade,mist,south
-6,4,30,Grand Parade,mist,south
-6,5,0,Grand Parade,mist,south
-6,5,30,Grand Parade,mist,south
-6,6,0,Grand Parade,mist,south
-6,6,30,Grand Parade,mist,south
-6,7,0,Grand Parade,mist,south
-6,7,30,Grand Parade,mist,south
-6,8,0,Grand Parade,mist,south
-6,8,30,Grand Parade,mist,south
-6,9,0,Grand Parade,mist,south
-6,9,30,Grand Parade,mist,south
-6,10,0,Grand Parade,mist,south
-6,10,30,Grand Parade,mist,south
-6,11,0,Grand Parade,mist,south
-6,11,30,Grand Parade,mist,south
-6,12,0,Grand Parade,mist,south
-6,12,30,Grand Parade,mist,south
-6,13,0,Grand Parade,mist,south
-6,13,30,Grand Parade,mist,south
-6,14,0,Grand Parade,mist,south
-6,14,30,Grand Parade,mist,south
-6,15,0,Grand Parade,mist,south
-6,15,30,Grand Parade,mist,south
-6,16,0,Grand Parade,mist,south
-6,16,30,Grand Parade,mist,south
-6,17,0,Grand Parade,mist,south
-6,17,30,Grand Parade,mist,south
-6,18,0,Grand Parade,mist,south
-6,18,30,Grand Parade,mist,south
-6,19,0,Grand Parade,mist,south
-6,19,30,Grand Parade,mist,south
-6,20,0,Grand Parade,mist,south
-6,20,30,Grand Parade,mist,south
-6,21,0,Grand Parade,mist,south
-6,21,30,Grand Parade,mist,south
-6,22,0,Grand Parade,mist,south
-6,22,30,Grand Parade,mist,south
-6,23,0,Grand Parade,mist,south
-6,23,30,Grand Parade,mist,south
-6,0,0,Carrolls Quay,mist,south
-6,0,30,Carrolls Quay,mist,south
-6,1,0,Carrolls Quay,mist,south
-6,1,30,Carrolls Quay,mist,south
-6,2,0,Carrolls Quay,mist,south
-6,2,30,Carrolls Quay,mist,south
-6,3,0,Carrolls Quay,mist,south
-6,3,30,Carrolls Quay,mist,south
-6,4,0,Carrolls Quay,mist,south
-6,4,30,Carrolls Quay,mist,south
-6,5,0,Carrolls Quay,mist,south
-6,5,30,Carrolls Quay,mist,south
-6,6,0,Carrolls Quay,mist,south
-6,6,30,Carrolls Quay,mist,south
-6,7,0,Carrolls Quay,mist,south
-6,7,30,Carrolls Quay,mist,south
-6,8,0,Carrolls Quay,mist,south
-6,8,30,Carrolls Quay,mist,south
-6,9,0,Carrolls Quay,mist,south
-6,9,30,Carrolls Quay,mist,south
-6,10,0,Carrolls Quay,mist,south
-6,10,30,Carrolls Quay,mist,south
-6,11,0,Carrolls Quay,mist,south
-6,11,30,Carrolls Quay,mist,south
-6,12,0,Carrolls Quay,mist,south
-6,12,30,Carrolls Quay,mist,south
-6,13,0,Carrolls Quay,mist,south
-6,13,30,Carrolls Quay,mist,south
-6,14,0,Carrolls Quay,mist,south
-6,14,30,Carrolls Quay,mist,south
-6,15,0,Carrolls Quay,mist,south
-6,15,30,Carrolls Quay,mist,south
-6,16,0,Carrolls Quay,mist,south
-6,16,30,Carrolls Quay,mist,south
-6,17,0,Carrolls Quay,mist,south
-6,17,30,Carrolls Quay,mist,south
-6,18,0,Carrolls Quay,mist,south
-6,18,30,Carrolls Quay,mist,south
-6,19,0,Carrolls Quay,mist,south
-6,19,30,Carrolls Quay,mist,south
-6,20,0,Carrolls Quay,mist,south
-6,20,30,Carrolls Quay,mist,south
-6,21,0,Carrolls Quay,mist,south
-6,21,30,Carrolls Quay,mist,south
-6,22,0,Carrolls Quay,mist,south
-6,22,30,Carrolls Quay,mist,south
-6,23,0,Carrolls Quay,mist,south
-6,23,30,Carrolls Quay,mist,south
-6,0,0,City Hall - Eglington Street,mist,south
-6,0,30,City Hall - Eglington Street,mist,south
-6,1,0,City Hall - Eglington Street,mist,south
-6,1,30,City Hall - Eglington Street,mist,south
-6,2,0,City Hall - Eglington Street,mist,south
-6,2,30,City Hall - Eglington Street,mist,south
-6,3,0,City Hall - Eglington Street,mist,south
-6,3,30,City Hall - Eglington Street,mist,south
-6,4,0,City Hall - Eglington Street,mist,south
-6,4,30,City Hall - Eglington Street,mist,south
-6,5,0,City Hall - Eglington Street,mist,south
-6,5,30,City Hall - Eglington Street,mist,south
-6,6,0,City Hall - Eglington Street,mist,south
-6,6,30,City Hall - Eglington Street,mist,south
-6,7,0,City Hall - Eglington Street,mist,south
-6,7,30,City Hall - Eglington Street,mist,south
-6,8,0,City Hall - Eglington Street,mist,south
-6,8,30,City Hall - Eglington Street,mist,south
-6,9,0,City Hall - Eglington Street,mist,south
-6,9,30,City Hall - Eglington Street,mist,south
-6,10,0,City Hall - Eglington Street,mist,south
-6,10,30,City Hall - Eglington Street,mist,south
-6,11,0,City Hall - Eglington Street,mist,south
-6,11,30,City Hall - Eglington Street,mist,south
-6,12,0,City Hall - Eglington Street,mist,south
-6,12,30,City Hall - Eglington Street,mist,south
-6,13,0,City Hall - Eglington Street,mist,south
-6,13,30,City Hall - Eglington Street,mist,south
-6,14,0,City Hall - Eglington Street,mist,south
-6,14,30,City Hall - Eglington Street,mist,south
-6,15,0,City Hall - Eglington Street,mist,south
-6,15,30,City Hall - Eglington Street,mist,south
-6,16,0,City Hall - Eglington Street,mist,south
-6,16,30,City Hall - Eglington Street,mist,south
-6,17,0,City Hall - Eglington Street,mist,south
-6,17,30,City Hall - Eglington Street,mist,south
-6,18,0,City Hall - Eglington Street,mist,south
-6,18,30,City Hall - Eglington Street,mist,south
-6,19,0,City Hall - Eglington Street,mist,south
-6,19,30,City Hall - Eglington Street,mist,south
-6,20,0,City Hall - Eglington Street,mist,south
-6,20,30,City Hall - Eglington Street,mist,south
-6,21,0,City Hall - Eglington Street,mist,south
-6,21,30,City Hall - Eglington Street,mist,south
-6,22,0,City Hall - Eglington Street,mist,south
-6,22,30,City Hall - Eglington Street,mist,south
-6,23,0,City Hall - Eglington Street,mist,south
-6,23,30,City Hall - Eglington Street,mist,south
-6,0,0,Black Ash Park & Ride,mist,south
-6,0,30,Black Ash Park & Ride,mist,south
-6,1,0,Black Ash Park & Ride,mist,south
-6,1,30,Black Ash Park & Ride,mist,south
-6,2,0,Black Ash Park & Ride,mist,south
-6,2,30,Black Ash Park & Ride,mist,south
-6,3,0,Black Ash Park & Ride,mist,south
-6,3,30,Black Ash Park & Ride,mist,south
-6,4,0,Black Ash Park & Ride,mist,south
-6,4,30,Black Ash Park & Ride,mist,south
-6,5,0,Black Ash Park & Ride,mist,south
-6,5,30,Black Ash Park & Ride,mist,south
-6,6,0,Black Ash Park & Ride,mist,south
-6,6,30,Black Ash Park & Ride,mist,south
-6,7,0,Black Ash Park & Ride,mist,south
-6,7,30,Black Ash Park & Ride,mist,south
-6,8,0,Black Ash Park & Ride,mist,south
-6,8,30,Black Ash Park & Ride,mist,south
-6,9,0,Black Ash Park & Ride,mist,south
-6,9,30,Black Ash Park & Ride,mist,south
-6,10,0,Black Ash Park & Ride,mist,south
-6,10,30,Black Ash Park & Ride,mist,south
-6,11,0,Black Ash Park & Ride,mist,south
-6,11,30,Black Ash Park & Ride,mist,south
-6,12,0,Black Ash Park & Ride,mist,south
-6,12,30,Black Ash Park & Ride,mist,south
-6,13,0,Black Ash Park & Ride,mist,south
-6,13,30,Black Ash Park & Ride,mist,south
-6,14,0,Black Ash Park & Ride,mist,south
-6,14,30,Black Ash Park & Ride,mist,south
-6,15,0,Black Ash Park & Ride,mist,south
-6,15,30,Black Ash Park & Ride,mist,south
-6,16,0,Black Ash Park & Ride,mist,south
-6,16,30,Black Ash Park & Ride,mist,south
-6,17,0,Black Ash Park & Ride,mist,south
-6,17,30,Black Ash Park & Ride,mist,south
-6,18,0,Black Ash Park & Ride,mist,south
-6,18,30,Black Ash Park & Ride,mist,south
-6,19,0,Black Ash Park & Ride,mist,south
-6,19,30,Black Ash Park & Ride,mist,south
-6,20,0,Black Ash Park & Ride,mist,south
-6,20,30,Black Ash Park & Ride,mist,south
-6,21,0,Black Ash Park & Ride,mist,south
-6,21,30,Black Ash Park & Ride,mist,south
-6,22,0,Black Ash Park & Ride,mist,south
-6,22,30,Black Ash Park & Ride,mist,south
-6,23,0,Black Ash Park & Ride,mist,south
-6,23,30,Black Ash Park & Ride,mist,south
-6,0,0,North Main Street,mist,south
-6,0,30,North Main Street,mist,south
-6,1,0,North Main Street,mist,south
-6,1,30,North Main Street,mist,south
-6,2,0,North Main Street,mist,south
-6,2,30,North Main Street,mist,south
-6,3,0,North Main Street,mist,south
-6,3,30,North Main Street,mist,south
-6,4,0,North Main Street,mist,south
-6,4,30,North Main Street,mist,south
-6,5,0,North Main Street,mist,south
-6,5,30,North Main Street,mist,south
-6,6,0,North Main Street,mist,south
-6,6,30,North Main Street,mist,south
-6,7,0,North Main Street,mist,south
-6,7,30,North Main Street,mist,south
-6,8,0,North Main Street,mist,south
-6,8,30,North Main Street,mist,south
-6,9,0,North Main Street,mist,south
-6,9,30,North Main Street,mist,south
-6,10,0,North Main Street,mist,south
-6,10,30,North Main Street,mist,south
-6,11,0,North Main Street,mist,south
-6,11,30,North Main Street,mist,south
-6,12,0,North Main Street,mist,south
-6,12,30,North Main Street,mist,south
-6,13,0,North Main Street,mist,south
-6,13,30,North Main Street,mist,south
-6,14,0,North Main Street,mist,south
-6,14,30,North Main Street,mist,south
-6,15,0,North Main Street,mist,south
-6,15,30,North Main Street,mist,south
-6,16,0,North Main Street,mist,south
-6,16,30,North Main Street,mist,south
-6,17,0,North Main Street,mist,south
-6,17,30,North Main Street,mist,south
-6,18,0,North Main Street,mist,south
-6,18,30,North Main Street,mist,south
-6,19,0,North Main Street,mist,south
-6,19,30,North Main Street,mist,south
-6,20,0,North Main Street,mist,south
-6,20,30,North Main Street,mist,south
-6,21,0,North Main Street,mist,south
-6,21,30,North Main Street,mist,south
-6,22,0,North Main Street,mist,south
-6,22,30,North Main Street,mist,south
-6,23,0,North Main Street,mist,south
-6,23,30,North Main Street,mist,south
-6,0,0,Paul Street,mist,south
-6,0,30,Paul Street,mist,south
-6,1,0,Paul Street,mist,south
-6,1,30,Paul Street,mist,south
-6,2,0,Paul Street,mist,south
-6,2,30,Paul Street,mist,south
-6,3,0,Paul Street,mist,south
-6,3,30,Paul Street,mist,south
-6,4,0,Paul Street,mist,south
-6,4,30,Paul Street,mist,south
-6,5,0,Paul Street,mist,south
-6,5,30,Paul Street,mist,south
-6,6,0,Paul Street,mist,south
-6,6,30,Paul Street,mist,south
-6,7,0,Paul Street,mist,south
-6,7,30,Paul Street,mist,south
-6,8,0,Paul Street,mist,south
-6,8,30,Paul Street,mist,south
-6,9,0,Paul Street,mist,south
-6,9,30,Paul Street,mist,south
-6,10,0,Paul Street,mist,south
-6,10,30,Paul Street,mist,south
-6,11,0,Paul Street,mist,south
-6,11,30,Paul Street,mist,south
-6,12,0,Paul Street,mist,south
-6,12,30,Paul Street,mist,south
-6,13,0,Paul Street,mist,south
-6,13,30,Paul Street,mist,south
-6,14,0,Paul Street,mist,south
-6,14,30,Paul Street,mist,south
-6,15,0,Paul Street,mist,south
-6,15,30,Paul Street,mist,south
-6,16,0,Paul Street,mist,south
-6,16,30,Paul Street,mist,south
-6,17,0,Paul Street,mist,south
-6,17,30,Paul Street,mist,south
-6,18,0,Paul Street,mist,south
-6,18,30,Paul Street,mist,south
-6,19,0,Paul Street,mist,south
-6,19,30,Paul Street,mist,south
-6,20,0,Paul Street,mist,south
-6,20,30,Paul Street,mist,south
-6,21,0,Paul Street,mist,south
-6,21,30,Paul Street,mist,south
-6,22,0,Paul Street,mist,south
-6,22,30,Paul Street,mist,south
-6,23,0,Paul Street,mist,south
-6,23,30,Paul Street,mist,south
-6,0,0,Saint Finbarr's,mist,east
-6,0,30,Saint Finbarr's,mist,east
-6,1,0,Saint Finbarr's,mist,east
-6,1,30,Saint Finbarr's,mist,east
-6,2,0,Saint Finbarr's,mist,east
-6,2,30,Saint Finbarr's,mist,east
-6,3,0,Saint Finbarr's,mist,east
-6,3,30,Saint Finbarr's,mist,east
-6,4,0,Saint Finbarr's,mist,east
-6,4,30,Saint Finbarr's,mist,east
-6,5,0,Saint Finbarr's,mist,east
-6,5,30,Saint Finbarr's,mist,east
-6,6,0,Saint Finbarr's,mist,east
-6,6,30,Saint Finbarr's,mist,east
-6,7,0,Saint Finbarr's,mist,east
-6,7,30,Saint Finbarr's,mist,east
-6,8,0,Saint Finbarr's,mist,east
-6,8,30,Saint Finbarr's,mist,east
-6,9,0,Saint Finbarr's,mist,east
-6,9,30,Saint Finbarr's,mist,east
-6,10,0,Saint Finbarr's,mist,east
-6,10,30,Saint Finbarr's,mist,east
-6,11,0,Saint Finbarr's,mist,east
-6,11,30,Saint Finbarr's,mist,east
-6,12,0,Saint Finbarr's,mist,east
-6,12,30,Saint Finbarr's,mist,east
-6,13,0,Saint Finbarr's,mist,east
-6,13,30,Saint Finbarr's,mist,east
-6,14,0,Saint Finbarr's,mist,east
-6,14,30,Saint Finbarr's,mist,east
-6,15,0,Saint Finbarr's,mist,east
-6,15,30,Saint Finbarr's,mist,east
-6,16,0,Saint Finbarr's,mist,east
-6,16,30,Saint Finbarr's,mist,east
-6,17,0,Saint Finbarr's,mist,east
-6,17,30,Saint Finbarr's,mist,east
-6,18,0,Saint Finbarr's,mist,east
-6,18,30,Saint Finbarr's,mist,east
-6,19,0,Saint Finbarr's,mist,east
-6,19,30,Saint Finbarr's,mist,east
-6,20,0,Saint Finbarr's,mist,east
-6,20,30,Saint Finbarr's,mist,east
-6,21,0,Saint Finbarr's,mist,east
-6,21,30,Saint Finbarr's,mist,east
-6,22,0,Saint Finbarr's,mist,east
-6,22,30,Saint Finbarr's,mist,east
-6,23,0,Saint Finbarr's,mist,east
-6,23,30,Saint Finbarr's,mist,east
-6,0,0,Merchants Quay,mist,east
-6,0,30,Merchants Quay,mist,east
-6,1,0,Merchants Quay,mist,east
-6,1,30,Merchants Quay,mist,east
-6,2,0,Merchants Quay,mist,east
-6,2,30,Merchants Quay,mist,east
-6,3,0,Merchants Quay,mist,east
-6,3,30,Merchants Quay,mist,east
-6,4,0,Merchants Quay,mist,east
-6,4,30,Merchants Quay,mist,east
-6,5,0,Merchants Quay,mist,east
-6,5,30,Merchants Quay,mist,east
-6,6,0,Merchants Quay,mist,east
-6,6,30,Merchants Quay,mist,east
-6,7,0,Merchants Quay,mist,east
-6,7,30,Merchants Quay,mist,east
-6,8,0,Merchants Quay,mist,east
-6,8,30,Merchants Quay,mist,east
-6,9,0,Merchants Quay,mist,east
-6,9,30,Merchants Quay,mist,east
-6,10,0,Merchants Quay,mist,east
-6,10,30,Merchants Quay,mist,east
-6,11,0,Merchants Quay,mist,east
-6,11,30,Merchants Quay,mist,east
-6,12,0,Merchants Quay,mist,east
-6,12,30,Merchants Quay,mist,east
-6,13,0,Merchants Quay,mist,east
-6,13,30,Merchants Quay,mist,east
-6,14,0,Merchants Quay,mist,east
-6,14,30,Merchants Quay,mist,east
-6,15,0,Merchants Quay,mist,east
-6,15,30,Merchants Quay,mist,east
-6,16,0,Merchants Quay,mist,east
-6,16,30,Merchants Quay,mist,east
-6,17,0,Merchants Quay,mist,east
-6,17,30,Merchants Quay,mist,east
-6,18,0,Merchants Quay,mist,east
-6,18,30,Merchants Quay,mist,east
-6,19,0,Merchants Quay,mist,east
-6,19,30,Merchants Quay,mist,east
-6,20,0,Merchants Quay,mist,east
-6,20,30,Merchants Quay,mist,east
-6,21,0,Merchants Quay,mist,east
-6,21,30,Merchants Quay,mist,east
-6,22,0,Merchants Quay,mist,east
-6,22,30,Merchants Quay,mist,east
-6,23,0,Merchants Quay,mist,east
-6,23,30,Merchants Quay,mist,east
-6,0,0,Grand Parade,mist,east
-6,0,30,Grand Parade,mist,east
-6,1,0,Grand Parade,mist,east
-6,1,30,Grand Parade,mist,east
-6,2,0,Grand Parade,mist,east
-6,2,30,Grand Parade,mist,east
-6,3,0,Grand Parade,mist,east
-6,3,30,Grand Parade,mist,east
-6,4,0,Grand Parade,mist,east
-6,4,30,Grand Parade,mist,east
-6,5,0,Grand Parade,mist,east
-6,5,30,Grand Parade,mist,east
-6,6,0,Grand Parade,mist,east
-6,6,30,Grand Parade,mist,east
-6,7,0,Grand Parade,mist,east
-6,7,30,Grand Parade,mist,east
-6,8,0,Grand Parade,mist,east
-6,8,30,Grand Parade,mist,east
-6,9,0,Grand Parade,mist,east
-6,9,30,Grand Parade,mist,east
-6,10,0,Grand Parade,mist,east
-6,10,30,Grand Parade,mist,east
-6,11,0,Grand Parade,mist,east
-6,11,30,Grand Parade,mist,east
-6,12,0,Grand Parade,mist,east
-6,12,30,Grand Parade,mist,east
-6,13,0,Grand Parade,mist,east
-6,13,30,Grand Parade,mist,east
-6,14,0,Grand Parade,mist,east
-6,14,30,Grand Parade,mist,east
-6,15,0,Grand Parade,mist,east
-6,15,30,Grand Parade,mist,east
-6,16,0,Grand Parade,mist,east
-6,16,30,Grand Parade,mist,east
-6,17,0,Grand Parade,mist,east
-6,17,30,Grand Parade,mist,east
-6,18,0,Grand Parade,mist,east
-6,18,30,Grand Parade,mist,east
-6,19,0,Grand Parade,mist,east
-6,19,30,Grand Parade,mist,east
-6,20,0,Grand Parade,mist,east
-6,20,30,Grand Parade,mist,east
-6,21,0,Grand Parade,mist,east
-6,21,30,Grand Parade,mist,east
-6,22,0,Grand Parade,mist,east
-6,22,30,Grand Parade,mist,east
-6,23,0,Grand Parade,mist,east
-6,23,30,Grand Parade,mist,east
-6,0,0,Carrolls Quay,mist,east
-6,0,30,Carrolls Quay,mist,east
-6,1,0,Carrolls Quay,mist,east
-6,1,30,Carrolls Quay,mist,east
-6,2,0,Carrolls Quay,mist,east
-6,2,30,Carrolls Quay,mist,east
-6,3,0,Carrolls Quay,mist,east
-6,3,30,Carrolls Quay,mist,east
-6,4,0,Carrolls Quay,mist,east
-6,4,30,Carrolls Quay,mist,east
-6,5,0,Carrolls Quay,mist,east
-6,5,30,Carrolls Quay,mist,east
-6,6,0,Carrolls Quay,mist,east
-6,6,30,Carrolls Quay,mist,east
-6,7,0,Carrolls Quay,mist,east
-6,7,30,Carrolls Quay,mist,east
-6,8,0,Carrolls Quay,mist,east
-6,8,30,Carrolls Quay,mist,east
-6,9,0,Carrolls Quay,mist,east
-6,9,30,Carrolls Quay,mist,east
-6,10,0,Carrolls Quay,mist,east
-6,10,30,Carrolls Quay,mist,east
-6,11,0,Carrolls Quay,mist,east
-6,11,30,Carrolls Quay,mist,east
-6,12,0,Carrolls Quay,mist,east
-6,12,30,Carrolls Quay,mist,east
-6,13,0,Carrolls Quay,mist,east
-6,13,30,Carrolls Quay,mist,east
-6,14,0,Carrolls Quay,mist,east
-6,14,30,Carrolls Quay,mist,east
-6,15,0,Carrolls Quay,mist,east
-6,15,30,Carrolls Quay,mist,east
-6,16,0,Carrolls Quay,mist,east
-6,16,30,Carrolls Quay,mist,east
-6,17,0,Carrolls Quay,mist,east
-6,17,30,Carrolls Quay,mist,east
-6,18,0,Carrolls Quay,mist,east
-6,18,30,Carrolls Quay,mist,east
-6,19,0,Carrolls Quay,mist,east
-6,19,30,Carrolls Quay,mist,east
-6,20,0,Carrolls Quay,mist,east
-6,20,30,Carrolls Quay,mist,east
-6,21,0,Carrolls Quay,mist,east
-6,21,30,Carrolls Quay,mist,east
-6,22,0,Carrolls Quay,mist,east
-6,22,30,Carrolls Quay,mist,east
-6,23,0,Carrolls Quay,mist,east
-6,23,30,Carrolls Quay,mist,east
-6,0,0,City Hall - Eglington Street,mist,east
-6,0,30,City Hall - Eglington Street,mist,east
-6,1,0,City Hall - Eglington Street,mist,east
-6,1,30,City Hall - Eglington Street,mist,east
-6,2,0,City Hall - Eglington Street,mist,east
-6,2,30,City Hall - Eglington Street,mist,east
-6,3,0,City Hall - Eglington Street,mist,east
-6,3,30,City Hall - Eglington Street,mist,east
-6,4,0,City Hall - Eglington Street,mist,east
-6,4,30,City Hall - Eglington Street,mist,east
-6,5,0,City Hall - Eglington Street,mist,east
-6,5,30,City Hall - Eglington Street,mist,east
-6,6,0,City Hall - Eglington Street,mist,east
-6,6,30,City Hall - Eglington Street,mist,east
-6,7,0,City Hall - Eglington Street,mist,east
-6,7,30,City Hall - Eglington Street,mist,east
-6,8,0,City Hall - Eglington Street,mist,east
-6,8,30,City Hall - Eglington Street,mist,east
-6,9,0,City Hall - Eglington Street,mist,east
-6,9,30,City Hall - Eglington Street,mist,east
-6,10,0,City Hall - Eglington Street,mist,east
-6,10,30,City Hall - Eglington Street,mist,east
-6,11,0,City Hall - Eglington Street,mist,east
-6,11,30,City Hall - Eglington Street,mist,east
-6,12,0,City Hall - Eglington Street,mist,east
-6,12,30,City Hall - Eglington Street,mist,east
-6,13,0,City Hall - Eglington Street,mist,east
-6,13,30,City Hall - Eglington Street,mist,east
-6,14,0,City Hall - Eglington Street,mist,east
-6,14,30,City Hall - Eglington Street,mist,east
-6,15,0,City Hall - Eglington Street,mist,east
-6,15,30,City Hall - Eglington Street,mist,east
-6,16,0,City Hall - Eglington Street,mist,east
-6,16,30,City Hall - Eglington Street,mist,east
-6,17,0,City Hall - Eglington Street,mist,east
-6,17,30,City Hall - Eglington Street,mist,east
-6,18,0,City Hall - Eglington Street,mist,east
-6,18,30,City Hall - Eglington Street,mist,east
-6,19,0,City Hall - Eglington Street,mist,east
-6,19,30,City Hall - Eglington Street,mist,east
-6,20,0,City Hall - Eglington Street,mist,east
-6,20,30,City Hall - Eglington Street,mist,east
-6,21,0,City Hall - Eglington Street,mist,east
-6,21,30,City Hall - Eglington Street,mist,east
-6,22,0,City Hall - Eglington Street,mist,east
-6,22,30,City Hall - Eglington Street,mist,east
-6,23,0,City Hall - Eglington Street,mist,east
-6,23,30,City Hall - Eglington Street,mist,east
-6,0,0,Black Ash Park & Ride,mist,east
-6,0,30,Black Ash Park & Ride,mist,east
-6,1,0,Black Ash Park & Ride,mist,east
-6,1,30,Black Ash Park & Ride,mist,east
-6,2,0,Black Ash Park & Ride,mist,east
-6,2,30,Black Ash Park & Ride,mist,east
-6,3,0,Black Ash Park & Ride,mist,east
-6,3,30,Black Ash Park & Ride,mist,east
-6,4,0,Black Ash Park & Ride,mist,east
-6,4,30,Black Ash Park & Ride,mist,east
-6,5,0,Black Ash Park & Ride,mist,east
-6,5,30,Black Ash Park & Ride,mist,east
-6,6,0,Black Ash Park & Ride,mist,east
-6,6,30,Black Ash Park & Ride,mist,east
-6,7,0,Black Ash Park & Ride,mist,east
-6,7,30,Black Ash Park & Ride,mist,east
-6,8,0,Black Ash Park & Ride,mist,east
-6,8,30,Black Ash Park & Ride,mist,east
-6,9,0,Black Ash Park & Ride,mist,east
-6,9,30,Black Ash Park & Ride,mist,east
-6,10,0,Black Ash Park & Ride,mist,east
-6,10,30,Black Ash Park & Ride,mist,east
-6,11,0,Black Ash Park & Ride,mist,east
-6,11,30,Black Ash Park & Ride,mist,east
-6,12,0,Black Ash Park & Ride,mist,east
-6,12,30,Black Ash Park & Ride,mist,east
-6,13,0,Black Ash Park & Ride,mist,east
-6,13,30,Black Ash Park & Ride,mist,east
-6,14,0,Black Ash Park & Ride,mist,east
-6,14,30,Black Ash Park & Ride,mist,east
-6,15,0,Black Ash Park & Ride,mist,east
-6,15,30,Black Ash Park & Ride,mist,east
-6,16,0,Black Ash Park & Ride,mist,east
-6,16,30,Black Ash Park & Ride,mist,east
-6,17,0,Black Ash Park & Ride,mist,east
-6,17,30,Black Ash Park & Ride,mist,east
-6,18,0,Black Ash Park & Ride,mist,east
-6,18,30,Black Ash Park & Ride,mist,east
-6,19,0,Black Ash Park & Ride,mist,east
-6,19,30,Black Ash Park & Ride,mist,east
-6,20,0,Black Ash Park & Ride,mist,east
-6,20,30,Black Ash Park & Ride,mist,east
-6,21,0,Black Ash Park & Ride,mist,east
-6,21,30,Black Ash Park & Ride,mist,east
-6,22,0,Black Ash Park & Ride,mist,east
-6,22,30,Black Ash Park & Ride,mist,east
-6,23,0,Black Ash Park & Ride,mist,east
-6,23,30,Black Ash Park & Ride,mist,east
-6,0,0,North Main Street,mist,east
-6,0,30,North Main Street,mist,east
-6,1,0,North Main Street,mist,east
-6,1,30,North Main Street,mist,east
-6,2,0,North Main Street,mist,east
-6,2,30,North Main Street,mist,east
-6,3,0,North Main Street,mist,east
-6,3,30,North Main Street,mist,east
-6,4,0,North Main Street,mist,east
-6,4,30,North Main Street,mist,east
-6,5,0,North Main Street,mist,east
-6,5,30,North Main Street,mist,east
-6,6,0,North Main Street,mist,east
-6,6,30,North Main Street,mist,east
-6,7,0,North Main Street,mist,east
-6,7,30,North Main Street,mist,east
-6,8,0,North Main Street,mist,east
-6,8,30,North Main Street,mist,east
-6,9,0,North Main Street,mist,east
-6,9,30,North Main Street,mist,east
-6,10,0,North Main Street,mist,east
-6,10,30,North Main Street,mist,east
-6,11,0,North Main Street,mist,east
-6,11,30,North Main Street,mist,east
-6,12,0,North Main Street,mist,east
-6,12,30,North Main Street,mist,east
-6,13,0,North Main Street,mist,east
-6,13,30,North Main Street,mist,east
-6,14,0,North Main Street,mist,east
-6,14,30,North Main Street,mist,east
-6,15,0,North Main Street,mist,east
-6,15,30,North Main Street,mist,east
-6,16,0,North Main Street,mist,east
-6,16,30,North Main Street,mist,east
-6,17,0,North Main Street,mist,east
-6,17,30,North Main Street,mist,east
-6,18,0,North Main Street,mist,east
-6,18,30,North Main Street,mist,east
-6,19,0,North Main Street,mist,east
-6,19,30,North Main Street,mist,east
-6,20,0,North Main Street,mist,east
-6,20,30,North Main Street,mist,east
-6,21,0,North Main Street,mist,east
-6,21,30,North Main Street,mist,east
-6,22,0,North Main Street,mist,east
-6,22,30,North Main Street,mist,east
-6,23,0,North Main Street,mist,east
-6,23,30,North Main Street,mist,east
-6,0,0,Paul Street,mist,east
-6,0,30,Paul Street,mist,east
-6,1,0,Paul Street,mist,east
-6,1,30,Paul Street,mist,east
-6,2,0,Paul Street,mist,east
-6,2,30,Paul Street,mist,east
-6,3,0,Paul Street,mist,east
-6,3,30,Paul Street,mist,east
-6,4,0,Paul Street,mist,east
-6,4,30,Paul Street,mist,east
-6,5,0,Paul Street,mist,east
-6,5,30,Paul Street,mist,east
-6,6,0,Paul Street,mist,east
-6,6,30,Paul Street,mist,east
-6,7,0,Paul Street,mist,east
-6,7,30,Paul Street,mist,east
-6,8,0,Paul Street,mist,east
-6,8,30,Paul Street,mist,east
-6,9,0,Paul Street,mist,east
-6,9,30,Paul Street,mist,east
-6,10,0,Paul Street,mist,east
-6,10,30,Paul Street,mist,east
-6,11,0,Paul Street,mist,east
-6,11,30,Paul Street,mist,east
-6,12,0,Paul Street,mist,east
-6,12,30,Paul Street,mist,east
-6,13,0,Paul Street,mist,east
-6,13,30,Paul Street,mist,east
-6,14,0,Paul Street,mist,east
-6,14,30,Paul Street,mist,east
-6,15,0,Paul Street,mist,east
-6,15,30,Paul Street,mist,east
-6,16,0,Paul Street,mist,east
-6,16,30,Paul Street,mist,east
-6,17,0,Paul Street,mist,east
-6,17,30,Paul Street,mist,east
-6,18,0,Paul Street,mist,east
-6,18,30,Paul Street,mist,east
-6,19,0,Paul Street,mist,east
-6,19,30,Paul Street,mist,east
-6,20,0,Paul Street,mist,east
-6,20,30,Paul Street,mist,east
-6,21,0,Paul Street,mist,east
-6,21,30,Paul Street,mist,east
-6,22,0,Paul Street,mist,east
-6,22,30,Paul Street,mist,east
-6,23,0,Paul Street,mist,east
-6,23,30,Paul Street,mist,east
-6,0,0,Saint Finbarr's,mist,west
-6,0,30,Saint Finbarr's,mist,west
-6,1,0,Saint Finbarr's,mist,west
-6,1,30,Saint Finbarr's,mist,west
-6,2,0,Saint Finbarr's,mist,west
-6,2,30,Saint Finbarr's,mist,west
-6,3,0,Saint Finbarr's,mist,west
-6,3,30,Saint Finbarr's,mist,west
-6,4,0,Saint Finbarr's,mist,west
-6,4,30,Saint Finbarr's,mist,west
-6,5,0,Saint Finbarr's,mist,west
-6,5,30,Saint Finbarr's,mist,west
-6,6,0,Saint Finbarr's,mist,west
-6,6,30,Saint Finbarr's,mist,west
-6,7,0,Saint Finbarr's,mist,west
-6,7,30,Saint Finbarr's,mist,west
-6,8,0,Saint Finbarr's,mist,west
-6,8,30,Saint Finbarr's,mist,west
-6,9,0,Saint Finbarr's,mist,west
-6,9,30,Saint Finbarr's,mist,west
-6,10,0,Saint Finbarr's,mist,west
-6,10,30,Saint Finbarr's,mist,west
-6,11,0,Saint Finbarr's,mist,west
-6,11,30,Saint Finbarr's,mist,west
-6,12,0,Saint Finbarr's,mist,west
-6,12,30,Saint Finbarr's,mist,west
-6,13,0,Saint Finbarr's,mist,west
-6,13,30,Saint Finbarr's,mist,west
-6,14,0,Saint Finbarr's,mist,west
-6,14,30,Saint Finbarr's,mist,west
-6,15,0,Saint Finbarr's,mist,west
-6,15,30,Saint Finbarr's,mist,west
-6,16,0,Saint Finbarr's,mist,west
-6,16,30,Saint Finbarr's,mist,west
-6,17,0,Saint Finbarr's,mist,west
-6,17,30,Saint Finbarr's,mist,west
-6,18,0,Saint Finbarr's,mist,west
-6,18,30,Saint Finbarr's,mist,west
-6,19,0,Saint Finbarr's,mist,west
-6,19,30,Saint Finbarr's,mist,west
-6,20,0,Saint Finbarr's,mist,west
-6,20,30,Saint Finbarr's,mist,west
-6,21,0,Saint Finbarr's,mist,west
-6,21,30,Saint Finbarr's,mist,west
-6,22,0,Saint Finbarr's,mist,west
-6,22,30,Saint Finbarr's,mist,west
-6,23,0,Saint Finbarr's,mist,west
-6,23,30,Saint Finbarr's,mist,west
-6,0,0,Merchants Quay,mist,west
-6,0,30,Merchants Quay,mist,west
-6,1,0,Merchants Quay,mist,west
-6,1,30,Merchants Quay,mist,west
-6,2,0,Merchants Quay,mist,west
-6,2,30,Merchants Quay,mist,west
-6,3,0,Merchants Quay,mist,west
-6,3,30,Merchants Quay,mist,west
-6,4,0,Merchants Quay,mist,west
-6,4,30,Merchants Quay,mist,west
-6,5,0,Merchants Quay,mist,west
-6,5,30,Merchants Quay,mist,west
-6,6,0,Merchants Quay,mist,west
-6,6,30,Merchants Quay,mist,west
-6,7,0,Merchants Quay,mist,west
-6,7,30,Merchants Quay,mist,west
-6,8,0,Merchants Quay,mist,west
-6,8,30,Merchants Quay,mist,west
-6,9,0,Merchants Quay,mist,west
-6,9,30,Merchants Quay,mist,west
-6,10,0,Merchants Quay,mist,west
-6,10,30,Merchants Quay,mist,west
-6,11,0,Merchants Quay,mist,west
-6,11,30,Merchants Quay,mist,west
-6,12,0,Merchants Quay,mist,west
-6,12,30,Merchants Quay,mist,west
-6,13,0,Merchants Quay,mist,west
-6,13,30,Merchants Quay,mist,west
-6,14,0,Merchants Quay,mist,west
-6,14,30,Merchants Quay,mist,west
-6,15,0,Merchants Quay,mist,west
-6,15,30,Merchants Quay,mist,west
-6,16,0,Merchants Quay,mist,west
-6,16,30,Merchants Quay,mist,west
-6,17,0,Merchants Quay,mist,west
-6,17,30,Merchants Quay,mist,west
-6,18,0,Merchants Quay,mist,west
-6,18,30,Merchants Quay,mist,west
-6,19,0,Merchants Quay,mist,west
-6,19,30,Merchants Quay,mist,west
-6,20,0,Merchants Quay,mist,west
-6,20,30,Merchants Quay,mist,west
-6,21,0,Merchants Quay,mist,west
-6,21,30,Merchants Quay,mist,west
-6,22,0,Merchants Quay,mist,west
-6,22,30,Merchants Quay,mist,west
-6,23,0,Merchants Quay,mist,west
-6,23,30,Merchants Quay,mist,west
-6,0,0,Grand Parade,mist,west
-6,0,30,Grand Parade,mist,west
-6,1,0,Grand Parade,mist,west
-6,1,30,Grand Parade,mist,west
-6,2,0,Grand Parade,mist,west
-6,2,30,Grand Parade,mist,west
-6,3,0,Grand Parade,mist,west
-6,3,30,Grand Parade,mist,west
-6,4,0,Grand Parade,mist,west
-6,4,30,Grand Parade,mist,west
-6,5,0,Grand Parade,mist,west
-6,5,30,Grand Parade,mist,west
-6,6,0,Grand Parade,mist,west
-6,6,30,Grand Parade,mist,west
-6,7,0,Grand Parade,mist,west
-6,7,30,Grand Parade,mist,west
-6,8,0,Grand Parade,mist,west
-6,8,30,Grand Parade,mist,west
-6,9,0,Grand Parade,mist,west
-6,9,30,Grand Parade,mist,west
-6,10,0,Grand Parade,mist,west
-6,10,30,Grand Parade,mist,west
-6,11,0,Grand Parade,mist,west
-6,11,30,Grand Parade,mist,west
-6,12,0,Grand Parade,mist,west
-6,12,30,Grand Parade,mist,west
-6,13,0,Grand Parade,mist,west
-6,13,30,Grand Parade,mist,west
-6,14,0,Grand Parade,mist,west
-6,14,30,Grand Parade,mist,west
-6,15,0,Grand Parade,mist,west
-6,15,30,Grand Parade,mist,west
-6,16,0,Grand Parade,mist,west
-6,16,30,Grand Parade,mist,west
-6,17,0,Grand Parade,mist,west
-6,17,30,Grand Parade,mist,west
-6,18,0,Grand Parade,mist,west
-6,18,30,Grand Parade,mist,west
-6,19,0,Grand Parade,mist,west
-6,19,30,Grand Parade,mist,west
-6,20,0,Grand Parade,mist,west
-6,20,30,Grand Parade,mist,west
-6,21,0,Grand Parade,mist,west
-6,21,30,Grand Parade,mist,west
-6,22,0,Grand Parade,mist,west
-6,22,30,Grand Parade,mist,west
-6,23,0,Grand Parade,mist,west
-6,23,30,Grand Parade,mist,west
-6,0,0,Carrolls Quay,mist,west
-6,0,30,Carrolls Quay,mist,west
-6,1,0,Carrolls Quay,mist,west
-6,1,30,Carrolls Quay,mist,west
-6,2,0,Carrolls Quay,mist,west
-6,2,30,Carrolls Quay,mist,west
-6,3,0,Carrolls Quay,mist,west
-6,3,30,Carrolls Quay,mist,west
-6,4,0,Carrolls Quay,mist,west
-6,4,30,Carrolls Quay,mist,west
-6,5,0,Carrolls Quay,mist,west
-6,5,30,Carrolls Quay,mist,west
-6,6,0,Carrolls Quay,mist,west
-6,6,30,Carrolls Quay,mist,west
-6,7,0,Carrolls Quay,mist,west
-6,7,30,Carrolls Quay,mist,west
-6,8,0,Carrolls Quay,mist,west
-6,8,30,Carrolls Quay,mist,west
-6,9,0,Carrolls Quay,mist,west
-6,9,30,Carrolls Quay,mist,west
-6,10,0,Carrolls Quay,mist,west
-6,10,30,Carrolls Quay,mist,west
-6,11,0,Carrolls Quay,mist,west
-6,11,30,Carrolls Quay,mist,west
-6,12,0,Carrolls Quay,mist,west
-6,12,30,Carrolls Quay,mist,west
-6,13,0,Carrolls Quay,mist,west
-6,13,30,Carrolls Quay,mist,west
-6,14,0,Carrolls Quay,mist,west
-6,14,30,Carrolls Quay,mist,west
-6,15,0,Carrolls Quay,mist,west
-6,15,30,Carrolls Quay,mist,west
-6,16,0,Carrolls Quay,mist,west
-6,16,30,Carrolls Quay,mist,west
-6,17,0,Carrolls Quay,mist,west
-6,17,30,Carrolls Quay,mist,west
-6,18,0,Carrolls Quay,mist,west
-6,18,30,Carrolls Quay,mist,west
-6,19,0,Carrolls Quay,mist,west
-6,19,30,Carrolls Quay,mist,west
-6,20,0,Carrolls Quay,mist,west
-6,20,30,Carrolls Quay,mist,west
-6,21,0,Carrolls Quay,mist,west
-6,21,30,Carrolls Quay,mist,west
-6,22,0,Carrolls Quay,mist,west
-6,22,30,Carrolls Quay,mist,west
-6,23,0,Carrolls Quay,mist,west
-6,23,30,Carrolls Quay,mist,west
-6,0,0,City Hall - Eglington Street,mist,west
-6,0,30,City Hall - Eglington Street,mist,west
-6,1,0,City Hall - Eglington Street,mist,west
-6,1,30,City Hall - Eglington Street,mist,west
-6,2,0,City Hall - Eglington Street,mist,west
-6,2,30,City Hall - Eglington Street,mist,west
-6,3,0,City Hall - Eglington Street,mist,west
-6,3,30,City Hall - Eglington Street,mist,west
-6,4,0,City Hall - Eglington Street,mist,west
-6,4,30,City Hall - Eglington Street,mist,west
-6,5,0,City Hall - Eglington Street,mist,west
-6,5,30,City Hall - Eglington Street,mist,west
-6,6,0,City Hall - Eglington Street,mist,west
-6,6,30,City Hall - Eglington Street,mist,west
-6,7,0,City Hall - Eglington Street,mist,west
-6,7,30,City Hall - Eglington Street,mist,west
-6,8,0,City Hall - Eglington Street,mist,west
-6,8,30,City Hall - Eglington Street,mist,west
-6,9,0,City Hall - Eglington Street,mist,west
-6,9,30,City Hall - Eglington Street,mist,west
-6,10,0,City Hall - Eglington Street,mist,west
-6,10,30,City Hall - Eglington Street,mist,west
-6,11,0,City Hall - Eglington Street,mist,west
-6,11,30,City Hall - Eglington Street,mist,west
-6,12,0,City Hall - Eglington Street,mist,west
-6,12,30,City Hall - Eglington Street,mist,west
-6,13,0,City Hall - Eglington Street,mist,west
-6,13,30,City Hall - Eglington Street,mist,west
-6,14,0,City Hall - Eglington Street,mist,west
-6,14,30,City Hall - Eglington Street,mist,west
-6,15,0,City Hall - Eglington Street,mist,west
-6,15,30,City Hall - Eglington Street,mist,west
-6,16,0,City Hall - Eglington Street,mist,west
-6,16,30,City Hall - Eglington Street,mist,west
-6,17,0,City Hall - Eglington Street,mist,west
-6,17,30,City Hall - Eglington Street,mist,west
-6,18,0,City Hall - Eglington Street,mist,west
-6,18,30,City Hall - Eglington Street,mist,west
-6,19,0,City Hall - Eglington Street,mist,west
-6,19,30,City Hall - Eglington Street,mist,west
-6,20,0,City Hall - Eglington Street,mist,west
-6,20,30,City Hall - Eglington Street,mist,west
-6,21,0,City Hall - Eglington Street,mist,west
-6,21,30,City Hall - Eglington Street,mist,west
-6,22,0,City Hall - Eglington Street,mist,west
-6,22,30,City Hall - Eglington Street,mist,west
-6,23,0,City Hall - Eglington Street,mist,west
-6,23,30,City Hall - Eglington Street,mist,west
-6,0,0,Black Ash Park & Ride,mist,west
-6,0,30,Black Ash Park & Ride,mist,west
-6,1,0,Black Ash Park & Ride,mist,west
-6,1,30,Black Ash Park & Ride,mist,west
-6,2,0,Black Ash Park & Ride,mist,west
-6,2,30,Black Ash Park & Ride,mist,west
-6,3,0,Black Ash Park & Ride,mist,west
-6,3,30,Black Ash Park & Ride,mist,west
-6,4,0,Black Ash Park & Ride,mist,west
-6,4,30,Black Ash Park & Ride,mist,west
-6,5,0,Black Ash Park & Ride,mist,west
-6,5,30,Black Ash Park & Ride,mist,west
-6,6,0,Black Ash Park & Ride,mist,west
-6,6,30,Black Ash Park & Ride,mist,west
-6,7,0,Black Ash Park & Ride,mist,west
-6,7,30,Black Ash Park & Ride,mist,west
-6,8,0,Black Ash Park & Ride,mist,west
-6,8,30,Black Ash Park & Ride,mist,west
-6,9,0,Black Ash Park & Ride,mist,west
-6,9,30,Black Ash Park & Ride,mist,west
-6,10,0,Black Ash Park & Ride,mist,west
-6,10,30,Black Ash Park & Ride,mist,west
-6,11,0,Black Ash Park & Ride,mist,west
-6,11,30,Black Ash Park & Ride,mist,west
-6,12,0,Black Ash Park & Ride,mist,west
-6,12,30,Black Ash Park & Ride,mist,west
-6,13,0,Black Ash Park & Ride,mist,west
-6,13,30,Black Ash Park & Ride,mist,west
-6,14,0,Black Ash Park & Ride,mist,west
-6,14,30,Black Ash Park & Ride,mist,west
-6,15,0,Black Ash Park & Ride,mist,west
-6,15,30,Black Ash Park & Ride,mist,west
-6,16,0,Black Ash Park & Ride,mist,west
-6,16,30,Black Ash Park & Ride,mist,west
-6,17,0,Black Ash Park & Ride,mist,west
-6,17,30,Black Ash Park & Ride,mist,west
-6,18,0,Black Ash Park & Ride,mist,west
-6,18,30,Black Ash Park & Ride,mist,west
-6,19,0,Black Ash Park & Ride,mist,west
-6,19,30,Black Ash Park & Ride,mist,west
-6,20,0,Black Ash Park & Ride,mist,west
-6,20,30,Black Ash Park & Ride,mist,west
-6,21,0,Black Ash Park & Ride,mist,west
-6,21,30,Black Ash Park & Ride,mist,west
-6,22,0,Black Ash Park & Ride,mist,west
-6,22,30,Black Ash Park & Ride,mist,west
-6,23,0,Black Ash Park & Ride,mist,west
-6,23,30,Black Ash Park & Ride,mist,west
-6,0,0,North Main Street,mist,west
-6,0,30,North Main Street,mist,west
-6,1,0,North Main Street,mist,west
-6,1,30,North Main Street,mist,west
-6,2,0,North Main Street,mist,west
-6,2,30,North Main Street,mist,west
-6,3,0,North Main Street,mist,west
-6,3,30,North Main Street,mist,west
-6,4,0,North Main Street,mist,west
-6,4,30,North Main Street,mist,west
-6,5,0,North Main Street,mist,west
-6,5,30,North Main Street,mist,west
-6,6,0,North Main Street,mist,west
-6,6,30,North Main Street,mist,west
-6,7,0,North Main Street,mist,west
-6,7,30,North Main Street,mist,west
-6,8,0,North Main Street,mist,west
-6,8,30,North Main Street,mist,west
-6,9,0,North Main Street,mist,west
-6,9,30,North Main Street,mist,west
-6,10,0,North Main Street,mist,west
-6,10,30,North Main Street,mist,west
-6,11,0,North Main Street,mist,west
-6,11,30,North Main Street,mist,west
-6,12,0,North Main Street,mist,west
-6,12,30,North Main Street,mist,west
-6,13,0,North Main Street,mist,west
-6,13,30,North Main Street,mist,west
-6,14,0,North Main Street,mist,west
-6,14,30,North Main Street,mist,west
-6,15,0,North Main Street,mist,west
-6,15,30,North Main Street,mist,west
-6,16,0,North Main Street,mist,west
-6,16,30,North Main Street,mist,west
-6,17,0,North Main Street,mist,west
-6,17,30,North Main Street,mist,west
-6,18,0,North Main Street,mist,west
-6,18,30,North Main Street,mist,west
-6,19,0,North Main Street,mist,west
-6,19,30,North Main Street,mist,west
-6,20,0,North Main Street,mist,west
-6,20,30,North Main Street,mist,west
-6,21,0,North Main Street,mist,west
-6,21,30,North Main Street,mist,west
-6,22,0,North Main Street,mist,west
-6,22,30,North Main Street,mist,west
-6,23,0,North Main Street,mist,west
-6,23,30,North Main Street,mist,west
-6,0,0,Paul Street,mist,west
-6,0,30,Paul Street,mist,west
-6,1,0,Paul Street,mist,west
-6,1,30,Paul Street,mist,west
-6,2,0,Paul Street,mist,west
-6,2,30,Paul Street,mist,west
-6,3,0,Paul Street,mist,west
-6,3,30,Paul Street,mist,west
-6,4,0,Paul Street,mist,west
-6,4,30,Paul Street,mist,west
-6,5,0,Paul Street,mist,west
-6,5,30,Paul Street,mist,west
-6,6,0,Paul Street,mist,west
-6,6,30,Paul Street,mist,west
-6,7,0,Paul Street,mist,west
-6,7,30,Paul Street,mist,west
-6,8,0,Paul Street,mist,west
-6,8,30,Paul Street,mist,west
-6,9,0,Paul Street,mist,west
-6,9,30,Paul Street,mist,west
-6,10,0,Paul Street,mist,west
-6,10,30,Paul Street,mist,west
-6,11,0,Paul Street,mist,west
-6,11,30,Paul Street,mist,west
-6,12,0,Paul Street,mist,west
-6,12,30,Paul Street,mist,west
-6,13,0,Paul Street,mist,west
-6,13,30,Paul Street,mist,west
-6,14,0,Paul Street,mist,west
-6,14,30,Paul Street,mist,west
-6,15,0,Paul Street,mist,west
-6,15,30,Paul Street,mist,west
-6,16,0,Paul Street,mist,west
-6,16,30,Paul Street,mist,west
-6,17,0,Paul Street,mist,west
-6,17,30,Paul Street,mist,west
-6,18,0,Paul Street,mist,west
-6,18,30,Paul Street,mist,west
-6,19,0,Paul Street,mist,west
-6,19,30,Paul Street,mist,west
-6,20,0,Paul Street,mist,west
-6,20,30,Paul Street,mist,west
-6,21,0,Paul Street,mist,west
-6,21,30,Paul Street,mist,west
-6,22,0,Paul Street,mist,west
-6,22,30,Paul Street,mist,west
-6,23,0,Paul Street,mist,west
-6,23,30,Paul Street,mist,west
+3,0,0,Saint Finbarr's,moderate rain,north
+3,0,30,Saint Finbarr's,moderate rain,north
+3,1,0,Saint Finbarr's,moderate rain,north
+3,1,30,Saint Finbarr's,moderate rain,north
+3,2,0,Saint Finbarr's,moderate rain,north
+3,2,30,Saint Finbarr's,moderate rain,north
+3,3,0,Saint Finbarr's,moderate rain,north
+3,3,30,Saint Finbarr's,moderate rain,north
+3,4,0,Saint Finbarr's,moderate rain,north
+3,4,30,Saint Finbarr's,moderate rain,north
+3,5,0,Saint Finbarr's,moderate rain,north
+3,5,30,Saint Finbarr's,moderate rain,north
+3,6,0,Saint Finbarr's,moderate rain,north
+3,6,30,Saint Finbarr's,moderate rain,north
+3,7,0,Saint Finbarr's,moderate rain,north
+3,7,30,Saint Finbarr's,moderate rain,north
+3,8,0,Saint Finbarr's,moderate rain,north
+3,8,30,Saint Finbarr's,moderate rain,north
+3,9,0,Saint Finbarr's,moderate rain,north
+3,9,30,Saint Finbarr's,moderate rain,north
+3,10,0,Saint Finbarr's,moderate rain,north
+3,10,30,Saint Finbarr's,moderate rain,north
+3,11,0,Saint Finbarr's,moderate rain,north
+3,11,30,Saint Finbarr's,moderate rain,north
+3,12,0,Saint Finbarr's,moderate rain,north
+3,12,30,Saint Finbarr's,moderate rain,north
+3,13,0,Saint Finbarr's,moderate rain,north
+3,13,30,Saint Finbarr's,moderate rain,north
+3,14,0,Saint Finbarr's,moderate rain,north
+3,14,30,Saint Finbarr's,moderate rain,north
+3,15,0,Saint Finbarr's,moderate rain,north
+3,15,30,Saint Finbarr's,moderate rain,north
+3,16,0,Saint Finbarr's,moderate rain,north
+3,16,30,Saint Finbarr's,moderate rain,north
+3,17,0,Saint Finbarr's,moderate rain,north
+3,17,30,Saint Finbarr's,moderate rain,north
+3,18,0,Saint Finbarr's,moderate rain,north
+3,18,30,Saint Finbarr's,moderate rain,north
+3,19,0,Saint Finbarr's,moderate rain,north
+3,19,30,Saint Finbarr's,moderate rain,north
+3,20,0,Saint Finbarr's,moderate rain,north
+3,20,30,Saint Finbarr's,moderate rain,north
+3,21,0,Saint Finbarr's,moderate rain,north
+3,21,30,Saint Finbarr's,moderate rain,north
+3,22,0,Saint Finbarr's,moderate rain,north
+3,22,30,Saint Finbarr's,moderate rain,north
+3,23,0,Saint Finbarr's,moderate rain,north
+3,23,30,Saint Finbarr's,moderate rain,north
+3,0,0,Merchants Quay,moderate rain,north
+3,0,30,Merchants Quay,moderate rain,north
+3,1,0,Merchants Quay,moderate rain,north
+3,1,30,Merchants Quay,moderate rain,north
+3,2,0,Merchants Quay,moderate rain,north
+3,2,30,Merchants Quay,moderate rain,north
+3,3,0,Merchants Quay,moderate rain,north
+3,3,30,Merchants Quay,moderate rain,north
+3,4,0,Merchants Quay,moderate rain,north
+3,4,30,Merchants Quay,moderate rain,north
+3,5,0,Merchants Quay,moderate rain,north
+3,5,30,Merchants Quay,moderate rain,north
+3,6,0,Merchants Quay,moderate rain,north
+3,6,30,Merchants Quay,moderate rain,north
+3,7,0,Merchants Quay,moderate rain,north
+3,7,30,Merchants Quay,moderate rain,north
+3,8,0,Merchants Quay,moderate rain,north
+3,8,30,Merchants Quay,moderate rain,north
+3,9,0,Merchants Quay,moderate rain,north
+3,9,30,Merchants Quay,moderate rain,north
+3,10,0,Merchants Quay,moderate rain,north
+3,10,30,Merchants Quay,moderate rain,north
+3,11,0,Merchants Quay,moderate rain,north
+3,11,30,Merchants Quay,moderate rain,north
+3,12,0,Merchants Quay,moderate rain,north
+3,12,30,Merchants Quay,moderate rain,north
+3,13,0,Merchants Quay,moderate rain,north
+3,13,30,Merchants Quay,moderate rain,north
+3,14,0,Merchants Quay,moderate rain,north
+3,14,30,Merchants Quay,moderate rain,north
+3,15,0,Merchants Quay,moderate rain,north
+3,15,30,Merchants Quay,moderate rain,north
+3,16,0,Merchants Quay,moderate rain,north
+3,16,30,Merchants Quay,moderate rain,north
+3,17,0,Merchants Quay,moderate rain,north
+3,17,30,Merchants Quay,moderate rain,north
+3,18,0,Merchants Quay,moderate rain,north
+3,18,30,Merchants Quay,moderate rain,north
+3,19,0,Merchants Quay,moderate rain,north
+3,19,30,Merchants Quay,moderate rain,north
+3,20,0,Merchants Quay,moderate rain,north
+3,20,30,Merchants Quay,moderate rain,north
+3,21,0,Merchants Quay,moderate rain,north
+3,21,30,Merchants Quay,moderate rain,north
+3,22,0,Merchants Quay,moderate rain,north
+3,22,30,Merchants Quay,moderate rain,north
+3,23,0,Merchants Quay,moderate rain,north
+3,23,30,Merchants Quay,moderate rain,north
+3,0,0,Grand Parade,moderate rain,north
+3,0,30,Grand Parade,moderate rain,north
+3,1,0,Grand Parade,moderate rain,north
+3,1,30,Grand Parade,moderate rain,north
+3,2,0,Grand Parade,moderate rain,north
+3,2,30,Grand Parade,moderate rain,north
+3,3,0,Grand Parade,moderate rain,north
+3,3,30,Grand Parade,moderate rain,north
+3,4,0,Grand Parade,moderate rain,north
+3,4,30,Grand Parade,moderate rain,north
+3,5,0,Grand Parade,moderate rain,north
+3,5,30,Grand Parade,moderate rain,north
+3,6,0,Grand Parade,moderate rain,north
+3,6,30,Grand Parade,moderate rain,north
+3,7,0,Grand Parade,moderate rain,north
+3,7,30,Grand Parade,moderate rain,north
+3,8,0,Grand Parade,moderate rain,north
+3,8,30,Grand Parade,moderate rain,north
+3,9,0,Grand Parade,moderate rain,north
+3,9,30,Grand Parade,moderate rain,north
+3,10,0,Grand Parade,moderate rain,north
+3,10,30,Grand Parade,moderate rain,north
+3,11,0,Grand Parade,moderate rain,north
+3,11,30,Grand Parade,moderate rain,north
+3,12,0,Grand Parade,moderate rain,north
+3,12,30,Grand Parade,moderate rain,north
+3,13,0,Grand Parade,moderate rain,north
+3,13,30,Grand Parade,moderate rain,north
+3,14,0,Grand Parade,moderate rain,north
+3,14,30,Grand Parade,moderate rain,north
+3,15,0,Grand Parade,moderate rain,north
+3,15,30,Grand Parade,moderate rain,north
+3,16,0,Grand Parade,moderate rain,north
+3,16,30,Grand Parade,moderate rain,north
+3,17,0,Grand Parade,moderate rain,north
+3,17,30,Grand Parade,moderate rain,north
+3,18,0,Grand Parade,moderate rain,north
+3,18,30,Grand Parade,moderate rain,north
+3,19,0,Grand Parade,moderate rain,north
+3,19,30,Grand Parade,moderate rain,north
+3,20,0,Grand Parade,moderate rain,north
+3,20,30,Grand Parade,moderate rain,north
+3,21,0,Grand Parade,moderate rain,north
+3,21,30,Grand Parade,moderate rain,north
+3,22,0,Grand Parade,moderate rain,north
+3,22,30,Grand Parade,moderate rain,north
+3,23,0,Grand Parade,moderate rain,north
+3,23,30,Grand Parade,moderate rain,north
+3,0,0,Carrolls Quay,moderate rain,north
+3,0,30,Carrolls Quay,moderate rain,north
+3,1,0,Carrolls Quay,moderate rain,north
+3,1,30,Carrolls Quay,moderate rain,north
+3,2,0,Carrolls Quay,moderate rain,north
+3,2,30,Carrolls Quay,moderate rain,north
+3,3,0,Carrolls Quay,moderate rain,north
+3,3,30,Carrolls Quay,moderate rain,north
+3,4,0,Carrolls Quay,moderate rain,north
+3,4,30,Carrolls Quay,moderate rain,north
+3,5,0,Carrolls Quay,moderate rain,north
+3,5,30,Carrolls Quay,moderate rain,north
+3,6,0,Carrolls Quay,moderate rain,north
+3,6,30,Carrolls Quay,moderate rain,north
+3,7,0,Carrolls Quay,moderate rain,north
+3,7,30,Carrolls Quay,moderate rain,north
+3,8,0,Carrolls Quay,moderate rain,north
+3,8,30,Carrolls Quay,moderate rain,north
+3,9,0,Carrolls Quay,moderate rain,north
+3,9,30,Carrolls Quay,moderate rain,north
+3,10,0,Carrolls Quay,moderate rain,north
+3,10,30,Carrolls Quay,moderate rain,north
+3,11,0,Carrolls Quay,moderate rain,north
+3,11,30,Carrolls Quay,moderate rain,north
+3,12,0,Carrolls Quay,moderate rain,north
+3,12,30,Carrolls Quay,moderate rain,north
+3,13,0,Carrolls Quay,moderate rain,north
+3,13,30,Carrolls Quay,moderate rain,north
+3,14,0,Carrolls Quay,moderate rain,north
+3,14,30,Carrolls Quay,moderate rain,north
+3,15,0,Carrolls Quay,moderate rain,north
+3,15,30,Carrolls Quay,moderate rain,north
+3,16,0,Carrolls Quay,moderate rain,north
+3,16,30,Carrolls Quay,moderate rain,north
+3,17,0,Carrolls Quay,moderate rain,north
+3,17,30,Carrolls Quay,moderate rain,north
+3,18,0,Carrolls Quay,moderate rain,north
+3,18,30,Carrolls Quay,moderate rain,north
+3,19,0,Carrolls Quay,moderate rain,north
+3,19,30,Carrolls Quay,moderate rain,north
+3,20,0,Carrolls Quay,moderate rain,north
+3,20,30,Carrolls Quay,moderate rain,north
+3,21,0,Carrolls Quay,moderate rain,north
+3,21,30,Carrolls Quay,moderate rain,north
+3,22,0,Carrolls Quay,moderate rain,north
+3,22,30,Carrolls Quay,moderate rain,north
+3,23,0,Carrolls Quay,moderate rain,north
+3,23,30,Carrolls Quay,moderate rain,north
+3,0,0,City Hall - Eglington Street,moderate rain,north
+3,0,30,City Hall - Eglington Street,moderate rain,north
+3,1,0,City Hall - Eglington Street,moderate rain,north
+3,1,30,City Hall - Eglington Street,moderate rain,north
+3,2,0,City Hall - Eglington Street,moderate rain,north
+3,2,30,City Hall - Eglington Street,moderate rain,north
+3,3,0,City Hall - Eglington Street,moderate rain,north
+3,3,30,City Hall - Eglington Street,moderate rain,north
+3,4,0,City Hall - Eglington Street,moderate rain,north
+3,4,30,City Hall - Eglington Street,moderate rain,north
+3,5,0,City Hall - Eglington Street,moderate rain,north
+3,5,30,City Hall - Eglington Street,moderate rain,north
+3,6,0,City Hall - Eglington Street,moderate rain,north
+3,6,30,City Hall - Eglington Street,moderate rain,north
+3,7,0,City Hall - Eglington Street,moderate rain,north
+3,7,30,City Hall - Eglington Street,moderate rain,north
+3,8,0,City Hall - Eglington Street,moderate rain,north
+3,8,30,City Hall - Eglington Street,moderate rain,north
+3,9,0,City Hall - Eglington Street,moderate rain,north
+3,9,30,City Hall - Eglington Street,moderate rain,north
+3,10,0,City Hall - Eglington Street,moderate rain,north
+3,10,30,City Hall - Eglington Street,moderate rain,north
+3,11,0,City Hall - Eglington Street,moderate rain,north
+3,11,30,City Hall - Eglington Street,moderate rain,north
+3,12,0,City Hall - Eglington Street,moderate rain,north
+3,12,30,City Hall - Eglington Street,moderate rain,north
+3,13,0,City Hall - Eglington Street,moderate rain,north
+3,13,30,City Hall - Eglington Street,moderate rain,north
+3,14,0,City Hall - Eglington Street,moderate rain,north
+3,14,30,City Hall - Eglington Street,moderate rain,north
+3,15,0,City Hall - Eglington Street,moderate rain,north
+3,15,30,City Hall - Eglington Street,moderate rain,north
+3,16,0,City Hall - Eglington Street,moderate rain,north
+3,16,30,City Hall - Eglington Street,moderate rain,north
+3,17,0,City Hall - Eglington Street,moderate rain,north
+3,17,30,City Hall - Eglington Street,moderate rain,north
+3,18,0,City Hall - Eglington Street,moderate rain,north
+3,18,30,City Hall - Eglington Street,moderate rain,north
+3,19,0,City Hall - Eglington Street,moderate rain,north
+3,19,30,City Hall - Eglington Street,moderate rain,north
+3,20,0,City Hall - Eglington Street,moderate rain,north
+3,20,30,City Hall - Eglington Street,moderate rain,north
+3,21,0,City Hall - Eglington Street,moderate rain,north
+3,21,30,City Hall - Eglington Street,moderate rain,north
+3,22,0,City Hall - Eglington Street,moderate rain,north
+3,22,30,City Hall - Eglington Street,moderate rain,north
+3,23,0,City Hall - Eglington Street,moderate rain,north
+3,23,30,City Hall - Eglington Street,moderate rain,north
+3,0,0,Black Ash Park & Ride,moderate rain,north
+3,0,30,Black Ash Park & Ride,moderate rain,north
+3,1,0,Black Ash Park & Ride,moderate rain,north
+3,1,30,Black Ash Park & Ride,moderate rain,north
+3,2,0,Black Ash Park & Ride,moderate rain,north
+3,2,30,Black Ash Park & Ride,moderate rain,north
+3,3,0,Black Ash Park & Ride,moderate rain,north
+3,3,30,Black Ash Park & Ride,moderate rain,north
+3,4,0,Black Ash Park & Ride,moderate rain,north
+3,4,30,Black Ash Park & Ride,moderate rain,north
+3,5,0,Black Ash Park & Ride,moderate rain,north
+3,5,30,Black Ash Park & Ride,moderate rain,north
+3,6,0,Black Ash Park & Ride,moderate rain,north
+3,6,30,Black Ash Park & Ride,moderate rain,north
+3,7,0,Black Ash Park & Ride,moderate rain,north
+3,7,30,Black Ash Park & Ride,moderate rain,north
+3,8,0,Black Ash Park & Ride,moderate rain,north
+3,8,30,Black Ash Park & Ride,moderate rain,north
+3,9,0,Black Ash Park & Ride,moderate rain,north
+3,9,30,Black Ash Park & Ride,moderate rain,north
+3,10,0,Black Ash Park & Ride,moderate rain,north
+3,10,30,Black Ash Park & Ride,moderate rain,north
+3,11,0,Black Ash Park & Ride,moderate rain,north
+3,11,30,Black Ash Park & Ride,moderate rain,north
+3,12,0,Black Ash Park & Ride,moderate rain,north
+3,12,30,Black Ash Park & Ride,moderate rain,north
+3,13,0,Black Ash Park & Ride,moderate rain,north
+3,13,30,Black Ash Park & Ride,moderate rain,north
+3,14,0,Black Ash Park & Ride,moderate rain,north
+3,14,30,Black Ash Park & Ride,moderate rain,north
+3,15,0,Black Ash Park & Ride,moderate rain,north
+3,15,30,Black Ash Park & Ride,moderate rain,north
+3,16,0,Black Ash Park & Ride,moderate rain,north
+3,16,30,Black Ash Park & Ride,moderate rain,north
+3,17,0,Black Ash Park & Ride,moderate rain,north
+3,17,30,Black Ash Park & Ride,moderate rain,north
+3,18,0,Black Ash Park & Ride,moderate rain,north
+3,18,30,Black Ash Park & Ride,moderate rain,north
+3,19,0,Black Ash Park & Ride,moderate rain,north
+3,19,30,Black Ash Park & Ride,moderate rain,north
+3,20,0,Black Ash Park & Ride,moderate rain,north
+3,20,30,Black Ash Park & Ride,moderate rain,north
+3,21,0,Black Ash Park & Ride,moderate rain,north
+3,21,30,Black Ash Park & Ride,moderate rain,north
+3,22,0,Black Ash Park & Ride,moderate rain,north
+3,22,30,Black Ash Park & Ride,moderate rain,north
+3,23,0,Black Ash Park & Ride,moderate rain,north
+3,23,30,Black Ash Park & Ride,moderate rain,north
+3,0,0,North Main Street,moderate rain,north
+3,0,30,North Main Street,moderate rain,north
+3,1,0,North Main Street,moderate rain,north
+3,1,30,North Main Street,moderate rain,north
+3,2,0,North Main Street,moderate rain,north
+3,2,30,North Main Street,moderate rain,north
+3,3,0,North Main Street,moderate rain,north
+3,3,30,North Main Street,moderate rain,north
+3,4,0,North Main Street,moderate rain,north
+3,4,30,North Main Street,moderate rain,north
+3,5,0,North Main Street,moderate rain,north
+3,5,30,North Main Street,moderate rain,north
+3,6,0,North Main Street,moderate rain,north
+3,6,30,North Main Street,moderate rain,north
+3,7,0,North Main Street,moderate rain,north
+3,7,30,North Main Street,moderate rain,north
+3,8,0,North Main Street,moderate rain,north
+3,8,30,North Main Street,moderate rain,north
+3,9,0,North Main Street,moderate rain,north
+3,9,30,North Main Street,moderate rain,north
+3,10,0,North Main Street,moderate rain,north
+3,10,30,North Main Street,moderate rain,north
+3,11,0,North Main Street,moderate rain,north
+3,11,30,North Main Street,moderate rain,north
+3,12,0,North Main Street,moderate rain,north
+3,12,30,North Main Street,moderate rain,north
+3,13,0,North Main Street,moderate rain,north
+3,13,30,North Main Street,moderate rain,north
+3,14,0,North Main Street,moderate rain,north
+3,14,30,North Main Street,moderate rain,north
+3,15,0,North Main Street,moderate rain,north
+3,15,30,North Main Street,moderate rain,north
+3,16,0,North Main Street,moderate rain,north
+3,16,30,North Main Street,moderate rain,north
+3,17,0,North Main Street,moderate rain,north
+3,17,30,North Main Street,moderate rain,north
+3,18,0,North Main Street,moderate rain,north
+3,18,30,North Main Street,moderate rain,north
+3,19,0,North Main Street,moderate rain,north
+3,19,30,North Main Street,moderate rain,north
+3,20,0,North Main Street,moderate rain,north
+3,20,30,North Main Street,moderate rain,north
+3,21,0,North Main Street,moderate rain,north
+3,21,30,North Main Street,moderate rain,north
+3,22,0,North Main Street,moderate rain,north
+3,22,30,North Main Street,moderate rain,north
+3,23,0,North Main Street,moderate rain,north
+3,23,30,North Main Street,moderate rain,north
+3,0,0,Paul Street,moderate rain,north
+3,0,30,Paul Street,moderate rain,north
+3,1,0,Paul Street,moderate rain,north
+3,1,30,Paul Street,moderate rain,north
+3,2,0,Paul Street,moderate rain,north
+3,2,30,Paul Street,moderate rain,north
+3,3,0,Paul Street,moderate rain,north
+3,3,30,Paul Street,moderate rain,north
+3,4,0,Paul Street,moderate rain,north
+3,4,30,Paul Street,moderate rain,north
+3,5,0,Paul Street,moderate rain,north
+3,5,30,Paul Street,moderate rain,north
+3,6,0,Paul Street,moderate rain,north
+3,6,30,Paul Street,moderate rain,north
+3,7,0,Paul Street,moderate rain,north
+3,7,30,Paul Street,moderate rain,north
+3,8,0,Paul Street,moderate rain,north
+3,8,30,Paul Street,moderate rain,north
+3,9,0,Paul Street,moderate rain,north
+3,9,30,Paul Street,moderate rain,north
+3,10,0,Paul Street,moderate rain,north
+3,10,30,Paul Street,moderate rain,north
+3,11,0,Paul Street,moderate rain,north
+3,11,30,Paul Street,moderate rain,north
+3,12,0,Paul Street,moderate rain,north
+3,12,30,Paul Street,moderate rain,north
+3,13,0,Paul Street,moderate rain,north
+3,13,30,Paul Street,moderate rain,north
+3,14,0,Paul Street,moderate rain,north
+3,14,30,Paul Street,moderate rain,north
+3,15,0,Paul Street,moderate rain,north
+3,15,30,Paul Street,moderate rain,north
+3,16,0,Paul Street,moderate rain,north
+3,16,30,Paul Street,moderate rain,north
+3,17,0,Paul Street,moderate rain,north
+3,17,30,Paul Street,moderate rain,north
+3,18,0,Paul Street,moderate rain,north
+3,18,30,Paul Street,moderate rain,north
+3,19,0,Paul Street,moderate rain,north
+3,19,30,Paul Street,moderate rain,north
+3,20,0,Paul Street,moderate rain,north
+3,20,30,Paul Street,moderate rain,north
+3,21,0,Paul Street,moderate rain,north
+3,21,30,Paul Street,moderate rain,north
+3,22,0,Paul Street,moderate rain,north
+3,22,30,Paul Street,moderate rain,north
+3,23,0,Paul Street,moderate rain,north
+3,23,30,Paul Street,moderate rain,north
+3,0,0,Saint Finbarr's,moderate rain,south
+3,0,30,Saint Finbarr's,moderate rain,south
+3,1,0,Saint Finbarr's,moderate rain,south
+3,1,30,Saint Finbarr's,moderate rain,south
+3,2,0,Saint Finbarr's,moderate rain,south
+3,2,30,Saint Finbarr's,moderate rain,south
+3,3,0,Saint Finbarr's,moderate rain,south
+3,3,30,Saint Finbarr's,moderate rain,south
+3,4,0,Saint Finbarr's,moderate rain,south
+3,4,30,Saint Finbarr's,moderate rain,south
+3,5,0,Saint Finbarr's,moderate rain,south
+3,5,30,Saint Finbarr's,moderate rain,south
+3,6,0,Saint Finbarr's,moderate rain,south
+3,6,30,Saint Finbarr's,moderate rain,south
+3,7,0,Saint Finbarr's,moderate rain,south
+3,7,30,Saint Finbarr's,moderate rain,south
+3,8,0,Saint Finbarr's,moderate rain,south
+3,8,30,Saint Finbarr's,moderate rain,south
+3,9,0,Saint Finbarr's,moderate rain,south
+3,9,30,Saint Finbarr's,moderate rain,south
+3,10,0,Saint Finbarr's,moderate rain,south
+3,10,30,Saint Finbarr's,moderate rain,south
+3,11,0,Saint Finbarr's,moderate rain,south
+3,11,30,Saint Finbarr's,moderate rain,south
+3,12,0,Saint Finbarr's,moderate rain,south
+3,12,30,Saint Finbarr's,moderate rain,south
+3,13,0,Saint Finbarr's,moderate rain,south
+3,13,30,Saint Finbarr's,moderate rain,south
+3,14,0,Saint Finbarr's,moderate rain,south
+3,14,30,Saint Finbarr's,moderate rain,south
+3,15,0,Saint Finbarr's,moderate rain,south
+3,15,30,Saint Finbarr's,moderate rain,south
+3,16,0,Saint Finbarr's,moderate rain,south
+3,16,30,Saint Finbarr's,moderate rain,south
+3,17,0,Saint Finbarr's,moderate rain,south
+3,17,30,Saint Finbarr's,moderate rain,south
+3,18,0,Saint Finbarr's,moderate rain,south
+3,18,30,Saint Finbarr's,moderate rain,south
+3,19,0,Saint Finbarr's,moderate rain,south
+3,19,30,Saint Finbarr's,moderate rain,south
+3,20,0,Saint Finbarr's,moderate rain,south
+3,20,30,Saint Finbarr's,moderate rain,south
+3,21,0,Saint Finbarr's,moderate rain,south
+3,21,30,Saint Finbarr's,moderate rain,south
+3,22,0,Saint Finbarr's,moderate rain,south
+3,22,30,Saint Finbarr's,moderate rain,south
+3,23,0,Saint Finbarr's,moderate rain,south
+3,23,30,Saint Finbarr's,moderate rain,south
+3,0,0,Merchants Quay,moderate rain,south
+3,0,30,Merchants Quay,moderate rain,south
+3,1,0,Merchants Quay,moderate rain,south
+3,1,30,Merchants Quay,moderate rain,south
+3,2,0,Merchants Quay,moderate rain,south
+3,2,30,Merchants Quay,moderate rain,south
+3,3,0,Merchants Quay,moderate rain,south
+3,3,30,Merchants Quay,moderate rain,south
+3,4,0,Merchants Quay,moderate rain,south
+3,4,30,Merchants Quay,moderate rain,south
+3,5,0,Merchants Quay,moderate rain,south
+3,5,30,Merchants Quay,moderate rain,south
+3,6,0,Merchants Quay,moderate rain,south
+3,6,30,Merchants Quay,moderate rain,south
+3,7,0,Merchants Quay,moderate rain,south
+3,7,30,Merchants Quay,moderate rain,south
+3,8,0,Merchants Quay,moderate rain,south
+3,8,30,Merchants Quay,moderate rain,south
+3,9,0,Merchants Quay,moderate rain,south
+3,9,30,Merchants Quay,moderate rain,south
+3,10,0,Merchants Quay,moderate rain,south
+3,10,30,Merchants Quay,moderate rain,south
+3,11,0,Merchants Quay,moderate rain,south
+3,11,30,Merchants Quay,moderate rain,south
+3,12,0,Merchants Quay,moderate rain,south
+3,12,30,Merchants Quay,moderate rain,south
+3,13,0,Merchants Quay,moderate rain,south
+3,13,30,Merchants Quay,moderate rain,south
+3,14,0,Merchants Quay,moderate rain,south
+3,14,30,Merchants Quay,moderate rain,south
+3,15,0,Merchants Quay,moderate rain,south
+3,15,30,Merchants Quay,moderate rain,south
+3,16,0,Merchants Quay,moderate rain,south
+3,16,30,Merchants Quay,moderate rain,south
+3,17,0,Merchants Quay,moderate rain,south
+3,17,30,Merchants Quay,moderate rain,south
+3,18,0,Merchants Quay,moderate rain,south
+3,18,30,Merchants Quay,moderate rain,south
+3,19,0,Merchants Quay,moderate rain,south
+3,19,30,Merchants Quay,moderate rain,south
+3,20,0,Merchants Quay,moderate rain,south
+3,20,30,Merchants Quay,moderate rain,south
+3,21,0,Merchants Quay,moderate rain,south
+3,21,30,Merchants Quay,moderate rain,south
+3,22,0,Merchants Quay,moderate rain,south
+3,22,30,Merchants Quay,moderate rain,south
+3,23,0,Merchants Quay,moderate rain,south
+3,23,30,Merchants Quay,moderate rain,south
+3,0,0,Grand Parade,moderate rain,south
+3,0,30,Grand Parade,moderate rain,south
+3,1,0,Grand Parade,moderate rain,south
+3,1,30,Grand Parade,moderate rain,south
+3,2,0,Grand Parade,moderate rain,south
+3,2,30,Grand Parade,moderate rain,south
+3,3,0,Grand Parade,moderate rain,south
+3,3,30,Grand Parade,moderate rain,south
+3,4,0,Grand Parade,moderate rain,south
+3,4,30,Grand Parade,moderate rain,south
+3,5,0,Grand Parade,moderate rain,south
+3,5,30,Grand Parade,moderate rain,south
+3,6,0,Grand Parade,moderate rain,south
+3,6,30,Grand Parade,moderate rain,south
+3,7,0,Grand Parade,moderate rain,south
+3,7,30,Grand Parade,moderate rain,south
+3,8,0,Grand Parade,moderate rain,south
+3,8,30,Grand Parade,moderate rain,south
+3,9,0,Grand Parade,moderate rain,south
+3,9,30,Grand Parade,moderate rain,south
+3,10,0,Grand Parade,moderate rain,south
+3,10,30,Grand Parade,moderate rain,south
+3,11,0,Grand Parade,moderate rain,south
+3,11,30,Grand Parade,moderate rain,south
+3,12,0,Grand Parade,moderate rain,south
+3,12,30,Grand Parade,moderate rain,south
+3,13,0,Grand Parade,moderate rain,south
+3,13,30,Grand Parade,moderate rain,south
+3,14,0,Grand Parade,moderate rain,south
+3,14,30,Grand Parade,moderate rain,south
+3,15,0,Grand Parade,moderate rain,south
+3,15,30,Grand Parade,moderate rain,south
+3,16,0,Grand Parade,moderate rain,south
+3,16,30,Grand Parade,moderate rain,south
+3,17,0,Grand Parade,moderate rain,south
+3,17,30,Grand Parade,moderate rain,south
+3,18,0,Grand Parade,moderate rain,south
+3,18,30,Grand Parade,moderate rain,south
+3,19,0,Grand Parade,moderate rain,south
+3,19,30,Grand Parade,moderate rain,south
+3,20,0,Grand Parade,moderate rain,south
+3,20,30,Grand Parade,moderate rain,south
+3,21,0,Grand Parade,moderate rain,south
+3,21,30,Grand Parade,moderate rain,south
+3,22,0,Grand Parade,moderate rain,south
+3,22,30,Grand Parade,moderate rain,south
+3,23,0,Grand Parade,moderate rain,south
+3,23,30,Grand Parade,moderate rain,south
+3,0,0,Carrolls Quay,moderate rain,south
+3,0,30,Carrolls Quay,moderate rain,south
+3,1,0,Carrolls Quay,moderate rain,south
+3,1,30,Carrolls Quay,moderate rain,south
+3,2,0,Carrolls Quay,moderate rain,south
+3,2,30,Carrolls Quay,moderate rain,south
+3,3,0,Carrolls Quay,moderate rain,south
+3,3,30,Carrolls Quay,moderate rain,south
+3,4,0,Carrolls Quay,moderate rain,south
+3,4,30,Carrolls Quay,moderate rain,south
+3,5,0,Carrolls Quay,moderate rain,south
+3,5,30,Carrolls Quay,moderate rain,south
+3,6,0,Carrolls Quay,moderate rain,south
+3,6,30,Carrolls Quay,moderate rain,south
+3,7,0,Carrolls Quay,moderate rain,south
+3,7,30,Carrolls Quay,moderate rain,south
+3,8,0,Carrolls Quay,moderate rain,south
+3,8,30,Carrolls Quay,moderate rain,south
+3,9,0,Carrolls Quay,moderate rain,south
+3,9,30,Carrolls Quay,moderate rain,south
+3,10,0,Carrolls Quay,moderate rain,south
+3,10,30,Carrolls Quay,moderate rain,south
+3,11,0,Carrolls Quay,moderate rain,south
+3,11,30,Carrolls Quay,moderate rain,south
+3,12,0,Carrolls Quay,moderate rain,south
+3,12,30,Carrolls Quay,moderate rain,south
+3,13,0,Carrolls Quay,moderate rain,south
+3,13,30,Carrolls Quay,moderate rain,south
+3,14,0,Carrolls Quay,moderate rain,south
+3,14,30,Carrolls Quay,moderate rain,south
+3,15,0,Carrolls Quay,moderate rain,south
+3,15,30,Carrolls Quay,moderate rain,south
+3,16,0,Carrolls Quay,moderate rain,south
+3,16,30,Carrolls Quay,moderate rain,south
+3,17,0,Carrolls Quay,moderate rain,south
+3,17,30,Carrolls Quay,moderate rain,south
+3,18,0,Carrolls Quay,moderate rain,south
+3,18,30,Carrolls Quay,moderate rain,south
+3,19,0,Carrolls Quay,moderate rain,south
+3,19,30,Carrolls Quay,moderate rain,south
+3,20,0,Carrolls Quay,moderate rain,south
+3,20,30,Carrolls Quay,moderate rain,south
+3,21,0,Carrolls Quay,moderate rain,south
+3,21,30,Carrolls Quay,moderate rain,south
+3,22,0,Carrolls Quay,moderate rain,south
+3,22,30,Carrolls Quay,moderate rain,south
+3,23,0,Carrolls Quay,moderate rain,south
+3,23,30,Carrolls Quay,moderate rain,south
+3,0,0,City Hall - Eglington Street,moderate rain,south
+3,0,30,City Hall - Eglington Street,moderate rain,south
+3,1,0,City Hall - Eglington Street,moderate rain,south
+3,1,30,City Hall - Eglington Street,moderate rain,south
+3,2,0,City Hall - Eglington Street,moderate rain,south
+3,2,30,City Hall - Eglington Street,moderate rain,south
+3,3,0,City Hall - Eglington Street,moderate rain,south
+3,3,30,City Hall - Eglington Street,moderate rain,south
+3,4,0,City Hall - Eglington Street,moderate rain,south
+3,4,30,City Hall - Eglington Street,moderate rain,south
+3,5,0,City Hall - Eglington Street,moderate rain,south
+3,5,30,City Hall - Eglington Street,moderate rain,south
+3,6,0,City Hall - Eglington Street,moderate rain,south
+3,6,30,City Hall - Eglington Street,moderate rain,south
+3,7,0,City Hall - Eglington Street,moderate rain,south
+3,7,30,City Hall - Eglington Street,moderate rain,south
+3,8,0,City Hall - Eglington Street,moderate rain,south
+3,8,30,City Hall - Eglington Street,moderate rain,south
+3,9,0,City Hall - Eglington Street,moderate rain,south
+3,9,30,City Hall - Eglington Street,moderate rain,south
+3,10,0,City Hall - Eglington Street,moderate rain,south
+3,10,30,City Hall - Eglington Street,moderate rain,south
+3,11,0,City Hall - Eglington Street,moderate rain,south
+3,11,30,City Hall - Eglington Street,moderate rain,south
+3,12,0,City Hall - Eglington Street,moderate rain,south
+3,12,30,City Hall - Eglington Street,moderate rain,south
+3,13,0,City Hall - Eglington Street,moderate rain,south
+3,13,30,City Hall - Eglington Street,moderate rain,south
+3,14,0,City Hall - Eglington Street,moderate rain,south
+3,14,30,City Hall - Eglington Street,moderate rain,south
+3,15,0,City Hall - Eglington Street,moderate rain,south
+3,15,30,City Hall - Eglington Street,moderate rain,south
+3,16,0,City Hall - Eglington Street,moderate rain,south
+3,16,30,City Hall - Eglington Street,moderate rain,south
+3,17,0,City Hall - Eglington Street,moderate rain,south
+3,17,30,City Hall - Eglington Street,moderate rain,south
+3,18,0,City Hall - Eglington Street,moderate rain,south
+3,18,30,City Hall - Eglington Street,moderate rain,south
+3,19,0,City Hall - Eglington Street,moderate rain,south
+3,19,30,City Hall - Eglington Street,moderate rain,south
+3,20,0,City Hall - Eglington Street,moderate rain,south
+3,20,30,City Hall - Eglington Street,moderate rain,south
+3,21,0,City Hall - Eglington Street,moderate rain,south
+3,21,30,City Hall - Eglington Street,moderate rain,south
+3,22,0,City Hall - Eglington Street,moderate rain,south
+3,22,30,City Hall - Eglington Street,moderate rain,south
+3,23,0,City Hall - Eglington Street,moderate rain,south
+3,23,30,City Hall - Eglington Street,moderate rain,south
+3,0,0,Black Ash Park & Ride,moderate rain,south
+3,0,30,Black Ash Park & Ride,moderate rain,south
+3,1,0,Black Ash Park & Ride,moderate rain,south
+3,1,30,Black Ash Park & Ride,moderate rain,south
+3,2,0,Black Ash Park & Ride,moderate rain,south
+3,2,30,Black Ash Park & Ride,moderate rain,south
+3,3,0,Black Ash Park & Ride,moderate rain,south
+3,3,30,Black Ash Park & Ride,moderate rain,south
+3,4,0,Black Ash Park & Ride,moderate rain,south
+3,4,30,Black Ash Park & Ride,moderate rain,south
+3,5,0,Black Ash Park & Ride,moderate rain,south
+3,5,30,Black Ash Park & Ride,moderate rain,south
+3,6,0,Black Ash Park & Ride,moderate rain,south
+3,6,30,Black Ash Park & Ride,moderate rain,south
+3,7,0,Black Ash Park & Ride,moderate rain,south
+3,7,30,Black Ash Park & Ride,moderate rain,south
+3,8,0,Black Ash Park & Ride,moderate rain,south
+3,8,30,Black Ash Park & Ride,moderate rain,south
+3,9,0,Black Ash Park & Ride,moderate rain,south
+3,9,30,Black Ash Park & Ride,moderate rain,south
+3,10,0,Black Ash Park & Ride,moderate rain,south
+3,10,30,Black Ash Park & Ride,moderate rain,south
+3,11,0,Black Ash Park & Ride,moderate rain,south
+3,11,30,Black Ash Park & Ride,moderate rain,south
+3,12,0,Black Ash Park & Ride,moderate rain,south
+3,12,30,Black Ash Park & Ride,moderate rain,south
+3,13,0,Black Ash Park & Ride,moderate rain,south
+3,13,30,Black Ash Park & Ride,moderate rain,south
+3,14,0,Black Ash Park & Ride,moderate rain,south
+3,14,30,Black Ash Park & Ride,moderate rain,south
+3,15,0,Black Ash Park & Ride,moderate rain,south
+3,15,30,Black Ash Park & Ride,moderate rain,south
+3,16,0,Black Ash Park & Ride,moderate rain,south
+3,16,30,Black Ash Park & Ride,moderate rain,south
+3,17,0,Black Ash Park & Ride,moderate rain,south
+3,17,30,Black Ash Park & Ride,moderate rain,south
+3,18,0,Black Ash Park & Ride,moderate rain,south
+3,18,30,Black Ash Park & Ride,moderate rain,south
+3,19,0,Black Ash Park & Ride,moderate rain,south
+3,19,30,Black Ash Park & Ride,moderate rain,south
+3,20,0,Black Ash Park & Ride,moderate rain,south
+3,20,30,Black Ash Park & Ride,moderate rain,south
+3,21,0,Black Ash Park & Ride,moderate rain,south
+3,21,30,Black Ash Park & Ride,moderate rain,south
+3,22,0,Black Ash Park & Ride,moderate rain,south
+3,22,30,Black Ash Park & Ride,moderate rain,south
+3,23,0,Black Ash Park & Ride,moderate rain,south
+3,23,30,Black Ash Park & Ride,moderate rain,south
+3,0,0,North Main Street,moderate rain,south
+3,0,30,North Main Street,moderate rain,south
+3,1,0,North Main Street,moderate rain,south
+3,1,30,North Main Street,moderate rain,south
+3,2,0,North Main Street,moderate rain,south
+3,2,30,North Main Street,moderate rain,south
+3,3,0,North Main Street,moderate rain,south
+3,3,30,North Main Street,moderate rain,south
+3,4,0,North Main Street,moderate rain,south
+3,4,30,North Main Street,moderate rain,south
+3,5,0,North Main Street,moderate rain,south
+3,5,30,North Main Street,moderate rain,south
+3,6,0,North Main Street,moderate rain,south
+3,6,30,North Main Street,moderate rain,south
+3,7,0,North Main Street,moderate rain,south
+3,7,30,North Main Street,moderate rain,south
+3,8,0,North Main Street,moderate rain,south
+3,8,30,North Main Street,moderate rain,south
+3,9,0,North Main Street,moderate rain,south
+3,9,30,North Main Street,moderate rain,south
+3,10,0,North Main Street,moderate rain,south
+3,10,30,North Main Street,moderate rain,south
+3,11,0,North Main Street,moderate rain,south
+3,11,30,North Main Street,moderate rain,south
+3,12,0,North Main Street,moderate rain,south
+3,12,30,North Main Street,moderate rain,south
+3,13,0,North Main Street,moderate rain,south
+3,13,30,North Main Street,moderate rain,south
+3,14,0,North Main Street,moderate rain,south
+3,14,30,North Main Street,moderate rain,south
+3,15,0,North Main Street,moderate rain,south
+3,15,30,North Main Street,moderate rain,south
+3,16,0,North Main Street,moderate rain,south
+3,16,30,North Main Street,moderate rain,south
+3,17,0,North Main Street,moderate rain,south
+3,17,30,North Main Street,moderate rain,south
+3,18,0,North Main Street,moderate rain,south
+3,18,30,North Main Street,moderate rain,south
+3,19,0,North Main Street,moderate rain,south
+3,19,30,North Main Street,moderate rain,south
+3,20,0,North Main Street,moderate rain,south
+3,20,30,North Main Street,moderate rain,south
+3,21,0,North Main Street,moderate rain,south
+3,21,30,North Main Street,moderate rain,south
+3,22,0,North Main Street,moderate rain,south
+3,22,30,North Main Street,moderate rain,south
+3,23,0,North Main Street,moderate rain,south
+3,23,30,North Main Street,moderate rain,south
+3,0,0,Paul Street,moderate rain,south
+3,0,30,Paul Street,moderate rain,south
+3,1,0,Paul Street,moderate rain,south
+3,1,30,Paul Street,moderate rain,south
+3,2,0,Paul Street,moderate rain,south
+3,2,30,Paul Street,moderate rain,south
+3,3,0,Paul Street,moderate rain,south
+3,3,30,Paul Street,moderate rain,south
+3,4,0,Paul Street,moderate rain,south
+3,4,30,Paul Street,moderate rain,south
+3,5,0,Paul Street,moderate rain,south
+3,5,30,Paul Street,moderate rain,south
+3,6,0,Paul Street,moderate rain,south
+3,6,30,Paul Street,moderate rain,south
+3,7,0,Paul Street,moderate rain,south
+3,7,30,Paul Street,moderate rain,south
+3,8,0,Paul Street,moderate rain,south
+3,8,30,Paul Street,moderate rain,south
+3,9,0,Paul Street,moderate rain,south
+3,9,30,Paul Street,moderate rain,south
+3,10,0,Paul Street,moderate rain,south
+3,10,30,Paul Street,moderate rain,south
+3,11,0,Paul Street,moderate rain,south
+3,11,30,Paul Street,moderate rain,south
+3,12,0,Paul Street,moderate rain,south
+3,12,30,Paul Street,moderate rain,south
+3,13,0,Paul Street,moderate rain,south
+3,13,30,Paul Street,moderate rain,south
+3,14,0,Paul Street,moderate rain,south
+3,14,30,Paul Street,moderate rain,south
+3,15,0,Paul Street,moderate rain,south
+3,15,30,Paul Street,moderate rain,south
+3,16,0,Paul Street,moderate rain,south
+3,16,30,Paul Street,moderate rain,south
+3,17,0,Paul Street,moderate rain,south
+3,17,30,Paul Street,moderate rain,south
+3,18,0,Paul Street,moderate rain,south
+3,18,30,Paul Street,moderate rain,south
+3,19,0,Paul Street,moderate rain,south
+3,19,30,Paul Street,moderate rain,south
+3,20,0,Paul Street,moderate rain,south
+3,20,30,Paul Street,moderate rain,south
+3,21,0,Paul Street,moderate rain,south
+3,21,30,Paul Street,moderate rain,south
+3,22,0,Paul Street,moderate rain,south
+3,22,30,Paul Street,moderate rain,south
+3,23,0,Paul Street,moderate rain,south
+3,23,30,Paul Street,moderate rain,south
+3,0,0,Saint Finbarr's,moderate rain,east
+3,0,30,Saint Finbarr's,moderate rain,east
+3,1,0,Saint Finbarr's,moderate rain,east
+3,1,30,Saint Finbarr's,moderate rain,east
+3,2,0,Saint Finbarr's,moderate rain,east
+3,2,30,Saint Finbarr's,moderate rain,east
+3,3,0,Saint Finbarr's,moderate rain,east
+3,3,30,Saint Finbarr's,moderate rain,east
+3,4,0,Saint Finbarr's,moderate rain,east
+3,4,30,Saint Finbarr's,moderate rain,east
+3,5,0,Saint Finbarr's,moderate rain,east
+3,5,30,Saint Finbarr's,moderate rain,east
+3,6,0,Saint Finbarr's,moderate rain,east
+3,6,30,Saint Finbarr's,moderate rain,east
+3,7,0,Saint Finbarr's,moderate rain,east
+3,7,30,Saint Finbarr's,moderate rain,east
+3,8,0,Saint Finbarr's,moderate rain,east
+3,8,30,Saint Finbarr's,moderate rain,east
+3,9,0,Saint Finbarr's,moderate rain,east
+3,9,30,Saint Finbarr's,moderate rain,east
+3,10,0,Saint Finbarr's,moderate rain,east
+3,10,30,Saint Finbarr's,moderate rain,east
+3,11,0,Saint Finbarr's,moderate rain,east
+3,11,30,Saint Finbarr's,moderate rain,east
+3,12,0,Saint Finbarr's,moderate rain,east
+3,12,30,Saint Finbarr's,moderate rain,east
+3,13,0,Saint Finbarr's,moderate rain,east
+3,13,30,Saint Finbarr's,moderate rain,east
+3,14,0,Saint Finbarr's,moderate rain,east
+3,14,30,Saint Finbarr's,moderate rain,east
+3,15,0,Saint Finbarr's,moderate rain,east
+3,15,30,Saint Finbarr's,moderate rain,east
+3,16,0,Saint Finbarr's,moderate rain,east
+3,16,30,Saint Finbarr's,moderate rain,east
+3,17,0,Saint Finbarr's,moderate rain,east
+3,17,30,Saint Finbarr's,moderate rain,east
+3,18,0,Saint Finbarr's,moderate rain,east
+3,18,30,Saint Finbarr's,moderate rain,east
+3,19,0,Saint Finbarr's,moderate rain,east
+3,19,30,Saint Finbarr's,moderate rain,east
+3,20,0,Saint Finbarr's,moderate rain,east
+3,20,30,Saint Finbarr's,moderate rain,east
+3,21,0,Saint Finbarr's,moderate rain,east
+3,21,30,Saint Finbarr's,moderate rain,east
+3,22,0,Saint Finbarr's,moderate rain,east
+3,22,30,Saint Finbarr's,moderate rain,east
+3,23,0,Saint Finbarr's,moderate rain,east
+3,23,30,Saint Finbarr's,moderate rain,east
+3,0,0,Merchants Quay,moderate rain,east
+3,0,30,Merchants Quay,moderate rain,east
+3,1,0,Merchants Quay,moderate rain,east
+3,1,30,Merchants Quay,moderate rain,east
+3,2,0,Merchants Quay,moderate rain,east
+3,2,30,Merchants Quay,moderate rain,east
+3,3,0,Merchants Quay,moderate rain,east
+3,3,30,Merchants Quay,moderate rain,east
+3,4,0,Merchants Quay,moderate rain,east
+3,4,30,Merchants Quay,moderate rain,east
+3,5,0,Merchants Quay,moderate rain,east
+3,5,30,Merchants Quay,moderate rain,east
+3,6,0,Merchants Quay,moderate rain,east
+3,6,30,Merchants Quay,moderate rain,east
+3,7,0,Merchants Quay,moderate rain,east
+3,7,30,Merchants Quay,moderate rain,east
+3,8,0,Merchants Quay,moderate rain,east
+3,8,30,Merchants Quay,moderate rain,east
+3,9,0,Merchants Quay,moderate rain,east
+3,9,30,Merchants Quay,moderate rain,east
+3,10,0,Merchants Quay,moderate rain,east
+3,10,30,Merchants Quay,moderate rain,east
+3,11,0,Merchants Quay,moderate rain,east
+3,11,30,Merchants Quay,moderate rain,east
+3,12,0,Merchants Quay,moderate rain,east
+3,12,30,Merchants Quay,moderate rain,east
+3,13,0,Merchants Quay,moderate rain,east
+3,13,30,Merchants Quay,moderate rain,east
+3,14,0,Merchants Quay,moderate rain,east
+3,14,30,Merchants Quay,moderate rain,east
+3,15,0,Merchants Quay,moderate rain,east
+3,15,30,Merchants Quay,moderate rain,east
+3,16,0,Merchants Quay,moderate rain,east
+3,16,30,Merchants Quay,moderate rain,east
+3,17,0,Merchants Quay,moderate rain,east
+3,17,30,Merchants Quay,moderate rain,east
+3,18,0,Merchants Quay,moderate rain,east
+3,18,30,Merchants Quay,moderate rain,east
+3,19,0,Merchants Quay,moderate rain,east
+3,19,30,Merchants Quay,moderate rain,east
+3,20,0,Merchants Quay,moderate rain,east
+3,20,30,Merchants Quay,moderate rain,east
+3,21,0,Merchants Quay,moderate rain,east
+3,21,30,Merchants Quay,moderate rain,east
+3,22,0,Merchants Quay,moderate rain,east
+3,22,30,Merchants Quay,moderate rain,east
+3,23,0,Merchants Quay,moderate rain,east
+3,23,30,Merchants Quay,moderate rain,east
+3,0,0,Grand Parade,moderate rain,east
+3,0,30,Grand Parade,moderate rain,east
+3,1,0,Grand Parade,moderate rain,east
+3,1,30,Grand Parade,moderate rain,east
+3,2,0,Grand Parade,moderate rain,east
+3,2,30,Grand Parade,moderate rain,east
+3,3,0,Grand Parade,moderate rain,east
+3,3,30,Grand Parade,moderate rain,east
+3,4,0,Grand Parade,moderate rain,east
+3,4,30,Grand Parade,moderate rain,east
+3,5,0,Grand Parade,moderate rain,east
+3,5,30,Grand Parade,moderate rain,east
+3,6,0,Grand Parade,moderate rain,east
+3,6,30,Grand Parade,moderate rain,east
+3,7,0,Grand Parade,moderate rain,east
+3,7,30,Grand Parade,moderate rain,east
+3,8,0,Grand Parade,moderate rain,east
+3,8,30,Grand Parade,moderate rain,east
+3,9,0,Grand Parade,moderate rain,east
+3,9,30,Grand Parade,moderate rain,east
+3,10,0,Grand Parade,moderate rain,east
+3,10,30,Grand Parade,moderate rain,east
+3,11,0,Grand Parade,moderate rain,east
+3,11,30,Grand Parade,moderate rain,east
+3,12,0,Grand Parade,moderate rain,east
+3,12,30,Grand Parade,moderate rain,east
+3,13,0,Grand Parade,moderate rain,east
+3,13,30,Grand Parade,moderate rain,east
+3,14,0,Grand Parade,moderate rain,east
+3,14,30,Grand Parade,moderate rain,east
+3,15,0,Grand Parade,moderate rain,east
+3,15,30,Grand Parade,moderate rain,east
+3,16,0,Grand Parade,moderate rain,east
+3,16,30,Grand Parade,moderate rain,east
+3,17,0,Grand Parade,moderate rain,east
+3,17,30,Grand Parade,moderate rain,east
+3,18,0,Grand Parade,moderate rain,east
+3,18,30,Grand Parade,moderate rain,east
+3,19,0,Grand Parade,moderate rain,east
+3,19,30,Grand Parade,moderate rain,east
+3,20,0,Grand Parade,moderate rain,east
+3,20,30,Grand Parade,moderate rain,east
+3,21,0,Grand Parade,moderate rain,east
+3,21,30,Grand Parade,moderate rain,east
+3,22,0,Grand Parade,moderate rain,east
+3,22,30,Grand Parade,moderate rain,east
+3,23,0,Grand Parade,moderate rain,east
+3,23,30,Grand Parade,moderate rain,east
+3,0,0,Carrolls Quay,moderate rain,east
+3,0,30,Carrolls Quay,moderate rain,east
+3,1,0,Carrolls Quay,moderate rain,east
+3,1,30,Carrolls Quay,moderate rain,east
+3,2,0,Carrolls Quay,moderate rain,east
+3,2,30,Carrolls Quay,moderate rain,east
+3,3,0,Carrolls Quay,moderate rain,east
+3,3,30,Carrolls Quay,moderate rain,east
+3,4,0,Carrolls Quay,moderate rain,east
+3,4,30,Carrolls Quay,moderate rain,east
+3,5,0,Carrolls Quay,moderate rain,east
+3,5,30,Carrolls Quay,moderate rain,east
+3,6,0,Carrolls Quay,moderate rain,east
+3,6,30,Carrolls Quay,moderate rain,east
+3,7,0,Carrolls Quay,moderate rain,east
+3,7,30,Carrolls Quay,moderate rain,east
+3,8,0,Carrolls Quay,moderate rain,east
+3,8,30,Carrolls Quay,moderate rain,east
+3,9,0,Carrolls Quay,moderate rain,east
+3,9,30,Carrolls Quay,moderate rain,east
+3,10,0,Carrolls Quay,moderate rain,east
+3,10,30,Carrolls Quay,moderate rain,east
+3,11,0,Carrolls Quay,moderate rain,east
+3,11,30,Carrolls Quay,moderate rain,east
+3,12,0,Carrolls Quay,moderate rain,east
+3,12,30,Carrolls Quay,moderate rain,east
+3,13,0,Carrolls Quay,moderate rain,east
+3,13,30,Carrolls Quay,moderate rain,east
+3,14,0,Carrolls Quay,moderate rain,east
+3,14,30,Carrolls Quay,moderate rain,east
+3,15,0,Carrolls Quay,moderate rain,east
+3,15,30,Carrolls Quay,moderate rain,east
+3,16,0,Carrolls Quay,moderate rain,east
+3,16,30,Carrolls Quay,moderate rain,east
+3,17,0,Carrolls Quay,moderate rain,east
+3,17,30,Carrolls Quay,moderate rain,east
+3,18,0,Carrolls Quay,moderate rain,east
+3,18,30,Carrolls Quay,moderate rain,east
+3,19,0,Carrolls Quay,moderate rain,east
+3,19,30,Carrolls Quay,moderate rain,east
+3,20,0,Carrolls Quay,moderate rain,east
+3,20,30,Carrolls Quay,moderate rain,east
+3,21,0,Carrolls Quay,moderate rain,east
+3,21,30,Carrolls Quay,moderate rain,east
+3,22,0,Carrolls Quay,moderate rain,east
+3,22,30,Carrolls Quay,moderate rain,east
+3,23,0,Carrolls Quay,moderate rain,east
+3,23,30,Carrolls Quay,moderate rain,east
+3,0,0,City Hall - Eglington Street,moderate rain,east
+3,0,30,City Hall - Eglington Street,moderate rain,east
+3,1,0,City Hall - Eglington Street,moderate rain,east
+3,1,30,City Hall - Eglington Street,moderate rain,east
+3,2,0,City Hall - Eglington Street,moderate rain,east
+3,2,30,City Hall - Eglington Street,moderate rain,east
+3,3,0,City Hall - Eglington Street,moderate rain,east
+3,3,30,City Hall - Eglington Street,moderate rain,east
+3,4,0,City Hall - Eglington Street,moderate rain,east
+3,4,30,City Hall - Eglington Street,moderate rain,east
+3,5,0,City Hall - Eglington Street,moderate rain,east
+3,5,30,City Hall - Eglington Street,moderate rain,east
+3,6,0,City Hall - Eglington Street,moderate rain,east
+3,6,30,City Hall - Eglington Street,moderate rain,east
+3,7,0,City Hall - Eglington Street,moderate rain,east
+3,7,30,City Hall - Eglington Street,moderate rain,east
+3,8,0,City Hall - Eglington Street,moderate rain,east
+3,8,30,City Hall - Eglington Street,moderate rain,east
+3,9,0,City Hall - Eglington Street,moderate rain,east
+3,9,30,City Hall - Eglington Street,moderate rain,east
+3,10,0,City Hall - Eglington Street,moderate rain,east
+3,10,30,City Hall - Eglington Street,moderate rain,east
+3,11,0,City Hall - Eglington Street,moderate rain,east
+3,11,30,City Hall - Eglington Street,moderate rain,east
+3,12,0,City Hall - Eglington Street,moderate rain,east
+3,12,30,City Hall - Eglington Street,moderate rain,east
+3,13,0,City Hall - Eglington Street,moderate rain,east
+3,13,30,City Hall - Eglington Street,moderate rain,east
+3,14,0,City Hall - Eglington Street,moderate rain,east
+3,14,30,City Hall - Eglington Street,moderate rain,east
+3,15,0,City Hall - Eglington Street,moderate rain,east
+3,15,30,City Hall - Eglington Street,moderate rain,east
+3,16,0,City Hall - Eglington Street,moderate rain,east
+3,16,30,City Hall - Eglington Street,moderate rain,east
+3,17,0,City Hall - Eglington Street,moderate rain,east
+3,17,30,City Hall - Eglington Street,moderate rain,east
+3,18,0,City Hall - Eglington Street,moderate rain,east
+3,18,30,City Hall - Eglington Street,moderate rain,east
+3,19,0,City Hall - Eglington Street,moderate rain,east
+3,19,30,City Hall - Eglington Street,moderate rain,east
+3,20,0,City Hall - Eglington Street,moderate rain,east
+3,20,30,City Hall - Eglington Street,moderate rain,east
+3,21,0,City Hall - Eglington Street,moderate rain,east
+3,21,30,City Hall - Eglington Street,moderate rain,east
+3,22,0,City Hall - Eglington Street,moderate rain,east
+3,22,30,City Hall - Eglington Street,moderate rain,east
+3,23,0,City Hall - Eglington Street,moderate rain,east
+3,23,30,City Hall - Eglington Street,moderate rain,east
+3,0,0,Black Ash Park & Ride,moderate rain,east
+3,0,30,Black Ash Park & Ride,moderate rain,east
+3,1,0,Black Ash Park & Ride,moderate rain,east
+3,1,30,Black Ash Park & Ride,moderate rain,east
+3,2,0,Black Ash Park & Ride,moderate rain,east
+3,2,30,Black Ash Park & Ride,moderate rain,east
+3,3,0,Black Ash Park & Ride,moderate rain,east
+3,3,30,Black Ash Park & Ride,moderate rain,east
+3,4,0,Black Ash Park & Ride,moderate rain,east
+3,4,30,Black Ash Park & Ride,moderate rain,east
+3,5,0,Black Ash Park & Ride,moderate rain,east
+3,5,30,Black Ash Park & Ride,moderate rain,east
+3,6,0,Black Ash Park & Ride,moderate rain,east
+3,6,30,Black Ash Park & Ride,moderate rain,east
+3,7,0,Black Ash Park & Ride,moderate rain,east
+3,7,30,Black Ash Park & Ride,moderate rain,east
+3,8,0,Black Ash Park & Ride,moderate rain,east
+3,8,30,Black Ash Park & Ride,moderate rain,east
+3,9,0,Black Ash Park & Ride,moderate rain,east
+3,9,30,Black Ash Park & Ride,moderate rain,east
+3,10,0,Black Ash Park & Ride,moderate rain,east
+3,10,30,Black Ash Park & Ride,moderate rain,east
+3,11,0,Black Ash Park & Ride,moderate rain,east
+3,11,30,Black Ash Park & Ride,moderate rain,east
+3,12,0,Black Ash Park & Ride,moderate rain,east
+3,12,30,Black Ash Park & Ride,moderate rain,east
+3,13,0,Black Ash Park & Ride,moderate rain,east
+3,13,30,Black Ash Park & Ride,moderate rain,east
+3,14,0,Black Ash Park & Ride,moderate rain,east
+3,14,30,Black Ash Park & Ride,moderate rain,east
+3,15,0,Black Ash Park & Ride,moderate rain,east
+3,15,30,Black Ash Park & Ride,moderate rain,east
+3,16,0,Black Ash Park & Ride,moderate rain,east
+3,16,30,Black Ash Park & Ride,moderate rain,east
+3,17,0,Black Ash Park & Ride,moderate rain,east
+3,17,30,Black Ash Park & Ride,moderate rain,east
+3,18,0,Black Ash Park & Ride,moderate rain,east
+3,18,30,Black Ash Park & Ride,moderate rain,east
+3,19,0,Black Ash Park & Ride,moderate rain,east
+3,19,30,Black Ash Park & Ride,moderate rain,east
+3,20,0,Black Ash Park & Ride,moderate rain,east
+3,20,30,Black Ash Park & Ride,moderate rain,east
+3,21,0,Black Ash Park & Ride,moderate rain,east
+3,21,30,Black Ash Park & Ride,moderate rain,east
+3,22,0,Black Ash Park & Ride,moderate rain,east
+3,22,30,Black Ash Park & Ride,moderate rain,east
+3,23,0,Black Ash Park & Ride,moderate rain,east
+3,23,30,Black Ash Park & Ride,moderate rain,east
+3,0,0,North Main Street,moderate rain,east
+3,0,30,North Main Street,moderate rain,east
+3,1,0,North Main Street,moderate rain,east
+3,1,30,North Main Street,moderate rain,east
+3,2,0,North Main Street,moderate rain,east
+3,2,30,North Main Street,moderate rain,east
+3,3,0,North Main Street,moderate rain,east
+3,3,30,North Main Street,moderate rain,east
+3,4,0,North Main Street,moderate rain,east
+3,4,30,North Main Street,moderate rain,east
+3,5,0,North Main Street,moderate rain,east
+3,5,30,North Main Street,moderate rain,east
+3,6,0,North Main Street,moderate rain,east
+3,6,30,North Main Street,moderate rain,east
+3,7,0,North Main Street,moderate rain,east
+3,7,30,North Main Street,moderate rain,east
+3,8,0,North Main Street,moderate rain,east
+3,8,30,North Main Street,moderate rain,east
+3,9,0,North Main Street,moderate rain,east
+3,9,30,North Main Street,moderate rain,east
+3,10,0,North Main Street,moderate rain,east
+3,10,30,North Main Street,moderate rain,east
+3,11,0,North Main Street,moderate rain,east
+3,11,30,North Main Street,moderate rain,east
+3,12,0,North Main Street,moderate rain,east
+3,12,30,North Main Street,moderate rain,east
+3,13,0,North Main Street,moderate rain,east
+3,13,30,North Main Street,moderate rain,east
+3,14,0,North Main Street,moderate rain,east
+3,14,30,North Main Street,moderate rain,east
+3,15,0,North Main Street,moderate rain,east
+3,15,30,North Main Street,moderate rain,east
+3,16,0,North Main Street,moderate rain,east
+3,16,30,North Main Street,moderate rain,east
+3,17,0,North Main Street,moderate rain,east
+3,17,30,North Main Street,moderate rain,east
+3,18,0,North Main Street,moderate rain,east
+3,18,30,North Main Street,moderate rain,east
+3,19,0,North Main Street,moderate rain,east
+3,19,30,North Main Street,moderate rain,east
+3,20,0,North Main Street,moderate rain,east
+3,20,30,North Main Street,moderate rain,east
+3,21,0,North Main Street,moderate rain,east
+3,21,30,North Main Street,moderate rain,east
+3,22,0,North Main Street,moderate rain,east
+3,22,30,North Main Street,moderate rain,east
+3,23,0,North Main Street,moderate rain,east
+3,23,30,North Main Street,moderate rain,east
+3,0,0,Paul Street,moderate rain,east
+3,0,30,Paul Street,moderate rain,east
+3,1,0,Paul Street,moderate rain,east
+3,1,30,Paul Street,moderate rain,east
+3,2,0,Paul Street,moderate rain,east
+3,2,30,Paul Street,moderate rain,east
+3,3,0,Paul Street,moderate rain,east
+3,3,30,Paul Street,moderate rain,east
+3,4,0,Paul Street,moderate rain,east
+3,4,30,Paul Street,moderate rain,east
+3,5,0,Paul Street,moderate rain,east
+3,5,30,Paul Street,moderate rain,east
+3,6,0,Paul Street,moderate rain,east
+3,6,30,Paul Street,moderate rain,east
+3,7,0,Paul Street,moderate rain,east
+3,7,30,Paul Street,moderate rain,east
+3,8,0,Paul Street,moderate rain,east
+3,8,30,Paul Street,moderate rain,east
+3,9,0,Paul Street,moderate rain,east
+3,9,30,Paul Street,moderate rain,east
+3,10,0,Paul Street,moderate rain,east
+3,10,30,Paul Street,moderate rain,east
+3,11,0,Paul Street,moderate rain,east
+3,11,30,Paul Street,moderate rain,east
+3,12,0,Paul Street,moderate rain,east
+3,12,30,Paul Street,moderate rain,east
+3,13,0,Paul Street,moderate rain,east
+3,13,30,Paul Street,moderate rain,east
+3,14,0,Paul Street,moderate rain,east
+3,14,30,Paul Street,moderate rain,east
+3,15,0,Paul Street,moderate rain,east
+3,15,30,Paul Street,moderate rain,east
+3,16,0,Paul Street,moderate rain,east
+3,16,30,Paul Street,moderate rain,east
+3,17,0,Paul Street,moderate rain,east
+3,17,30,Paul Street,moderate rain,east
+3,18,0,Paul Street,moderate rain,east
+3,18,30,Paul Street,moderate rain,east
+3,19,0,Paul Street,moderate rain,east
+3,19,30,Paul Street,moderate rain,east
+3,20,0,Paul Street,moderate rain,east
+3,20,30,Paul Street,moderate rain,east
+3,21,0,Paul Street,moderate rain,east
+3,21,30,Paul Street,moderate rain,east
+3,22,0,Paul Street,moderate rain,east
+3,22,30,Paul Street,moderate rain,east
+3,23,0,Paul Street,moderate rain,east
+3,23,30,Paul Street,moderate rain,east
+3,0,0,Saint Finbarr's,moderate rain,west
+3,0,30,Saint Finbarr's,moderate rain,west
+3,1,0,Saint Finbarr's,moderate rain,west
+3,1,30,Saint Finbarr's,moderate rain,west
+3,2,0,Saint Finbarr's,moderate rain,west
+3,2,30,Saint Finbarr's,moderate rain,west
+3,3,0,Saint Finbarr's,moderate rain,west
+3,3,30,Saint Finbarr's,moderate rain,west
+3,4,0,Saint Finbarr's,moderate rain,west
+3,4,30,Saint Finbarr's,moderate rain,west
+3,5,0,Saint Finbarr's,moderate rain,west
+3,5,30,Saint Finbarr's,moderate rain,west
+3,6,0,Saint Finbarr's,moderate rain,west
+3,6,30,Saint Finbarr's,moderate rain,west
+3,7,0,Saint Finbarr's,moderate rain,west
+3,7,30,Saint Finbarr's,moderate rain,west
+3,8,0,Saint Finbarr's,moderate rain,west
+3,8,30,Saint Finbarr's,moderate rain,west
+3,9,0,Saint Finbarr's,moderate rain,west
+3,9,30,Saint Finbarr's,moderate rain,west
+3,10,0,Saint Finbarr's,moderate rain,west
+3,10,30,Saint Finbarr's,moderate rain,west
+3,11,0,Saint Finbarr's,moderate rain,west
+3,11,30,Saint Finbarr's,moderate rain,west
+3,12,0,Saint Finbarr's,moderate rain,west
+3,12,30,Saint Finbarr's,moderate rain,west
+3,13,0,Saint Finbarr's,moderate rain,west
+3,13,30,Saint Finbarr's,moderate rain,west
+3,14,0,Saint Finbarr's,moderate rain,west
+3,14,30,Saint Finbarr's,moderate rain,west
+3,15,0,Saint Finbarr's,moderate rain,west
+3,15,30,Saint Finbarr's,moderate rain,west
+3,16,0,Saint Finbarr's,moderate rain,west
+3,16,30,Saint Finbarr's,moderate rain,west
+3,17,0,Saint Finbarr's,moderate rain,west
+3,17,30,Saint Finbarr's,moderate rain,west
+3,18,0,Saint Finbarr's,moderate rain,west
+3,18,30,Saint Finbarr's,moderate rain,west
+3,19,0,Saint Finbarr's,moderate rain,west
+3,19,30,Saint Finbarr's,moderate rain,west
+3,20,0,Saint Finbarr's,moderate rain,west
+3,20,30,Saint Finbarr's,moderate rain,west
+3,21,0,Saint Finbarr's,moderate rain,west
+3,21,30,Saint Finbarr's,moderate rain,west
+3,22,0,Saint Finbarr's,moderate rain,west
+3,22,30,Saint Finbarr's,moderate rain,west
+3,23,0,Saint Finbarr's,moderate rain,west
+3,23,30,Saint Finbarr's,moderate rain,west
+3,0,0,Merchants Quay,moderate rain,west
+3,0,30,Merchants Quay,moderate rain,west
+3,1,0,Merchants Quay,moderate rain,west
+3,1,30,Merchants Quay,moderate rain,west
+3,2,0,Merchants Quay,moderate rain,west
+3,2,30,Merchants Quay,moderate rain,west
+3,3,0,Merchants Quay,moderate rain,west
+3,3,30,Merchants Quay,moderate rain,west
+3,4,0,Merchants Quay,moderate rain,west
+3,4,30,Merchants Quay,moderate rain,west
+3,5,0,Merchants Quay,moderate rain,west
+3,5,30,Merchants Quay,moderate rain,west
+3,6,0,Merchants Quay,moderate rain,west
+3,6,30,Merchants Quay,moderate rain,west
+3,7,0,Merchants Quay,moderate rain,west
+3,7,30,Merchants Quay,moderate rain,west
+3,8,0,Merchants Quay,moderate rain,west
+3,8,30,Merchants Quay,moderate rain,west
+3,9,0,Merchants Quay,moderate rain,west
+3,9,30,Merchants Quay,moderate rain,west
+3,10,0,Merchants Quay,moderate rain,west
+3,10,30,Merchants Quay,moderate rain,west
+3,11,0,Merchants Quay,moderate rain,west
+3,11,30,Merchants Quay,moderate rain,west
+3,12,0,Merchants Quay,moderate rain,west
+3,12,30,Merchants Quay,moderate rain,west
+3,13,0,Merchants Quay,moderate rain,west
+3,13,30,Merchants Quay,moderate rain,west
+3,14,0,Merchants Quay,moderate rain,west
+3,14,30,Merchants Quay,moderate rain,west
+3,15,0,Merchants Quay,moderate rain,west
+3,15,30,Merchants Quay,moderate rain,west
+3,16,0,Merchants Quay,moderate rain,west
+3,16,30,Merchants Quay,moderate rain,west
+3,17,0,Merchants Quay,moderate rain,west
+3,17,30,Merchants Quay,moderate rain,west
+3,18,0,Merchants Quay,moderate rain,west
+3,18,30,Merchants Quay,moderate rain,west
+3,19,0,Merchants Quay,moderate rain,west
+3,19,30,Merchants Quay,moderate rain,west
+3,20,0,Merchants Quay,moderate rain,west
+3,20,30,Merchants Quay,moderate rain,west
+3,21,0,Merchants Quay,moderate rain,west
+3,21,30,Merchants Quay,moderate rain,west
+3,22,0,Merchants Quay,moderate rain,west
+3,22,30,Merchants Quay,moderate rain,west
+3,23,0,Merchants Quay,moderate rain,west
+3,23,30,Merchants Quay,moderate rain,west
+3,0,0,Grand Parade,moderate rain,west
+3,0,30,Grand Parade,moderate rain,west
+3,1,0,Grand Parade,moderate rain,west
+3,1,30,Grand Parade,moderate rain,west
+3,2,0,Grand Parade,moderate rain,west
+3,2,30,Grand Parade,moderate rain,west
+3,3,0,Grand Parade,moderate rain,west
+3,3,30,Grand Parade,moderate rain,west
+3,4,0,Grand Parade,moderate rain,west
+3,4,30,Grand Parade,moderate rain,west
+3,5,0,Grand Parade,moderate rain,west
+3,5,30,Grand Parade,moderate rain,west
+3,6,0,Grand Parade,moderate rain,west
+3,6,30,Grand Parade,moderate rain,west
+3,7,0,Grand Parade,moderate rain,west
+3,7,30,Grand Parade,moderate rain,west
+3,8,0,Grand Parade,moderate rain,west
+3,8,30,Grand Parade,moderate rain,west
+3,9,0,Grand Parade,moderate rain,west
+3,9,30,Grand Parade,moderate rain,west
+3,10,0,Grand Parade,moderate rain,west
+3,10,30,Grand Parade,moderate rain,west
+3,11,0,Grand Parade,moderate rain,west
+3,11,30,Grand Parade,moderate rain,west
+3,12,0,Grand Parade,moderate rain,west
+3,12,30,Grand Parade,moderate rain,west
+3,13,0,Grand Parade,moderate rain,west
+3,13,30,Grand Parade,moderate rain,west
+3,14,0,Grand Parade,moderate rain,west
+3,14,30,Grand Parade,moderate rain,west
+3,15,0,Grand Parade,moderate rain,west
+3,15,30,Grand Parade,moderate rain,west
+3,16,0,Grand Parade,moderate rain,west
+3,16,30,Grand Parade,moderate rain,west
+3,17,0,Grand Parade,moderate rain,west
+3,17,30,Grand Parade,moderate rain,west
+3,18,0,Grand Parade,moderate rain,west
+3,18,30,Grand Parade,moderate rain,west
+3,19,0,Grand Parade,moderate rain,west
+3,19,30,Grand Parade,moderate rain,west
+3,20,0,Grand Parade,moderate rain,west
+3,20,30,Grand Parade,moderate rain,west
+3,21,0,Grand Parade,moderate rain,west
+3,21,30,Grand Parade,moderate rain,west
+3,22,0,Grand Parade,moderate rain,west
+3,22,30,Grand Parade,moderate rain,west
+3,23,0,Grand Parade,moderate rain,west
+3,23,30,Grand Parade,moderate rain,west
+3,0,0,Carrolls Quay,moderate rain,west
+3,0,30,Carrolls Quay,moderate rain,west
+3,1,0,Carrolls Quay,moderate rain,west
+3,1,30,Carrolls Quay,moderate rain,west
+3,2,0,Carrolls Quay,moderate rain,west
+3,2,30,Carrolls Quay,moderate rain,west
+3,3,0,Carrolls Quay,moderate rain,west
+3,3,30,Carrolls Quay,moderate rain,west
+3,4,0,Carrolls Quay,moderate rain,west
+3,4,30,Carrolls Quay,moderate rain,west
+3,5,0,Carrolls Quay,moderate rain,west
+3,5,30,Carrolls Quay,moderate rain,west
+3,6,0,Carrolls Quay,moderate rain,west
+3,6,30,Carrolls Quay,moderate rain,west
+3,7,0,Carrolls Quay,moderate rain,west
+3,7,30,Carrolls Quay,moderate rain,west
+3,8,0,Carrolls Quay,moderate rain,west
+3,8,30,Carrolls Quay,moderate rain,west
+3,9,0,Carrolls Quay,moderate rain,west
+3,9,30,Carrolls Quay,moderate rain,west
+3,10,0,Carrolls Quay,moderate rain,west
+3,10,30,Carrolls Quay,moderate rain,west
+3,11,0,Carrolls Quay,moderate rain,west
+3,11,30,Carrolls Quay,moderate rain,west
+3,12,0,Carrolls Quay,moderate rain,west
+3,12,30,Carrolls Quay,moderate rain,west
+3,13,0,Carrolls Quay,moderate rain,west
+3,13,30,Carrolls Quay,moderate rain,west
+3,14,0,Carrolls Quay,moderate rain,west
+3,14,30,Carrolls Quay,moderate rain,west
+3,15,0,Carrolls Quay,moderate rain,west
+3,15,30,Carrolls Quay,moderate rain,west
+3,16,0,Carrolls Quay,moderate rain,west
+3,16,30,Carrolls Quay,moderate rain,west
+3,17,0,Carrolls Quay,moderate rain,west
+3,17,30,Carrolls Quay,moderate rain,west
+3,18,0,Carrolls Quay,moderate rain,west
+3,18,30,Carrolls Quay,moderate rain,west
+3,19,0,Carrolls Quay,moderate rain,west
+3,19,30,Carrolls Quay,moderate rain,west
+3,20,0,Carrolls Quay,moderate rain,west
+3,20,30,Carrolls Quay,moderate rain,west
+3,21,0,Carrolls Quay,moderate rain,west
+3,21,30,Carrolls Quay,moderate rain,west
+3,22,0,Carrolls Quay,moderate rain,west
+3,22,30,Carrolls Quay,moderate rain,west
+3,23,0,Carrolls Quay,moderate rain,west
+3,23,30,Carrolls Quay,moderate rain,west
+3,0,0,City Hall - Eglington Street,moderate rain,west
+3,0,30,City Hall - Eglington Street,moderate rain,west
+3,1,0,City Hall - Eglington Street,moderate rain,west
+3,1,30,City Hall - Eglington Street,moderate rain,west
+3,2,0,City Hall - Eglington Street,moderate rain,west
+3,2,30,City Hall - Eglington Street,moderate rain,west
+3,3,0,City Hall - Eglington Street,moderate rain,west
+3,3,30,City Hall - Eglington Street,moderate rain,west
+3,4,0,City Hall - Eglington Street,moderate rain,west
+3,4,30,City Hall - Eglington Street,moderate rain,west
+3,5,0,City Hall - Eglington Street,moderate rain,west
+3,5,30,City Hall - Eglington Street,moderate rain,west
+3,6,0,City Hall - Eglington Street,moderate rain,west
+3,6,30,City Hall - Eglington Street,moderate rain,west
+3,7,0,City Hall - Eglington Street,moderate rain,west
+3,7,30,City Hall - Eglington Street,moderate rain,west
+3,8,0,City Hall - Eglington Street,moderate rain,west
+3,8,30,City Hall - Eglington Street,moderate rain,west
+3,9,0,City Hall - Eglington Street,moderate rain,west
+3,9,30,City Hall - Eglington Street,moderate rain,west
+3,10,0,City Hall - Eglington Street,moderate rain,west
+3,10,30,City Hall - Eglington Street,moderate rain,west
+3,11,0,City Hall - Eglington Street,moderate rain,west
+3,11,30,City Hall - Eglington Street,moderate rain,west
+3,12,0,City Hall - Eglington Street,moderate rain,west
+3,12,30,City Hall - Eglington Street,moderate rain,west
+3,13,0,City Hall - Eglington Street,moderate rain,west
+3,13,30,City Hall - Eglington Street,moderate rain,west
+3,14,0,City Hall - Eglington Street,moderate rain,west
+3,14,30,City Hall - Eglington Street,moderate rain,west
+3,15,0,City Hall - Eglington Street,moderate rain,west
+3,15,30,City Hall - Eglington Street,moderate rain,west
+3,16,0,City Hall - Eglington Street,moderate rain,west
+3,16,30,City Hall - Eglington Street,moderate rain,west
+3,17,0,City Hall - Eglington Street,moderate rain,west
+3,17,30,City Hall - Eglington Street,moderate rain,west
+3,18,0,City Hall - Eglington Street,moderate rain,west
+3,18,30,City Hall - Eglington Street,moderate rain,west
+3,19,0,City Hall - Eglington Street,moderate rain,west
+3,19,30,City Hall - Eglington Street,moderate rain,west
+3,20,0,City Hall - Eglington Street,moderate rain,west
+3,20,30,City Hall - Eglington Street,moderate rain,west
+3,21,0,City Hall - Eglington Street,moderate rain,west
+3,21,30,City Hall - Eglington Street,moderate rain,west
+3,22,0,City Hall - Eglington Street,moderate rain,west
+3,22,30,City Hall - Eglington Street,moderate rain,west
+3,23,0,City Hall - Eglington Street,moderate rain,west
+3,23,30,City Hall - Eglington Street,moderate rain,west
+3,0,0,Black Ash Park & Ride,moderate rain,west
+3,0,30,Black Ash Park & Ride,moderate rain,west
+3,1,0,Black Ash Park & Ride,moderate rain,west
+3,1,30,Black Ash Park & Ride,moderate rain,west
+3,2,0,Black Ash Park & Ride,moderate rain,west
+3,2,30,Black Ash Park & Ride,moderate rain,west
+3,3,0,Black Ash Park & Ride,moderate rain,west
+3,3,30,Black Ash Park & Ride,moderate rain,west
+3,4,0,Black Ash Park & Ride,moderate rain,west
+3,4,30,Black Ash Park & Ride,moderate rain,west
+3,5,0,Black Ash Park & Ride,moderate rain,west
+3,5,30,Black Ash Park & Ride,moderate rain,west
+3,6,0,Black Ash Park & Ride,moderate rain,west
+3,6,30,Black Ash Park & Ride,moderate rain,west
+3,7,0,Black Ash Park & Ride,moderate rain,west
+3,7,30,Black Ash Park & Ride,moderate rain,west
+3,8,0,Black Ash Park & Ride,moderate rain,west
+3,8,30,Black Ash Park & Ride,moderate rain,west
+3,9,0,Black Ash Park & Ride,moderate rain,west
+3,9,30,Black Ash Park & Ride,moderate rain,west
+3,10,0,Black Ash Park & Ride,moderate rain,west
+3,10,30,Black Ash Park & Ride,moderate rain,west
+3,11,0,Black Ash Park & Ride,moderate rain,west
+3,11,30,Black Ash Park & Ride,moderate rain,west
+3,12,0,Black Ash Park & Ride,moderate rain,west
+3,12,30,Black Ash Park & Ride,moderate rain,west
+3,13,0,Black Ash Park & Ride,moderate rain,west
+3,13,30,Black Ash Park & Ride,moderate rain,west
+3,14,0,Black Ash Park & Ride,moderate rain,west
+3,14,30,Black Ash Park & Ride,moderate rain,west
+3,15,0,Black Ash Park & Ride,moderate rain,west
+3,15,30,Black Ash Park & Ride,moderate rain,west
+3,16,0,Black Ash Park & Ride,moderate rain,west
+3,16,30,Black Ash Park & Ride,moderate rain,west
+3,17,0,Black Ash Park & Ride,moderate rain,west
+3,17,30,Black Ash Park & Ride,moderate rain,west
+3,18,0,Black Ash Park & Ride,moderate rain,west
+3,18,30,Black Ash Park & Ride,moderate rain,west
+3,19,0,Black Ash Park & Ride,moderate rain,west
+3,19,30,Black Ash Park & Ride,moderate rain,west
+3,20,0,Black Ash Park & Ride,moderate rain,west
+3,20,30,Black Ash Park & Ride,moderate rain,west
+3,21,0,Black Ash Park & Ride,moderate rain,west
+3,21,30,Black Ash Park & Ride,moderate rain,west
+3,22,0,Black Ash Park & Ride,moderate rain,west
+3,22,30,Black Ash Park & Ride,moderate rain,west
+3,23,0,Black Ash Park & Ride,moderate rain,west
+3,23,30,Black Ash Park & Ride,moderate rain,west
+3,0,0,North Main Street,moderate rain,west
+3,0,30,North Main Street,moderate rain,west
+3,1,0,North Main Street,moderate rain,west
+3,1,30,North Main Street,moderate rain,west
+3,2,0,North Main Street,moderate rain,west
+3,2,30,North Main Street,moderate rain,west
+3,3,0,North Main Street,moderate rain,west
+3,3,30,North Main Street,moderate rain,west
+3,4,0,North Main Street,moderate rain,west
+3,4,30,North Main Street,moderate rain,west
+3,5,0,North Main Street,moderate rain,west
+3,5,30,North Main Street,moderate rain,west
+3,6,0,North Main Street,moderate rain,west
+3,6,30,North Main Street,moderate rain,west
+3,7,0,North Main Street,moderate rain,west
+3,7,30,North Main Street,moderate rain,west
+3,8,0,North Main Street,moderate rain,west
+3,8,30,North Main Street,moderate rain,west
+3,9,0,North Main Street,moderate rain,west
+3,9,30,North Main Street,moderate rain,west
+3,10,0,North Main Street,moderate rain,west
+3,10,30,North Main Street,moderate rain,west
+3,11,0,North Main Street,moderate rain,west
+3,11,30,North Main Street,moderate rain,west
+3,12,0,North Main Street,moderate rain,west
+3,12,30,North Main Street,moderate rain,west
+3,13,0,North Main Street,moderate rain,west
+3,13,30,North Main Street,moderate rain,west
+3,14,0,North Main Street,moderate rain,west
+3,14,30,North Main Street,moderate rain,west
+3,15,0,North Main Street,moderate rain,west
+3,15,30,North Main Street,moderate rain,west
+3,16,0,North Main Street,moderate rain,west
+3,16,30,North Main Street,moderate rain,west
+3,17,0,North Main Street,moderate rain,west
+3,17,30,North Main Street,moderate rain,west
+3,18,0,North Main Street,moderate rain,west
+3,18,30,North Main Street,moderate rain,west
+3,19,0,North Main Street,moderate rain,west
+3,19,30,North Main Street,moderate rain,west
+3,20,0,North Main Street,moderate rain,west
+3,20,30,North Main Street,moderate rain,west
+3,21,0,North Main Street,moderate rain,west
+3,21,30,North Main Street,moderate rain,west
+3,22,0,North Main Street,moderate rain,west
+3,22,30,North Main Street,moderate rain,west
+3,23,0,North Main Street,moderate rain,west
+3,23,30,North Main Street,moderate rain,west
+3,0,0,Paul Street,moderate rain,west
+3,0,30,Paul Street,moderate rain,west
+3,1,0,Paul Street,moderate rain,west
+3,1,30,Paul Street,moderate rain,west
+3,2,0,Paul Street,moderate rain,west
+3,2,30,Paul Street,moderate rain,west
+3,3,0,Paul Street,moderate rain,west
+3,3,30,Paul Street,moderate rain,west
+3,4,0,Paul Street,moderate rain,west
+3,4,30,Paul Street,moderate rain,west
+3,5,0,Paul Street,moderate rain,west
+3,5,30,Paul Street,moderate rain,west
+3,6,0,Paul Street,moderate rain,west
+3,6,30,Paul Street,moderate rain,west
+3,7,0,Paul Street,moderate rain,west
+3,7,30,Paul Street,moderate rain,west
+3,8,0,Paul Street,moderate rain,west
+3,8,30,Paul Street,moderate rain,west
+3,9,0,Paul Street,moderate rain,west
+3,9,30,Paul Street,moderate rain,west
+3,10,0,Paul Street,moderate rain,west
+3,10,30,Paul Street,moderate rain,west
+3,11,0,Paul Street,moderate rain,west
+3,11,30,Paul Street,moderate rain,west
+3,12,0,Paul Street,moderate rain,west
+3,12,30,Paul Street,moderate rain,west
+3,13,0,Paul Street,moderate rain,west
+3,13,30,Paul Street,moderate rain,west
+3,14,0,Paul Street,moderate rain,west
+3,14,30,Paul Street,moderate rain,west
+3,15,0,Paul Street,moderate rain,west
+3,15,30,Paul Street,moderate rain,west
+3,16,0,Paul Street,moderate rain,west
+3,16,30,Paul Street,moderate rain,west
+3,17,0,Paul Street,moderate rain,west
+3,17,30,Paul Street,moderate rain,west
+3,18,0,Paul Street,moderate rain,west
+3,18,30,Paul Street,moderate rain,west
+3,19,0,Paul Street,moderate rain,west
+3,19,30,Paul Street,moderate rain,west
+3,20,0,Paul Street,moderate rain,west
+3,20,30,Paul Street,moderate rain,west
+3,21,0,Paul Street,moderate rain,west
+3,21,30,Paul Street,moderate rain,west
+3,22,0,Paul Street,moderate rain,west
+3,22,30,Paul Street,moderate rain,west
+3,23,0,Paul Street,moderate rain,west
+3,23,30,Paul Street,moderate rain,west

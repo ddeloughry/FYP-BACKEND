@@ -2,12 +2,12 @@ package dan.fypbackend.services;
 
 import com.google.firebase.database.*;
 import dan.fypbackend.model.CarPark;
+import dan.fypbackend.model.TrafficDelay;
+import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
@@ -17,6 +17,7 @@ import java.util.TimerTask;
 public class CalculateTrafficPrediction extends TimerTask {
     private final ArrayList<CarPark> carParksList;
     private final DatabaseReference traffic = FirebaseDatabase.getInstance().getReference("traffic");
+    private final DatabaseReference delays = FirebaseDatabase.getInstance().getReference("delays");
 
     public CalculateTrafficPrediction(ArrayList<CarPark> carParksList) {
         this.carParksList = carParksList;
@@ -34,7 +35,7 @@ public class CalculateTrafficPrediction extends TimerTask {
                     if (updateTodayCsv()) {
                         System.out.println("Today CSV update success");
                     }
-                } catch (MalformedURLException e) {
+                } catch (MalformedURLException | JSONException e) {
                     e.printStackTrace();
                 }
                 if (doMlAndExportJson()) {
@@ -47,6 +48,39 @@ public class CalculateTrafficPrediction extends TimerTask {
 
             }
         });
+        ArrayList<TrafficDelay> trafficDelays = new ArrayList<>();
+        FileReader fileReader = null;
+        try {
+            fileReader = new FileReader("machine_learning/result.json");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        BufferedReader bufferedReader = null;
+        if (fileReader != null) {
+            bufferedReader = new BufferedReader(fileReader);
+        }
+        JSONArray jsonArray = null;
+        try {
+            if (bufferedReader != null) {
+                jsonArray = new JSONArray(bufferedReader.readLine());
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        if (jsonArray != null) {
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject current = (JSONObject) jsonArray.get(i);
+                trafficDelays = addDelay(current, trafficDelays);
+            }
+        }
+        int count = 0;
+        for (TrafficDelay delay : trafficDelays) {
+            if (delays.child(String.valueOf(count)) != null) {
+                delays.child(String.valueOf(count)).removeValue((error, ref) -> System.out.print("Removed " + error));
+            }
+            delays.child(String.valueOf(count)).setValue(delay, (error, ref) -> System.out.print("Added " + error));
+            count++;
+        }
     }
 
     private boolean doMlAndExportJson() {
@@ -157,5 +191,19 @@ public class CalculateTrafficPrediction extends TimerTask {
             return false;
         }
         return true;
+    }
+
+    private ArrayList<TrafficDelay> addDelay(JSONObject current, ArrayList<TrafficDelay> trafficDelays) throws JSONException {
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTimeInMillis(System.currentTimeMillis());
+        calendar.set(Calendar.HOUR_OF_DAY, current.getInt("hour"));
+        calendar.set(Calendar.MINUTE, current.getInt("minute"));
+        TrafficDelay trafficDelay = new TrafficDelay(current.getString("car_park_name"),
+                current.getString("direction"),
+                calendar.getTimeInMillis(),
+                current.getDouble("time")
+        );
+        trafficDelays.add(trafficDelay);
+        return trafficDelays;
     }
 }
