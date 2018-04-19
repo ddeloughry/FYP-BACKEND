@@ -23619,6 +23619,1990 @@ day,hour,minute,car_park_name,time,weather,direction
 5,23,57,Paul Street,2828,broken clouds,east
 5,23,57,Saint Finbarr's,3379,broken clouds,south
 5,23,57,Merchants Quay,3221,broken clouds,south
+5,0,11,Saint Finbarr's,3089,light intensity drizzle,east
+5,0,11,Merchants Quay,2850,light intensity drizzle,east
+5,0,11,Grand Parade,3299,light intensity drizzle,south
+5,0,11,Carrolls Quay,3444,light intensity drizzle,south
+5,0,11,City Hall - Eglington Street,3111,light intensity drizzle,south
+5,0,11,Black Ash Park & Ride,3042,light intensity drizzle,south
+5,0,11,North Main Street,3469,light intensity drizzle,south
+5,0,11,Paul Street,3444,light intensity drizzle,south
+5,0,11,Saint Finbarr's,1977,light intensity drizzle,north
+5,0,11,Merchants Quay,1958,light intensity drizzle,north
+5,0,11,Grand Parade,1904,light intensity drizzle,north
+5,0,11,Carrolls Quay,1848,light intensity drizzle,north
+5,0,11,Grand Parade,2949,light intensity drizzle,east
+5,0,11,City Hall - Eglington Street,1984,light intensity drizzle,north
+5,0,11,Black Ash Park & Ride,2254,light intensity drizzle,north
+5,0,11,North Main Street,1780,light intensity drizzle,north
+5,0,11,Paul Street,1689,light intensity drizzle,north
+5,0,11,Saint Finbarr's,2264,light intensity drizzle,west
+5,0,11,Merchants Quay,2125,light intensity drizzle,west
+5,0,11,Grand Parade,2161,light intensity drizzle,west
+5,0,11,Carrolls Quay,2358,light intensity drizzle,west
+5,0,11,City Hall - Eglington Street,1994,light intensity drizzle,west
+5,0,11,Black Ash Park & Ride,1914,light intensity drizzle,west
+5,0,11,Carrolls Quay,2862,light intensity drizzle,east
+5,0,11,North Main Street,2324,light intensity drizzle,west
+5,0,11,Paul Street,2293,light intensity drizzle,west
+5,0,11,City Hall - Eglington Street,2757,light intensity drizzle,east
+5,0,11,Black Ash Park & Ride,2721,light intensity drizzle,east
+5,0,11,North Main Street,2977,light intensity drizzle,east
+5,0,11,Paul Street,2890,light intensity drizzle,east
+5,0,11,Saint Finbarr's,3368,light intensity drizzle,south
+5,0,11,Merchants Quay,3233,light intensity drizzle,south
+5,0,26,Saint Finbarr's,3071,light intensity drizzle,east
+5,0,26,Merchants Quay,2795,light intensity drizzle,east
+5,0,26,Grand Parade,3291,light intensity drizzle,south
+5,0,26,Carrolls Quay,3434,light intensity drizzle,south
+5,0,26,City Hall - Eglington Street,3093,light intensity drizzle,south
+5,0,26,Black Ash Park & Ride,3026,light intensity drizzle,south
+5,0,26,North Main Street,3413,light intensity drizzle,south
+5,0,26,Paul Street,3388,light intensity drizzle,south
+5,0,26,Saint Finbarr's,1935,light intensity drizzle,north
+5,0,26,Merchants Quay,1929,light intensity drizzle,north
+5,0,26,Grand Parade,1923,light intensity drizzle,north
+5,0,26,Carrolls Quay,1840,light intensity drizzle,north
+5,0,26,Grand Parade,2928,light intensity drizzle,east
+5,0,26,City Hall - Eglington Street,1943,light intensity drizzle,north
+5,0,26,Black Ash Park & Ride,2214,light intensity drizzle,north
+5,0,26,North Main Street,1783,light intensity drizzle,north
+5,0,26,Paul Street,1696,light intensity drizzle,north
+5,0,26,Saint Finbarr's,2234,light intensity drizzle,west
+5,0,26,Merchants Quay,2091,light intensity drizzle,west
+5,0,26,Grand Parade,2157,light intensity drizzle,west
+5,0,26,Carrolls Quay,2308,light intensity drizzle,west
+5,0,26,City Hall - Eglington Street,1970,light intensity drizzle,west
+5,0,26,Black Ash Park & Ride,1900,light intensity drizzle,west
+5,0,26,Carrolls Quay,2803,light intensity drizzle,east
+5,0,26,North Main Street,2316,light intensity drizzle,west
+5,0,26,Paul Street,2242,light intensity drizzle,west
+5,0,26,City Hall - Eglington Street,2725,light intensity drizzle,east
+5,0,26,Black Ash Park & Ride,2734,light intensity drizzle,east
+5,0,26,North Main Street,2916,light intensity drizzle,east
+5,0,26,Paul Street,2826,light intensity drizzle,east
+5,0,26,Saint Finbarr's,3327,light intensity drizzle,south
+5,0,26,Merchants Quay,3224,light intensity drizzle,south
+5,0,41,Saint Finbarr's,3032,light intensity drizzle,east
+5,0,41,Merchants Quay,2821,light intensity drizzle,east
+5,0,41,Grand Parade,3303,light intensity drizzle,south
+5,0,41,Carrolls Quay,3445,light intensity drizzle,south
+5,0,41,City Hall - Eglington Street,3120,light intensity drizzle,south
+5,0,41,Black Ash Park & Ride,3056,light intensity drizzle,south
+5,0,41,North Main Street,3414,light intensity drizzle,south
+5,0,41,Paul Street,3391,light intensity drizzle,south
+5,0,41,Saint Finbarr's,1994,light intensity drizzle,north
+5,0,41,Merchants Quay,1931,light intensity drizzle,north
+5,0,41,Grand Parade,1921,light intensity drizzle,north
+5,0,41,Carrolls Quay,1853,light intensity drizzle,north
+5,0,41,Grand Parade,2907,light intensity drizzle,east
+5,0,41,City Hall - Eglington Street,1954,light intensity drizzle,north
+5,0,41,Black Ash Park & Ride,2220,light intensity drizzle,north
+5,0,41,North Main Street,1792,light intensity drizzle,north
+5,0,41,Paul Street,1703,light intensity drizzle,north
+5,0,41,Saint Finbarr's,2238,light intensity drizzle,west
+5,0,41,Merchants Quay,2097,light intensity drizzle,west
+5,0,41,Grand Parade,2164,light intensity drizzle,west
+5,0,41,Carrolls Quay,2312,light intensity drizzle,west
+5,0,41,City Hall - Eglington Street,1966,light intensity drizzle,west
+5,0,41,Black Ash Park & Ride,1899,light intensity drizzle,west
+5,0,41,Carrolls Quay,2801,light intensity drizzle,east
+5,0,41,North Main Street,2297,light intensity drizzle,west
+5,0,41,Paul Street,2246,light intensity drizzle,west
+5,0,41,City Hall - Eglington Street,2718,light intensity drizzle,east
+5,0,41,Black Ash Park & Ride,2730,light intensity drizzle,east
+5,0,41,North Main Street,2942,light intensity drizzle,east
+5,0,41,Paul Street,2857,light intensity drizzle,east
+5,0,41,Saint Finbarr's,3316,light intensity drizzle,south
+5,0,41,Merchants Quay,3254,light intensity drizzle,south
+5,1,11,Saint Finbarr's,3028,light intensity drizzle rain,east
+5,1,11,Merchants Quay,2823,light intensity drizzle rain,east
+5,1,11,Grand Parade,3257,light intensity drizzle rain,south
+5,1,11,Carrolls Quay,3417,light intensity drizzle rain,south
+5,1,11,City Hall - Eglington Street,3091,light intensity drizzle rain,south
+5,1,11,Black Ash Park & Ride,3033,light intensity drizzle rain,south
+5,1,11,North Main Street,3456,light intensity drizzle rain,south
+5,1,11,Paul Street,3353,light intensity drizzle rain,south
+5,1,11,Saint Finbarr's,1963,light intensity drizzle rain,north
+5,1,11,Merchants Quay,1904,light intensity drizzle rain,north
+5,1,11,Grand Parade,1889,light intensity drizzle rain,north
+5,1,11,Carrolls Quay,1820,light intensity drizzle rain,north
+5,1,11,Grand Parade,2912,light intensity drizzle rain,east
+5,1,11,City Hall - Eglington Street,1919,light intensity drizzle rain,north
+5,1,11,Black Ash Park & Ride,2171,light intensity drizzle rain,north
+5,1,11,North Main Street,1754,light intensity drizzle rain,north
+5,1,11,Paul Street,1669,light intensity drizzle rain,north
+5,1,11,Saint Finbarr's,2274,light intensity drizzle rain,west
+5,1,11,Merchants Quay,2094,light intensity drizzle rain,west
+5,1,11,Grand Parade,2141,light intensity drizzle rain,west
+5,1,11,Carrolls Quay,2392,light intensity drizzle rain,west
+5,1,11,City Hall - Eglington Street,1972,light intensity drizzle rain,west
+5,1,11,Black Ash Park & Ride,1911,light intensity drizzle rain,west
+5,1,11,Carrolls Quay,2824,light intensity drizzle rain,east
+5,1,11,North Main Street,2320,light intensity drizzle rain,west
+5,1,11,Paul Street,2253,light intensity drizzle rain,west
+5,1,11,City Hall - Eglington Street,2740,light intensity drizzle rain,east
+5,1,11,Black Ash Park & Ride,2720,light intensity drizzle rain,east
+5,1,11,North Main Street,2948,light intensity drizzle rain,east
+5,1,11,Paul Street,2860,light intensity drizzle rain,east
+5,1,11,Saint Finbarr's,3380,light intensity drizzle rain,south
+5,1,11,Merchants Quay,3210,light intensity drizzle rain,south
+5,1,41,Saint Finbarr's,2997,light rain,east
+5,1,41,Merchants Quay,2796,light rain,east
+5,1,41,Grand Parade,3238,light rain,south
+5,1,41,Carrolls Quay,3378,light rain,south
+5,1,41,City Hall - Eglington Street,3067,light rain,south
+5,1,41,Black Ash Park & Ride,3006,light rain,south
+5,1,41,North Main Street,3469,light rain,south
+5,1,41,Paul Street,3408,light rain,south
+5,1,41,Saint Finbarr's,1988,light rain,north
+5,1,41,Merchants Quay,1861,light rain,north
+5,1,41,Grand Parade,1922,light rain,north
+5,1,41,Carrolls Quay,1808,light rain,north
+5,1,41,Grand Parade,2873,light rain,east
+5,1,41,City Hall - Eglington Street,1882,light rain,north
+5,1,41,Black Ash Park & Ride,2125,light rain,north
+5,1,41,North Main Street,1766,light rain,north
+5,1,41,Paul Street,1678,light rain,north
+5,1,41,Saint Finbarr's,2250,light rain,west
+5,1,41,Merchants Quay,2105,light rain,west
+5,1,41,Grand Parade,2124,light rain,west
+5,1,41,Carrolls Quay,2310,light rain,west
+5,1,41,City Hall - Eglington Street,1979,light rain,west
+5,1,41,Black Ash Park & Ride,1908,light rain,west
+5,1,41,Carrolls Quay,2769,light rain,east
+5,1,41,North Main Street,2320,light rain,west
+5,1,41,Paul Street,2267,light rain,west
+5,1,41,City Hall - Eglington Street,2696,light rain,east
+5,1,41,Black Ash Park & Ride,2689,light rain,east
+5,1,41,North Main Street,2916,light rain,east
+5,1,41,Paul Street,2829,light rain,east
+5,1,41,Saint Finbarr's,3346,light rain,south
+5,1,41,Merchants Quay,3197,light rain,south
+5,2,11,Saint Finbarr's,2968,light rain,east
+5,2,11,Merchants Quay,2762,light rain,east
+5,2,11,Grand Parade,3248,light rain,south
+5,2,11,Carrolls Quay,3465,light rain,south
+5,2,11,City Hall - Eglington Street,3077,light rain,south
+5,2,11,Black Ash Park & Ride,3008,light rain,south
+5,2,11,North Main Street,3541,light rain,south
+5,2,11,Paul Street,3378,light rain,south
+5,2,11,Saint Finbarr's,2126,light rain,north
+5,2,11,Merchants Quay,2019,light rain,north
+5,2,11,Grand Parade,2050,light rain,north
+5,2,11,Carrolls Quay,1967,light rain,north
+5,2,11,Grand Parade,2843,light rain,east
+5,2,11,City Hall - Eglington Street,2026,light rain,north
+5,2,11,Black Ash Park & Ride,2329,light rain,north
+5,2,11,North Main Street,1906,light rain,north
+5,2,11,Paul Street,1820,light rain,north
+5,2,11,Saint Finbarr's,2248,light rain,west
+5,2,11,Merchants Quay,2100,light rain,west
+5,2,11,Grand Parade,2150,light rain,west
+5,2,11,Carrolls Quay,2307,light rain,west
+5,2,11,City Hall - Eglington Street,1985,light rain,west
+5,2,11,Black Ash Park & Ride,1914,light rain,west
+5,2,11,Carrolls Quay,2801,light rain,east
+5,2,11,North Main Street,2323,light rain,west
+5,2,11,Paul Street,2275,light rain,west
+5,2,11,City Hall - Eglington Street,2666,light rain,east
+5,2,11,Black Ash Park & Ride,2657,light rain,east
+5,2,11,North Main Street,2934,light rain,east
+5,2,11,Paul Street,2847,light rain,east
+5,2,11,Saint Finbarr's,3448,light rain,south
+5,2,11,Merchants Quay,3210,light rain,south
+5,2,26,Saint Finbarr's,2974,light rain,east
+5,2,26,Merchants Quay,2777,light rain,east
+5,2,26,Grand Parade,3229,light rain,south
+5,2,26,Carrolls Quay,3390,light rain,south
+5,2,26,City Hall - Eglington Street,3063,light rain,south
+5,2,26,Black Ash Park & Ride,3003,light rain,south
+5,2,26,North Main Street,3378,light rain,south
+5,2,26,Paul Street,3351,light rain,south
+5,2,26,Saint Finbarr's,1963,light rain,north
+5,2,26,Merchants Quay,1864,light rain,north
+5,2,26,Grand Parade,1883,light rain,north
+5,2,26,Carrolls Quay,1806,light rain,north
+5,2,26,Grand Parade,2850,light rain,east
+5,2,26,City Hall - Eglington Street,1877,light rain,north
+5,2,26,Black Ash Park & Ride,2117,light rain,north
+5,2,26,North Main Street,1749,light rain,north
+5,2,26,Paul Street,1661,light rain,north
+5,2,26,Saint Finbarr's,2284,light rain,west
+5,2,26,Merchants Quay,2090,light rain,west
+5,2,26,Grand Parade,2129,light rain,west
+5,2,26,Carrolls Quay,2343,light rain,west
+5,2,26,City Hall - Eglington Street,1957,light rain,west
+5,2,26,Black Ash Park & Ride,1888,light rain,west
+5,2,26,Carrolls Quay,2775,light rain,east
+5,2,26,North Main Street,2339,light rain,west
+5,2,26,Paul Street,2287,light rain,west
+5,2,26,City Hall - Eglington Street,2679,light rain,east
+5,2,26,Black Ash Park & Ride,2688,light rain,east
+5,2,26,North Main Street,2916,light rain,east
+5,2,26,Paul Street,2826,light rain,east
+5,2,26,Saint Finbarr's,3308,light rain,south
+5,2,26,Merchants Quay,3187,light rain,south
+5,2,56,Saint Finbarr's,2952,light intensity drizzle,east
+5,2,56,Merchants Quay,2747,light intensity drizzle,east
+5,2,56,Grand Parade,3256,light intensity drizzle,south
+5,2,56,Carrolls Quay,3454,light intensity drizzle,south
+5,2,56,City Hall - Eglington Street,3091,light intensity drizzle,south
+5,2,56,Black Ash Park & Ride,3030,light intensity drizzle,south
+5,2,56,North Main Street,3394,light intensity drizzle,south
+5,2,56,Paul Street,3366,light intensity drizzle,south
+5,2,56,Saint Finbarr's,1902,light intensity drizzle,north
+5,2,56,Merchants Quay,1797,light intensity drizzle,north
+5,2,56,Grand Parade,1859,light intensity drizzle,north
+5,2,56,Carrolls Quay,1750,light intensity drizzle,north
+5,2,56,Grand Parade,2833,light intensity drizzle,east
+5,2,56,City Hall - Eglington Street,1798,light intensity drizzle,north
+5,2,56,Black Ash Park & Ride,2048,light intensity drizzle,north
+5,2,56,North Main Street,1717,light intensity drizzle,north
+5,2,56,Paul Street,1631,light intensity drizzle,north
+5,2,56,Saint Finbarr's,2245,light intensity drizzle,west
+5,2,56,Merchants Quay,2065,light intensity drizzle,west
+5,2,56,Grand Parade,2129,light intensity drizzle,west
+5,2,56,Carrolls Quay,2333,light intensity drizzle,west
+5,2,56,City Hall - Eglington Street,1960,light intensity drizzle,west
+5,2,56,Black Ash Park & Ride,1900,light intensity drizzle,west
+5,2,56,Carrolls Quay,2809,light intensity drizzle,east
+5,2,56,North Main Street,2295,light intensity drizzle,west
+5,2,56,Paul Street,2244,light intensity drizzle,west
+5,2,56,City Hall - Eglington Street,2663,light intensity drizzle,east
+5,2,56,Black Ash Park & Ride,2680,light intensity drizzle,east
+5,2,56,North Main Street,2884,light intensity drizzle,east
+5,2,56,Paul Street,2792,light intensity drizzle,east
+5,2,56,Saint Finbarr's,3316,light intensity drizzle,south
+5,2,56,Merchants Quay,3202,light intensity drizzle,south
+5,3,11,Saint Finbarr's,2968,light rain,east
+5,3,11,Merchants Quay,2740,light rain,east
+5,3,11,Grand Parade,3241,light rain,south
+5,3,11,Carrolls Quay,3421,light rain,south
+5,3,11,City Hall - Eglington Street,3072,light rain,south
+5,3,11,Black Ash Park & Ride,3015,light rain,south
+5,3,11,North Main Street,3343,light rain,south
+5,3,11,Paul Street,3317,light rain,south
+5,3,11,Saint Finbarr's,1907,light rain,north
+5,3,11,Merchants Quay,1839,light rain,north
+5,3,11,Grand Parade,1829,light rain,north
+5,3,11,Carrolls Quay,1777,light rain,north
+5,3,11,Grand Parade,2839,light rain,east
+5,3,11,City Hall - Eglington Street,1831,light rain,north
+5,3,11,Black Ash Park & Ride,2109,light rain,north
+5,3,11,North Main Street,1740,light rain,north
+5,3,11,Paul Street,1648,light rain,north
+5,3,11,Saint Finbarr's,2204,light rain,west
+5,3,11,Merchants Quay,2080,light rain,west
+5,3,11,Grand Parade,2134,light rain,west
+5,3,11,Carrolls Quay,2330,light rain,west
+5,3,11,City Hall - Eglington Street,1969,light rain,west
+5,3,11,Black Ash Park & Ride,1908,light rain,west
+5,3,11,Carrolls Quay,2747,light rain,east
+5,3,11,North Main Street,2282,light rain,west
+5,3,11,Paul Street,2242,light rain,west
+5,3,11,City Hall - Eglington Street,2664,light rain,east
+5,3,11,Black Ash Park & Ride,2671,light rain,east
+5,3,11,North Main Street,2892,light rain,east
+5,3,11,Paul Street,2801,light rain,east
+5,3,11,Saint Finbarr's,3322,light rain,south
+5,3,11,Merchants Quay,3178,light rain,south
+5,3,26,Saint Finbarr's,2978,light rain,east
+5,3,26,Merchants Quay,2749,light rain,east
+5,3,26,Grand Parade,3266,light rain,south
+5,3,26,Carrolls Quay,3407,light rain,south
+5,3,26,City Hall - Eglington Street,3094,light rain,south
+5,3,26,Black Ash Park & Ride,3036,light rain,south
+5,3,26,North Main Street,3394,light rain,south
+5,3,26,Paul Street,3364,light rain,south
+5,3,26,Saint Finbarr's,1959,light rain,north
+5,3,26,Merchants Quay,1854,light rain,north
+5,3,26,Grand Parade,1871,light rain,north
+5,3,26,Carrolls Quay,1814,light rain,north
+5,3,26,Grand Parade,2865,light rain,east
+5,3,26,City Hall - Eglington Street,1853,light rain,north
+5,3,26,Black Ash Park & Ride,2152,light rain,north
+5,3,26,North Main Street,1779,light rain,north
+5,3,26,Paul Street,1688,light rain,north
+5,3,26,Saint Finbarr's,2195,light rain,west
+5,3,26,Merchants Quay,2062,light rain,west
+5,3,26,Grand Parade,2125,light rain,west
+5,3,26,Carrolls Quay,2305,light rain,west
+5,3,26,City Hall - Eglington Street,1956,light rain,west
+5,3,26,Black Ash Park & Ride,1900,light rain,west
+5,3,26,Carrolls Quay,2775,light rain,east
+5,3,26,North Main Street,2235,light rain,west
+5,3,26,Paul Street,2209,light rain,west
+5,3,26,City Hall - Eglington Street,2688,light rain,east
+5,3,26,Black Ash Park & Ride,2708,light rain,east
+5,3,26,North Main Street,2911,light rain,east
+5,3,26,Paul Street,2821,light rain,east
+5,3,26,Saint Finbarr's,3318,light rain,south
+5,3,26,Merchants Quay,3197,light rain,south
+5,4,11,Saint Finbarr's,2935,light intensity drizzle,east
+5,4,11,Merchants Quay,2729,light intensity drizzle,east
+5,4,11,Grand Parade,3267,light intensity drizzle,south
+5,4,11,Carrolls Quay,3416,light intensity drizzle,south
+5,4,11,City Hall - Eglington Street,3112,light intensity drizzle,south
+5,4,11,Black Ash Park & Ride,3051,light intensity drizzle,south
+5,4,11,North Main Street,3498,light intensity drizzle,south
+5,4,11,Paul Street,3374,light intensity drizzle,south
+5,4,11,Saint Finbarr's,1858,light intensity drizzle,north
+5,4,11,Merchants Quay,1797,light intensity drizzle,north
+5,4,11,Grand Parade,1772,light intensity drizzle,north
+5,4,11,Carrolls Quay,1722,light intensity drizzle,north
+5,4,11,Grand Parade,2817,light intensity drizzle,east
+5,4,11,City Hall - Eglington Street,1797,light intensity drizzle,north
+5,4,11,Black Ash Park & Ride,2133,light intensity drizzle,north
+5,4,11,North Main Street,1718,light intensity drizzle,north
+5,4,11,Paul Street,1630,light intensity drizzle,north
+5,4,11,Saint Finbarr's,2224,light intensity drizzle,west
+5,4,11,Merchants Quay,2056,light intensity drizzle,west
+5,4,11,Grand Parade,2117,light intensity drizzle,west
+5,4,11,Carrolls Quay,2281,light intensity drizzle,west
+5,4,11,City Hall - Eglington Street,1956,light intensity drizzle,west
+5,4,11,Black Ash Park & Ride,1893,light intensity drizzle,west
+5,4,11,Carrolls Quay,2714,light intensity drizzle,east
+5,4,11,North Main Street,2283,light intensity drizzle,west
+5,4,11,Paul Street,2247,light intensity drizzle,west
+5,4,11,City Hall - Eglington Street,2658,light intensity drizzle,east
+5,4,11,Black Ash Park & Ride,2683,light intensity drizzle,east
+5,4,11,North Main Street,2839,light intensity drizzle,east
+5,4,11,Paul Street,2749,light intensity drizzle,east
+5,4,11,Saint Finbarr's,3412,light intensity drizzle,south
+5,4,11,Merchants Quay,3225,light intensity drizzle,south
+5,4,41,Saint Finbarr's,2959,light intensity drizzle rain,east
+5,4,41,Merchants Quay,2750,light intensity drizzle rain,east
+5,4,41,Grand Parade,3158,light intensity drizzle rain,south
+5,4,41,Carrolls Quay,3288,light intensity drizzle rain,south
+5,4,41,City Hall - Eglington Street,2995,light intensity drizzle rain,south
+5,4,41,Black Ash Park & Ride,2929,light intensity drizzle rain,south
+5,4,41,North Main Street,3301,light intensity drizzle rain,south
+5,4,41,Paul Street,3255,light intensity drizzle rain,south
+5,4,41,Saint Finbarr's,1879,light intensity drizzle rain,north
+5,4,41,Merchants Quay,1821,light intensity drizzle rain,north
+5,4,41,Grand Parade,1800,light intensity drizzle rain,north
+5,4,41,Carrolls Quay,1747,light intensity drizzle rain,north
+5,4,41,Grand Parade,2845,light intensity drizzle rain,east
+5,4,41,City Hall - Eglington Street,1819,light intensity drizzle rain,north
+5,4,41,Black Ash Park & Ride,2155,light intensity drizzle rain,north
+5,4,41,North Main Street,1728,light intensity drizzle rain,north
+5,4,41,Paul Street,1638,light intensity drizzle rain,north
+5,4,41,Saint Finbarr's,2268,light intensity drizzle rain,west
+5,4,41,Merchants Quay,2065,light intensity drizzle rain,west
+5,4,41,Grand Parade,2103,light intensity drizzle rain,west
+5,4,41,Carrolls Quay,2251,light intensity drizzle rain,west
+5,4,41,City Hall - Eglington Street,1958,light intensity drizzle rain,west
+5,4,41,Black Ash Park & Ride,1901,light intensity drizzle rain,west
+5,4,41,Carrolls Quay,2723,light intensity drizzle rain,east
+5,4,41,North Main Street,2332,light intensity drizzle rain,west
+5,4,41,Paul Street,2211,light intensity drizzle rain,west
+5,4,41,City Hall - Eglington Street,2677,light intensity drizzle rain,east
+5,4,41,Black Ash Park & Ride,2696,light intensity drizzle rain,east
+5,4,41,North Main Street,2860,light intensity drizzle rain,east
+5,4,41,Paul Street,2772,light intensity drizzle rain,east
+5,4,41,Saint Finbarr's,3221,light intensity drizzle rain,south
+5,4,41,Merchants Quay,3112,light intensity drizzle rain,south
+5,4,56,Saint Finbarr's,2957,light intensity drizzle rain,east
+5,4,56,Merchants Quay,2752,light intensity drizzle rain,east
+5,4,56,Grand Parade,3118,light intensity drizzle rain,south
+5,4,56,Carrolls Quay,3252,light intensity drizzle rain,south
+5,4,56,City Hall - Eglington Street,2952,light intensity drizzle rain,south
+5,4,56,Black Ash Park & Ride,2879,light intensity drizzle rain,south
+5,4,56,North Main Street,3250,light intensity drizzle rain,south
+5,4,56,Paul Street,3247,light intensity drizzle rain,south
+5,4,56,Saint Finbarr's,1999,light intensity drizzle rain,north
+5,4,56,Merchants Quay,1948,light intensity drizzle rain,north
+5,4,56,Grand Parade,1918,light intensity drizzle rain,north
+5,4,56,Carrolls Quay,1890,light intensity drizzle rain,north
+5,4,56,Grand Parade,2847,light intensity drizzle rain,east
+5,4,56,City Hall - Eglington Street,1941,light intensity drizzle rain,north
+5,4,56,Black Ash Park & Ride,2276,light intensity drizzle rain,north
+5,4,56,North Main Street,1833,light intensity drizzle rain,north
+5,4,56,Paul Street,1746,light intensity drizzle rain,north
+5,4,56,Saint Finbarr's,2184,light intensity drizzle rain,west
+5,4,56,Merchants Quay,2063,light intensity drizzle rain,west
+5,4,56,Grand Parade,2109,light intensity drizzle rain,west
+5,4,56,Carrolls Quay,2239,light intensity drizzle rain,west
+5,4,56,City Hall - Eglington Street,1946,light intensity drizzle rain,west
+5,4,56,Black Ash Park & Ride,1880,light intensity drizzle rain,west
+5,4,56,Carrolls Quay,2710,light intensity drizzle rain,east
+5,4,56,North Main Street,2252,light intensity drizzle rain,west
+5,4,56,Paul Street,2206,light intensity drizzle rain,west
+5,4,56,City Hall - Eglington Street,2676,light intensity drizzle rain,east
+5,4,56,Black Ash Park & Ride,2670,light intensity drizzle rain,east
+5,4,56,North Main Street,2869,light intensity drizzle rain,east
+5,4,56,Paul Street,2784,light intensity drizzle rain,east
+5,4,56,Saint Finbarr's,3196,light intensity drizzle rain,south
+5,4,56,Merchants Quay,3072,light intensity drizzle rain,south
+5,5,11,Saint Finbarr's,3015,light intensity drizzle,east
+5,5,11,Merchants Quay,2824,light intensity drizzle,east
+5,5,11,Grand Parade,3059,light intensity drizzle,south
+5,5,11,Carrolls Quay,3166,light intensity drizzle,south
+5,5,11,City Hall - Eglington Street,2881,light intensity drizzle,south
+5,5,11,Black Ash Park & Ride,2805,light intensity drizzle,south
+5,5,11,North Main Street,3187,light intensity drizzle,south
+5,5,11,Paul Street,3157,light intensity drizzle,south
+5,5,11,Saint Finbarr's,2046,light intensity drizzle,north
+5,5,11,Merchants Quay,2014,light intensity drizzle,north
+5,5,11,Grand Parade,1949,light intensity drizzle,north
+5,5,11,Carrolls Quay,1931,light intensity drizzle,north
+5,5,11,Grand Parade,2900,light intensity drizzle,east
+5,5,11,City Hall - Eglington Street,2030,light intensity drizzle,north
+5,5,11,Black Ash Park & Ride,2325,light intensity drizzle,north
+5,5,11,North Main Street,1876,light intensity drizzle,north
+5,5,11,Paul Street,1791,light intensity drizzle,north
+5,5,11,Saint Finbarr's,2249,light intensity drizzle,west
+5,5,11,Merchants Quay,2069,light intensity drizzle,west
+5,5,11,Grand Parade,2115,light intensity drizzle,west
+5,5,11,Carrolls Quay,2248,light intensity drizzle,west
+5,5,11,City Hall - Eglington Street,1948,light intensity drizzle,west
+5,5,11,Black Ash Park & Ride,1876,light intensity drizzle,west
+5,5,11,Carrolls Quay,2750,light intensity drizzle,east
+5,5,11,North Main Street,2324,light intensity drizzle,west
+5,5,11,Paul Street,2244,light intensity drizzle,west
+5,5,11,City Hall - Eglington Street,2717,light intensity drizzle,east
+5,5,11,Black Ash Park & Ride,2727,light intensity drizzle,east
+5,5,11,North Main Street,2920,light intensity drizzle,east
+5,5,11,Paul Street,2837,light intensity drizzle,east
+5,5,11,Saint Finbarr's,3173,light intensity drizzle,south
+5,5,11,Merchants Quay,3009,light intensity drizzle,south
+5,5,26,Saint Finbarr's,2980,light intensity drizzle,east
+5,5,26,Merchants Quay,2815,light intensity drizzle,east
+5,5,26,Grand Parade,3034,light intensity drizzle,south
+5,5,26,Carrolls Quay,3189,light intensity drizzle,south
+5,5,26,City Hall - Eglington Street,2870,light intensity drizzle,south
+5,5,26,Black Ash Park & Ride,2791,light intensity drizzle,south
+5,5,26,North Main Street,3163,light intensity drizzle,south
+5,5,26,Paul Street,3188,light intensity drizzle,south
+5,5,26,Saint Finbarr's,1999,light intensity drizzle,north
+5,5,26,Merchants Quay,1943,light intensity drizzle,north
+5,5,26,Grand Parade,1925,light intensity drizzle,north
+5,5,26,Carrolls Quay,1879,light intensity drizzle,north
+5,5,26,Grand Parade,2876,light intensity drizzle,east
+5,5,26,City Hall - Eglington Street,1956,light intensity drizzle,north
+5,5,26,Black Ash Park & Ride,2237,light intensity drizzle,north
+5,5,26,North Main Street,1824,light intensity drizzle,north
+5,5,26,Paul Street,1742,light intensity drizzle,north
+5,5,26,Saint Finbarr's,2152,light intensity drizzle,west
+5,5,26,Merchants Quay,2048,light intensity drizzle,west
+5,5,26,Grand Parade,2098,light intensity drizzle,west
+5,5,26,Carrolls Quay,2205,light intensity drizzle,west
+5,5,26,City Hall - Eglington Street,1920,light intensity drizzle,west
+5,5,26,Black Ash Park & Ride,1844,light intensity drizzle,west
+5,5,26,Carrolls Quay,2766,light intensity drizzle,east
+5,5,26,North Main Street,2225,light intensity drizzle,west
+5,5,26,Paul Street,2196,light intensity drizzle,west
+5,5,26,City Hall - Eglington Street,2707,light intensity drizzle,east
+5,5,26,Black Ash Park & Ride,2729,light intensity drizzle,east
+5,5,26,North Main Street,2977,light intensity drizzle,east
+5,5,26,Paul Street,2888,light intensity drizzle,east
+5,5,26,Saint Finbarr's,3106,light intensity drizzle,south
+5,5,26,Merchants Quay,2996,light intensity drizzle,south
+5,5,56,Saint Finbarr's,3037,light intensity drizzle,east
+5,5,56,Merchants Quay,2840,light intensity drizzle,east
+5,5,56,Grand Parade,3151,light intensity drizzle,south
+5,5,56,Carrolls Quay,3321,light intensity drizzle,south
+5,5,56,City Hall - Eglington Street,2976,light intensity drizzle,south
+5,5,56,Black Ash Park & Ride,2882,light intensity drizzle,south
+5,5,56,North Main Street,3375,light intensity drizzle,south
+5,5,56,Paul Street,3286,light intensity drizzle,south
+5,5,56,Saint Finbarr's,2029,light intensity drizzle,north
+5,5,56,Merchants Quay,1994,light intensity drizzle,north
+5,5,56,Grand Parade,1940,light intensity drizzle,north
+5,5,56,Carrolls Quay,1896,light intensity drizzle,north
+5,5,56,Grand Parade,2913,light intensity drizzle,east
+5,5,56,City Hall - Eglington Street,2018,light intensity drizzle,north
+5,5,56,Black Ash Park & Ride,2303,light intensity drizzle,north
+5,5,56,North Main Street,1843,light intensity drizzle,north
+5,5,56,Paul Street,1753,light intensity drizzle,north
+5,5,56,Saint Finbarr's,2227,light intensity drizzle,west
+5,5,56,Merchants Quay,2076,light intensity drizzle,west
+5,5,56,Grand Parade,2109,light intensity drizzle,west
+5,5,56,Carrolls Quay,2268,light intensity drizzle,west
+5,5,56,City Hall - Eglington Street,1939,light intensity drizzle,west
+5,5,56,Black Ash Park & Ride,1856,light intensity drizzle,west
+5,5,56,Carrolls Quay,2777,light intensity drizzle,east
+5,5,56,North Main Street,2301,light intensity drizzle,west
+5,5,56,Paul Street,2251,light intensity drizzle,west
+5,5,56,City Hall - Eglington Street,2733,light intensity drizzle,east
+5,5,56,Black Ash Park & Ride,2730,light intensity drizzle,east
+5,5,56,North Main Street,2959,light intensity drizzle,east
+5,5,56,Paul Street,2867,light intensity drizzle,east
+5,5,56,Saint Finbarr's,3209,light intensity drizzle,south
+5,5,56,Merchants Quay,3113,light intensity drizzle,south
+5,6,11,Saint Finbarr's,3065,light intensity drizzle,east
+5,6,11,Merchants Quay,2877,light intensity drizzle,east
+5,6,11,Grand Parade,3261,light intensity drizzle,south
+5,6,11,Carrolls Quay,3459,light intensity drizzle,south
+5,6,11,City Hall - Eglington Street,3067,light intensity drizzle,south
+5,6,11,Black Ash Park & Ride,2967,light intensity drizzle,south
+5,6,11,North Main Street,3508,light intensity drizzle,south
+5,6,11,Paul Street,3422,light intensity drizzle,south
+5,6,11,Saint Finbarr's,2081,light intensity drizzle,north
+5,6,11,Merchants Quay,2074,light intensity drizzle,north
+5,6,11,Grand Parade,1978,light intensity drizzle,north
+5,6,11,Carrolls Quay,1931,light intensity drizzle,north
+5,6,11,Grand Parade,2961,light intensity drizzle,east
+5,6,11,City Hall - Eglington Street,2102,light intensity drizzle,north
+5,6,11,Black Ash Park & Ride,2414,light intensity drizzle,north
+5,6,11,North Main Street,1886,light intensity drizzle,north
+5,6,11,Paul Street,1793,light intensity drizzle,north
+5,6,11,Saint Finbarr's,2256,light intensity drizzle,west
+5,6,11,Merchants Quay,2119,light intensity drizzle,west
+5,6,11,Grand Parade,2157,light intensity drizzle,west
+5,6,11,Carrolls Quay,2327,light intensity drizzle,west
+5,6,11,City Hall - Eglington Street,1982,light intensity drizzle,west
+5,6,11,Black Ash Park & Ride,1888,light intensity drizzle,west
+5,6,11,Carrolls Quay,2842,light intensity drizzle,east
+5,6,11,North Main Street,2322,light intensity drizzle,west
+5,6,11,Paul Street,2292,light intensity drizzle,west
+5,6,11,City Hall - Eglington Street,2761,light intensity drizzle,east
+5,6,11,Black Ash Park & Ride,2769,light intensity drizzle,east
+5,6,11,North Main Street,3028,light intensity drizzle,east
+5,6,11,Paul Street,2933,light intensity drizzle,east
+5,6,11,Saint Finbarr's,3295,light intensity drizzle,south
+5,6,11,Merchants Quay,3221,light intensity drizzle,south
+5,6,26,Saint Finbarr's,3299,light intensity drizzle,east
+5,6,26,Merchants Quay,3051,light intensity drizzle,east
+5,6,26,Grand Parade,3456,light intensity drizzle,south
+5,6,26,Carrolls Quay,3651,light intensity drizzle,south
+5,6,26,City Hall - Eglington Street,3235,light intensity drizzle,south
+5,6,26,Black Ash Park & Ride,3116,light intensity drizzle,south
+5,6,26,North Main Street,3749,light intensity drizzle,south
+5,6,26,Paul Street,3642,light intensity drizzle,south
+5,6,26,Saint Finbarr's,2163,light intensity drizzle,north
+5,6,26,Merchants Quay,2140,light intensity drizzle,north
+5,6,26,Grand Parade,2097,light intensity drizzle,north
+5,6,26,Carrolls Quay,2041,light intensity drizzle,north
+5,6,26,Grand Parade,3165,light intensity drizzle,east
+5,6,26,City Hall - Eglington Street,2173,light intensity drizzle,north
+5,6,26,Black Ash Park & Ride,2495,light intensity drizzle,north
+5,6,26,North Main Street,1986,light intensity drizzle,north
+5,6,26,Paul Street,1891,light intensity drizzle,north
+5,6,26,Saint Finbarr's,2331,light intensity drizzle,west
+5,6,26,Merchants Quay,2195,light intensity drizzle,west
+5,6,26,Grand Parade,2235,light intensity drizzle,west
+5,6,26,Carrolls Quay,2427,light intensity drizzle,west
+5,6,26,City Hall - Eglington Street,2041,light intensity drizzle,west
+5,6,26,Black Ash Park & Ride,1941,light intensity drizzle,west
+5,6,26,Carrolls Quay,2993,light intensity drizzle,east
+5,6,26,North Main Street,2431,light intensity drizzle,west
+5,6,26,Paul Street,2415,light intensity drizzle,west
+5,6,26,City Hall - Eglington Street,2955,light intensity drizzle,east
+5,6,26,Black Ash Park & Ride,2958,light intensity drizzle,east
+5,6,26,North Main Street,3190,light intensity drizzle,east
+5,6,26,Paul Street,3096,light intensity drizzle,east
+5,6,26,Saint Finbarr's,3490,light intensity drizzle,south
+5,6,26,Merchants Quay,3376,light intensity drizzle,south
+5,7,26,Saint Finbarr's,5113,light intensity drizzle,east
+5,7,26,Merchants Quay,4622,light intensity drizzle,east
+5,7,26,Grand Parade,4254,light intensity drizzle,south
+5,7,26,Carrolls Quay,4572,light intensity drizzle,south
+5,7,26,City Hall - Eglington Street,3951,light intensity drizzle,south
+5,7,26,Black Ash Park & Ride,3477,light intensity drizzle,south
+5,7,26,North Main Street,4616,light intensity drizzle,south
+5,7,26,Paul Street,4562,light intensity drizzle,south
+5,7,26,Saint Finbarr's,2819,light intensity drizzle,north
+5,7,26,Merchants Quay,2884,light intensity drizzle,north
+5,7,26,Grand Parade,2650,light intensity drizzle,north
+5,7,26,Carrolls Quay,2575,light intensity drizzle,north
+5,7,26,Grand Parade,4828,light intensity drizzle,east
+5,7,26,City Hall - Eglington Street,2977,light intensity drizzle,north
+5,7,26,Black Ash Park & Ride,3392,light intensity drizzle,north
+5,7,26,North Main Street,2469,light intensity drizzle,north
+5,7,26,Paul Street,2370,light intensity drizzle,north
+5,7,26,Saint Finbarr's,2924,light intensity drizzle,west
+5,7,26,Merchants Quay,2627,light intensity drizzle,west
+5,7,26,Grand Parade,2717,light intensity drizzle,west
+5,7,26,Carrolls Quay,2978,light intensity drizzle,west
+5,7,26,City Hall - Eglington Street,2441,light intensity drizzle,west
+5,7,26,Black Ash Park & Ride,2216,light intensity drizzle,west
+5,7,26,Carrolls Quay,4521,light intensity drizzle,east
+5,7,26,North Main Street,3065,light intensity drizzle,west
+5,7,26,Paul Street,3055,light intensity drizzle,west
+5,7,26,City Hall - Eglington Street,4493,light intensity drizzle,east
+5,7,26,Black Ash Park & Ride,3985,light intensity drizzle,east
+5,7,26,North Main Street,4826,light intensity drizzle,east
+5,7,26,Paul Street,4729,light intensity drizzle,east
+5,7,26,Saint Finbarr's,4008,light intensity drizzle,south
+5,7,26,Merchants Quay,4163,light intensity drizzle,south
+5,7,41,Saint Finbarr's,4810,light intensity drizzle,east
+5,7,41,Merchants Quay,4411,light intensity drizzle,east
+5,7,41,Grand Parade,4327,light intensity drizzle,south
+5,7,41,Carrolls Quay,4668,light intensity drizzle,south
+5,7,41,City Hall - Eglington Street,4001,light intensity drizzle,south
+5,7,41,Black Ash Park & Ride,3578,light intensity drizzle,south
+5,7,41,North Main Street,4658,light intensity drizzle,south
+5,7,41,Paul Street,4642,light intensity drizzle,south
+5,7,41,Saint Finbarr's,2990,light intensity drizzle,north
+5,7,41,Merchants Quay,3004,light intensity drizzle,north
+5,7,41,Grand Parade,2805,light intensity drizzle,north
+5,7,41,Carrolls Quay,2715,light intensity drizzle,north
+5,7,41,Grand Parade,4643,light intensity drizzle,east
+5,7,41,City Hall - Eglington Street,3103,light intensity drizzle,north
+5,7,41,Black Ash Park & Ride,3524,light intensity drizzle,north
+5,7,41,North Main Street,2613,light intensity drizzle,north
+5,7,41,Paul Street,2515,light intensity drizzle,north
+5,7,41,Saint Finbarr's,3018,light intensity drizzle,west
+5,7,41,Merchants Quay,2834,light intensity drizzle,west
+5,7,41,Grand Parade,2925,light intensity drizzle,west
+5,7,41,Carrolls Quay,3237,light intensity drizzle,west
+5,7,41,City Hall - Eglington Street,2622,light intensity drizzle,west
+5,7,41,Black Ash Park & Ride,2247,light intensity drizzle,west
+5,7,41,Carrolls Quay,4302,light intensity drizzle,east
+5,7,41,North Main Street,3181,light intensity drizzle,west
+5,7,41,Paul Street,3168,light intensity drizzle,west
+5,7,41,City Hall - Eglington Street,4286,light intensity drizzle,east
+5,7,41,Black Ash Park & Ride,3903,light intensity drizzle,east
+5,7,41,North Main Street,4589,light intensity drizzle,east
+5,7,41,Paul Street,4488,light intensity drizzle,east
+5,7,41,Saint Finbarr's,4223,light intensity drizzle,south
+5,7,41,Merchants Quay,4214,light intensity drizzle,south
+5,7,56,Saint Finbarr's,4759,light intensity drizzle,east
+5,7,56,Merchants Quay,4335,light intensity drizzle,east
+5,7,56,Grand Parade,4289,light intensity drizzle,south
+5,7,56,Carrolls Quay,4537,light intensity drizzle,south
+5,7,56,City Hall - Eglington Street,3947,light intensity drizzle,south
+5,7,56,Black Ash Park & Ride,3545,light intensity drizzle,south
+5,7,56,North Main Street,4508,light intensity drizzle,south
+5,7,56,Paul Street,4493,light intensity drizzle,south
+5,7,56,Saint Finbarr's,3084,light intensity drizzle,north
+5,7,56,Merchants Quay,3114,light intensity drizzle,north
+5,7,56,Grand Parade,2872,light intensity drizzle,north
+5,7,56,Carrolls Quay,2786,light intensity drizzle,north
+5,7,56,Grand Parade,4538,light intensity drizzle,east
+5,7,56,City Hall - Eglington Street,3249,light intensity drizzle,north
+5,7,56,Black Ash Park & Ride,3633,light intensity drizzle,north
+5,7,56,North Main Street,2673,light intensity drizzle,north
+5,7,56,Paul Street,2576,light intensity drizzle,north
+5,7,56,Saint Finbarr's,3195,light intensity drizzle,west
+5,7,56,Merchants Quay,3031,light intensity drizzle,west
+5,7,56,Grand Parade,2814,light intensity drizzle,west
+5,7,56,Carrolls Quay,3452,light intensity drizzle,west
+5,7,56,City Hall - Eglington Street,2818,light intensity drizzle,west
+5,7,56,Black Ash Park & Ride,2352,light intensity drizzle,west
+5,7,56,Carrolls Quay,4265,light intensity drizzle,east
+5,7,56,North Main Street,3345,light intensity drizzle,west
+5,7,56,Paul Street,3326,light intensity drizzle,west
+5,7,56,City Hall - Eglington Street,4216,light intensity drizzle,east
+5,7,56,Black Ash Park & Ride,3987,light intensity drizzle,east
+5,7,56,North Main Street,4508,light intensity drizzle,east
+5,7,56,Paul Street,4406,light intensity drizzle,east
+5,7,56,Saint Finbarr's,4075,light intensity drizzle,south
+5,7,56,Merchants Quay,4156,light intensity drizzle,south
+5,8,11,Saint Finbarr's,4571,fog,east
+5,8,11,Merchants Quay,4160,fog,east
+5,8,11,Grand Parade,4135,fog,south
+5,8,11,Carrolls Quay,4432,fog,south
+5,8,11,City Hall - Eglington Street,3828,fog,south
+5,8,11,Black Ash Park & Ride,3509,fog,south
+5,8,11,North Main Street,4435,fog,south
+5,8,11,Paul Street,4413,fog,south
+5,8,11,Saint Finbarr's,3018,fog,north
+5,8,11,Merchants Quay,3048,fog,north
+5,8,11,Grand Parade,2822,fog,north
+5,8,11,Carrolls Quay,2723,fog,north
+5,8,11,Grand Parade,4386,fog,east
+5,8,11,City Hall - Eglington Street,3142,fog,north
+5,8,11,Black Ash Park & Ride,3596,fog,north
+5,8,11,North Main Street,2619,fog,north
+5,8,11,Paul Street,2518,fog,north
+5,8,11,Saint Finbarr's,3045,fog,west
+5,8,11,Merchants Quay,3046,fog,west
+5,8,11,Grand Parade,3183,fog,west
+5,8,11,Carrolls Quay,3442,fog,west
+5,8,11,City Hall - Eglington Street,2837,fog,west
+5,8,11,Black Ash Park & Ride,2402,fog,west
+5,8,11,Carrolls Quay,4084,fog,east
+5,8,11,North Main Street,3207,fog,west
+5,8,11,Paul Street,3191,fog,west
+5,8,11,City Hall - Eglington Street,4079,fog,east
+5,8,11,Black Ash Park & Ride,3921,fog,east
+5,8,11,North Main Street,4374,fog,east
+5,8,11,Paul Street,4267,fog,east
+5,8,11,Saint Finbarr's,3987,fog,south
+5,8,11,Merchants Quay,4027,fog,south
+5,8,26,Saint Finbarr's,4289,fog,east
+5,8,26,Merchants Quay,3911,fog,east
+5,8,26,Grand Parade,4076,fog,south
+5,8,26,Carrolls Quay,4352,fog,south
+5,8,26,City Hall - Eglington Street,3750,fog,south
+5,8,26,Black Ash Park & Ride,3481,fog,south
+5,8,26,North Main Street,4351,fog,south
+5,8,26,Paul Street,4335,fog,south
+5,8,26,Saint Finbarr's,2903,fog,north
+5,8,26,Merchants Quay,2897,fog,north
+5,8,26,Grand Parade,2722,fog,north
+5,8,26,Carrolls Quay,2654,fog,north
+5,8,26,Grand Parade,4105,fog,east
+5,8,26,City Hall - Eglington Street,2991,fog,north
+5,8,26,Black Ash Park & Ride,3441,fog,north
+5,8,26,North Main Street,2537,fog,north
+5,8,26,Paul Street,2436,fog,north
+5,8,26,Saint Finbarr's,3028,fog,west
+5,8,26,Merchants Quay,2878,fog,west
+5,8,26,Grand Parade,2799,fog,west
+5,8,26,Carrolls Quay,3262,fog,west
+5,8,26,City Hall - Eglington Street,2679,fog,west
+5,8,26,Black Ash Park & Ride,2315,fog,west
+5,8,26,Carrolls Quay,3862,fog,east
+5,8,26,North Main Street,3179,fog,west
+5,8,26,Paul Street,3164,fog,west
+5,8,26,City Hall - Eglington Street,3773,fog,east
+5,8,26,Black Ash Park & Ride,3624,fog,east
+5,8,26,North Main Street,4116,fog,east
+5,8,26,Paul Street,4009,fog,east
+5,8,26,Saint Finbarr's,3892,fog,south
+5,8,26,Merchants Quay,3955,fog,south
+5,8,41,Saint Finbarr's,4122,fog,east
+5,8,41,Merchants Quay,3725,fog,east
+5,8,41,Grand Parade,4021,fog,south
+5,8,41,Carrolls Quay,4287,fog,south
+5,8,41,City Hall - Eglington Street,3682,fog,south
+5,8,41,Black Ash Park & Ride,3458,fog,south
+5,8,41,North Main Street,4320,fog,south
+5,8,41,Paul Street,4304,fog,south
+5,8,41,Saint Finbarr's,2794,fog,north
+5,8,41,Merchants Quay,2813,fog,north
+5,8,41,Grand Parade,2607,fog,north
+5,8,41,Carrolls Quay,2528,fog,north
+5,8,41,Grand Parade,3940,fog,east
+5,8,41,City Hall - Eglington Street,2869,fog,north
+5,8,41,Black Ash Park & Ride,3290,fog,north
+5,8,41,North Main Street,2445,fog,north
+5,8,41,Paul Street,2343,fog,north
+5,8,41,Saint Finbarr's,2885,fog,west
+5,8,41,Merchants Quay,2778,fog,west
+5,8,41,Grand Parade,2899,fog,west
+5,8,41,Carrolls Quay,3175,fog,west
+5,8,41,City Hall - Eglington Street,2573,fog,west
+5,8,41,Black Ash Park & Ride,2263,fog,west
+5,8,41,Carrolls Quay,3716,fog,east
+5,8,41,North Main Street,3044,fog,west
+5,8,41,Paul Street,3023,fog,west
+5,8,41,City Hall - Eglington Street,3595,fog,east
+5,8,41,Black Ash Park & Ride,3474,fog,east
+5,8,41,North Main Street,3931,fog,east
+5,8,41,Paul Street,3829,fog,east
+5,8,41,Saint Finbarr's,3939,fog,south
+5,8,41,Merchants Quay,3878,fog,south
+5,8,56,Saint Finbarr's,4201,fog,east
+5,8,56,Merchants Quay,3759,fog,east
+5,8,56,Grand Parade,3940,fog,south
+5,8,56,Carrolls Quay,4161,fog,south
+5,8,56,City Hall - Eglington Street,3591,fog,south
+5,8,56,Black Ash Park & Ride,3406,fog,south
+5,8,56,North Main Street,4372,fog,south
+5,8,56,Paul Street,4354,fog,south
+5,8,56,Saint Finbarr's,2736,fog,north
+5,8,56,Merchants Quay,2708,fog,north
+5,8,56,Grand Parade,2560,fog,north
+5,8,56,Carrolls Quay,2512,fog,north
+5,8,56,Grand Parade,3989,fog,east
+5,8,56,City Hall - Eglington Street,2774,fog,north
+5,8,56,Black Ash Park & Ride,3167,fog,north
+5,8,56,North Main Street,2405,fog,north
+5,8,56,Paul Street,2298,fog,north
+5,8,56,Saint Finbarr's,2789,fog,west
+5,8,56,Merchants Quay,2692,fog,west
+5,8,56,Grand Parade,2829,fog,west
+5,8,56,Carrolls Quay,3103,fog,west
+5,8,56,City Hall - Eglington Street,2495,fog,west
+5,8,56,Black Ash Park & Ride,2226,fog,west
+5,8,56,Carrolls Quay,3740,fog,east
+5,8,56,North Main Street,2951,fog,west
+5,8,56,Paul Street,2935,fog,west
+5,8,56,City Hall - Eglington Street,3635,fog,east
+5,8,56,Black Ash Park & Ride,3502,fog,east
+5,8,56,North Main Street,3976,fog,east
+5,8,56,Paul Street,3871,fog,east
+5,8,56,Saint Finbarr's,3940,fog,south
+5,8,56,Merchants Quay,3799,fog,south
+5,9,11,Saint Finbarr's,3934,mist,east
+5,9,11,Merchants Quay,3515,mist,east
+5,9,11,Grand Parade,3879,mist,south
+5,9,11,Carrolls Quay,4088,mist,south
+5,9,11,City Hall - Eglington Street,3541,mist,south
+5,9,11,Black Ash Park & Ride,3355,mist,south
+5,9,11,North Main Street,4205,mist,south
+5,9,11,Paul Street,4069,mist,south
+5,9,11,Saint Finbarr's,2654,mist,north
+5,9,11,Merchants Quay,2683,mist,north
+5,9,11,Grand Parade,2518,mist,north
+5,9,11,Carrolls Quay,2462,mist,north
+5,9,11,Grand Parade,3750,mist,east
+5,9,11,City Hall - Eglington Street,2729,mist,north
+5,9,11,Black Ash Park & Ride,3117,mist,north
+5,9,11,North Main Street,2344,mist,north
+5,9,11,Paul Street,2242,mist,north
+5,9,11,Saint Finbarr's,2857,mist,west
+5,9,11,Merchants Quay,2640,mist,west
+5,9,11,Grand Parade,2788,mist,west
+5,9,11,Carrolls Quay,3014,mist,west
+5,9,11,City Hall - Eglington Street,2432,mist,west
+5,9,11,Black Ash Park & Ride,2208,mist,west
+5,9,11,Carrolls Quay,3534,mist,east
+5,9,11,North Main Street,2995,mist,west
+5,9,11,Paul Street,3000,mist,west
+5,9,11,City Hall - Eglington Street,3401,mist,east
+5,9,11,Black Ash Park & Ride,3282,mist,east
+5,9,11,North Main Street,3748,mist,east
+5,9,11,Paul Street,3644,mist,east
+5,9,11,Saint Finbarr's,3875,mist,south
+5,9,11,Merchants Quay,3725,mist,south
+5,10,11,Saint Finbarr's,3733,light intensity drizzle,east
+5,10,11,Merchants Quay,3343,light intensity drizzle,east
+5,10,11,Grand Parade,3843,light intensity drizzle,south
+5,10,11,Carrolls Quay,4028,light intensity drizzle,south
+5,10,11,City Hall - Eglington Street,3508,light intensity drizzle,south
+5,10,11,Black Ash Park & Ride,3341,light intensity drizzle,south
+5,10,11,North Main Street,4217,light intensity drizzle,south
+5,10,11,Paul Street,4100,light intensity drizzle,south
+5,10,11,Saint Finbarr's,2670,light intensity drizzle,north
+5,10,11,Merchants Quay,2611,light intensity drizzle,north
+5,10,11,Grand Parade,2495,light intensity drizzle,north
+5,10,11,Carrolls Quay,2404,light intensity drizzle,north
+5,10,11,Grand Parade,3532,light intensity drizzle,east
+5,10,11,City Hall - Eglington Street,2676,light intensity drizzle,north
+5,10,11,Black Ash Park & Ride,3053,light intensity drizzle,north
+5,10,11,North Main Street,2320,light intensity drizzle,north
+5,10,11,Paul Street,2210,light intensity drizzle,north
+5,10,11,Saint Finbarr's,2686,light intensity drizzle,west
+5,10,11,Merchants Quay,2545,light intensity drizzle,west
+5,10,11,Grand Parade,2680,light intensity drizzle,west
+5,10,11,Carrolls Quay,2884,light intensity drizzle,west
+5,10,11,City Hall - Eglington Street,2348,light intensity drizzle,west
+5,10,11,Black Ash Park & Ride,2169,light intensity drizzle,west
+5,10,11,Carrolls Quay,3304,light intensity drizzle,east
+5,10,11,North Main Street,2839,light intensity drizzle,west
+5,10,11,Paul Street,2819,light intensity drizzle,west
+5,10,11,City Hall - Eglington Street,3195,light intensity drizzle,east
+5,10,11,Black Ash Park & Ride,3137,light intensity drizzle,east
+5,10,11,North Main Street,3568,light intensity drizzle,east
+5,10,11,Paul Street,3463,light intensity drizzle,east
+5,10,11,Saint Finbarr's,3845,light intensity drizzle,south
+5,10,11,Merchants Quay,3702,light intensity drizzle,south
+5,10,26,Saint Finbarr's,3731,light intensity drizzle,east
+5,10,26,Merchants Quay,3291,light intensity drizzle,east
+5,10,26,Grand Parade,3836,light intensity drizzle,south
+5,10,26,Carrolls Quay,4081,light intensity drizzle,south
+5,10,26,City Hall - Eglington Street,3505,light intensity drizzle,south
+5,10,26,Black Ash Park & Ride,3330,light intensity drizzle,south
+5,10,26,North Main Street,4251,light intensity drizzle,south
+5,10,26,Paul Street,4100,light intensity drizzle,south
+5,10,26,Saint Finbarr's,2657,light intensity drizzle,north
+5,10,26,Merchants Quay,2604,light intensity drizzle,north
+5,10,26,Grand Parade,2521,light intensity drizzle,north
+5,10,26,Carrolls Quay,2397,light intensity drizzle,north
+5,10,26,Grand Parade,3522,light intensity drizzle,east
+5,10,26,City Hall - Eglington Street,2654,light intensity drizzle,north
+5,10,26,Black Ash Park & Ride,3058,light intensity drizzle,north
+5,10,26,North Main Street,2302,light intensity drizzle,north
+5,10,26,Paul Street,2199,light intensity drizzle,north
+5,10,26,Saint Finbarr's,2630,light intensity drizzle,west
+5,10,26,Merchants Quay,2542,light intensity drizzle,west
+5,10,26,Grand Parade,2664,light intensity drizzle,west
+5,10,26,Carrolls Quay,2857,light intensity drizzle,west
+5,10,26,City Hall - Eglington Street,2332,light intensity drizzle,west
+5,10,26,Black Ash Park & Ride,2149,light intensity drizzle,west
+5,10,26,Carrolls Quay,3238,light intensity drizzle,east
+5,10,26,North Main Street,2790,light intensity drizzle,west
+5,10,26,Paul Street,2940,light intensity drizzle,west
+5,10,26,City Hall - Eglington Street,3182,light intensity drizzle,east
+5,10,26,Black Ash Park & Ride,3071,light intensity drizzle,east
+5,10,26,North Main Street,3552,light intensity drizzle,east
+5,10,26,Paul Street,3447,light intensity drizzle,east
+5,10,26,Saint Finbarr's,3834,light intensity drizzle,south
+5,10,26,Merchants Quay,3710,light intensity drizzle,south
+5,10,41,Saint Finbarr's,3725,light intensity drizzle,east
+5,10,41,Merchants Quay,3329,light intensity drizzle,east
+5,10,41,Grand Parade,3898,light intensity drizzle,south
+5,10,41,Carrolls Quay,4084,light intensity drizzle,south
+5,10,41,City Hall - Eglington Street,3550,light intensity drizzle,south
+5,10,41,Black Ash Park & Ride,3369,light intensity drizzle,south
+5,10,41,North Main Street,4269,light intensity drizzle,south
+5,10,41,Paul Street,4213,light intensity drizzle,south
+5,10,41,Saint Finbarr's,2654,light intensity drizzle,north
+5,10,41,Merchants Quay,2634,light intensity drizzle,north
+5,10,41,Grand Parade,2524,light intensity drizzle,north
+5,10,41,Carrolls Quay,2407,light intensity drizzle,north
+5,10,41,Grand Parade,3522,light intensity drizzle,east
+5,10,41,City Hall - Eglington Street,2674,light intensity drizzle,north
+5,10,41,Black Ash Park & Ride,3103,light intensity drizzle,north
+5,10,41,North Main Street,2328,light intensity drizzle,north
+5,10,41,Paul Street,2223,light intensity drizzle,north
+5,10,41,Saint Finbarr's,2695,light intensity drizzle,west
+5,10,41,Merchants Quay,2551,light intensity drizzle,west
+5,10,41,Grand Parade,2692,light intensity drizzle,west
+5,10,41,Carrolls Quay,2918,light intensity drizzle,west
+5,10,41,City Hall - Eglington Street,2353,light intensity drizzle,west
+5,10,41,Black Ash Park & Ride,2190,light intensity drizzle,west
+5,10,41,Carrolls Quay,3301,light intensity drizzle,east
+5,10,41,North Main Street,2870,light intensity drizzle,west
+5,10,41,Paul Street,2941,light intensity drizzle,west
+5,10,41,City Hall - Eglington Street,3170,light intensity drizzle,east
+5,10,41,Black Ash Park & Ride,3104,light intensity drizzle,east
+5,10,41,North Main Street,3560,light intensity drizzle,east
+5,10,41,Paul Street,3454,light intensity drizzle,east
+5,10,41,Saint Finbarr's,3861,light intensity drizzle,south
+5,10,41,Merchants Quay,3746,light intensity drizzle,south
+5,10,56,Saint Finbarr's,3759,light intensity drizzle,east
+5,10,56,Merchants Quay,3346,light intensity drizzle,east
+5,10,56,Grand Parade,3881,light intensity drizzle,south
+5,10,56,Carrolls Quay,4176,light intensity drizzle,south
+5,10,56,City Hall - Eglington Street,3536,light intensity drizzle,south
+5,10,56,Black Ash Park & Ride,3375,light intensity drizzle,south
+5,10,56,North Main Street,4343,light intensity drizzle,south
+5,10,56,Paul Street,4117,light intensity drizzle,south
+5,10,56,Saint Finbarr's,2664,light intensity drizzle,north
+5,10,56,Merchants Quay,2635,light intensity drizzle,north
+5,10,56,Grand Parade,2554,light intensity drizzle,north
+5,10,56,Carrolls Quay,2424,light intensity drizzle,north
+5,10,56,Grand Parade,3553,light intensity drizzle,east
+5,10,56,City Hall - Eglington Street,2702,light intensity drizzle,north
+5,10,56,Black Ash Park & Ride,3090,light intensity drizzle,north
+5,10,56,North Main Street,2327,light intensity drizzle,north
+5,10,56,Paul Street,2223,light intensity drizzle,north
+5,10,56,Saint Finbarr's,2784,light intensity drizzle,west
+5,10,56,Merchants Quay,2567,light intensity drizzle,west
+5,10,56,Grand Parade,2720,light intensity drizzle,west
+5,10,56,Carrolls Quay,2912,light intensity drizzle,west
+5,10,56,City Hall - Eglington Street,2375,light intensity drizzle,west
+5,10,56,Black Ash Park & Ride,2200,light intensity drizzle,west
+5,10,56,Carrolls Quay,3306,light intensity drizzle,east
+5,10,56,North Main Street,2944,light intensity drizzle,west
+5,10,56,Paul Street,2930,light intensity drizzle,west
+5,10,56,City Hall - Eglington Street,3216,light intensity drizzle,east
+5,10,56,Black Ash Park & Ride,3142,light intensity drizzle,east
+5,10,56,North Main Street,3658,light intensity drizzle,east
+5,10,56,Paul Street,3560,light intensity drizzle,east
+5,10,56,Saint Finbarr's,3914,light intensity drizzle,south
+5,10,56,Merchants Quay,3740,light intensity drizzle,south
+5,11,11,Saint Finbarr's,3808,light intensity drizzle,east
+5,11,11,Merchants Quay,3387,light intensity drizzle,east
+5,11,11,Grand Parade,3892,light intensity drizzle,south
+5,11,11,Carrolls Quay,4099,light intensity drizzle,south
+5,11,11,City Hall - Eglington Street,3534,light intensity drizzle,south
+5,11,11,Black Ash Park & Ride,3351,light intensity drizzle,south
+5,11,11,North Main Street,4275,light intensity drizzle,south
+5,11,11,Paul Street,4078,light intensity drizzle,south
+5,11,11,Saint Finbarr's,2735,light intensity drizzle,north
+5,11,11,Merchants Quay,2654,light intensity drizzle,north
+5,11,11,Grand Parade,2560,light intensity drizzle,north
+5,11,11,Carrolls Quay,2445,light intensity drizzle,north
+5,11,11,Grand Parade,3599,light intensity drizzle,east
+5,11,11,City Hall - Eglington Street,2710,light intensity drizzle,north
+5,11,11,Black Ash Park & Ride,3138,light intensity drizzle,north
+5,11,11,North Main Street,2370,light intensity drizzle,north
+5,11,11,Paul Street,2264,light intensity drizzle,north
+5,11,11,Saint Finbarr's,2727,light intensity drizzle,west
+5,11,11,Merchants Quay,2573,light intensity drizzle,west
+5,11,11,Grand Parade,2706,light intensity drizzle,west
+5,11,11,Carrolls Quay,3000,light intensity drizzle,west
+5,11,11,City Hall - Eglington Street,2370,light intensity drizzle,west
+5,11,11,Black Ash Park & Ride,2190,light intensity drizzle,west
+5,11,11,Carrolls Quay,3396,light intensity drizzle,east
+5,11,11,North Main Street,2910,light intensity drizzle,west
+5,11,11,Paul Street,2889,light intensity drizzle,west
+5,11,11,City Hall - Eglington Street,3217,light intensity drizzle,east
+5,11,11,Black Ash Park & Ride,3155,light intensity drizzle,east
+5,11,11,North Main Street,3610,light intensity drizzle,east
+5,11,11,Paul Street,3511,light intensity drizzle,east
+5,11,11,Saint Finbarr's,3849,light intensity drizzle,south
+5,11,11,Merchants Quay,3723,light intensity drizzle,south
+5,11,26,Saint Finbarr's,3781,light intensity drizzle,east
+5,11,26,Merchants Quay,3401,light intensity drizzle,east
+5,11,26,Grand Parade,3855,light intensity drizzle,south
+5,11,26,Carrolls Quay,4091,light intensity drizzle,south
+5,11,26,City Hall - Eglington Street,3527,light intensity drizzle,south
+5,11,26,Black Ash Park & Ride,3349,light intensity drizzle,south
+5,11,26,North Main Street,4285,light intensity drizzle,south
+5,11,26,Paul Street,4088,light intensity drizzle,south
+5,11,26,Saint Finbarr's,2672,light intensity drizzle,north
+5,11,26,Merchants Quay,2656,light intensity drizzle,north
+5,11,26,Grand Parade,2588,light intensity drizzle,north
+5,11,26,Carrolls Quay,2473,light intensity drizzle,north
+5,11,26,Grand Parade,3601,light intensity drizzle,east
+5,11,26,City Hall - Eglington Street,2713,light intensity drizzle,north
+5,11,26,Black Ash Park & Ride,3142,light intensity drizzle,north
+5,11,26,North Main Street,2346,light intensity drizzle,north
+5,11,26,Paul Street,2248,light intensity drizzle,north
+5,11,26,Saint Finbarr's,2763,light intensity drizzle,west
+5,11,26,Merchants Quay,2569,light intensity drizzle,west
+5,11,26,Grand Parade,2743,light intensity drizzle,west
+5,11,26,Carrolls Quay,2934,light intensity drizzle,west
+5,11,26,City Hall - Eglington Street,2375,light intensity drizzle,west
+5,11,26,Black Ash Park & Ride,2214,light intensity drizzle,west
+5,11,26,Carrolls Quay,3368,light intensity drizzle,east
+5,11,26,North Main Street,2928,light intensity drizzle,west
+5,11,26,Paul Street,2924,light intensity drizzle,west
+5,11,26,City Hall - Eglington Street,3259,light intensity drizzle,east
+5,11,26,Black Ash Park & Ride,3163,light intensity drizzle,east
+5,11,26,North Main Street,3613,light intensity drizzle,east
+5,11,26,Paul Street,3511,light intensity drizzle,east
+5,11,26,Saint Finbarr's,3860,light intensity drizzle,south
+5,11,26,Merchants Quay,3760,light intensity drizzle,south
+5,11,41,Saint Finbarr's,3773,light intensity drizzle,east
+5,11,41,Merchants Quay,3375,light intensity drizzle,east
+5,11,41,Grand Parade,3901,light intensity drizzle,south
+5,11,41,Carrolls Quay,4166,light intensity drizzle,south
+5,11,41,City Hall - Eglington Street,3597,light intensity drizzle,south
+5,11,41,Black Ash Park & Ride,3403,light intensity drizzle,south
+5,11,41,North Main Street,4316,light intensity drizzle,south
+5,11,41,Paul Street,4135,light intensity drizzle,south
+5,11,41,Saint Finbarr's,2748,light intensity drizzle,north
+5,11,41,Merchants Quay,2709,light intensity drizzle,north
+5,11,41,Grand Parade,2633,light intensity drizzle,north
+5,11,41,Carrolls Quay,2509,light intensity drizzle,north
+5,11,41,Grand Parade,3540,light intensity drizzle,east
+5,11,41,City Hall - Eglington Street,2746,light intensity drizzle,north
+5,11,41,Black Ash Park & Ride,3180,light intensity drizzle,north
+5,11,41,North Main Street,2396,light intensity drizzle,north
+5,11,41,Paul Street,2297,light intensity drizzle,north
+5,11,41,Saint Finbarr's,2790,light intensity drizzle,west
+5,11,41,Merchants Quay,2586,light intensity drizzle,west
+5,11,41,Grand Parade,2725,light intensity drizzle,west
+5,11,41,Carrolls Quay,2964,light intensity drizzle,west
+5,11,41,City Hall - Eglington Street,2381,light intensity drizzle,west
+5,11,41,Black Ash Park & Ride,2205,light intensity drizzle,west
+5,11,41,Carrolls Quay,3346,light intensity drizzle,east
+5,11,41,North Main Street,2960,light intensity drizzle,west
+5,11,41,Paul Street,2914,light intensity drizzle,west
+5,11,41,City Hall - Eglington Street,3217,light intensity drizzle,east
+5,11,41,Black Ash Park & Ride,3139,light intensity drizzle,east
+5,11,41,North Main Street,3554,light intensity drizzle,east
+5,11,41,Paul Street,3444,light intensity drizzle,east
+5,11,41,Saint Finbarr's,3947,light intensity drizzle,south
+5,11,41,Merchants Quay,3806,light intensity drizzle,south
+5,11,56,Saint Finbarr's,3868,light intensity drizzle,east
+5,11,56,Merchants Quay,3468,light intensity drizzle,east
+5,11,56,Grand Parade,3964,light intensity drizzle,south
+5,11,56,Carrolls Quay,4160,light intensity drizzle,south
+5,11,56,City Hall - Eglington Street,3634,light intensity drizzle,south
+5,11,56,Black Ash Park & Ride,3459,light intensity drizzle,south
+5,11,56,North Main Street,4408,light intensity drizzle,south
+5,11,56,Paul Street,4202,light intensity drizzle,south
+5,11,56,Saint Finbarr's,2743,light intensity drizzle,north
+5,11,56,Merchants Quay,2626,light intensity drizzle,north
+5,11,56,Grand Parade,2622,light intensity drizzle,north
+5,11,56,Carrolls Quay,2502,light intensity drizzle,north
+5,11,56,Grand Parade,3666,light intensity drizzle,east
+5,11,56,City Hall - Eglington Street,2683,light intensity drizzle,north
+5,11,56,Black Ash Park & Ride,3108,light intensity drizzle,north
+5,11,56,North Main Street,2395,light intensity drizzle,north
+5,11,56,Paul Street,2292,light intensity drizzle,north
+5,11,56,Saint Finbarr's,2742,light intensity drizzle,west
+5,11,56,Merchants Quay,2609,light intensity drizzle,west
+5,11,56,Grand Parade,2692,light intensity drizzle,west
+5,11,56,Carrolls Quay,2942,light intensity drizzle,west
+5,11,56,City Hall - Eglington Street,2388,light intensity drizzle,west
+5,11,56,Black Ash Park & Ride,2211,light intensity drizzle,west
+5,11,56,Carrolls Quay,3423,light intensity drizzle,east
+5,11,56,North Main Street,2900,light intensity drizzle,west
+5,11,56,Paul Street,2939,light intensity drizzle,west
+5,11,56,City Hall - Eglington Street,3323,light intensity drizzle,east
+5,11,56,Black Ash Park & Ride,3207,light intensity drizzle,east
+5,11,56,North Main Street,3681,light intensity drizzle,east
+5,11,56,Paul Street,3570,light intensity drizzle,east
+5,11,56,Saint Finbarr's,3983,light intensity drizzle,south
+5,11,56,Merchants Quay,3855,light intensity drizzle,south
+5,12,11,Saint Finbarr's,3787,light intensity drizzle,east
+5,12,11,Merchants Quay,3380,light intensity drizzle,east
+5,12,11,Grand Parade,4013,light intensity drizzle,south
+5,12,11,Carrolls Quay,4215,light intensity drizzle,south
+5,12,11,City Hall - Eglington Street,3673,light intensity drizzle,south
+5,12,11,Black Ash Park & Ride,3506,light intensity drizzle,south
+5,12,11,North Main Street,4417,light intensity drizzle,south
+5,12,11,Paul Street,4194,light intensity drizzle,south
+5,12,11,Saint Finbarr's,2780,light intensity drizzle,north
+5,12,11,Merchants Quay,2664,light intensity drizzle,north
+5,12,11,Grand Parade,2652,light intensity drizzle,north
+5,12,11,Carrolls Quay,2544,light intensity drizzle,north
+5,12,11,Grand Parade,3576,light intensity drizzle,east
+5,12,11,City Hall - Eglington Street,2714,light intensity drizzle,north
+5,12,11,Black Ash Park & Ride,3153,light intensity drizzle,north
+5,12,11,North Main Street,2428,light intensity drizzle,north
+5,12,11,Paul Street,2317,light intensity drizzle,north
+5,12,11,Saint Finbarr's,2745,light intensity drizzle,west
+5,12,11,Merchants Quay,2571,light intensity drizzle,west
+5,12,11,Grand Parade,2693,light intensity drizzle,west
+5,12,11,Carrolls Quay,2888,light intensity drizzle,west
+5,12,11,City Hall - Eglington Street,2357,light intensity drizzle,west
+5,12,11,Black Ash Park & Ride,2161,light intensity drizzle,west
+5,12,11,Carrolls Quay,3324,light intensity drizzle,east
+5,12,11,North Main Street,2899,light intensity drizzle,west
+5,12,11,Paul Street,2879,light intensity drizzle,west
+5,12,11,City Hall - Eglington Street,3260,light intensity drizzle,east
+5,12,11,Black Ash Park & Ride,3178,light intensity drizzle,east
+5,12,11,North Main Street,3580,light intensity drizzle,east
+5,12,11,Paul Street,3474,light intensity drizzle,east
+5,12,11,Saint Finbarr's,4019,light intensity drizzle,south
+5,12,11,Merchants Quay,3861,light intensity drizzle,south
+5,12,26,Saint Finbarr's,3747,light intensity drizzle,east
+5,12,26,Merchants Quay,3376,light intensity drizzle,east
+5,12,26,Grand Parade,3975,light intensity drizzle,south
+5,12,26,Carrolls Quay,4153,light intensity drizzle,south
+5,12,26,City Hall - Eglington Street,3659,light intensity drizzle,south
+5,12,26,Black Ash Park & Ride,3490,light intensity drizzle,south
+5,12,26,North Main Street,4376,light intensity drizzle,south
+5,12,26,Paul Street,4204,light intensity drizzle,south
+5,12,26,Saint Finbarr's,2783,light intensity drizzle,north
+5,12,26,Merchants Quay,2626,light intensity drizzle,north
+5,12,26,Grand Parade,2649,light intensity drizzle,north
+5,12,26,Carrolls Quay,2518,light intensity drizzle,north
+5,12,26,Grand Parade,3565,light intensity drizzle,east
+5,12,26,City Hall - Eglington Street,2693,light intensity drizzle,north
+5,12,26,Black Ash Park & Ride,3154,light intensity drizzle,north
+5,12,26,North Main Street,2441,light intensity drizzle,north
+5,12,26,Paul Street,2329,light intensity drizzle,north
+5,12,26,Saint Finbarr's,2724,light intensity drizzle,west
+5,12,26,Merchants Quay,2584,light intensity drizzle,west
+5,12,26,Grand Parade,2684,light intensity drizzle,west
+5,12,26,Carrolls Quay,2889,light intensity drizzle,west
+5,12,26,City Hall - Eglington Street,2372,light intensity drizzle,west
+5,12,26,Black Ash Park & Ride,2198,light intensity drizzle,west
+5,12,26,Carrolls Quay,3301,light intensity drizzle,east
+5,12,26,North Main Street,2881,light intensity drizzle,west
+5,12,26,Paul Street,2917,light intensity drizzle,west
+5,12,26,City Hall - Eglington Street,3231,light intensity drizzle,east
+5,12,26,Black Ash Park & Ride,3166,light intensity drizzle,east
+5,12,26,North Main Street,3572,light intensity drizzle,east
+5,12,26,Paul Street,3470,light intensity drizzle,east
+5,12,26,Saint Finbarr's,3985,light intensity drizzle,south
+5,12,26,Merchants Quay,3862,light intensity drizzle,south
+5,12,41,Saint Finbarr's,3787,light intensity drizzle,east
+5,12,41,Merchants Quay,3420,light intensity drizzle,east
+5,12,41,Grand Parade,3923,light intensity drizzle,south
+5,12,41,Carrolls Quay,4132,light intensity drizzle,south
+5,12,41,City Hall - Eglington Street,3611,light intensity drizzle,south
+5,12,41,Black Ash Park & Ride,3427,light intensity drizzle,south
+5,12,41,North Main Street,4382,light intensity drizzle,south
+5,12,41,Paul Street,4129,light intensity drizzle,south
+5,12,41,Saint Finbarr's,2743,light intensity drizzle,north
+5,12,41,Merchants Quay,2661,light intensity drizzle,north
+5,12,41,Grand Parade,2620,light intensity drizzle,north
+5,12,41,Carrolls Quay,2485,light intensity drizzle,north
+5,12,41,Grand Parade,3593,light intensity drizzle,east
+5,12,41,City Hall - Eglington Street,2699,light intensity drizzle,north
+5,12,41,Black Ash Park & Ride,3139,light intensity drizzle,north
+5,12,41,North Main Street,2409,light intensity drizzle,north
+5,12,41,Paul Street,2303,light intensity drizzle,north
+5,12,41,Saint Finbarr's,2709,light intensity drizzle,west
+5,12,41,Merchants Quay,2581,light intensity drizzle,west
+5,12,41,Grand Parade,2713,light intensity drizzle,west
+5,12,41,Carrolls Quay,2916,light intensity drizzle,west
+5,12,41,City Hall - Eglington Street,2389,light intensity drizzle,west
+5,12,41,Black Ash Park & Ride,2222,light intensity drizzle,west
+5,12,41,Carrolls Quay,3324,light intensity drizzle,east
+5,12,41,North Main Street,2842,light intensity drizzle,west
+5,12,41,Paul Street,2923,light intensity drizzle,west
+5,12,41,City Hall - Eglington Street,3266,light intensity drizzle,east
+5,12,41,Black Ash Park & Ride,3189,light intensity drizzle,east
+5,12,41,North Main Street,3625,light intensity drizzle,east
+5,12,41,Paul Street,3514,light intensity drizzle,east
+5,12,41,Saint Finbarr's,3994,light intensity drizzle,south
+5,12,41,Merchants Quay,3818,light intensity drizzle,south
+5,12,56,Saint Finbarr's,3744,light intensity drizzle,east
+5,12,56,Merchants Quay,3364,light intensity drizzle,east
+5,12,56,Grand Parade,3944,light intensity drizzle,south
+5,12,56,Carrolls Quay,4115,light intensity drizzle,south
+5,12,56,City Hall - Eglington Street,3618,light intensity drizzle,south
+5,12,56,Black Ash Park & Ride,3440,light intensity drizzle,south
+5,12,56,North Main Street,4398,light intensity drizzle,south
+5,12,56,Paul Street,4171,light intensity drizzle,south
+5,12,56,Saint Finbarr's,2802,light intensity drizzle,north
+5,12,56,Merchants Quay,2675,light intensity drizzle,north
+5,12,56,Grand Parade,2669,light intensity drizzle,north
+5,12,56,Carrolls Quay,2552,light intensity drizzle,north
+5,12,56,Grand Parade,3553,light intensity drizzle,east
+5,12,56,City Hall - Eglington Street,2731,light intensity drizzle,north
+5,12,56,Black Ash Park & Ride,3168,light intensity drizzle,north
+5,12,56,North Main Street,2455,light intensity drizzle,north
+5,12,56,Paul Street,2353,light intensity drizzle,north
+5,12,56,Saint Finbarr's,2734,light intensity drizzle,west
+5,12,56,Merchants Quay,2559,light intensity drizzle,west
+5,12,56,Grand Parade,2681,light intensity drizzle,west
+5,12,56,Carrolls Quay,2861,light intensity drizzle,west
+5,12,56,City Hall - Eglington Street,2360,light intensity drizzle,west
+5,12,56,Black Ash Park & Ride,2190,light intensity drizzle,west
+5,12,56,Carrolls Quay,3279,light intensity drizzle,east
+5,12,56,North Main Street,2886,light intensity drizzle,west
+5,12,56,Paul Street,2870,light intensity drizzle,west
+5,12,56,City Hall - Eglington Street,3231,light intensity drizzle,east
+5,12,56,Black Ash Park & Ride,3154,light intensity drizzle,east
+5,12,56,North Main Street,3526,light intensity drizzle,east
+5,12,56,Paul Street,3418,light intensity drizzle,east
+5,12,56,Saint Finbarr's,3969,light intensity drizzle,south
+5,12,56,Merchants Quay,3824,light intensity drizzle,south
+5,13,41,Saint Finbarr's,3659,broken clouds,east
+5,13,41,Merchants Quay,3319,broken clouds,east
+5,13,41,Grand Parade,3936,broken clouds,south
+5,13,41,Carrolls Quay,4104,broken clouds,south
+5,13,41,City Hall - Eglington Street,3590,broken clouds,south
+5,13,41,Black Ash Park & Ride,3413,broken clouds,south
+5,13,41,North Main Street,4400,broken clouds,south
+5,13,41,Paul Street,4131,broken clouds,south
+5,13,41,Saint Finbarr's,2742,broken clouds,north
+5,13,41,Merchants Quay,2600,broken clouds,north
+5,13,41,Grand Parade,2618,broken clouds,north
+5,13,41,Carrolls Quay,2488,broken clouds,north
+5,13,41,Grand Parade,3495,broken clouds,east
+5,13,41,City Hall - Eglington Street,2650,broken clouds,north
+5,13,41,Black Ash Park & Ride,3112,broken clouds,north
+5,13,41,North Main Street,2395,broken clouds,north
+5,13,41,Paul Street,2288,broken clouds,north
+5,13,41,Saint Finbarr's,2761,broken clouds,west
+5,13,41,Merchants Quay,2593,broken clouds,west
+5,13,41,Grand Parade,2699,broken clouds,west
+5,13,41,Carrolls Quay,2889,broken clouds,west
+5,13,41,City Hall - Eglington Street,2392,broken clouds,west
+5,13,41,Black Ash Park & Ride,2219,broken clouds,west
+5,13,41,Carrolls Quay,3224,broken clouds,east
+5,13,41,North Main Street,2922,broken clouds,west
+5,13,41,Paul Street,2933,broken clouds,west
+5,13,41,City Hall - Eglington Street,3169,broken clouds,east
+5,13,41,Black Ash Park & Ride,3156,broken clouds,east
+5,13,41,North Main Street,3535,broken clouds,east
+5,13,41,Paul Street,3429,broken clouds,east
+5,13,41,Saint Finbarr's,3967,broken clouds,south
+5,13,41,Merchants Quay,3787,broken clouds,south
+5,14,11,Saint Finbarr's,3829,broken clouds,east
+5,14,11,Merchants Quay,3469,broken clouds,east
+5,14,11,Grand Parade,3977,broken clouds,south
+5,14,11,Carrolls Quay,4264,broken clouds,south
+5,14,11,City Hall - Eglington Street,3663,broken clouds,south
+5,14,11,Black Ash Park & Ride,3463,broken clouds,south
+5,14,11,North Main Street,4429,broken clouds,south
+5,14,11,Paul Street,4221,broken clouds,south
+5,14,11,Saint Finbarr's,2701,broken clouds,north
+5,14,11,Merchants Quay,2576,broken clouds,north
+5,14,11,Grand Parade,2580,broken clouds,north
+5,14,11,Carrolls Quay,2435,broken clouds,north
+5,14,11,Grand Parade,3648,broken clouds,east
+5,14,11,City Hall - Eglington Street,2621,broken clouds,north
+5,14,11,Black Ash Park & Ride,3083,broken clouds,north
+5,14,11,North Main Street,2349,broken clouds,north
+5,14,11,Paul Street,2243,broken clouds,north
+5,14,11,Saint Finbarr's,2656,broken clouds,west
+5,14,11,Merchants Quay,2556,broken clouds,west
+5,14,11,Grand Parade,2686,broken clouds,west
+5,14,11,Carrolls Quay,2878,broken clouds,west
+5,14,11,City Hall - Eglington Street,2361,broken clouds,west
+5,14,11,Black Ash Park & Ride,2181,broken clouds,west
+5,14,11,Carrolls Quay,3400,broken clouds,east
+5,14,11,North Main Street,2824,broken clouds,west
+5,14,11,Paul Street,2880,broken clouds,west
+5,14,11,City Hall - Eglington Street,3327,broken clouds,east
+5,14,11,Black Ash Park & Ride,3234,broken clouds,east
+5,14,11,North Main Street,3685,broken clouds,east
+5,14,11,Paul Street,3575,broken clouds,east
+5,14,11,Saint Finbarr's,3929,broken clouds,south
+5,14,11,Merchants Quay,3882,broken clouds,south
+5,14,26,Saint Finbarr's,3808,broken clouds,east
+5,14,26,Merchants Quay,3432,broken clouds,east
+5,14,26,Grand Parade,3938,broken clouds,south
+5,14,26,Carrolls Quay,4228,broken clouds,south
+5,14,26,City Hall - Eglington Street,3639,broken clouds,south
+5,14,26,Black Ash Park & Ride,3457,broken clouds,south
+5,14,26,North Main Street,4256,broken clouds,south
+5,14,26,Paul Street,4146,broken clouds,south
+5,14,26,Saint Finbarr's,2718,broken clouds,north
+5,14,26,Merchants Quay,2634,broken clouds,north
+5,14,26,Grand Parade,2598,broken clouds,north
+5,14,26,Carrolls Quay,2456,broken clouds,north
+5,14,26,Grand Parade,3606,broken clouds,east
+5,14,26,City Hall - Eglington Street,2708,broken clouds,north
+5,14,26,Black Ash Park & Ride,3167,broken clouds,north
+5,14,26,North Main Street,2342,broken clouds,north
+5,14,26,Paul Street,2237,broken clouds,north
+5,14,26,Saint Finbarr's,2780,broken clouds,west
+5,14,26,Merchants Quay,2577,broken clouds,west
+5,14,26,Grand Parade,2702,broken clouds,west
+5,14,26,Carrolls Quay,2981,broken clouds,west
+5,14,26,City Hall - Eglington Street,2388,broken clouds,west
+5,14,26,Black Ash Park & Ride,2218,broken clouds,west
+5,14,26,Carrolls Quay,3351,broken clouds,east
+5,14,26,North Main Street,2945,broken clouds,west
+5,14,26,Paul Street,2917,broken clouds,west
+5,14,26,City Hall - Eglington Street,3312,broken clouds,east
+5,14,26,Black Ash Park & Ride,3174,broken clouds,east
+5,14,26,North Main Street,3628,broken clouds,east
+5,14,26,Paul Street,3519,broken clouds,east
+5,14,26,Saint Finbarr's,3946,broken clouds,south
+5,14,26,Merchants Quay,3834,broken clouds,south
+5,14,41,Saint Finbarr's,3833,broken clouds,east
+5,14,41,Merchants Quay,3441,broken clouds,east
+5,14,41,Grand Parade,4008,broken clouds,south
+5,14,41,Carrolls Quay,4239,broken clouds,south
+5,14,41,City Hall - Eglington Street,3681,broken clouds,south
+5,14,41,Black Ash Park & Ride,3483,broken clouds,south
+5,14,41,North Main Street,4520,broken clouds,south
+5,14,41,Paul Street,4244,broken clouds,south
+5,14,41,Saint Finbarr's,2763,broken clouds,north
+5,14,41,Merchants Quay,2641,broken clouds,north
+5,14,41,Grand Parade,2696,broken clouds,north
+5,14,41,Carrolls Quay,2515,broken clouds,north
+5,14,41,Grand Parade,3626,broken clouds,east
+5,14,41,City Hall - Eglington Street,2706,broken clouds,north
+5,14,41,Black Ash Park & Ride,3142,broken clouds,north
+5,14,41,North Main Street,2423,broken clouds,north
+5,14,41,Paul Street,2313,broken clouds,north
+5,14,41,Saint Finbarr's,2729,broken clouds,west
+5,14,41,Merchants Quay,2632,broken clouds,west
+5,14,41,Grand Parade,2708,broken clouds,west
+5,14,41,Carrolls Quay,2991,broken clouds,west
+5,14,41,City Hall - Eglington Street,2419,broken clouds,west
+5,14,41,Black Ash Park & Ride,2218,broken clouds,west
+5,14,41,Carrolls Quay,3360,broken clouds,east
+5,14,41,North Main Street,2914,broken clouds,west
+5,14,41,Paul Street,2944,broken clouds,west
+5,14,41,City Hall - Eglington Street,3294,broken clouds,east
+5,14,41,Black Ash Park & Ride,3146,broken clouds,east
+5,14,41,North Main Street,3620,broken clouds,east
+5,14,41,Paul Street,3516,broken clouds,east
+5,14,41,Saint Finbarr's,4043,broken clouds,south
+5,14,41,Merchants Quay,3891,broken clouds,south
+5,14,56,Saint Finbarr's,3934,broken clouds,east
+5,14,56,Merchants Quay,3485,broken clouds,east
+5,14,56,Grand Parade,4064,broken clouds,south
+5,14,56,Carrolls Quay,4375,broken clouds,south
+5,14,56,City Hall - Eglington Street,3715,broken clouds,south
+5,14,56,Black Ash Park & Ride,3516,broken clouds,south
+5,14,56,North Main Street,4566,broken clouds,south
+5,14,56,Paul Street,4236,broken clouds,south
+5,14,56,Saint Finbarr's,2748,broken clouds,north
+5,14,56,Merchants Quay,2609,broken clouds,north
+5,14,56,Grand Parade,2634,broken clouds,north
+5,14,56,Carrolls Quay,2469,broken clouds,north
+5,14,56,Grand Parade,3710,broken clouds,east
+5,14,56,City Hall - Eglington Street,2690,broken clouds,north
+5,14,56,Black Ash Park & Ride,3113,broken clouds,north
+5,14,56,North Main Street,2368,broken clouds,north
+5,14,56,Paul Street,2259,broken clouds,north
+5,14,56,Saint Finbarr's,2803,broken clouds,west
+5,14,56,Merchants Quay,2598,broken clouds,west
+5,14,56,Grand Parade,2731,broken clouds,west
+5,14,56,Carrolls Quay,2990,broken clouds,west
+5,14,56,City Hall - Eglington Street,2404,broken clouds,west
+5,14,56,Black Ash Park & Ride,2221,broken clouds,west
+5,14,56,Carrolls Quay,3407,broken clouds,east
+5,14,56,North Main Street,2962,broken clouds,west
+5,14,56,Paul Street,2952,broken clouds,west
+5,14,56,City Hall - Eglington Street,3366,broken clouds,east
+5,14,56,Black Ash Park & Ride,3181,broken clouds,east
+5,14,56,North Main Street,3673,broken clouds,east
+5,14,56,Paul Street,3560,broken clouds,east
+5,14,56,Saint Finbarr's,4028,broken clouds,south
+5,14,56,Merchants Quay,3931,broken clouds,south
+5,15,11,Saint Finbarr's,4089,scattered clouds,east
+5,15,11,Merchants Quay,3705,scattered clouds,east
+5,15,11,Grand Parade,4072,scattered clouds,south
+5,15,11,Carrolls Quay,4323,scattered clouds,south
+5,15,11,City Hall - Eglington Street,3736,scattered clouds,south
+5,15,11,Black Ash Park & Ride,3525,scattered clouds,south
+5,15,11,North Main Street,4734,scattered clouds,south
+5,15,11,Paul Street,4343,scattered clouds,south
+5,15,11,Saint Finbarr's,2782,scattered clouds,north
+5,15,11,Merchants Quay,2706,scattered clouds,north
+5,15,11,Grand Parade,2652,scattered clouds,north
+5,15,11,Carrolls Quay,2489,scattered clouds,north
+5,15,11,Grand Parade,3875,scattered clouds,east
+5,15,11,City Hall - Eglington Street,2771,scattered clouds,north
+5,15,11,Black Ash Park & Ride,3217,scattered clouds,north
+5,15,11,North Main Street,2413,scattered clouds,north
+5,15,11,Paul Street,2309,scattered clouds,north
+5,15,11,Saint Finbarr's,2778,scattered clouds,west
+5,15,11,Merchants Quay,2642,scattered clouds,west
+5,15,11,Grand Parade,2753,scattered clouds,west
+5,15,11,Carrolls Quay,3059,scattered clouds,west
+5,15,11,City Hall - Eglington Street,2419,scattered clouds,west
+5,15,11,Black Ash Park & Ride,2221,scattered clouds,west
+5,15,11,Carrolls Quay,3610,scattered clouds,east
+5,15,11,North Main Street,2943,scattered clouds,west
+5,15,11,Paul Street,2946,scattered clouds,west
+5,15,11,City Hall - Eglington Street,3534,scattered clouds,east
+5,15,11,Black Ash Park & Ride,3181,scattered clouds,east
+5,15,11,North Main Street,3910,scattered clouds,east
+5,15,11,Paul Street,3807,scattered clouds,east
+5,15,11,Saint Finbarr's,4092,scattered clouds,south
+5,15,11,Merchants Quay,3956,scattered clouds,south
+5,15,26,Saint Finbarr's,4095,scattered clouds,east
+5,15,26,Merchants Quay,3751,scattered clouds,east
+5,15,26,Grand Parade,4113,scattered clouds,south
+5,15,26,Carrolls Quay,4465,scattered clouds,south
+5,15,26,City Hall - Eglington Street,3798,scattered clouds,south
+5,15,26,Black Ash Park & Ride,3559,scattered clouds,south
+5,15,26,North Main Street,4762,scattered clouds,south
+5,15,26,Paul Street,4363,scattered clouds,south
+5,15,26,Saint Finbarr's,2752,scattered clouds,north
+5,15,26,Merchants Quay,2663,scattered clouds,north
+5,15,26,Grand Parade,2609,scattered clouds,north
+5,15,26,Carrolls Quay,2513,scattered clouds,north
+5,15,26,Grand Parade,3877,scattered clouds,east
+5,15,26,City Hall - Eglington Street,2735,scattered clouds,north
+5,15,26,Black Ash Park & Ride,3187,scattered clouds,north
+5,15,26,North Main Street,2374,scattered clouds,north
+5,15,26,Paul Street,2261,scattered clouds,north
+5,15,26,Saint Finbarr's,2801,scattered clouds,west
+5,15,26,Merchants Quay,2643,scattered clouds,west
+5,15,26,Grand Parade,2774,scattered clouds,west
+5,15,26,Carrolls Quay,2991,scattered clouds,west
+5,15,26,City Hall - Eglington Street,2422,scattered clouds,west
+5,15,26,Black Ash Park & Ride,2223,scattered clouds,west
+5,15,26,Carrolls Quay,3669,scattered clouds,east
+5,15,26,North Main Street,3010,scattered clouds,west
+5,15,26,Paul Street,3022,scattered clouds,west
+5,15,26,City Hall - Eglington Street,3556,scattered clouds,east
+5,15,26,Black Ash Park & Ride,3295,scattered clouds,east
+5,15,26,North Main Street,3901,scattered clouds,east
+5,15,26,Paul Street,3786,scattered clouds,east
+5,15,26,Saint Finbarr's,4050,scattered clouds,south
+5,15,26,Merchants Quay,4023,scattered clouds,south
+5,16,11,Saint Finbarr's,4295,broken clouds,east
+5,16,11,Merchants Quay,3872,broken clouds,east
+5,16,11,Grand Parade,4325,broken clouds,south
+5,16,11,Carrolls Quay,4690,broken clouds,south
+5,16,11,City Hall - Eglington Street,3970,broken clouds,south
+5,16,11,Black Ash Park & Ride,3715,broken clouds,south
+5,16,11,North Main Street,5083,broken clouds,south
+5,16,11,Paul Street,4635,broken clouds,south
+5,16,11,Saint Finbarr's,2754,broken clouds,north
+5,16,11,Merchants Quay,2769,broken clouds,north
+5,16,11,Grand Parade,2718,broken clouds,north
+5,16,11,Carrolls Quay,2535,broken clouds,north
+5,16,11,Grand Parade,4082,broken clouds,east
+5,16,11,City Hall - Eglington Street,2859,broken clouds,north
+5,16,11,Black Ash Park & Ride,3334,broken clouds,north
+5,16,11,North Main Street,2429,broken clouds,north
+5,16,11,Paul Street,2320,broken clouds,north
+5,16,11,Saint Finbarr's,3116,broken clouds,west
+5,16,11,Merchants Quay,2791,broken clouds,west
+5,16,11,Grand Parade,2865,broken clouds,west
+5,16,11,Carrolls Quay,3150,broken clouds,west
+5,16,11,City Hall - Eglington Street,2561,broken clouds,west
+5,16,11,Black Ash Park & Ride,2329,broken clouds,west
+5,16,11,Carrolls Quay,3793,broken clouds,east
+5,16,11,North Main Street,3376,broken clouds,west
+5,16,11,Paul Street,3163,broken clouds,west
+5,16,11,City Hall - Eglington Street,3718,broken clouds,east
+5,16,11,Black Ash Park & Ride,3314,broken clouds,east
+5,16,11,North Main Street,4064,broken clouds,east
+5,16,11,Paul Street,3958,broken clouds,east
+5,16,11,Saint Finbarr's,4252,broken clouds,south
+5,16,11,Merchants Quay,4231,broken clouds,south
+5,16,56,Saint Finbarr's,4280,broken clouds,east
+5,16,56,Merchants Quay,3825,broken clouds,east
+5,16,56,Grand Parade,4305,broken clouds,south
+5,16,56,Carrolls Quay,4663,broken clouds,south
+5,16,56,City Hall - Eglington Street,3962,broken clouds,south
+5,16,56,Black Ash Park & Ride,3675,broken clouds,south
+5,16,56,North Main Street,4910,broken clouds,south
+5,16,56,Paul Street,4657,broken clouds,south
+5,16,56,Saint Finbarr's,2858,broken clouds,north
+5,16,56,Merchants Quay,2861,broken clouds,north
+5,16,56,Grand Parade,2750,broken clouds,north
+5,16,56,Carrolls Quay,2523,broken clouds,north
+5,16,56,Grand Parade,4013,broken clouds,east
+5,16,56,City Hall - Eglington Street,2938,broken clouds,north
+5,16,56,Black Ash Park & Ride,3443,broken clouds,north
+5,16,56,North Main Street,2466,broken clouds,north
+5,16,56,Paul Street,2355,broken clouds,north
+5,16,56,Saint Finbarr's,2849,broken clouds,west
+5,16,56,Merchants Quay,2898,broken clouds,west
+5,16,56,Grand Parade,2988,broken clouds,west
+5,16,56,Carrolls Quay,3429,broken clouds,west
+5,16,56,City Hall - Eglington Street,2609,broken clouds,west
+5,16,56,Black Ash Park & Ride,2318,broken clouds,west
+5,16,56,Carrolls Quay,3728,broken clouds,east
+5,16,56,North Main Street,3523,broken clouds,west
+5,16,56,Paul Street,3312,broken clouds,west
+5,16,56,City Hall - Eglington Street,3668,broken clouds,east
+5,16,56,Black Ash Park & Ride,3364,broken clouds,east
+5,16,56,North Main Street,4069,broken clouds,east
+5,16,56,Paul Street,3967,broken clouds,east
+5,16,56,Saint Finbarr's,4236,broken clouds,south
+5,16,56,Merchants Quay,4242,broken clouds,south
+5,17,11,Saint Finbarr's,4181,broken clouds,east
+5,17,11,Merchants Quay,3734,broken clouds,east
+5,17,11,Grand Parade,4304,broken clouds,south
+5,17,11,Carrolls Quay,4572,broken clouds,south
+5,17,11,City Hall - Eglington Street,3884,broken clouds,south
+5,17,11,Black Ash Park & Ride,3636,broken clouds,south
+5,17,11,North Main Street,4800,broken clouds,south
+5,17,11,Paul Street,4562,broken clouds,south
+5,17,11,Saint Finbarr's,2915,broken clouds,north
+5,17,11,Merchants Quay,2909,broken clouds,north
+5,17,11,Grand Parade,2791,broken clouds,north
+5,17,11,Carrolls Quay,2588,broken clouds,north
+5,17,11,Grand Parade,3928,broken clouds,east
+5,17,11,City Hall - Eglington Street,3020,broken clouds,north
+5,17,11,Black Ash Park & Ride,3481,broken clouds,north
+5,17,11,North Main Street,2513,broken clouds,north
+5,17,11,Paul Street,2409,broken clouds,north
+5,17,11,Saint Finbarr's,2908,broken clouds,west
+5,17,11,Merchants Quay,2918,broken clouds,west
+5,17,11,Grand Parade,2978,broken clouds,west
+5,17,11,Carrolls Quay,3334,broken clouds,west
+5,17,11,City Hall - Eglington Street,2638,broken clouds,west
+5,17,11,Black Ash Park & Ride,2321,broken clouds,west
+5,17,11,Carrolls Quay,3592,broken clouds,east
+5,17,11,North Main Street,3358,broken clouds,west
+5,17,11,Paul Street,3323,broken clouds,west
+5,17,11,City Hall - Eglington Street,3503,broken clouds,east
+5,17,11,Black Ash Park & Ride,3349,broken clouds,east
+5,17,11,North Main Street,3923,broken clouds,east
+5,17,11,Paul Street,3821,broken clouds,east
+5,17,11,Saint Finbarr's,4231,broken clouds,south
+5,17,11,Merchants Quay,4161,broken clouds,south
+5,17,26,Saint Finbarr's,4070,broken clouds,east
+5,17,26,Merchants Quay,3624,broken clouds,east
+5,17,26,Grand Parade,4218,broken clouds,south
+5,17,26,Carrolls Quay,4485,broken clouds,south
+5,17,26,City Hall - Eglington Street,3833,broken clouds,south
+5,17,26,Black Ash Park & Ride,3600,broken clouds,south
+5,17,26,North Main Street,4709,broken clouds,south
+5,17,26,Paul Street,4501,broken clouds,south
+5,17,26,Saint Finbarr's,2877,broken clouds,north
+5,17,26,Merchants Quay,2953,broken clouds,north
+5,17,26,Grand Parade,2756,broken clouds,north
+5,17,26,Carrolls Quay,2598,broken clouds,north
+5,17,26,Grand Parade,3851,broken clouds,east
+5,17,26,City Hall - Eglington Street,3005,broken clouds,north
+5,17,26,Black Ash Park & Ride,3471,broken clouds,north
+5,17,26,North Main Street,2495,broken clouds,north
+5,17,26,Paul Street,2392,broken clouds,north
+5,17,26,Saint Finbarr's,2879,broken clouds,west
+5,17,26,Merchants Quay,2889,broken clouds,west
+5,17,26,Grand Parade,3032,broken clouds,west
+5,17,26,Carrolls Quay,3289,broken clouds,west
+5,17,26,City Hall - Eglington Street,2613,broken clouds,west
+5,17,26,Black Ash Park & Ride,2330,broken clouds,west
+5,17,26,Carrolls Quay,3538,broken clouds,east
+5,17,26,North Main Street,3085,broken clouds,west
+5,17,26,Paul Street,3314,broken clouds,west
+5,17,26,City Hall - Eglington Street,3460,broken clouds,east
+5,17,26,Black Ash Park & Ride,3324,broken clouds,east
+5,17,26,North Main Street,3826,broken clouds,east
+5,17,26,Paul Street,3718,broken clouds,east
+5,17,26,Saint Finbarr's,4167,broken clouds,south
+5,17,26,Merchants Quay,4097,broken clouds,south
+5,17,41,Saint Finbarr's,3952,broken clouds,east
+5,17,41,Merchants Quay,3517,broken clouds,east
+5,17,41,Grand Parade,4339,broken clouds,south
+5,17,41,Carrolls Quay,4495,broken clouds,south
+5,17,41,City Hall - Eglington Street,3941,broken clouds,south
+5,17,41,Black Ash Park & Ride,3719,broken clouds,south
+5,17,41,North Main Street,4751,broken clouds,south
+5,17,41,Paul Street,4527,broken clouds,south
+5,17,41,Saint Finbarr's,2873,broken clouds,north
+5,17,41,Merchants Quay,2875,broken clouds,north
+5,17,41,Grand Parade,2805,broken clouds,north
+5,17,41,Carrolls Quay,2593,broken clouds,north
+5,17,41,Grand Parade,3715,broken clouds,east
+5,17,41,City Hall - Eglington Street,2929,broken clouds,north
+5,17,41,Black Ash Park & Ride,3314,broken clouds,north
+5,17,41,North Main Street,2515,broken clouds,north
+5,17,41,Paul Street,2413,broken clouds,north
+5,17,41,Saint Finbarr's,2799,broken clouds,west
+5,17,41,Merchants Quay,2780,broken clouds,west
+5,17,41,Grand Parade,2900,broken clouds,west
+5,17,41,Carrolls Quay,3140,broken clouds,west
+5,17,41,City Hall - Eglington Street,2516,broken clouds,west
+5,17,41,Black Ash Park & Ride,2267,broken clouds,west
+5,17,41,Carrolls Quay,3473,broken clouds,east
+5,17,41,North Main Street,3047,broken clouds,west
+5,17,41,Paul Street,3012,broken clouds,west
+5,17,41,City Hall - Eglington Street,3333,broken clouds,east
+5,17,41,Black Ash Park & Ride,3239,broken clouds,east
+5,17,41,North Main Street,3767,broken clouds,east
+5,17,41,Paul Street,3661,broken clouds,east
+5,17,41,Saint Finbarr's,4294,broken clouds,south
+5,17,41,Merchants Quay,4153,broken clouds,south
+5,17,56,Saint Finbarr's,3892,broken clouds,east
+5,17,56,Merchants Quay,3459,broken clouds,east
+5,17,56,Grand Parade,4240,broken clouds,south
+5,17,56,Carrolls Quay,4462,broken clouds,south
+5,17,56,City Hall - Eglington Street,3888,broken clouds,south
+5,17,56,Black Ash Park & Ride,3687,broken clouds,south
+5,17,56,North Main Street,4757,broken clouds,south
+5,17,56,Paul Street,4430,broken clouds,south
+5,17,56,Saint Finbarr's,2765,broken clouds,north
+5,17,56,Merchants Quay,2714,broken clouds,north
+5,17,56,Grand Parade,2662,broken clouds,north
+5,17,56,Carrolls Quay,2499,broken clouds,north
+5,17,56,Grand Parade,3688,broken clouds,east
+5,17,56,City Hall - Eglington Street,2807,broken clouds,north
+5,17,56,Black Ash Park & Ride,3209,broken clouds,north
+5,17,56,North Main Street,2408,broken clouds,north
+5,17,56,Paul Street,2300,broken clouds,north
+5,17,56,Saint Finbarr's,2773,broken clouds,west
+5,17,56,Merchants Quay,2696,broken clouds,west
+5,17,56,Grand Parade,2847,broken clouds,west
+5,17,56,Carrolls Quay,3058,broken clouds,west
+5,17,56,City Hall - Eglington Street,2464,broken clouds,west
+5,17,56,Black Ash Park & Ride,2231,broken clouds,west
+5,17,56,Carrolls Quay,3388,broken clouds,east
+5,17,56,North Main Street,2985,broken clouds,west
+5,17,56,Paul Street,2941,broken clouds,west
+5,17,56,City Hall - Eglington Street,3321,broken clouds,east
+5,17,56,Black Ash Park & Ride,3201,broken clouds,east
+5,17,56,North Main Street,3698,broken clouds,east
+5,17,56,Paul Street,3583,broken clouds,east
+5,17,56,Saint Finbarr's,4229,broken clouds,south
+5,17,56,Merchants Quay,4098,broken clouds,south
+5,18,11,Saint Finbarr's,3806,broken clouds,east
+5,18,11,Merchants Quay,3393,broken clouds,east
+5,18,11,Grand Parade,3968,broken clouds,south
+5,18,11,Carrolls Quay,4207,broken clouds,south
+5,18,11,City Hall - Eglington Street,3635,broken clouds,south
+5,18,11,Black Ash Park & Ride,3439,broken clouds,south
+5,18,11,North Main Street,4511,broken clouds,south
+5,18,11,Paul Street,4496,broken clouds,south
+5,18,11,Saint Finbarr's,2756,broken clouds,north
+5,18,11,Merchants Quay,2703,broken clouds,north
+5,18,11,Grand Parade,2634,broken clouds,north
+5,18,11,Carrolls Quay,2465,broken clouds,north
+5,18,11,Grand Parade,3572,broken clouds,east
+5,18,11,City Hall - Eglington Street,2788,broken clouds,north
+5,18,11,Black Ash Park & Ride,3156,broken clouds,north
+5,18,11,North Main Street,2399,broken clouds,north
+5,18,11,Paul Street,2293,broken clouds,north
+5,18,11,Saint Finbarr's,2710,broken clouds,west
+5,18,11,Merchants Quay,2621,broken clouds,west
+5,18,11,Grand Parade,2775,broken clouds,west
+5,18,11,Carrolls Quay,3168,broken clouds,west
+5,18,11,City Hall - Eglington Street,2414,broken clouds,west
+5,18,11,Black Ash Park & Ride,2192,broken clouds,west
+5,18,11,Carrolls Quay,3297,broken clouds,east
+5,18,11,North Main Street,2991,broken clouds,west
+5,18,11,Paul Street,2922,broken clouds,west
+5,18,11,City Hall - Eglington Street,3231,broken clouds,east
+5,18,11,Black Ash Park & Ride,3076,broken clouds,east
+5,18,11,North Main Street,3572,broken clouds,east
+5,18,11,Paul Street,3469,broken clouds,east
+5,18,11,Saint Finbarr's,4063,broken clouds,south
+5,18,11,Merchants Quay,3846,broken clouds,south
+5,18,37,Saint Finbarr's,3785,broken clouds,east
+5,18,37,Merchants Quay,3365,broken clouds,east
+5,18,37,Grand Parade,3822,broken clouds,south
+5,18,37,Carrolls Quay,4051,broken clouds,south
+5,18,37,City Hall - Eglington Street,3488,broken clouds,south
+5,18,37,Black Ash Park & Ride,3311,broken clouds,south
+5,18,37,North Main Street,4273,broken clouds,south
+5,18,37,Paul Street,3973,broken clouds,south
+5,18,37,Saint Finbarr's,2796,broken clouds,north
+5,18,37,Merchants Quay,2710,broken clouds,north
+5,18,37,Grand Parade,2654,broken clouds,north
+5,18,37,Carrolls Quay,2548,broken clouds,north
+5,18,37,Grand Parade,3585,broken clouds,east
+5,18,37,City Hall - Eglington Street,2781,broken clouds,north
+5,18,37,Black Ash Park & Ride,3119,broken clouds,north
+5,18,37,North Main Street,2430,broken clouds,north
+5,18,37,Paul Street,2326,broken clouds,north
+5,18,37,Saint Finbarr's,2692,broken clouds,west
+5,18,37,Merchants Quay,2557,broken clouds,west
+5,18,37,Grand Parade,2678,broken clouds,west
+5,18,37,Carrolls Quay,2893,broken clouds,west
+5,18,37,City Hall - Eglington Street,2345,broken clouds,west
+5,18,37,Black Ash Park & Ride,2150,broken clouds,west
+5,18,37,Carrolls Quay,3327,broken clouds,east
+5,18,37,North Main Street,2997,broken clouds,west
+5,18,37,Paul Street,2885,broken clouds,west
+5,18,37,City Hall - Eglington Street,3250,broken clouds,east
+5,18,37,Black Ash Park & Ride,3114,broken clouds,east
+5,18,37,North Main Street,3545,broken clouds,east
+5,18,37,Paul Street,3433,broken clouds,east
+5,18,37,Saint Finbarr's,3863,broken clouds,south
+5,18,37,Merchants Quay,3671,broken clouds,south
+5,18,52,Saint Finbarr's,3729,broken clouds,east
+5,18,52,Merchants Quay,3299,broken clouds,east
+5,18,52,Grand Parade,3976,broken clouds,south
+5,18,52,Carrolls Quay,4123,broken clouds,south
+5,18,52,City Hall - Eglington Street,3645,broken clouds,south
+5,18,52,Black Ash Park & Ride,3471,broken clouds,south
+5,18,52,North Main Street,4431,broken clouds,south
+5,18,52,Paul Street,4098,broken clouds,south
+5,18,52,Saint Finbarr's,2715,broken clouds,north
+5,18,52,Merchants Quay,2645,broken clouds,north
+5,18,52,Grand Parade,2592,broken clouds,north
+5,18,52,Carrolls Quay,2441,broken clouds,north
+5,18,52,Grand Parade,3522,broken clouds,east
+5,18,52,City Hall - Eglington Street,2739,broken clouds,north
+5,18,52,Black Ash Park & Ride,3081,broken clouds,north
+5,18,52,North Main Street,2363,broken clouds,north
+5,18,52,Paul Street,2251,broken clouds,north
+5,18,52,Saint Finbarr's,2759,broken clouds,west
+5,18,52,Merchants Quay,2473,broken clouds,west
+5,18,52,Grand Parade,2620,broken clouds,west
+5,18,52,Carrolls Quay,2863,broken clouds,west
+5,18,52,City Hall - Eglington Street,2290,broken clouds,west
+5,18,52,Black Ash Park & Ride,2113,broken clouds,west
+5,18,52,Carrolls Quay,3285,broken clouds,east
+5,18,52,North Main Street,2922,broken clouds,west
+5,18,52,Paul Street,2770,broken clouds,west
+5,18,52,City Hall - Eglington Street,3183,broken clouds,east
+5,18,52,Black Ash Park & Ride,3082,broken clouds,east
+5,18,52,North Main Street,3480,broken clouds,east
+5,18,52,Paul Street,3376,broken clouds,east
+5,18,52,Saint Finbarr's,4018,broken clouds,south
+5,18,52,Merchants Quay,3819,broken clouds,south
+5,19,22,Saint Finbarr's,3480,broken clouds,east
+5,19,22,Merchants Quay,3138,broken clouds,east
+5,19,22,Grand Parade,3668,broken clouds,south
+5,19,22,Carrolls Quay,3829,broken clouds,south
+5,19,22,City Hall - Eglington Street,3369,broken clouds,south
+5,19,22,Black Ash Park & Ride,3217,broken clouds,south
+5,19,22,North Main Street,4098,broken clouds,south
+5,19,22,Paul Street,3828,broken clouds,south
+5,19,22,Saint Finbarr's,2569,broken clouds,north
+5,19,22,Merchants Quay,2429,broken clouds,north
+5,19,22,Grand Parade,2445,broken clouds,north
+5,19,22,Carrolls Quay,2288,broken clouds,north
+5,19,22,Grand Parade,3292,broken clouds,east
+5,19,22,City Hall - Eglington Street,2500,broken clouds,north
+5,19,22,Black Ash Park & Ride,2855,broken clouds,north
+5,19,22,North Main Street,2198,broken clouds,north
+5,19,22,Paul Street,2093,broken clouds,north
+5,19,22,Saint Finbarr's,2659,broken clouds,west
+5,19,22,Merchants Quay,2423,broken clouds,west
+5,19,22,Grand Parade,2582,broken clouds,west
+5,19,22,Carrolls Quay,2722,broken clouds,west
+5,19,22,City Hall - Eglington Street,2249,broken clouds,west
+5,19,22,Black Ash Park & Ride,2092,broken clouds,west
+5,19,22,Carrolls Quay,3091,broken clouds,east
+5,19,22,North Main Street,2824,broken clouds,west
+5,19,22,Paul Street,2703,broken clouds,west
+5,19,22,City Hall - Eglington Street,2995,broken clouds,east
+5,19,22,Black Ash Park & Ride,2936,broken clouds,east
+5,19,22,North Main Street,3305,broken clouds,east
+5,19,22,Paul Street,3201,broken clouds,east
+5,19,22,Saint Finbarr's,3762,broken clouds,south
+5,19,22,Merchants Quay,3558,broken clouds,south
+5,19,37,Saint Finbarr's,3435,broken clouds,east
+5,19,37,Merchants Quay,3121,broken clouds,east
+5,19,37,Grand Parade,3599,broken clouds,south
+5,19,37,Carrolls Quay,3721,broken clouds,south
+5,19,37,City Hall - Eglington Street,3306,broken clouds,south
+5,19,37,Black Ash Park & Ride,3183,broken clouds,south
+5,19,37,North Main Street,4007,broken clouds,south
+5,19,37,Paul Street,3759,broken clouds,south
+5,19,37,Saint Finbarr's,2450,broken clouds,north
+5,19,37,Merchants Quay,2421,broken clouds,north
+5,19,37,Grand Parade,2342,broken clouds,north
+5,19,37,Carrolls Quay,2236,broken clouds,north
+5,19,37,Grand Parade,3259,broken clouds,east
+5,19,37,City Hall - Eglington Street,2482,broken clouds,north
+5,19,37,Black Ash Park & Ride,2790,broken clouds,north
+5,19,37,North Main Street,2162,broken clouds,north
+5,19,37,Paul Street,2058,broken clouds,north
+5,19,37,Saint Finbarr's,2690,broken clouds,west
+5,19,37,Merchants Quay,2442,broken clouds,west
+5,19,37,Grand Parade,2544,broken clouds,west
+5,19,37,Carrolls Quay,2725,broken clouds,west
+5,19,37,City Hall - Eglington Street,2252,broken clouds,west
+5,19,37,Black Ash Park & Ride,2101,broken clouds,west
+5,19,37,Carrolls Quay,3047,broken clouds,east
+5,19,37,North Main Street,2856,broken clouds,west
+5,19,37,Paul Street,2717,broken clouds,west
+5,19,37,City Hall - Eglington Street,2960,broken clouds,east
+5,19,37,Black Ash Park & Ride,2938,broken clouds,east
+5,19,37,North Main Street,3303,broken clouds,east
+5,19,37,Paul Street,3200,broken clouds,east
+5,19,37,Saint Finbarr's,3657,broken clouds,south
+5,19,37,Merchants Quay,3473,broken clouds,south
+5,20,5,Saint Finbarr's,3326,broken clouds,east
+5,20,5,Merchants Quay,2982,broken clouds,east
+5,20,5,Grand Parade,3528,broken clouds,south
+5,20,5,Carrolls Quay,3685,broken clouds,south
+5,20,5,City Hall - Eglington Street,3256,broken clouds,south
+5,20,5,Black Ash Park & Ride,3140,broken clouds,south
+5,20,5,North Main Street,3869,broken clouds,south
+5,20,5,Paul Street,3719,broken clouds,south
+5,20,5,Saint Finbarr's,2408,broken clouds,north
+5,20,5,Merchants Quay,2349,broken clouds,north
+5,20,5,Grand Parade,2327,broken clouds,north
+5,20,5,Carrolls Quay,2198,broken clouds,north
+5,20,5,Grand Parade,3131,broken clouds,east
+5,20,5,City Hall - Eglington Street,2378,broken clouds,north
+5,20,5,Black Ash Park & Ride,2700,broken clouds,north
+5,20,5,North Main Street,2131,broken clouds,north
+5,20,5,Paul Street,2025,broken clouds,north
+5,20,5,Saint Finbarr's,2608,broken clouds,west
+5,20,5,Merchants Quay,2341,broken clouds,west
+5,20,5,Grand Parade,2444,broken clouds,west
+5,20,5,Carrolls Quay,2594,broken clouds,west
+5,20,5,City Hall - Eglington Street,2168,broken clouds,west
+5,20,5,Black Ash Park & Ride,2048,broken clouds,west
+5,20,5,Carrolls Quay,2929,broken clouds,east
+5,20,5,North Main Street,2747,broken clouds,west
+5,20,5,Paul Street,2601,broken clouds,west
+5,20,5,City Hall - Eglington Street,2854,broken clouds,east
+5,20,5,Black Ash Park & Ride,2798,broken clouds,east
+5,20,5,North Main Street,3159,broken clouds,east
+5,20,5,Paul Street,3061,broken clouds,east
+5,20,5,Saint Finbarr's,3636,broken clouds,south
+5,20,5,Merchants Quay,3417,broken clouds,south
+5,20,6,Saint Finbarr's,3318,broken clouds,east
+5,20,6,Merchants Quay,2983,broken clouds,east
+5,20,6,Grand Parade,3522,broken clouds,south
+5,20,6,Carrolls Quay,3679,broken clouds,south
+5,20,6,City Hall - Eglington Street,3251,broken clouds,south
+5,20,6,Black Ash Park & Ride,3135,broken clouds,south
+5,20,6,North Main Street,3872,broken clouds,south
+5,20,6,Paul Street,3705,broken clouds,south
+5,20,6,Saint Finbarr's,2397,broken clouds,north
+5,20,6,Merchants Quay,2355,broken clouds,north
+5,20,6,Grand Parade,2316,broken clouds,north
+5,20,6,Carrolls Quay,2187,broken clouds,north
+5,20,6,Grand Parade,3123,broken clouds,east
+5,20,6,City Hall - Eglington Street,2385,broken clouds,north
+5,20,6,Black Ash Park & Ride,2706,broken clouds,north
+5,20,6,North Main Street,2120,broken clouds,north
+5,20,6,Paul Street,2015,broken clouds,north
+5,20,6,Saint Finbarr's,2586,broken clouds,west
+5,20,6,Merchants Quay,2323,broken clouds,west
+5,20,6,Grand Parade,2426,broken clouds,west
+5,20,6,Carrolls Quay,2576,broken clouds,west
+5,20,6,City Hall - Eglington Street,2150,broken clouds,west
+5,20,6,Black Ash Park & Ride,2030,broken clouds,west
+5,20,6,Carrolls Quay,2924,broken clouds,east
+5,20,6,North Main Street,2726,broken clouds,west
+5,20,6,Paul Street,2583,broken clouds,west
+5,20,6,City Hall - Eglington Street,2846,broken clouds,east
+5,20,6,Black Ash Park & Ride,2797,broken clouds,east
+5,20,6,North Main Street,3177,broken clouds,east
+5,20,6,Paul Street,3079,broken clouds,east
+5,20,6,Saint Finbarr's,3625,broken clouds,south
+5,20,6,Merchants Quay,3411,broken clouds,south
+5,20,12,Saint Finbarr's,3299,broken clouds,east
+5,20,12,Merchants Quay,2953,broken clouds,east
+5,20,12,Grand Parade,3520,broken clouds,south
+5,20,12,Carrolls Quay,3625,broken clouds,south
+5,20,12,City Hall - Eglington Street,3253,broken clouds,south
+5,20,12,Black Ash Park & Ride,3137,broken clouds,south
+5,20,12,North Main Street,3855,broken clouds,south
+5,20,12,Paul Street,3643,broken clouds,south
+5,20,12,Saint Finbarr's,2421,broken clouds,north
+5,20,12,Merchants Quay,2376,broken clouds,north
+5,20,12,Grand Parade,2339,broken clouds,north
+5,20,12,Carrolls Quay,2211,broken clouds,north
+5,20,12,Grand Parade,3104,broken clouds,east
+5,20,12,City Hall - Eglington Street,2406,broken clouds,north
+5,20,12,Black Ash Park & Ride,2723,broken clouds,north
+5,20,12,North Main Street,2143,broken clouds,north
+5,20,12,Paul Street,2038,broken clouds,north
+5,20,12,Saint Finbarr's,2558,broken clouds,west
+5,20,12,Merchants Quay,2300,broken clouds,west
+5,20,12,Grand Parade,2403,broken clouds,west
+5,20,12,Carrolls Quay,2551,broken clouds,west
+5,20,12,City Hall - Eglington Street,2127,broken clouds,west
+5,20,12,Black Ash Park & Ride,2007,broken clouds,west
+5,20,12,Carrolls Quay,2912,broken clouds,east
+5,20,12,North Main Street,2667,broken clouds,west
+5,20,12,Paul Street,2572,broken clouds,west
+5,20,12,City Hall - Eglington Street,2827,broken clouds,east
+5,20,12,Black Ash Park & Ride,2785,broken clouds,east
+5,20,12,North Main Street,3147,broken clouds,east
+5,20,12,Paul Street,3049,broken clouds,east
+5,20,12,Saint Finbarr's,3655,broken clouds,south
+5,20,12,Merchants Quay,3404,broken clouds,south
+5,20,27,Saint Finbarr's,3328,broken clouds,east
+5,20,27,Merchants Quay,2956,broken clouds,east
+5,20,27,Grand Parade,3707,broken clouds,south
+5,20,27,Carrolls Quay,3824,broken clouds,south
+5,20,27,City Hall - Eglington Street,3457,broken clouds,south
+5,20,27,Black Ash Park & Ride,3340,broken clouds,south
+5,20,27,North Main Street,4050,broken clouds,south
+5,20,27,Paul Street,3858,broken clouds,south
+5,20,27,Saint Finbarr's,2400,broken clouds,north
+5,20,27,Merchants Quay,2323,broken clouds,north
+5,20,27,Grand Parade,2323,broken clouds,north
+5,20,27,Carrolls Quay,2185,broken clouds,north
+5,20,27,Grand Parade,3145,broken clouds,east
+5,20,27,City Hall - Eglington Street,2353,broken clouds,north
+5,20,27,Black Ash Park & Ride,2682,broken clouds,north
+5,20,27,North Main Street,2127,broken clouds,north
+5,20,27,Paul Street,2029,broken clouds,north
+5,20,27,Saint Finbarr's,2567,broken clouds,west
+5,20,27,Merchants Quay,2283,broken clouds,west
+5,20,27,Grand Parade,2393,broken clouds,west
+5,20,27,Carrolls Quay,2547,broken clouds,west
+5,20,27,City Hall - Eglington Street,2122,broken clouds,west
+5,20,27,Black Ash Park & Ride,2006,broken clouds,west
+5,20,27,Carrolls Quay,2901,broken clouds,east
+5,20,27,North Main Street,2682,broken clouds,west
+5,20,27,Paul Street,2553,broken clouds,west
+5,20,27,City Hall - Eglington Street,2873,broken clouds,east
+5,20,27,Black Ash Park & Ride,2824,broken clouds,east
+5,20,27,North Main Street,3124,broken clouds,east
+5,20,27,Paul Street,3026,broken clouds,east
+5,20,27,Saint Finbarr's,3775,broken clouds,south
+5,20,27,Merchants Quay,3609,broken clouds,south
+5,20,42,Saint Finbarr's,3280,scattered clouds,east
+5,20,42,Merchants Quay,2940,scattered clouds,east
+5,20,42,Grand Parade,3642,scattered clouds,south
+5,20,42,Carrolls Quay,3764,scattered clouds,south
+5,20,42,City Hall - Eglington Street,3403,scattered clouds,south
+5,20,42,Black Ash Park & Ride,3290,scattered clouds,south
+5,20,42,North Main Street,3956,scattered clouds,south
+5,20,42,Paul Street,3758,scattered clouds,south
+5,20,42,Saint Finbarr's,2355,scattered clouds,north
+5,20,42,Merchants Quay,2288,scattered clouds,north
+5,20,42,Grand Parade,2265,scattered clouds,north
+5,20,42,Carrolls Quay,2123,scattered clouds,north
+5,20,42,Grand Parade,3092,scattered clouds,east
+5,20,42,City Hall - Eglington Street,2342,scattered clouds,north
+5,20,42,Black Ash Park & Ride,2652,scattered clouds,north
+5,20,42,North Main Street,2070,scattered clouds,north
+5,20,42,Paul Street,1971,scattered clouds,north
+5,20,42,Saint Finbarr's,2582,scattered clouds,west
+5,20,42,Merchants Quay,2311,scattered clouds,west
+5,20,42,Grand Parade,2432,scattered clouds,west
+5,20,42,Carrolls Quay,2531,scattered clouds,west
+5,20,42,City Hall - Eglington Street,2166,scattered clouds,west
+5,20,42,Black Ash Park & Ride,2053,scattered clouds,west
+5,20,42,Carrolls Quay,2884,scattered clouds,east
+5,20,42,North Main Street,2694,scattered clouds,west
+5,20,42,Paul Street,2543,scattered clouds,west
+5,20,42,City Hall - Eglington Street,2837,scattered clouds,east
+5,20,42,Black Ash Park & Ride,2805,scattered clouds,east
+5,20,42,North Main Street,3105,scattered clouds,east
+5,20,42,Paul Street,3005,scattered clouds,east
+5,20,42,Saint Finbarr's,3720,scattered clouds,south
+5,20,42,Merchants Quay,3550,scattered clouds,south
+3,1,30,Saint Finbarr's,3024,moderate rain,east
+3,1,30,Merchants Quay,2793,moderate rain,east
+3,1,30,Grand Parade,3243,moderate rain,south
+3,1,30,Carrolls Quay,3394,moderate rain,south
+3,1,30,City Hall - Eglington Street,3082,moderate rain,south
+3,1,30,Black Ash Park & Ride,3035,moderate rain,south
+3,1,30,North Main Street,3457,moderate rain,south
+3,1,30,Paul Street,3358,moderate rain,south
+3,1,30,Saint Finbarr's,1913,moderate rain,north
+3,1,30,Merchants Quay,1856,moderate rain,north
+3,1,30,Grand Parade,1865,moderate rain,north
+3,1,30,Carrolls Quay,1795,moderate rain,north
+3,1,30,Grand Parade,2890,moderate rain,east
+3,1,30,City Hall - Eglington Street,1863,moderate rain,north
+3,1,30,Black Ash Park & Ride,2129,moderate rain,north
+3,1,30,North Main Street,1739,moderate rain,north
+3,1,30,Paul Street,1651,moderate rain,north
+3,1,30,Saint Finbarr's,2308,moderate rain,west
+3,1,30,Merchants Quay,2111,moderate rain,west
+3,1,30,Grand Parade,2120,moderate rain,west
+3,1,30,Carrolls Quay,2233,moderate rain,west
+3,1,30,City Hall - Eglington Street,1964,moderate rain,west
+3,1,30,Black Ash Park & Ride,1903,moderate rain,west
+3,1,30,Carrolls Quay,2758,moderate rain,east
+3,1,30,North Main Street,2400,moderate rain,west
+3,1,30,Paul Street,2276,moderate rain,west
+3,1,30,City Hall - Eglington Street,2716,moderate rain,east
+3,1,30,Black Ash Park & Ride,2703,moderate rain,east
+3,1,30,North Main Street,2902,moderate rain,east
+3,1,30,Paul Street,2815,moderate rain,east
+3,1,30,Saint Finbarr's,3380,moderate rain,south
+3,1,30,Merchants Quay,3194,moderate rain,south
 4,16,27,Saint Finbarr's,4252,scattered clouds,east
 4,16,27,Merchants Quay,3805,scattered clouds,east
 4,16,27,Grand Parade,4525,scattered clouds,south
@@ -23843,3 +25827,419 @@ day,hour,minute,car_park_name,time,weather,direction
 4,23,54,Paul Street,2868,clear sky,east
 4,23,54,Saint Finbarr's,3409,clear sky,south
 4,23,54,Merchants Quay,3312,clear sky,south
+4,21,5,Saint Finbarr's,3213,broken clouds,east
+4,21,5,Merchants Quay,2957,broken clouds,east
+4,21,5,Grand Parade,3503,broken clouds,south
+4,21,5,Carrolls Quay,3603,broken clouds,south
+4,21,5,City Hall - Eglington Street,3272,broken clouds,south
+4,21,5,Black Ash Park & Ride,3178,broken clouds,south
+4,21,5,North Main Street,3782,broken clouds,south
+4,21,5,Paul Street,3612,broken clouds,south
+4,21,5,Saint Finbarr's,2195,broken clouds,north
+4,21,5,Merchants Quay,2172,broken clouds,north
+4,21,5,Grand Parade,2139,broken clouds,north
+4,21,5,Carrolls Quay,2029,broken clouds,north
+4,21,5,Grand Parade,3083,broken clouds,east
+4,21,5,City Hall - Eglington Street,2210,broken clouds,north
+4,21,5,Black Ash Park & Ride,2514,broken clouds,north
+4,21,5,North Main Street,1977,broken clouds,north
+4,21,5,Paul Street,1881,broken clouds,north
+4,21,5,Saint Finbarr's,2365,broken clouds,west
+4,21,5,Merchants Quay,2220,broken clouds,west
+4,21,5,Grand Parade,2280,broken clouds,west
+4,21,5,Carrolls Quay,2413,broken clouds,west
+4,21,5,City Hall - Eglington Street,2068,broken clouds,west
+4,21,5,Black Ash Park & Ride,1959,broken clouds,west
+4,21,5,Carrolls Quay,2878,broken clouds,east
+4,21,5,North Main Street,2472,broken clouds,west
+4,21,5,Paul Street,2426,broken clouds,west
+4,21,5,City Hall - Eglington Street,2847,broken clouds,east
+4,21,5,Black Ash Park & Ride,2805,broken clouds,east
+4,21,5,North Main Street,3094,broken clouds,east
+4,21,5,Paul Street,2998,broken clouds,east
+4,21,5,Saint Finbarr's,3583,broken clouds,south
+4,21,5,Merchants Quay,3402,broken clouds,south
+4,21,8,Saint Finbarr's,3210,broken clouds,east
+4,21,8,Merchants Quay,2944,broken clouds,east
+4,21,8,Grand Parade,3527,broken clouds,south
+4,21,8,Carrolls Quay,3630,broken clouds,south
+4,21,8,City Hall - Eglington Street,3296,broken clouds,south
+4,21,8,Black Ash Park & Ride,3202,broken clouds,south
+4,21,8,North Main Street,3794,broken clouds,south
+4,21,8,Paul Street,3640,broken clouds,south
+4,21,8,Saint Finbarr's,2200,broken clouds,north
+4,21,8,Merchants Quay,2199,broken clouds,north
+4,21,8,Grand Parade,2125,broken clouds,north
+4,21,8,Carrolls Quay,2034,broken clouds,north
+4,21,8,Grand Parade,3080,broken clouds,east
+4,21,8,City Hall - Eglington Street,2237,broken clouds,north
+4,21,8,Black Ash Park & Ride,2540,broken clouds,north
+4,21,8,North Main Street,1983,broken clouds,north
+4,21,8,Paul Street,1890,broken clouds,north
+4,21,8,Saint Finbarr's,2347,broken clouds,west
+4,21,8,Merchants Quay,2195,broken clouds,west
+4,21,8,Grand Parade,2255,broken clouds,west
+4,21,8,Carrolls Quay,2388,broken clouds,west
+4,21,8,City Hall - Eglington Street,2042,broken clouds,west
+4,21,8,Black Ash Park & Ride,1935,broken clouds,west
+4,21,8,Carrolls Quay,2890,broken clouds,east
+4,21,8,North Main Street,2453,broken clouds,west
+4,21,8,Paul Street,2401,broken clouds,west
+4,21,8,City Hall - Eglington Street,2844,broken clouds,east
+4,21,8,Black Ash Park & Ride,2801,broken clouds,east
+4,21,8,North Main Street,3088,broken clouds,east
+4,21,8,Paul Street,2991,broken clouds,east
+4,21,8,Saint Finbarr's,3597,broken clouds,south
+4,21,8,Merchants Quay,3427,broken clouds,south
+4,21,11,Saint Finbarr's,3189,broken clouds,east
+4,21,11,Merchants Quay,2923,broken clouds,east
+4,21,11,Grand Parade,3527,broken clouds,south
+4,21,11,Carrolls Quay,3634,broken clouds,south
+4,21,11,City Hall - Eglington Street,3300,broken clouds,south
+4,21,11,Black Ash Park & Ride,3206,broken clouds,south
+4,21,11,North Main Street,3783,broken clouds,south
+4,21,11,Paul Street,3651,broken clouds,south
+4,21,11,Saint Finbarr's,2150,broken clouds,north
+4,21,11,Merchants Quay,2171,broken clouds,north
+4,21,11,Grand Parade,2075,broken clouds,north
+4,21,11,Carrolls Quay,1983,broken clouds,north
+4,21,11,Grand Parade,3059,broken clouds,east
+4,21,11,City Hall - Eglington Street,2209,broken clouds,north
+4,21,11,Black Ash Park & Ride,2512,broken clouds,north
+4,21,11,North Main Street,1932,broken clouds,north
+4,21,11,Paul Street,1840,broken clouds,north
+4,21,11,Saint Finbarr's,2348,broken clouds,west
+4,21,11,Merchants Quay,2189,broken clouds,west
+4,21,11,Grand Parade,2249,broken clouds,west
+4,21,11,Carrolls Quay,2382,broken clouds,west
+4,21,11,City Hall - Eglington Street,2036,broken clouds,west
+4,21,11,Black Ash Park & Ride,1929,broken clouds,west
+4,21,11,Carrolls Quay,2869,broken clouds,east
+4,21,11,North Main Street,2455,broken clouds,west
+4,21,11,Paul Street,2395,broken clouds,west
+4,21,11,City Hall - Eglington Street,2823,broken clouds,east
+4,21,11,Black Ash Park & Ride,2783,broken clouds,east
+4,21,11,North Main Street,3066,broken clouds,east
+4,21,11,Paul Street,2969,broken clouds,east
+4,21,11,Saint Finbarr's,3618,broken clouds,south
+4,21,11,Merchants Quay,3435,broken clouds,south
+4,21,26,Saint Finbarr's,3162,broken clouds,east
+4,21,26,Merchants Quay,2870,broken clouds,east
+4,21,26,Grand Parade,3348,broken clouds,south
+4,21,26,Carrolls Quay,3485,broken clouds,south
+4,21,26,City Hall - Eglington Street,3125,broken clouds,south
+4,21,26,Black Ash Park & Ride,3031,broken clouds,south
+4,21,26,North Main Street,3595,broken clouds,south
+4,21,26,Paul Street,3492,broken clouds,south
+4,21,26,Saint Finbarr's,2128,broken clouds,north
+4,21,26,Merchants Quay,2091,broken clouds,north
+4,21,26,Grand Parade,2068,broken clouds,north
+4,21,26,Carrolls Quay,1927,broken clouds,north
+4,21,26,Grand Parade,2991,broken clouds,east
+4,21,26,City Hall - Eglington Street,2132,broken clouds,north
+4,21,26,Black Ash Park & Ride,2420,broken clouds,north
+4,21,26,North Main Street,1897,broken clouds,north
+4,21,26,Paul Street,1800,broken clouds,north
+4,21,26,Saint Finbarr's,2393,broken clouds,west
+4,21,26,Merchants Quay,2155,broken clouds,west
+4,21,26,Grand Parade,2256,broken clouds,west
+4,21,26,Carrolls Quay,2356,broken clouds,west
+4,21,26,City Hall - Eglington Street,2025,broken clouds,west
+4,21,26,Black Ash Park & Ride,1931,broken clouds,west
+4,21,26,Carrolls Quay,2803,broken clouds,east
+4,21,26,North Main Street,2492,broken clouds,west
+4,21,26,Paul Street,2364,broken clouds,west
+4,21,26,City Hall - Eglington Street,2763,broken clouds,east
+4,21,26,Black Ash Park & Ride,2753,broken clouds,east
+4,21,26,North Main Street,3008,broken clouds,east
+4,21,26,Paul Street,2912,broken clouds,east
+4,21,26,Saint Finbarr's,3418,broken clouds,south
+4,21,26,Merchants Quay,3278,broken clouds,south
+4,21,41,Saint Finbarr's,3196,broken clouds,east
+4,21,41,Merchants Quay,2904,broken clouds,east
+4,21,41,Grand Parade,3343,broken clouds,south
+4,21,41,Carrolls Quay,3460,broken clouds,south
+4,21,41,City Hall - Eglington Street,3127,broken clouds,south
+4,21,41,Black Ash Park & Ride,3041,broken clouds,south
+4,21,41,North Main Street,3592,broken clouds,south
+4,21,41,Paul Street,3461,broken clouds,south
+4,21,41,Saint Finbarr's,2192,broken clouds,north
+4,21,41,Merchants Quay,2112,broken clouds,north
+4,21,41,Grand Parade,2124,broken clouds,north
+4,21,41,Carrolls Quay,2009,broken clouds,north
+4,21,41,Grand Parade,3044,broken clouds,east
+4,21,41,City Hall - Eglington Street,2126,broken clouds,north
+4,21,41,Black Ash Park & Ride,2445,broken clouds,north
+4,21,41,North Main Street,1950,broken clouds,north
+4,21,41,Paul Street,1854,broken clouds,north
+4,21,41,Saint Finbarr's,2362,broken clouds,west
+4,21,41,Merchants Quay,2203,broken clouds,west
+4,21,41,Grand Parade,2273,broken clouds,west
+4,21,41,Carrolls Quay,2394,broken clouds,west
+4,21,41,City Hall - Eglington Street,2050,broken clouds,west
+4,21,41,Black Ash Park & Ride,1956,broken clouds,west
+4,21,41,Carrolls Quay,2880,broken clouds,east
+4,21,41,North Main Street,2455,broken clouds,west
+4,21,41,Paul Street,2419,broken clouds,west
+4,21,41,City Hall - Eglington Street,2823,broken clouds,east
+4,21,41,Black Ash Park & Ride,2778,broken clouds,east
+4,21,41,North Main Street,3074,broken clouds,east
+4,21,41,Paul Street,2975,broken clouds,east
+4,21,41,Saint Finbarr's,3425,broken clouds,south
+4,21,41,Merchants Quay,3264,broken clouds,south
+4,21,56,Saint Finbarr's,3048,broken clouds,east
+4,21,56,Merchants Quay,2794,broken clouds,east
+4,21,56,Grand Parade,3475,broken clouds,south
+4,21,56,Carrolls Quay,3589,broken clouds,south
+4,21,56,City Hall - Eglington Street,3277,broken clouds,south
+4,21,56,Black Ash Park & Ride,3188,broken clouds,south
+4,21,56,North Main Street,3694,broken clouds,south
+4,21,56,Paul Street,3598,broken clouds,south
+4,21,56,Saint Finbarr's,2128,broken clouds,north
+4,21,56,Merchants Quay,2066,broken clouds,north
+4,21,56,Grand Parade,2034,broken clouds,north
+4,21,56,Carrolls Quay,1956,broken clouds,north
+4,21,56,Grand Parade,2896,broken clouds,east
+4,21,56,City Hall - Eglington Street,2086,broken clouds,north
+4,21,56,Black Ash Park & Ride,2386,broken clouds,north
+4,21,56,North Main Street,1903,broken clouds,north
+4,21,56,Paul Street,1804,broken clouds,north
+4,21,56,Saint Finbarr's,2390,broken clouds,west
+4,21,56,Merchants Quay,2190,broken clouds,west
+4,21,56,Grand Parade,2269,broken clouds,west
+4,21,56,Carrolls Quay,2401,broken clouds,west
+4,21,56,City Hall - Eglington Street,2053,broken clouds,west
+4,21,56,Black Ash Park & Ride,1967,broken clouds,west
+4,21,56,Carrolls Quay,2743,broken clouds,east
+4,21,56,North Main Street,2481,broken clouds,west
+4,21,56,Paul Street,2413,broken clouds,west
+4,21,56,City Hall - Eglington Street,2685,broken clouds,east
+4,21,56,Black Ash Park & Ride,2667,broken clouds,east
+4,21,56,North Main Street,2911,broken clouds,east
+4,21,56,Paul Street,2816,broken clouds,east
+4,21,56,Saint Finbarr's,3590,broken clouds,south
+4,21,56,Merchants Quay,3413,broken clouds,south
+4,22,11,Saint Finbarr's,3045,broken clouds,east
+4,22,11,Merchants Quay,2773,broken clouds,east
+4,22,11,Grand Parade,3434,broken clouds,south
+4,22,11,Carrolls Quay,3522,broken clouds,south
+4,22,11,City Hall - Eglington Street,3239,broken clouds,south
+4,22,11,Black Ash Park & Ride,3160,broken clouds,south
+4,22,11,North Main Street,3629,broken clouds,south
+4,22,11,Paul Street,3547,broken clouds,south
+4,22,11,Saint Finbarr's,2107,broken clouds,north
+4,22,11,Merchants Quay,2070,broken clouds,north
+4,22,11,Grand Parade,2052,broken clouds,north
+4,22,11,Carrolls Quay,1957,broken clouds,north
+4,22,11,Grand Parade,2885,broken clouds,east
+4,22,11,City Hall - Eglington Street,2083,broken clouds,north
+4,22,11,Black Ash Park & Ride,2386,broken clouds,north
+4,22,11,North Main Street,1884,broken clouds,north
+4,22,11,Paul Street,1789,broken clouds,north
+4,22,11,Saint Finbarr's,2301,broken clouds,west
+4,22,11,Merchants Quay,2131,broken clouds,west
+4,22,11,Grand Parade,2200,broken clouds,west
+4,22,11,Carrolls Quay,2327,broken clouds,west
+4,22,11,City Hall - Eglington Street,1993,broken clouds,west
+4,22,11,Black Ash Park & Ride,1905,broken clouds,west
+4,22,11,Carrolls Quay,2718,broken clouds,east
+4,22,11,North Main Street,2393,broken clouds,west
+4,22,11,Paul Street,2308,broken clouds,west
+4,22,11,City Hall - Eglington Street,2684,broken clouds,east
+4,22,11,Black Ash Park & Ride,2637,broken clouds,east
+4,22,11,North Main Street,2898,broken clouds,east
+4,22,11,Paul Street,2807,broken clouds,east
+4,22,11,Saint Finbarr's,3486,broken clouds,south
+4,22,11,Merchants Quay,3377,broken clouds,south
+4,22,41,Saint Finbarr's,3002,mist,east
+4,22,41,Merchants Quay,2776,mist,east
+4,22,41,Grand Parade,3295,mist,south
+4,22,41,Carrolls Quay,3396,mist,south
+4,22,41,City Hall - Eglington Street,3096,mist,south
+4,22,41,Black Ash Park & Ride,3014,mist,south
+4,22,41,North Main Street,3459,mist,south
+4,22,41,Paul Street,3437,mist,south
+4,22,41,Saint Finbarr's,2071,mist,north
+4,22,41,Merchants Quay,1993,mist,north
+4,22,41,Grand Parade,2023,mist,north
+4,22,41,Carrolls Quay,1904,mist,north
+4,22,41,Grand Parade,2875,mist,east
+4,22,41,City Hall - Eglington Street,2023,mist,north
+4,22,41,Black Ash Park & Ride,2317,mist,north
+4,22,41,North Main Street,1865,mist,north
+4,22,41,Paul Street,1769,mist,north
+4,22,41,Saint Finbarr's,2246,mist,west
+4,22,41,Merchants Quay,2076,mist,west
+4,22,41,Grand Parade,2150,mist,west
+4,22,41,Carrolls Quay,2224,mist,west
+4,22,41,City Hall - Eglington Street,1948,mist,west
+4,22,41,Black Ash Park & Ride,1864,mist,west
+4,22,41,Carrolls Quay,2705,mist,east
+4,22,41,North Main Street,2340,mist,west
+4,22,41,Paul Street,2246,mist,west
+4,22,41,City Hall - Eglington Street,2671,mist,east
+4,22,41,Black Ash Park & Ride,2641,mist,east
+4,22,41,North Main Street,2871,mist,east
+4,22,41,Paul Street,2781,mist,east
+4,22,41,Saint Finbarr's,3339,mist,south
+4,22,41,Merchants Quay,3238,mist,south
+4,22,56,Saint Finbarr's,2981,mist,east
+4,22,56,Merchants Quay,2789,mist,east
+4,22,56,Grand Parade,3292,mist,south
+4,22,56,Carrolls Quay,3362,mist,south
+4,22,56,City Hall - Eglington Street,3077,mist,south
+4,22,56,Black Ash Park & Ride,2994,mist,south
+4,22,56,North Main Street,3434,mist,south
+4,22,56,Paul Street,3412,mist,south
+4,22,56,Saint Finbarr's,2021,mist,north
+4,22,56,Merchants Quay,1996,mist,north
+4,22,56,Grand Parade,1966,mist,north
+4,22,56,Carrolls Quay,1850,mist,north
+4,22,56,Grand Parade,2882,mist,east
+4,22,56,City Hall - Eglington Street,2020,mist,north
+4,22,56,Black Ash Park & Ride,2296,mist,north
+4,22,56,North Main Street,1810,mist,north
+4,22,56,Paul Street,1720,mist,north
+4,22,56,Saint Finbarr's,2303,mist,west
+4,22,56,Merchants Quay,2155,mist,west
+4,22,56,Grand Parade,2212,mist,west
+4,22,56,Carrolls Quay,2313,mist,west
+4,22,56,City Hall - Eglington Street,2013,mist,west
+4,22,56,Black Ash Park & Ride,1931,mist,west
+4,22,56,Carrolls Quay,2706,mist,east
+4,22,56,North Main Street,2377,mist,west
+4,22,56,Paul Street,2320,mist,west
+4,22,56,City Hall - Eglington Street,2662,mist,east
+4,22,56,Black Ash Park & Ride,2660,mist,east
+4,22,56,North Main Street,2870,mist,east
+4,22,56,Paul Street,2782,mist,east
+4,22,56,Saint Finbarr's,3317,mist,south
+4,22,56,Merchants Quay,3223,mist,south
+4,23,11,Saint Finbarr's,2996,mist,east
+4,23,11,Merchants Quay,2788,mist,east
+4,23,11,Grand Parade,3265,mist,south
+4,23,11,Carrolls Quay,3369,mist,south
+4,23,11,City Hall - Eglington Street,3078,mist,south
+4,23,11,Black Ash Park & Ride,3000,mist,south
+4,23,11,North Main Street,3417,mist,south
+4,23,11,Paul Street,3395,mist,south
+4,23,11,Saint Finbarr's,2032,mist,north
+4,23,11,Merchants Quay,2013,mist,north
+4,23,11,Grand Parade,1966,mist,north
+4,23,11,Carrolls Quay,1892,mist,north
+4,23,11,Grand Parade,2863,mist,east
+4,23,11,City Hall - Eglington Street,2026,mist,north
+4,23,11,Black Ash Park & Ride,2282,mist,north
+4,23,11,North Main Street,1821,mist,north
+4,23,11,Paul Street,1733,mist,north
+4,23,11,Saint Finbarr's,2227,mist,west
+4,23,11,Merchants Quay,2099,mist,west
+4,23,11,Grand Parade,2169,mist,west
+4,23,11,Carrolls Quay,2238,mist,west
+4,23,11,City Hall - Eglington Street,1953,mist,west
+4,23,11,Black Ash Park & Ride,1871,mist,west
+4,23,11,Carrolls Quay,2731,mist,east
+4,23,11,North Main Street,2310,mist,west
+4,23,11,Paul Street,2255,mist,west
+4,23,11,City Hall - Eglington Street,2670,mist,east
+4,23,11,Black Ash Park & Ride,2657,mist,east
+4,23,11,North Main Street,2899,mist,east
+4,23,11,Paul Street,2813,mist,east
+4,23,11,Saint Finbarr's,3299,mist,south
+4,23,11,Merchants Quay,3203,mist,south
+4,23,26,Saint Finbarr's,2981,mist,east
+4,23,26,Merchants Quay,2790,mist,east
+4,23,26,Grand Parade,3319,mist,south
+4,23,26,Carrolls Quay,3424,mist,south
+4,23,26,City Hall - Eglington Street,3133,mist,south
+4,23,26,Black Ash Park & Ride,3057,mist,south
+4,23,26,North Main Street,3455,mist,south
+4,23,26,Paul Street,3433,mist,south
+4,23,26,Saint Finbarr's,1986,mist,north
+4,23,26,Merchants Quay,1934,mist,north
+4,23,26,Grand Parade,1922,mist,north
+4,23,26,Carrolls Quay,1830,mist,north
+4,23,26,Grand Parade,2870,mist,east
+4,23,26,City Hall - Eglington Street,1959,mist,north
+4,23,26,Black Ash Park & Ride,2208,mist,north
+4,23,26,North Main Street,1780,mist,north
+4,23,26,Paul Street,1694,mist,north
+4,23,26,Saint Finbarr's,2257,mist,west
+4,23,26,Merchants Quay,2126,mist,west
+4,23,26,Grand Parade,2189,mist,west
+4,23,26,Carrolls Quay,2292,mist,west
+4,23,26,City Hall - Eglington Street,2001,mist,west
+4,23,26,Black Ash Park & Ride,1923,mist,west
+4,23,26,Carrolls Quay,2729,mist,east
+4,23,26,North Main Street,2334,mist,west
+4,23,26,Paul Street,2289,mist,west
+4,23,26,City Hall - Eglington Street,2679,mist,east
+4,23,26,Black Ash Park & Ride,2687,mist,east
+4,23,26,North Main Street,2898,mist,east
+4,23,26,Paul Street,2811,mist,east
+4,23,26,Saint Finbarr's,3384,mist,south
+4,23,26,Merchants Quay,3252,mist,south
+4,23,41,Saint Finbarr's,3015,light intensity drizzle,east
+4,23,41,Merchants Quay,2801,light intensity drizzle,east
+4,23,41,Grand Parade,3345,light intensity drizzle,south
+4,23,41,Carrolls Quay,3439,light intensity drizzle,south
+4,23,41,City Hall - Eglington Street,3127,light intensity drizzle,south
+4,23,41,Black Ash Park & Ride,3052,light intensity drizzle,south
+4,23,41,North Main Street,3461,light intensity drizzle,south
+4,23,41,Paul Street,3438,light intensity drizzle,south
+4,23,41,Saint Finbarr's,1990,light intensity drizzle,north
+4,23,41,Merchants Quay,1905,light intensity drizzle,north
+4,23,41,Grand Parade,1874,light intensity drizzle,north
+4,23,41,Carrolls Quay,1812,light intensity drizzle,north
+4,23,41,Grand Parade,2921,light intensity drizzle,east
+4,23,41,City Hall - Eglington Street,1923,light intensity drizzle,north
+4,23,41,Black Ash Park & Ride,2172,light intensity drizzle,north
+4,23,41,North Main Street,1750,light intensity drizzle,north
+4,23,41,Paul Street,1663,light intensity drizzle,north
+4,23,41,Saint Finbarr's,2250,light intensity drizzle,west
+4,23,41,Merchants Quay,2101,light intensity drizzle,west
+4,23,41,Grand Parade,2167,light intensity drizzle,west
+4,23,41,Carrolls Quay,2273,light intensity drizzle,west
+4,23,41,City Hall - Eglington Street,1982,light intensity drizzle,west
+4,23,41,Black Ash Park & Ride,1906,light intensity drizzle,west
+4,23,41,Carrolls Quay,2761,light intensity drizzle,east
+4,23,41,North Main Street,2316,light intensity drizzle,west
+4,23,41,Paul Street,2255,light intensity drizzle,west
+4,23,41,City Hall - Eglington Street,2698,light intensity drizzle,east
+4,23,41,Black Ash Park & Ride,2682,light intensity drizzle,east
+4,23,41,North Main Street,2917,light intensity drizzle,east
+4,23,41,Paul Street,2831,light intensity drizzle,east
+4,23,41,Saint Finbarr's,3337,light intensity drizzle,south
+4,23,41,Merchants Quay,3251,light intensity drizzle,south
+4,23,56,Saint Finbarr's,3053,light intensity drizzle,east
+4,23,56,Merchants Quay,2788,light intensity drizzle,east
+4,23,56,Grand Parade,3339,light intensity drizzle,south
+4,23,56,Carrolls Quay,3527,light intensity drizzle,south
+4,23,56,City Hall - Eglington Street,3172,light intensity drizzle,south
+4,23,56,Black Ash Park & Ride,3091,light intensity drizzle,south
+4,23,56,North Main Street,3460,light intensity drizzle,south
+4,23,56,Paul Street,3437,light intensity drizzle,south
+4,23,56,Saint Finbarr's,1957,light intensity drizzle,north
+4,23,56,Merchants Quay,1941,light intensity drizzle,north
+4,23,56,Grand Parade,1932,light intensity drizzle,north
+4,23,56,Carrolls Quay,1866,light intensity drizzle,north
+4,23,56,Grand Parade,2897,light intensity drizzle,east
+4,23,56,City Hall - Eglington Street,1947,light intensity drizzle,north
+4,23,56,Black Ash Park & Ride,2228,light intensity drizzle,north
+4,23,56,North Main Street,1785,light intensity drizzle,north
+4,23,56,Paul Street,1699,light intensity drizzle,north
+4,23,56,Saint Finbarr's,2253,light intensity drizzle,west
+4,23,56,Merchants Quay,2106,light intensity drizzle,west
+4,23,56,Grand Parade,2200,light intensity drizzle,west
+4,23,56,Carrolls Quay,2292,light intensity drizzle,west
+4,23,56,City Hall - Eglington Street,1982,light intensity drizzle,west
+4,23,56,Black Ash Park & Ride,1907,light intensity drizzle,west
+4,23,56,Carrolls Quay,2815,light intensity drizzle,east
+4,23,56,North Main Street,2324,light intensity drizzle,west
+4,23,56,Paul Street,2269,light intensity drizzle,west
+4,23,56,City Hall - Eglington Street,2725,light intensity drizzle,east
+4,23,56,Black Ash Park & Ride,2688,light intensity drizzle,east
+4,23,56,North Main Street,2929,light intensity drizzle,east
+4,23,56,Paul Street,2838,light intensity drizzle,east
+4,23,56,Saint Finbarr's,3397,light intensity drizzle,south
+4,23,56,Merchants Quay,3303,light intensity drizzle,south

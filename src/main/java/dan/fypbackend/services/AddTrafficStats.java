@@ -71,6 +71,7 @@ public class AddTrafficStats extends TimerTask {
                 jsonTraffics.put("north", ((jsonTrafficNorth).getJSONArray("rows")).getJSONObject(0).getJSONArray("elements"));
                 String weatherString = (((jsonWeather).getJSONArray("weather")).getJSONObject(0)).getString("description");
                 int count = 0;
+                System.out.print("\n");
                 for (HashMap.Entry<String, JSONArray> entry : jsonTraffics.entrySet()) {
                     for (int index = 0; index < carParkNames.length; index++) {
                         TrafficStat trafficStat = new TrafficStat();
@@ -80,7 +81,7 @@ public class AddTrafficStats extends TimerTask {
                         trafficStat.setCarParkName(carParkNames[index]);
                         trafficStat.setWeather(weatherString);
                         try {
-                            trafficDb.child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count)).setValue(trafficStat, (error, ref) -> System.out.println("Value was set. Error = " + error));
+                            trafficDb.child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count)).setValue(trafficStat, (error, ref) -> System.out.print("Added " + error));
                         } catch (Exception e) {
                             e.printStackTrace();
                         }
@@ -91,6 +92,7 @@ public class AddTrafficStats extends TimerTask {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 
     private double getDelay(int index, JSONArray traffic) throws JSONException {

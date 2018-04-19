@@ -44,7 +44,7 @@ def my_main():
     training_dataset = encode_columns(training_dataset)
     test = encode_columns(test)
 
-    training_dataset["time"] = training_dataset["time"] - training_dataset["time"].min()
+    #training_dataset["time"] = training_dataset["time"] - training_dataset["time"].min()
 
     times = training_dataset["time"]
     training_dataset = training_dataset.drop(["time"], axis=1)

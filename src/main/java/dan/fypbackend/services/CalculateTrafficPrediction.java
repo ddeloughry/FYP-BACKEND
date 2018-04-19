@@ -48,6 +48,18 @@ public class CalculateTrafficPrediction extends TimerTask {
 
             }
         });
+
+    }
+
+    private boolean doMlAndExportJson() {
+        String cmd = "python FYP_MachineLearning.py";
+        try {
+            Runtime.getRuntime().exec(cmd);
+        } catch (IOException e) {
+            e.printStackTrace();
+            return false;
+        }
+
         ArrayList<TrafficDelay> trafficDelays = new ArrayList<>();
         FileReader fileReader = null;
         try {
@@ -74,6 +86,7 @@ public class CalculateTrafficPrediction extends TimerTask {
             }
         }
         int count = 0;
+        System.out.print("\n");
         for (TrafficDelay delay : trafficDelays) {
             if (delays.child(String.valueOf(count)) != null) {
                 delays.child(String.valueOf(count)).removeValue((error, ref) -> System.out.print("Removed " + error));
@@ -81,16 +94,7 @@ public class CalculateTrafficPrediction extends TimerTask {
             delays.child(String.valueOf(count)).setValue(delay, (error, ref) -> System.out.print("Added " + error));
             count++;
         }
-    }
 
-    private boolean doMlAndExportJson() {
-        String cmd = "python FYP_MachineLearning.py";
-        try {
-            Runtime.getRuntime().exec(cmd);
-        } catch (IOException e) {
-            e.printStackTrace();
-            return false;
-        }
         return true;
     }
 
