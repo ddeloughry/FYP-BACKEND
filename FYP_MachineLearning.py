@@ -21,7 +21,6 @@ def encode_columns(dataset):
 def my_main():
     training_dataset = pandas.read_csv("machine_learning/data.csv", encoding="ISO-8859-1", low_memory=False)
     test = pandas.read_csv("machine_learning/today.csv", encoding="ISO-8859-1", low_memory=False)
-
     global parks
     global weathers
     global dirs
@@ -40,12 +39,9 @@ def my_main():
         if each not in dirs:
             dirs[each] = i3
             i3 += 1
-
     training_dataset = encode_columns(training_dataset)
     test = encode_columns(test)
-
     #training_dataset["time"] = training_dataset["time"] - training_dataset["time"].min()
-
     times = training_dataset["time"]
     training_dataset = training_dataset.drop(["time"], axis=1)
     nearest_n = KNeighborsClassifier()
@@ -53,16 +49,13 @@ def my_main():
     result = nearest_n.predict(test)
     final_result = pandas.DataFrame(result)
     test["time"] = final_result
+    #test["time"] = test["time"]-test["time"].min()
     parks = dict((v, k) for k, v in parks.items())
     weathers = dict((v, k) for k, v in weathers.items())
     dirs = dict((v, k) for k, v in dirs.items())
     encode_columns(test)
-    # test.to_csv("machine_learning/result.csv", index=False, header=True)
-
     parsejs = json.loads(test.to_json(orient="records"))
-    # print(json.dumps(parsejs, indent=4, sort_keys=True))
     f = open("machine_learning/result.json", "w")
-    #f.write(json.dumps(parsejs, indent=4, sort_keys=True))
     f.write(str(json.dumps(parsejs)))
 
 

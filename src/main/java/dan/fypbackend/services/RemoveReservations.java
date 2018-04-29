@@ -1,9 +1,6 @@
 package dan.fypbackend.services;
 
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.database.*;
 
 import java.util.Calendar;
 import java.util.TimerTask;
@@ -23,7 +20,12 @@ public class RemoveReservations extends TimerTask {
                             calEnd.setTimeInMillis(endTime);
                             Calendar now = Calendar.getInstance();
                             if (calEnd.before(now)) {
-                                snapshot.getRef().removeValue();
+                                snapshot.getRef().removeValue(new DatabaseReference.CompletionListener() {
+                                    @Override
+                                    public void onComplete(DatabaseError databaseError, DatabaseReference databaseReference) {
+                                        System.out.print("-,");
+                                    }
+                                });
                             }
                         }
                     }

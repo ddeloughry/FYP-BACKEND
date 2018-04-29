@@ -1,1537 +1,1537 @@
 day,hour,minute,car_park_name,weather,direction
-5,0,0,Saint Finbarr's,scattered clouds,north
-5,0,30,Saint Finbarr's,scattered clouds,north
-5,1,0,Saint Finbarr's,scattered clouds,north
-5,1,30,Saint Finbarr's,scattered clouds,north
-5,2,0,Saint Finbarr's,scattered clouds,north
-5,2,30,Saint Finbarr's,scattered clouds,north
-5,3,0,Saint Finbarr's,scattered clouds,north
-5,3,30,Saint Finbarr's,scattered clouds,north
-5,4,0,Saint Finbarr's,scattered clouds,north
-5,4,30,Saint Finbarr's,scattered clouds,north
-5,5,0,Saint Finbarr's,scattered clouds,north
-5,5,30,Saint Finbarr's,scattered clouds,north
-5,6,0,Saint Finbarr's,scattered clouds,north
-5,6,30,Saint Finbarr's,scattered clouds,north
-5,7,0,Saint Finbarr's,scattered clouds,north
-5,7,30,Saint Finbarr's,scattered clouds,north
-5,8,0,Saint Finbarr's,scattered clouds,north
-5,8,30,Saint Finbarr's,scattered clouds,north
-5,9,0,Saint Finbarr's,scattered clouds,north
-5,9,30,Saint Finbarr's,scattered clouds,north
-5,10,0,Saint Finbarr's,scattered clouds,north
-5,10,30,Saint Finbarr's,scattered clouds,north
-5,11,0,Saint Finbarr's,scattered clouds,north
-5,11,30,Saint Finbarr's,scattered clouds,north
-5,12,0,Saint Finbarr's,scattered clouds,north
-5,12,30,Saint Finbarr's,scattered clouds,north
-5,13,0,Saint Finbarr's,scattered clouds,north
-5,13,30,Saint Finbarr's,scattered clouds,north
-5,14,0,Saint Finbarr's,scattered clouds,north
-5,14,30,Saint Finbarr's,scattered clouds,north
-5,15,0,Saint Finbarr's,scattered clouds,north
-5,15,30,Saint Finbarr's,scattered clouds,north
-5,16,0,Saint Finbarr's,scattered clouds,north
-5,16,30,Saint Finbarr's,scattered clouds,north
-5,17,0,Saint Finbarr's,scattered clouds,north
-5,17,30,Saint Finbarr's,scattered clouds,north
-5,18,0,Saint Finbarr's,scattered clouds,north
-5,18,30,Saint Finbarr's,scattered clouds,north
-5,19,0,Saint Finbarr's,scattered clouds,north
-5,19,30,Saint Finbarr's,scattered clouds,north
-5,20,0,Saint Finbarr's,scattered clouds,north
-5,20,30,Saint Finbarr's,scattered clouds,north
-5,21,0,Saint Finbarr's,scattered clouds,north
-5,21,30,Saint Finbarr's,scattered clouds,north
-5,22,0,Saint Finbarr's,scattered clouds,north
-5,22,30,Saint Finbarr's,scattered clouds,north
-5,23,0,Saint Finbarr's,scattered clouds,north
-5,23,30,Saint Finbarr's,scattered clouds,north
-5,0,0,Merchants Quay,scattered clouds,north
-5,0,30,Merchants Quay,scattered clouds,north
-5,1,0,Merchants Quay,scattered clouds,north
-5,1,30,Merchants Quay,scattered clouds,north
-5,2,0,Merchants Quay,scattered clouds,north
-5,2,30,Merchants Quay,scattered clouds,north
-5,3,0,Merchants Quay,scattered clouds,north
-5,3,30,Merchants Quay,scattered clouds,north
-5,4,0,Merchants Quay,scattered clouds,north
-5,4,30,Merchants Quay,scattered clouds,north
-5,5,0,Merchants Quay,scattered clouds,north
-5,5,30,Merchants Quay,scattered clouds,north
-5,6,0,Merchants Quay,scattered clouds,north
-5,6,30,Merchants Quay,scattered clouds,north
-5,7,0,Merchants Quay,scattered clouds,north
-5,7,30,Merchants Quay,scattered clouds,north
-5,8,0,Merchants Quay,scattered clouds,north
-5,8,30,Merchants Quay,scattered clouds,north
-5,9,0,Merchants Quay,scattered clouds,north
-5,9,30,Merchants Quay,scattered clouds,north
-5,10,0,Merchants Quay,scattered clouds,north
-5,10,30,Merchants Quay,scattered clouds,north
-5,11,0,Merchants Quay,scattered clouds,north
-5,11,30,Merchants Quay,scattered clouds,north
-5,12,0,Merchants Quay,scattered clouds,north
-5,12,30,Merchants Quay,scattered clouds,north
-5,13,0,Merchants Quay,scattered clouds,north
-5,13,30,Merchants Quay,scattered clouds,north
-5,14,0,Merchants Quay,scattered clouds,north
-5,14,30,Merchants Quay,scattered clouds,north
-5,15,0,Merchants Quay,scattered clouds,north
-5,15,30,Merchants Quay,scattered clouds,north
-5,16,0,Merchants Quay,scattered clouds,north
-5,16,30,Merchants Quay,scattered clouds,north
-5,17,0,Merchants Quay,scattered clouds,north
-5,17,30,Merchants Quay,scattered clouds,north
-5,18,0,Merchants Quay,scattered clouds,north
-5,18,30,Merchants Quay,scattered clouds,north
-5,19,0,Merchants Quay,scattered clouds,north
-5,19,30,Merchants Quay,scattered clouds,north
-5,20,0,Merchants Quay,scattered clouds,north
-5,20,30,Merchants Quay,scattered clouds,north
-5,21,0,Merchants Quay,scattered clouds,north
-5,21,30,Merchants Quay,scattered clouds,north
-5,22,0,Merchants Quay,scattered clouds,north
-5,22,30,Merchants Quay,scattered clouds,north
-5,23,0,Merchants Quay,scattered clouds,north
-5,23,30,Merchants Quay,scattered clouds,north
-5,0,0,Grand Parade,scattered clouds,north
-5,0,30,Grand Parade,scattered clouds,north
-5,1,0,Grand Parade,scattered clouds,north
-5,1,30,Grand Parade,scattered clouds,north
-5,2,0,Grand Parade,scattered clouds,north
-5,2,30,Grand Parade,scattered clouds,north
-5,3,0,Grand Parade,scattered clouds,north
-5,3,30,Grand Parade,scattered clouds,north
-5,4,0,Grand Parade,scattered clouds,north
-5,4,30,Grand Parade,scattered clouds,north
-5,5,0,Grand Parade,scattered clouds,north
-5,5,30,Grand Parade,scattered clouds,north
-5,6,0,Grand Parade,scattered clouds,north
-5,6,30,Grand Parade,scattered clouds,north
-5,7,0,Grand Parade,scattered clouds,north
-5,7,30,Grand Parade,scattered clouds,north
-5,8,0,Grand Parade,scattered clouds,north
-5,8,30,Grand Parade,scattered clouds,north
-5,9,0,Grand Parade,scattered clouds,north
-5,9,30,Grand Parade,scattered clouds,north
-5,10,0,Grand Parade,scattered clouds,north
-5,10,30,Grand Parade,scattered clouds,north
-5,11,0,Grand Parade,scattered clouds,north
-5,11,30,Grand Parade,scattered clouds,north
-5,12,0,Grand Parade,scattered clouds,north
-5,12,30,Grand Parade,scattered clouds,north
-5,13,0,Grand Parade,scattered clouds,north
-5,13,30,Grand Parade,scattered clouds,north
-5,14,0,Grand Parade,scattered clouds,north
-5,14,30,Grand Parade,scattered clouds,north
-5,15,0,Grand Parade,scattered clouds,north
-5,15,30,Grand Parade,scattered clouds,north
-5,16,0,Grand Parade,scattered clouds,north
-5,16,30,Grand Parade,scattered clouds,north
-5,17,0,Grand Parade,scattered clouds,north
-5,17,30,Grand Parade,scattered clouds,north
-5,18,0,Grand Parade,scattered clouds,north
-5,18,30,Grand Parade,scattered clouds,north
-5,19,0,Grand Parade,scattered clouds,north
-5,19,30,Grand Parade,scattered clouds,north
-5,20,0,Grand Parade,scattered clouds,north
-5,20,30,Grand Parade,scattered clouds,north
-5,21,0,Grand Parade,scattered clouds,north
-5,21,30,Grand Parade,scattered clouds,north
-5,22,0,Grand Parade,scattered clouds,north
-5,22,30,Grand Parade,scattered clouds,north
-5,23,0,Grand Parade,scattered clouds,north
-5,23,30,Grand Parade,scattered clouds,north
-5,0,0,Carrolls Quay,scattered clouds,north
-5,0,30,Carrolls Quay,scattered clouds,north
-5,1,0,Carrolls Quay,scattered clouds,north
-5,1,30,Carrolls Quay,scattered clouds,north
-5,2,0,Carrolls Quay,scattered clouds,north
-5,2,30,Carrolls Quay,scattered clouds,north
-5,3,0,Carrolls Quay,scattered clouds,north
-5,3,30,Carrolls Quay,scattered clouds,north
-5,4,0,Carrolls Quay,scattered clouds,north
-5,4,30,Carrolls Quay,scattered clouds,north
-5,5,0,Carrolls Quay,scattered clouds,north
-5,5,30,Carrolls Quay,scattered clouds,north
-5,6,0,Carrolls Quay,scattered clouds,north
-5,6,30,Carrolls Quay,scattered clouds,north
-5,7,0,Carrolls Quay,scattered clouds,north
-5,7,30,Carrolls Quay,scattered clouds,north
-5,8,0,Carrolls Quay,scattered clouds,north
-5,8,30,Carrolls Quay,scattered clouds,north
-5,9,0,Carrolls Quay,scattered clouds,north
-5,9,30,Carrolls Quay,scattered clouds,north
-5,10,0,Carrolls Quay,scattered clouds,north
-5,10,30,Carrolls Quay,scattered clouds,north
-5,11,0,Carrolls Quay,scattered clouds,north
-5,11,30,Carrolls Quay,scattered clouds,north
-5,12,0,Carrolls Quay,scattered clouds,north
-5,12,30,Carrolls Quay,scattered clouds,north
-5,13,0,Carrolls Quay,scattered clouds,north
-5,13,30,Carrolls Quay,scattered clouds,north
-5,14,0,Carrolls Quay,scattered clouds,north
-5,14,30,Carrolls Quay,scattered clouds,north
-5,15,0,Carrolls Quay,scattered clouds,north
-5,15,30,Carrolls Quay,scattered clouds,north
-5,16,0,Carrolls Quay,scattered clouds,north
-5,16,30,Carrolls Quay,scattered clouds,north
-5,17,0,Carrolls Quay,scattered clouds,north
-5,17,30,Carrolls Quay,scattered clouds,north
-5,18,0,Carrolls Quay,scattered clouds,north
-5,18,30,Carrolls Quay,scattered clouds,north
-5,19,0,Carrolls Quay,scattered clouds,north
-5,19,30,Carrolls Quay,scattered clouds,north
-5,20,0,Carrolls Quay,scattered clouds,north
-5,20,30,Carrolls Quay,scattered clouds,north
-5,21,0,Carrolls Quay,scattered clouds,north
-5,21,30,Carrolls Quay,scattered clouds,north
-5,22,0,Carrolls Quay,scattered clouds,north
-5,22,30,Carrolls Quay,scattered clouds,north
-5,23,0,Carrolls Quay,scattered clouds,north
-5,23,30,Carrolls Quay,scattered clouds,north
-5,0,0,City Hall - Eglington Street,scattered clouds,north
-5,0,30,City Hall - Eglington Street,scattered clouds,north
-5,1,0,City Hall - Eglington Street,scattered clouds,north
-5,1,30,City Hall - Eglington Street,scattered clouds,north
-5,2,0,City Hall - Eglington Street,scattered clouds,north
-5,2,30,City Hall - Eglington Street,scattered clouds,north
-5,3,0,City Hall - Eglington Street,scattered clouds,north
-5,3,30,City Hall - Eglington Street,scattered clouds,north
-5,4,0,City Hall - Eglington Street,scattered clouds,north
-5,4,30,City Hall - Eglington Street,scattered clouds,north
-5,5,0,City Hall - Eglington Street,scattered clouds,north
-5,5,30,City Hall - Eglington Street,scattered clouds,north
-5,6,0,City Hall - Eglington Street,scattered clouds,north
-5,6,30,City Hall - Eglington Street,scattered clouds,north
-5,7,0,City Hall - Eglington Street,scattered clouds,north
-5,7,30,City Hall - Eglington Street,scattered clouds,north
-5,8,0,City Hall - Eglington Street,scattered clouds,north
-5,8,30,City Hall - Eglington Street,scattered clouds,north
-5,9,0,City Hall - Eglington Street,scattered clouds,north
-5,9,30,City Hall - Eglington Street,scattered clouds,north
-5,10,0,City Hall - Eglington Street,scattered clouds,north
-5,10,30,City Hall - Eglington Street,scattered clouds,north
-5,11,0,City Hall - Eglington Street,scattered clouds,north
-5,11,30,City Hall - Eglington Street,scattered clouds,north
-5,12,0,City Hall - Eglington Street,scattered clouds,north
-5,12,30,City Hall - Eglington Street,scattered clouds,north
-5,13,0,City Hall - Eglington Street,scattered clouds,north
-5,13,30,City Hall - Eglington Street,scattered clouds,north
-5,14,0,City Hall - Eglington Street,scattered clouds,north
-5,14,30,City Hall - Eglington Street,scattered clouds,north
-5,15,0,City Hall - Eglington Street,scattered clouds,north
-5,15,30,City Hall - Eglington Street,scattered clouds,north
-5,16,0,City Hall - Eglington Street,scattered clouds,north
-5,16,30,City Hall - Eglington Street,scattered clouds,north
-5,17,0,City Hall - Eglington Street,scattered clouds,north
-5,17,30,City Hall - Eglington Street,scattered clouds,north
-5,18,0,City Hall - Eglington Street,scattered clouds,north
-5,18,30,City Hall - Eglington Street,scattered clouds,north
-5,19,0,City Hall - Eglington Street,scattered clouds,north
-5,19,30,City Hall - Eglington Street,scattered clouds,north
-5,20,0,City Hall - Eglington Street,scattered clouds,north
-5,20,30,City Hall - Eglington Street,scattered clouds,north
-5,21,0,City Hall - Eglington Street,scattered clouds,north
-5,21,30,City Hall - Eglington Street,scattered clouds,north
-5,22,0,City Hall - Eglington Street,scattered clouds,north
-5,22,30,City Hall - Eglington Street,scattered clouds,north
-5,23,0,City Hall - Eglington Street,scattered clouds,north
-5,23,30,City Hall - Eglington Street,scattered clouds,north
-5,0,0,Black Ash Park & Ride,scattered clouds,north
-5,0,30,Black Ash Park & Ride,scattered clouds,north
-5,1,0,Black Ash Park & Ride,scattered clouds,north
-5,1,30,Black Ash Park & Ride,scattered clouds,north
-5,2,0,Black Ash Park & Ride,scattered clouds,north
-5,2,30,Black Ash Park & Ride,scattered clouds,north
-5,3,0,Black Ash Park & Ride,scattered clouds,north
-5,3,30,Black Ash Park & Ride,scattered clouds,north
-5,4,0,Black Ash Park & Ride,scattered clouds,north
-5,4,30,Black Ash Park & Ride,scattered clouds,north
-5,5,0,Black Ash Park & Ride,scattered clouds,north
-5,5,30,Black Ash Park & Ride,scattered clouds,north
-5,6,0,Black Ash Park & Ride,scattered clouds,north
-5,6,30,Black Ash Park & Ride,scattered clouds,north
-5,7,0,Black Ash Park & Ride,scattered clouds,north
-5,7,30,Black Ash Park & Ride,scattered clouds,north
-5,8,0,Black Ash Park & Ride,scattered clouds,north
-5,8,30,Black Ash Park & Ride,scattered clouds,north
-5,9,0,Black Ash Park & Ride,scattered clouds,north
-5,9,30,Black Ash Park & Ride,scattered clouds,north
-5,10,0,Black Ash Park & Ride,scattered clouds,north
-5,10,30,Black Ash Park & Ride,scattered clouds,north
-5,11,0,Black Ash Park & Ride,scattered clouds,north
-5,11,30,Black Ash Park & Ride,scattered clouds,north
-5,12,0,Black Ash Park & Ride,scattered clouds,north
-5,12,30,Black Ash Park & Ride,scattered clouds,north
-5,13,0,Black Ash Park & Ride,scattered clouds,north
-5,13,30,Black Ash Park & Ride,scattered clouds,north
-5,14,0,Black Ash Park & Ride,scattered clouds,north
-5,14,30,Black Ash Park & Ride,scattered clouds,north
-5,15,0,Black Ash Park & Ride,scattered clouds,north
-5,15,30,Black Ash Park & Ride,scattered clouds,north
-5,16,0,Black Ash Park & Ride,scattered clouds,north
-5,16,30,Black Ash Park & Ride,scattered clouds,north
-5,17,0,Black Ash Park & Ride,scattered clouds,north
-5,17,30,Black Ash Park & Ride,scattered clouds,north
-5,18,0,Black Ash Park & Ride,scattered clouds,north
-5,18,30,Black Ash Park & Ride,scattered clouds,north
-5,19,0,Black Ash Park & Ride,scattered clouds,north
-5,19,30,Black Ash Park & Ride,scattered clouds,north
-5,20,0,Black Ash Park & Ride,scattered clouds,north
-5,20,30,Black Ash Park & Ride,scattered clouds,north
-5,21,0,Black Ash Park & Ride,scattered clouds,north
-5,21,30,Black Ash Park & Ride,scattered clouds,north
-5,22,0,Black Ash Park & Ride,scattered clouds,north
-5,22,30,Black Ash Park & Ride,scattered clouds,north
-5,23,0,Black Ash Park & Ride,scattered clouds,north
-5,23,30,Black Ash Park & Ride,scattered clouds,north
-5,0,0,North Main Street,scattered clouds,north
-5,0,30,North Main Street,scattered clouds,north
-5,1,0,North Main Street,scattered clouds,north
-5,1,30,North Main Street,scattered clouds,north
-5,2,0,North Main Street,scattered clouds,north
-5,2,30,North Main Street,scattered clouds,north
-5,3,0,North Main Street,scattered clouds,north
-5,3,30,North Main Street,scattered clouds,north
-5,4,0,North Main Street,scattered clouds,north
-5,4,30,North Main Street,scattered clouds,north
-5,5,0,North Main Street,scattered clouds,north
-5,5,30,North Main Street,scattered clouds,north
-5,6,0,North Main Street,scattered clouds,north
-5,6,30,North Main Street,scattered clouds,north
-5,7,0,North Main Street,scattered clouds,north
-5,7,30,North Main Street,scattered clouds,north
-5,8,0,North Main Street,scattered clouds,north
-5,8,30,North Main Street,scattered clouds,north
-5,9,0,North Main Street,scattered clouds,north
-5,9,30,North Main Street,scattered clouds,north
-5,10,0,North Main Street,scattered clouds,north
-5,10,30,North Main Street,scattered clouds,north
-5,11,0,North Main Street,scattered clouds,north
-5,11,30,North Main Street,scattered clouds,north
-5,12,0,North Main Street,scattered clouds,north
-5,12,30,North Main Street,scattered clouds,north
-5,13,0,North Main Street,scattered clouds,north
-5,13,30,North Main Street,scattered clouds,north
-5,14,0,North Main Street,scattered clouds,north
-5,14,30,North Main Street,scattered clouds,north
-5,15,0,North Main Street,scattered clouds,north
-5,15,30,North Main Street,scattered clouds,north
-5,16,0,North Main Street,scattered clouds,north
-5,16,30,North Main Street,scattered clouds,north
-5,17,0,North Main Street,scattered clouds,north
-5,17,30,North Main Street,scattered clouds,north
-5,18,0,North Main Street,scattered clouds,north
-5,18,30,North Main Street,scattered clouds,north
-5,19,0,North Main Street,scattered clouds,north
-5,19,30,North Main Street,scattered clouds,north
-5,20,0,North Main Street,scattered clouds,north
-5,20,30,North Main Street,scattered clouds,north
-5,21,0,North Main Street,scattered clouds,north
-5,21,30,North Main Street,scattered clouds,north
-5,22,0,North Main Street,scattered clouds,north
-5,22,30,North Main Street,scattered clouds,north
-5,23,0,North Main Street,scattered clouds,north
-5,23,30,North Main Street,scattered clouds,north
-5,0,0,Paul Street,scattered clouds,north
-5,0,30,Paul Street,scattered clouds,north
-5,1,0,Paul Street,scattered clouds,north
-5,1,30,Paul Street,scattered clouds,north
-5,2,0,Paul Street,scattered clouds,north
-5,2,30,Paul Street,scattered clouds,north
-5,3,0,Paul Street,scattered clouds,north
-5,3,30,Paul Street,scattered clouds,north
-5,4,0,Paul Street,scattered clouds,north
-5,4,30,Paul Street,scattered clouds,north
-5,5,0,Paul Street,scattered clouds,north
-5,5,30,Paul Street,scattered clouds,north
-5,6,0,Paul Street,scattered clouds,north
-5,6,30,Paul Street,scattered clouds,north
-5,7,0,Paul Street,scattered clouds,north
-5,7,30,Paul Street,scattered clouds,north
-5,8,0,Paul Street,scattered clouds,north
-5,8,30,Paul Street,scattered clouds,north
-5,9,0,Paul Street,scattered clouds,north
-5,9,30,Paul Street,scattered clouds,north
-5,10,0,Paul Street,scattered clouds,north
-5,10,30,Paul Street,scattered clouds,north
-5,11,0,Paul Street,scattered clouds,north
-5,11,30,Paul Street,scattered clouds,north
-5,12,0,Paul Street,scattered clouds,north
-5,12,30,Paul Street,scattered clouds,north
-5,13,0,Paul Street,scattered clouds,north
-5,13,30,Paul Street,scattered clouds,north
-5,14,0,Paul Street,scattered clouds,north
-5,14,30,Paul Street,scattered clouds,north
-5,15,0,Paul Street,scattered clouds,north
-5,15,30,Paul Street,scattered clouds,north
-5,16,0,Paul Street,scattered clouds,north
-5,16,30,Paul Street,scattered clouds,north
-5,17,0,Paul Street,scattered clouds,north
-5,17,30,Paul Street,scattered clouds,north
-5,18,0,Paul Street,scattered clouds,north
-5,18,30,Paul Street,scattered clouds,north
-5,19,0,Paul Street,scattered clouds,north
-5,19,30,Paul Street,scattered clouds,north
-5,20,0,Paul Street,scattered clouds,north
-5,20,30,Paul Street,scattered clouds,north
-5,21,0,Paul Street,scattered clouds,north
-5,21,30,Paul Street,scattered clouds,north
-5,22,0,Paul Street,scattered clouds,north
-5,22,30,Paul Street,scattered clouds,north
-5,23,0,Paul Street,scattered clouds,north
-5,23,30,Paul Street,scattered clouds,north
-5,0,0,Saint Finbarr's,scattered clouds,south
-5,0,30,Saint Finbarr's,scattered clouds,south
-5,1,0,Saint Finbarr's,scattered clouds,south
-5,1,30,Saint Finbarr's,scattered clouds,south
-5,2,0,Saint Finbarr's,scattered clouds,south
-5,2,30,Saint Finbarr's,scattered clouds,south
-5,3,0,Saint Finbarr's,scattered clouds,south
-5,3,30,Saint Finbarr's,scattered clouds,south
-5,4,0,Saint Finbarr's,scattered clouds,south
-5,4,30,Saint Finbarr's,scattered clouds,south
-5,5,0,Saint Finbarr's,scattered clouds,south
-5,5,30,Saint Finbarr's,scattered clouds,south
-5,6,0,Saint Finbarr's,scattered clouds,south
-5,6,30,Saint Finbarr's,scattered clouds,south
-5,7,0,Saint Finbarr's,scattered clouds,south
-5,7,30,Saint Finbarr's,scattered clouds,south
-5,8,0,Saint Finbarr's,scattered clouds,south
-5,8,30,Saint Finbarr's,scattered clouds,south
-5,9,0,Saint Finbarr's,scattered clouds,south
-5,9,30,Saint Finbarr's,scattered clouds,south
-5,10,0,Saint Finbarr's,scattered clouds,south
-5,10,30,Saint Finbarr's,scattered clouds,south
-5,11,0,Saint Finbarr's,scattered clouds,south
-5,11,30,Saint Finbarr's,scattered clouds,south
-5,12,0,Saint Finbarr's,scattered clouds,south
-5,12,30,Saint Finbarr's,scattered clouds,south
-5,13,0,Saint Finbarr's,scattered clouds,south
-5,13,30,Saint Finbarr's,scattered clouds,south
-5,14,0,Saint Finbarr's,scattered clouds,south
-5,14,30,Saint Finbarr's,scattered clouds,south
-5,15,0,Saint Finbarr's,scattered clouds,south
-5,15,30,Saint Finbarr's,scattered clouds,south
-5,16,0,Saint Finbarr's,scattered clouds,south
-5,16,30,Saint Finbarr's,scattered clouds,south
-5,17,0,Saint Finbarr's,scattered clouds,south
-5,17,30,Saint Finbarr's,scattered clouds,south
-5,18,0,Saint Finbarr's,scattered clouds,south
-5,18,30,Saint Finbarr's,scattered clouds,south
-5,19,0,Saint Finbarr's,scattered clouds,south
-5,19,30,Saint Finbarr's,scattered clouds,south
-5,20,0,Saint Finbarr's,scattered clouds,south
-5,20,30,Saint Finbarr's,scattered clouds,south
-5,21,0,Saint Finbarr's,scattered clouds,south
-5,21,30,Saint Finbarr's,scattered clouds,south
-5,22,0,Saint Finbarr's,scattered clouds,south
-5,22,30,Saint Finbarr's,scattered clouds,south
-5,23,0,Saint Finbarr's,scattered clouds,south
-5,23,30,Saint Finbarr's,scattered clouds,south
-5,0,0,Merchants Quay,scattered clouds,south
-5,0,30,Merchants Quay,scattered clouds,south
-5,1,0,Merchants Quay,scattered clouds,south
-5,1,30,Merchants Quay,scattered clouds,south
-5,2,0,Merchants Quay,scattered clouds,south
-5,2,30,Merchants Quay,scattered clouds,south
-5,3,0,Merchants Quay,scattered clouds,south
-5,3,30,Merchants Quay,scattered clouds,south
-5,4,0,Merchants Quay,scattered clouds,south
-5,4,30,Merchants Quay,scattered clouds,south
-5,5,0,Merchants Quay,scattered clouds,south
-5,5,30,Merchants Quay,scattered clouds,south
-5,6,0,Merchants Quay,scattered clouds,south
-5,6,30,Merchants Quay,scattered clouds,south
-5,7,0,Merchants Quay,scattered clouds,south
-5,7,30,Merchants Quay,scattered clouds,south
-5,8,0,Merchants Quay,scattered clouds,south
-5,8,30,Merchants Quay,scattered clouds,south
-5,9,0,Merchants Quay,scattered clouds,south
-5,9,30,Merchants Quay,scattered clouds,south
-5,10,0,Merchants Quay,scattered clouds,south
-5,10,30,Merchants Quay,scattered clouds,south
-5,11,0,Merchants Quay,scattered clouds,south
-5,11,30,Merchants Quay,scattered clouds,south
-5,12,0,Merchants Quay,scattered clouds,south
-5,12,30,Merchants Quay,scattered clouds,south
-5,13,0,Merchants Quay,scattered clouds,south
-5,13,30,Merchants Quay,scattered clouds,south
-5,14,0,Merchants Quay,scattered clouds,south
-5,14,30,Merchants Quay,scattered clouds,south
-5,15,0,Merchants Quay,scattered clouds,south
-5,15,30,Merchants Quay,scattered clouds,south
-5,16,0,Merchants Quay,scattered clouds,south
-5,16,30,Merchants Quay,scattered clouds,south
-5,17,0,Merchants Quay,scattered clouds,south
-5,17,30,Merchants Quay,scattered clouds,south
-5,18,0,Merchants Quay,scattered clouds,south
-5,18,30,Merchants Quay,scattered clouds,south
-5,19,0,Merchants Quay,scattered clouds,south
-5,19,30,Merchants Quay,scattered clouds,south
-5,20,0,Merchants Quay,scattered clouds,south
-5,20,30,Merchants Quay,scattered clouds,south
-5,21,0,Merchants Quay,scattered clouds,south
-5,21,30,Merchants Quay,scattered clouds,south
-5,22,0,Merchants Quay,scattered clouds,south
-5,22,30,Merchants Quay,scattered clouds,south
-5,23,0,Merchants Quay,scattered clouds,south
-5,23,30,Merchants Quay,scattered clouds,south
-5,0,0,Grand Parade,scattered clouds,south
-5,0,30,Grand Parade,scattered clouds,south
-5,1,0,Grand Parade,scattered clouds,south
-5,1,30,Grand Parade,scattered clouds,south
-5,2,0,Grand Parade,scattered clouds,south
-5,2,30,Grand Parade,scattered clouds,south
-5,3,0,Grand Parade,scattered clouds,south
-5,3,30,Grand Parade,scattered clouds,south
-5,4,0,Grand Parade,scattered clouds,south
-5,4,30,Grand Parade,scattered clouds,south
-5,5,0,Grand Parade,scattered clouds,south
-5,5,30,Grand Parade,scattered clouds,south
-5,6,0,Grand Parade,scattered clouds,south
-5,6,30,Grand Parade,scattered clouds,south
-5,7,0,Grand Parade,scattered clouds,south
-5,7,30,Grand Parade,scattered clouds,south
-5,8,0,Grand Parade,scattered clouds,south
-5,8,30,Grand Parade,scattered clouds,south
-5,9,0,Grand Parade,scattered clouds,south
-5,9,30,Grand Parade,scattered clouds,south
-5,10,0,Grand Parade,scattered clouds,south
-5,10,30,Grand Parade,scattered clouds,south
-5,11,0,Grand Parade,scattered clouds,south
-5,11,30,Grand Parade,scattered clouds,south
-5,12,0,Grand Parade,scattered clouds,south
-5,12,30,Grand Parade,scattered clouds,south
-5,13,0,Grand Parade,scattered clouds,south
-5,13,30,Grand Parade,scattered clouds,south
-5,14,0,Grand Parade,scattered clouds,south
-5,14,30,Grand Parade,scattered clouds,south
-5,15,0,Grand Parade,scattered clouds,south
-5,15,30,Grand Parade,scattered clouds,south
-5,16,0,Grand Parade,scattered clouds,south
-5,16,30,Grand Parade,scattered clouds,south
-5,17,0,Grand Parade,scattered clouds,south
-5,17,30,Grand Parade,scattered clouds,south
-5,18,0,Grand Parade,scattered clouds,south
-5,18,30,Grand Parade,scattered clouds,south
-5,19,0,Grand Parade,scattered clouds,south
-5,19,30,Grand Parade,scattered clouds,south
-5,20,0,Grand Parade,scattered clouds,south
-5,20,30,Grand Parade,scattered clouds,south
-5,21,0,Grand Parade,scattered clouds,south
-5,21,30,Grand Parade,scattered clouds,south
-5,22,0,Grand Parade,scattered clouds,south
-5,22,30,Grand Parade,scattered clouds,south
-5,23,0,Grand Parade,scattered clouds,south
-5,23,30,Grand Parade,scattered clouds,south
-5,0,0,Carrolls Quay,scattered clouds,south
-5,0,30,Carrolls Quay,scattered clouds,south
-5,1,0,Carrolls Quay,scattered clouds,south
-5,1,30,Carrolls Quay,scattered clouds,south
-5,2,0,Carrolls Quay,scattered clouds,south
-5,2,30,Carrolls Quay,scattered clouds,south
-5,3,0,Carrolls Quay,scattered clouds,south
-5,3,30,Carrolls Quay,scattered clouds,south
-5,4,0,Carrolls Quay,scattered clouds,south
-5,4,30,Carrolls Quay,scattered clouds,south
-5,5,0,Carrolls Quay,scattered clouds,south
-5,5,30,Carrolls Quay,scattered clouds,south
-5,6,0,Carrolls Quay,scattered clouds,south
-5,6,30,Carrolls Quay,scattered clouds,south
-5,7,0,Carrolls Quay,scattered clouds,south
-5,7,30,Carrolls Quay,scattered clouds,south
-5,8,0,Carrolls Quay,scattered clouds,south
-5,8,30,Carrolls Quay,scattered clouds,south
-5,9,0,Carrolls Quay,scattered clouds,south
-5,9,30,Carrolls Quay,scattered clouds,south
-5,10,0,Carrolls Quay,scattered clouds,south
-5,10,30,Carrolls Quay,scattered clouds,south
-5,11,0,Carrolls Quay,scattered clouds,south
-5,11,30,Carrolls Quay,scattered clouds,south
-5,12,0,Carrolls Quay,scattered clouds,south
-5,12,30,Carrolls Quay,scattered clouds,south
-5,13,0,Carrolls Quay,scattered clouds,south
-5,13,30,Carrolls Quay,scattered clouds,south
-5,14,0,Carrolls Quay,scattered clouds,south
-5,14,30,Carrolls Quay,scattered clouds,south
-5,15,0,Carrolls Quay,scattered clouds,south
-5,15,30,Carrolls Quay,scattered clouds,south
-5,16,0,Carrolls Quay,scattered clouds,south
-5,16,30,Carrolls Quay,scattered clouds,south
-5,17,0,Carrolls Quay,scattered clouds,south
-5,17,30,Carrolls Quay,scattered clouds,south
-5,18,0,Carrolls Quay,scattered clouds,south
-5,18,30,Carrolls Quay,scattered clouds,south
-5,19,0,Carrolls Quay,scattered clouds,south
-5,19,30,Carrolls Quay,scattered clouds,south
-5,20,0,Carrolls Quay,scattered clouds,south
-5,20,30,Carrolls Quay,scattered clouds,south
-5,21,0,Carrolls Quay,scattered clouds,south
-5,21,30,Carrolls Quay,scattered clouds,south
-5,22,0,Carrolls Quay,scattered clouds,south
-5,22,30,Carrolls Quay,scattered clouds,south
-5,23,0,Carrolls Quay,scattered clouds,south
-5,23,30,Carrolls Quay,scattered clouds,south
-5,0,0,City Hall - Eglington Street,scattered clouds,south
-5,0,30,City Hall - Eglington Street,scattered clouds,south
-5,1,0,City Hall - Eglington Street,scattered clouds,south
-5,1,30,City Hall - Eglington Street,scattered clouds,south
-5,2,0,City Hall - Eglington Street,scattered clouds,south
-5,2,30,City Hall - Eglington Street,scattered clouds,south
-5,3,0,City Hall - Eglington Street,scattered clouds,south
-5,3,30,City Hall - Eglington Street,scattered clouds,south
-5,4,0,City Hall - Eglington Street,scattered clouds,south
-5,4,30,City Hall - Eglington Street,scattered clouds,south
-5,5,0,City Hall - Eglington Street,scattered clouds,south
-5,5,30,City Hall - Eglington Street,scattered clouds,south
-5,6,0,City Hall - Eglington Street,scattered clouds,south
-5,6,30,City Hall - Eglington Street,scattered clouds,south
-5,7,0,City Hall - Eglington Street,scattered clouds,south
-5,7,30,City Hall - Eglington Street,scattered clouds,south
-5,8,0,City Hall - Eglington Street,scattered clouds,south
-5,8,30,City Hall - Eglington Street,scattered clouds,south
-5,9,0,City Hall - Eglington Street,scattered clouds,south
-5,9,30,City Hall - Eglington Street,scattered clouds,south
-5,10,0,City Hall - Eglington Street,scattered clouds,south
-5,10,30,City Hall - Eglington Street,scattered clouds,south
-5,11,0,City Hall - Eglington Street,scattered clouds,south
-5,11,30,City Hall - Eglington Street,scattered clouds,south
-5,12,0,City Hall - Eglington Street,scattered clouds,south
-5,12,30,City Hall - Eglington Street,scattered clouds,south
-5,13,0,City Hall - Eglington Street,scattered clouds,south
-5,13,30,City Hall - Eglington Street,scattered clouds,south
-5,14,0,City Hall - Eglington Street,scattered clouds,south
-5,14,30,City Hall - Eglington Street,scattered clouds,south
-5,15,0,City Hall - Eglington Street,scattered clouds,south
-5,15,30,City Hall - Eglington Street,scattered clouds,south
-5,16,0,City Hall - Eglington Street,scattered clouds,south
-5,16,30,City Hall - Eglington Street,scattered clouds,south
-5,17,0,City Hall - Eglington Street,scattered clouds,south
-5,17,30,City Hall - Eglington Street,scattered clouds,south
-5,18,0,City Hall - Eglington Street,scattered clouds,south
-5,18,30,City Hall - Eglington Street,scattered clouds,south
-5,19,0,City Hall - Eglington Street,scattered clouds,south
-5,19,30,City Hall - Eglington Street,scattered clouds,south
-5,20,0,City Hall - Eglington Street,scattered clouds,south
-5,20,30,City Hall - Eglington Street,scattered clouds,south
-5,21,0,City Hall - Eglington Street,scattered clouds,south
-5,21,30,City Hall - Eglington Street,scattered clouds,south
-5,22,0,City Hall - Eglington Street,scattered clouds,south
-5,22,30,City Hall - Eglington Street,scattered clouds,south
-5,23,0,City Hall - Eglington Street,scattered clouds,south
-5,23,30,City Hall - Eglington Street,scattered clouds,south
-5,0,0,Black Ash Park & Ride,scattered clouds,south
-5,0,30,Black Ash Park & Ride,scattered clouds,south
-5,1,0,Black Ash Park & Ride,scattered clouds,south
-5,1,30,Black Ash Park & Ride,scattered clouds,south
-5,2,0,Black Ash Park & Ride,scattered clouds,south
-5,2,30,Black Ash Park & Ride,scattered clouds,south
-5,3,0,Black Ash Park & Ride,scattered clouds,south
-5,3,30,Black Ash Park & Ride,scattered clouds,south
-5,4,0,Black Ash Park & Ride,scattered clouds,south
-5,4,30,Black Ash Park & Ride,scattered clouds,south
-5,5,0,Black Ash Park & Ride,scattered clouds,south
-5,5,30,Black Ash Park & Ride,scattered clouds,south
-5,6,0,Black Ash Park & Ride,scattered clouds,south
-5,6,30,Black Ash Park & Ride,scattered clouds,south
-5,7,0,Black Ash Park & Ride,scattered clouds,south
-5,7,30,Black Ash Park & Ride,scattered clouds,south
-5,8,0,Black Ash Park & Ride,scattered clouds,south
-5,8,30,Black Ash Park & Ride,scattered clouds,south
-5,9,0,Black Ash Park & Ride,scattered clouds,south
-5,9,30,Black Ash Park & Ride,scattered clouds,south
-5,10,0,Black Ash Park & Ride,scattered clouds,south
-5,10,30,Black Ash Park & Ride,scattered clouds,south
-5,11,0,Black Ash Park & Ride,scattered clouds,south
-5,11,30,Black Ash Park & Ride,scattered clouds,south
-5,12,0,Black Ash Park & Ride,scattered clouds,south
-5,12,30,Black Ash Park & Ride,scattered clouds,south
-5,13,0,Black Ash Park & Ride,scattered clouds,south
-5,13,30,Black Ash Park & Ride,scattered clouds,south
-5,14,0,Black Ash Park & Ride,scattered clouds,south
-5,14,30,Black Ash Park & Ride,scattered clouds,south
-5,15,0,Black Ash Park & Ride,scattered clouds,south
-5,15,30,Black Ash Park & Ride,scattered clouds,south
-5,16,0,Black Ash Park & Ride,scattered clouds,south
-5,16,30,Black Ash Park & Ride,scattered clouds,south
-5,17,0,Black Ash Park & Ride,scattered clouds,south
-5,17,30,Black Ash Park & Ride,scattered clouds,south
-5,18,0,Black Ash Park & Ride,scattered clouds,south
-5,18,30,Black Ash Park & Ride,scattered clouds,south
-5,19,0,Black Ash Park & Ride,scattered clouds,south
-5,19,30,Black Ash Park & Ride,scattered clouds,south
-5,20,0,Black Ash Park & Ride,scattered clouds,south
-5,20,30,Black Ash Park & Ride,scattered clouds,south
-5,21,0,Black Ash Park & Ride,scattered clouds,south
-5,21,30,Black Ash Park & Ride,scattered clouds,south
-5,22,0,Black Ash Park & Ride,scattered clouds,south
-5,22,30,Black Ash Park & Ride,scattered clouds,south
-5,23,0,Black Ash Park & Ride,scattered clouds,south
-5,23,30,Black Ash Park & Ride,scattered clouds,south
-5,0,0,North Main Street,scattered clouds,south
-5,0,30,North Main Street,scattered clouds,south
-5,1,0,North Main Street,scattered clouds,south
-5,1,30,North Main Street,scattered clouds,south
-5,2,0,North Main Street,scattered clouds,south
-5,2,30,North Main Street,scattered clouds,south
-5,3,0,North Main Street,scattered clouds,south
-5,3,30,North Main Street,scattered clouds,south
-5,4,0,North Main Street,scattered clouds,south
-5,4,30,North Main Street,scattered clouds,south
-5,5,0,North Main Street,scattered clouds,south
-5,5,30,North Main Street,scattered clouds,south
-5,6,0,North Main Street,scattered clouds,south
-5,6,30,North Main Street,scattered clouds,south
-5,7,0,North Main Street,scattered clouds,south
-5,7,30,North Main Street,scattered clouds,south
-5,8,0,North Main Street,scattered clouds,south
-5,8,30,North Main Street,scattered clouds,south
-5,9,0,North Main Street,scattered clouds,south
-5,9,30,North Main Street,scattered clouds,south
-5,10,0,North Main Street,scattered clouds,south
-5,10,30,North Main Street,scattered clouds,south
-5,11,0,North Main Street,scattered clouds,south
-5,11,30,North Main Street,scattered clouds,south
-5,12,0,North Main Street,scattered clouds,south
-5,12,30,North Main Street,scattered clouds,south
-5,13,0,North Main Street,scattered clouds,south
-5,13,30,North Main Street,scattered clouds,south
-5,14,0,North Main Street,scattered clouds,south
-5,14,30,North Main Street,scattered clouds,south
-5,15,0,North Main Street,scattered clouds,south
-5,15,30,North Main Street,scattered clouds,south
-5,16,0,North Main Street,scattered clouds,south
-5,16,30,North Main Street,scattered clouds,south
-5,17,0,North Main Street,scattered clouds,south
-5,17,30,North Main Street,scattered clouds,south
-5,18,0,North Main Street,scattered clouds,south
-5,18,30,North Main Street,scattered clouds,south
-5,19,0,North Main Street,scattered clouds,south
-5,19,30,North Main Street,scattered clouds,south
-5,20,0,North Main Street,scattered clouds,south
-5,20,30,North Main Street,scattered clouds,south
-5,21,0,North Main Street,scattered clouds,south
-5,21,30,North Main Street,scattered clouds,south
-5,22,0,North Main Street,scattered clouds,south
-5,22,30,North Main Street,scattered clouds,south
-5,23,0,North Main Street,scattered clouds,south
-5,23,30,North Main Street,scattered clouds,south
-5,0,0,Paul Street,scattered clouds,south
-5,0,30,Paul Street,scattered clouds,south
-5,1,0,Paul Street,scattered clouds,south
-5,1,30,Paul Street,scattered clouds,south
-5,2,0,Paul Street,scattered clouds,south
-5,2,30,Paul Street,scattered clouds,south
-5,3,0,Paul Street,scattered clouds,south
-5,3,30,Paul Street,scattered clouds,south
-5,4,0,Paul Street,scattered clouds,south
-5,4,30,Paul Street,scattered clouds,south
-5,5,0,Paul Street,scattered clouds,south
-5,5,30,Paul Street,scattered clouds,south
-5,6,0,Paul Street,scattered clouds,south
-5,6,30,Paul Street,scattered clouds,south
-5,7,0,Paul Street,scattered clouds,south
-5,7,30,Paul Street,scattered clouds,south
-5,8,0,Paul Street,scattered clouds,south
-5,8,30,Paul Street,scattered clouds,south
-5,9,0,Paul Street,scattered clouds,south
-5,9,30,Paul Street,scattered clouds,south
-5,10,0,Paul Street,scattered clouds,south
-5,10,30,Paul Street,scattered clouds,south
-5,11,0,Paul Street,scattered clouds,south
-5,11,30,Paul Street,scattered clouds,south
-5,12,0,Paul Street,scattered clouds,south
-5,12,30,Paul Street,scattered clouds,south
-5,13,0,Paul Street,scattered clouds,south
-5,13,30,Paul Street,scattered clouds,south
-5,14,0,Paul Street,scattered clouds,south
-5,14,30,Paul Street,scattered clouds,south
-5,15,0,Paul Street,scattered clouds,south
-5,15,30,Paul Street,scattered clouds,south
-5,16,0,Paul Street,scattered clouds,south
-5,16,30,Paul Street,scattered clouds,south
-5,17,0,Paul Street,scattered clouds,south
-5,17,30,Paul Street,scattered clouds,south
-5,18,0,Paul Street,scattered clouds,south
-5,18,30,Paul Street,scattered clouds,south
-5,19,0,Paul Street,scattered clouds,south
-5,19,30,Paul Street,scattered clouds,south
-5,20,0,Paul Street,scattered clouds,south
-5,20,30,Paul Street,scattered clouds,south
-5,21,0,Paul Street,scattered clouds,south
-5,21,30,Paul Street,scattered clouds,south
-5,22,0,Paul Street,scattered clouds,south
-5,22,30,Paul Street,scattered clouds,south
-5,23,0,Paul Street,scattered clouds,south
-5,23,30,Paul Street,scattered clouds,south
-5,0,0,Saint Finbarr's,scattered clouds,east
-5,0,30,Saint Finbarr's,scattered clouds,east
-5,1,0,Saint Finbarr's,scattered clouds,east
-5,1,30,Saint Finbarr's,scattered clouds,east
-5,2,0,Saint Finbarr's,scattered clouds,east
-5,2,30,Saint Finbarr's,scattered clouds,east
-5,3,0,Saint Finbarr's,scattered clouds,east
-5,3,30,Saint Finbarr's,scattered clouds,east
-5,4,0,Saint Finbarr's,scattered clouds,east
-5,4,30,Saint Finbarr's,scattered clouds,east
-5,5,0,Saint Finbarr's,scattered clouds,east
-5,5,30,Saint Finbarr's,scattered clouds,east
-5,6,0,Saint Finbarr's,scattered clouds,east
-5,6,30,Saint Finbarr's,scattered clouds,east
-5,7,0,Saint Finbarr's,scattered clouds,east
-5,7,30,Saint Finbarr's,scattered clouds,east
-5,8,0,Saint Finbarr's,scattered clouds,east
-5,8,30,Saint Finbarr's,scattered clouds,east
-5,9,0,Saint Finbarr's,scattered clouds,east
-5,9,30,Saint Finbarr's,scattered clouds,east
-5,10,0,Saint Finbarr's,scattered clouds,east
-5,10,30,Saint Finbarr's,scattered clouds,east
-5,11,0,Saint Finbarr's,scattered clouds,east
-5,11,30,Saint Finbarr's,scattered clouds,east
-5,12,0,Saint Finbarr's,scattered clouds,east
-5,12,30,Saint Finbarr's,scattered clouds,east
-5,13,0,Saint Finbarr's,scattered clouds,east
-5,13,30,Saint Finbarr's,scattered clouds,east
-5,14,0,Saint Finbarr's,scattered clouds,east
-5,14,30,Saint Finbarr's,scattered clouds,east
-5,15,0,Saint Finbarr's,scattered clouds,east
-5,15,30,Saint Finbarr's,scattered clouds,east
-5,16,0,Saint Finbarr's,scattered clouds,east
-5,16,30,Saint Finbarr's,scattered clouds,east
-5,17,0,Saint Finbarr's,scattered clouds,east
-5,17,30,Saint Finbarr's,scattered clouds,east
-5,18,0,Saint Finbarr's,scattered clouds,east
-5,18,30,Saint Finbarr's,scattered clouds,east
-5,19,0,Saint Finbarr's,scattered clouds,east
-5,19,30,Saint Finbarr's,scattered clouds,east
-5,20,0,Saint Finbarr's,scattered clouds,east
-5,20,30,Saint Finbarr's,scattered clouds,east
-5,21,0,Saint Finbarr's,scattered clouds,east
-5,21,30,Saint Finbarr's,scattered clouds,east
-5,22,0,Saint Finbarr's,scattered clouds,east
-5,22,30,Saint Finbarr's,scattered clouds,east
-5,23,0,Saint Finbarr's,scattered clouds,east
-5,23,30,Saint Finbarr's,scattered clouds,east
-5,0,0,Merchants Quay,scattered clouds,east
-5,0,30,Merchants Quay,scattered clouds,east
-5,1,0,Merchants Quay,scattered clouds,east
-5,1,30,Merchants Quay,scattered clouds,east
-5,2,0,Merchants Quay,scattered clouds,east
-5,2,30,Merchants Quay,scattered clouds,east
-5,3,0,Merchants Quay,scattered clouds,east
-5,3,30,Merchants Quay,scattered clouds,east
-5,4,0,Merchants Quay,scattered clouds,east
-5,4,30,Merchants Quay,scattered clouds,east
-5,5,0,Merchants Quay,scattered clouds,east
-5,5,30,Merchants Quay,scattered clouds,east
-5,6,0,Merchants Quay,scattered clouds,east
-5,6,30,Merchants Quay,scattered clouds,east
-5,7,0,Merchants Quay,scattered clouds,east
-5,7,30,Merchants Quay,scattered clouds,east
-5,8,0,Merchants Quay,scattered clouds,east
-5,8,30,Merchants Quay,scattered clouds,east
-5,9,0,Merchants Quay,scattered clouds,east
-5,9,30,Merchants Quay,scattered clouds,east
-5,10,0,Merchants Quay,scattered clouds,east
-5,10,30,Merchants Quay,scattered clouds,east
-5,11,0,Merchants Quay,scattered clouds,east
-5,11,30,Merchants Quay,scattered clouds,east
-5,12,0,Merchants Quay,scattered clouds,east
-5,12,30,Merchants Quay,scattered clouds,east
-5,13,0,Merchants Quay,scattered clouds,east
-5,13,30,Merchants Quay,scattered clouds,east
-5,14,0,Merchants Quay,scattered clouds,east
-5,14,30,Merchants Quay,scattered clouds,east
-5,15,0,Merchants Quay,scattered clouds,east
-5,15,30,Merchants Quay,scattered clouds,east
-5,16,0,Merchants Quay,scattered clouds,east
-5,16,30,Merchants Quay,scattered clouds,east
-5,17,0,Merchants Quay,scattered clouds,east
-5,17,30,Merchants Quay,scattered clouds,east
-5,18,0,Merchants Quay,scattered clouds,east
-5,18,30,Merchants Quay,scattered clouds,east
-5,19,0,Merchants Quay,scattered clouds,east
-5,19,30,Merchants Quay,scattered clouds,east
-5,20,0,Merchants Quay,scattered clouds,east
-5,20,30,Merchants Quay,scattered clouds,east
-5,21,0,Merchants Quay,scattered clouds,east
-5,21,30,Merchants Quay,scattered clouds,east
-5,22,0,Merchants Quay,scattered clouds,east
-5,22,30,Merchants Quay,scattered clouds,east
-5,23,0,Merchants Quay,scattered clouds,east
-5,23,30,Merchants Quay,scattered clouds,east
-5,0,0,Grand Parade,scattered clouds,east
-5,0,30,Grand Parade,scattered clouds,east
-5,1,0,Grand Parade,scattered clouds,east
-5,1,30,Grand Parade,scattered clouds,east
-5,2,0,Grand Parade,scattered clouds,east
-5,2,30,Grand Parade,scattered clouds,east
-5,3,0,Grand Parade,scattered clouds,east
-5,3,30,Grand Parade,scattered clouds,east
-5,4,0,Grand Parade,scattered clouds,east
-5,4,30,Grand Parade,scattered clouds,east
-5,5,0,Grand Parade,scattered clouds,east
-5,5,30,Grand Parade,scattered clouds,east
-5,6,0,Grand Parade,scattered clouds,east
-5,6,30,Grand Parade,scattered clouds,east
-5,7,0,Grand Parade,scattered clouds,east
-5,7,30,Grand Parade,scattered clouds,east
-5,8,0,Grand Parade,scattered clouds,east
-5,8,30,Grand Parade,scattered clouds,east
-5,9,0,Grand Parade,scattered clouds,east
-5,9,30,Grand Parade,scattered clouds,east
-5,10,0,Grand Parade,scattered clouds,east
-5,10,30,Grand Parade,scattered clouds,east
-5,11,0,Grand Parade,scattered clouds,east
-5,11,30,Grand Parade,scattered clouds,east
-5,12,0,Grand Parade,scattered clouds,east
-5,12,30,Grand Parade,scattered clouds,east
-5,13,0,Grand Parade,scattered clouds,east
-5,13,30,Grand Parade,scattered clouds,east
-5,14,0,Grand Parade,scattered clouds,east
-5,14,30,Grand Parade,scattered clouds,east
-5,15,0,Grand Parade,scattered clouds,east
-5,15,30,Grand Parade,scattered clouds,east
-5,16,0,Grand Parade,scattered clouds,east
-5,16,30,Grand Parade,scattered clouds,east
-5,17,0,Grand Parade,scattered clouds,east
-5,17,30,Grand Parade,scattered clouds,east
-5,18,0,Grand Parade,scattered clouds,east
-5,18,30,Grand Parade,scattered clouds,east
-5,19,0,Grand Parade,scattered clouds,east
-5,19,30,Grand Parade,scattered clouds,east
-5,20,0,Grand Parade,scattered clouds,east
-5,20,30,Grand Parade,scattered clouds,east
-5,21,0,Grand Parade,scattered clouds,east
-5,21,30,Grand Parade,scattered clouds,east
-5,22,0,Grand Parade,scattered clouds,east
-5,22,30,Grand Parade,scattered clouds,east
-5,23,0,Grand Parade,scattered clouds,east
-5,23,30,Grand Parade,scattered clouds,east
-5,0,0,Carrolls Quay,scattered clouds,east
-5,0,30,Carrolls Quay,scattered clouds,east
-5,1,0,Carrolls Quay,scattered clouds,east
-5,1,30,Carrolls Quay,scattered clouds,east
-5,2,0,Carrolls Quay,scattered clouds,east
-5,2,30,Carrolls Quay,scattered clouds,east
-5,3,0,Carrolls Quay,scattered clouds,east
-5,3,30,Carrolls Quay,scattered clouds,east
-5,4,0,Carrolls Quay,scattered clouds,east
-5,4,30,Carrolls Quay,scattered clouds,east
-5,5,0,Carrolls Quay,scattered clouds,east
-5,5,30,Carrolls Quay,scattered clouds,east
-5,6,0,Carrolls Quay,scattered clouds,east
-5,6,30,Carrolls Quay,scattered clouds,east
-5,7,0,Carrolls Quay,scattered clouds,east
-5,7,30,Carrolls Quay,scattered clouds,east
-5,8,0,Carrolls Quay,scattered clouds,east
-5,8,30,Carrolls Quay,scattered clouds,east
-5,9,0,Carrolls Quay,scattered clouds,east
-5,9,30,Carrolls Quay,scattered clouds,east
-5,10,0,Carrolls Quay,scattered clouds,east
-5,10,30,Carrolls Quay,scattered clouds,east
-5,11,0,Carrolls Quay,scattered clouds,east
-5,11,30,Carrolls Quay,scattered clouds,east
-5,12,0,Carrolls Quay,scattered clouds,east
-5,12,30,Carrolls Quay,scattered clouds,east
-5,13,0,Carrolls Quay,scattered clouds,east
-5,13,30,Carrolls Quay,scattered clouds,east
-5,14,0,Carrolls Quay,scattered clouds,east
-5,14,30,Carrolls Quay,scattered clouds,east
-5,15,0,Carrolls Quay,scattered clouds,east
-5,15,30,Carrolls Quay,scattered clouds,east
-5,16,0,Carrolls Quay,scattered clouds,east
-5,16,30,Carrolls Quay,scattered clouds,east
-5,17,0,Carrolls Quay,scattered clouds,east
-5,17,30,Carrolls Quay,scattered clouds,east
-5,18,0,Carrolls Quay,scattered clouds,east
-5,18,30,Carrolls Quay,scattered clouds,east
-5,19,0,Carrolls Quay,scattered clouds,east
-5,19,30,Carrolls Quay,scattered clouds,east
-5,20,0,Carrolls Quay,scattered clouds,east
-5,20,30,Carrolls Quay,scattered clouds,east
-5,21,0,Carrolls Quay,scattered clouds,east
-5,21,30,Carrolls Quay,scattered clouds,east
-5,22,0,Carrolls Quay,scattered clouds,east
-5,22,30,Carrolls Quay,scattered clouds,east
-5,23,0,Carrolls Quay,scattered clouds,east
-5,23,30,Carrolls Quay,scattered clouds,east
-5,0,0,City Hall - Eglington Street,scattered clouds,east
-5,0,30,City Hall - Eglington Street,scattered clouds,east
-5,1,0,City Hall - Eglington Street,scattered clouds,east
-5,1,30,City Hall - Eglington Street,scattered clouds,east
-5,2,0,City Hall - Eglington Street,scattered clouds,east
-5,2,30,City Hall - Eglington Street,scattered clouds,east
-5,3,0,City Hall - Eglington Street,scattered clouds,east
-5,3,30,City Hall - Eglington Street,scattered clouds,east
-5,4,0,City Hall - Eglington Street,scattered clouds,east
-5,4,30,City Hall - Eglington Street,scattered clouds,east
-5,5,0,City Hall - Eglington Street,scattered clouds,east
-5,5,30,City Hall - Eglington Street,scattered clouds,east
-5,6,0,City Hall - Eglington Street,scattered clouds,east
-5,6,30,City Hall - Eglington Street,scattered clouds,east
-5,7,0,City Hall - Eglington Street,scattered clouds,east
-5,7,30,City Hall - Eglington Street,scattered clouds,east
-5,8,0,City Hall - Eglington Street,scattered clouds,east
-5,8,30,City Hall - Eglington Street,scattered clouds,east
-5,9,0,City Hall - Eglington Street,scattered clouds,east
-5,9,30,City Hall - Eglington Street,scattered clouds,east
-5,10,0,City Hall - Eglington Street,scattered clouds,east
-5,10,30,City Hall - Eglington Street,scattered clouds,east
-5,11,0,City Hall - Eglington Street,scattered clouds,east
-5,11,30,City Hall - Eglington Street,scattered clouds,east
-5,12,0,City Hall - Eglington Street,scattered clouds,east
-5,12,30,City Hall - Eglington Street,scattered clouds,east
-5,13,0,City Hall - Eglington Street,scattered clouds,east
-5,13,30,City Hall - Eglington Street,scattered clouds,east
-5,14,0,City Hall - Eglington Street,scattered clouds,east
-5,14,30,City Hall - Eglington Street,scattered clouds,east
-5,15,0,City Hall - Eglington Street,scattered clouds,east
-5,15,30,City Hall - Eglington Street,scattered clouds,east
-5,16,0,City Hall - Eglington Street,scattered clouds,east
-5,16,30,City Hall - Eglington Street,scattered clouds,east
-5,17,0,City Hall - Eglington Street,scattered clouds,east
-5,17,30,City Hall - Eglington Street,scattered clouds,east
-5,18,0,City Hall - Eglington Street,scattered clouds,east
-5,18,30,City Hall - Eglington Street,scattered clouds,east
-5,19,0,City Hall - Eglington Street,scattered clouds,east
-5,19,30,City Hall - Eglington Street,scattered clouds,east
-5,20,0,City Hall - Eglington Street,scattered clouds,east
-5,20,30,City Hall - Eglington Street,scattered clouds,east
-5,21,0,City Hall - Eglington Street,scattered clouds,east
-5,21,30,City Hall - Eglington Street,scattered clouds,east
-5,22,0,City Hall - Eglington Street,scattered clouds,east
-5,22,30,City Hall - Eglington Street,scattered clouds,east
-5,23,0,City Hall - Eglington Street,scattered clouds,east
-5,23,30,City Hall - Eglington Street,scattered clouds,east
-5,0,0,Black Ash Park & Ride,scattered clouds,east
-5,0,30,Black Ash Park & Ride,scattered clouds,east
-5,1,0,Black Ash Park & Ride,scattered clouds,east
-5,1,30,Black Ash Park & Ride,scattered clouds,east
-5,2,0,Black Ash Park & Ride,scattered clouds,east
-5,2,30,Black Ash Park & Ride,scattered clouds,east
-5,3,0,Black Ash Park & Ride,scattered clouds,east
-5,3,30,Black Ash Park & Ride,scattered clouds,east
-5,4,0,Black Ash Park & Ride,scattered clouds,east
-5,4,30,Black Ash Park & Ride,scattered clouds,east
-5,5,0,Black Ash Park & Ride,scattered clouds,east
-5,5,30,Black Ash Park & Ride,scattered clouds,east
-5,6,0,Black Ash Park & Ride,scattered clouds,east
-5,6,30,Black Ash Park & Ride,scattered clouds,east
-5,7,0,Black Ash Park & Ride,scattered clouds,east
-5,7,30,Black Ash Park & Ride,scattered clouds,east
-5,8,0,Black Ash Park & Ride,scattered clouds,east
-5,8,30,Black Ash Park & Ride,scattered clouds,east
-5,9,0,Black Ash Park & Ride,scattered clouds,east
-5,9,30,Black Ash Park & Ride,scattered clouds,east
-5,10,0,Black Ash Park & Ride,scattered clouds,east
-5,10,30,Black Ash Park & Ride,scattered clouds,east
-5,11,0,Black Ash Park & Ride,scattered clouds,east
-5,11,30,Black Ash Park & Ride,scattered clouds,east
-5,12,0,Black Ash Park & Ride,scattered clouds,east
-5,12,30,Black Ash Park & Ride,scattered clouds,east
-5,13,0,Black Ash Park & Ride,scattered clouds,east
-5,13,30,Black Ash Park & Ride,scattered clouds,east
-5,14,0,Black Ash Park & Ride,scattered clouds,east
-5,14,30,Black Ash Park & Ride,scattered clouds,east
-5,15,0,Black Ash Park & Ride,scattered clouds,east
-5,15,30,Black Ash Park & Ride,scattered clouds,east
-5,16,0,Black Ash Park & Ride,scattered clouds,east
-5,16,30,Black Ash Park & Ride,scattered clouds,east
-5,17,0,Black Ash Park & Ride,scattered clouds,east
-5,17,30,Black Ash Park & Ride,scattered clouds,east
-5,18,0,Black Ash Park & Ride,scattered clouds,east
-5,18,30,Black Ash Park & Ride,scattered clouds,east
-5,19,0,Black Ash Park & Ride,scattered clouds,east
-5,19,30,Black Ash Park & Ride,scattered clouds,east
-5,20,0,Black Ash Park & Ride,scattered clouds,east
-5,20,30,Black Ash Park & Ride,scattered clouds,east
-5,21,0,Black Ash Park & Ride,scattered clouds,east
-5,21,30,Black Ash Park & Ride,scattered clouds,east
-5,22,0,Black Ash Park & Ride,scattered clouds,east
-5,22,30,Black Ash Park & Ride,scattered clouds,east
-5,23,0,Black Ash Park & Ride,scattered clouds,east
-5,23,30,Black Ash Park & Ride,scattered clouds,east
-5,0,0,North Main Street,scattered clouds,east
-5,0,30,North Main Street,scattered clouds,east
-5,1,0,North Main Street,scattered clouds,east
-5,1,30,North Main Street,scattered clouds,east
-5,2,0,North Main Street,scattered clouds,east
-5,2,30,North Main Street,scattered clouds,east
-5,3,0,North Main Street,scattered clouds,east
-5,3,30,North Main Street,scattered clouds,east
-5,4,0,North Main Street,scattered clouds,east
-5,4,30,North Main Street,scattered clouds,east
-5,5,0,North Main Street,scattered clouds,east
-5,5,30,North Main Street,scattered clouds,east
-5,6,0,North Main Street,scattered clouds,east
-5,6,30,North Main Street,scattered clouds,east
-5,7,0,North Main Street,scattered clouds,east
-5,7,30,North Main Street,scattered clouds,east
-5,8,0,North Main Street,scattered clouds,east
-5,8,30,North Main Street,scattered clouds,east
-5,9,0,North Main Street,scattered clouds,east
-5,9,30,North Main Street,scattered clouds,east
-5,10,0,North Main Street,scattered clouds,east
-5,10,30,North Main Street,scattered clouds,east
-5,11,0,North Main Street,scattered clouds,east
-5,11,30,North Main Street,scattered clouds,east
-5,12,0,North Main Street,scattered clouds,east
-5,12,30,North Main Street,scattered clouds,east
-5,13,0,North Main Street,scattered clouds,east
-5,13,30,North Main Street,scattered clouds,east
-5,14,0,North Main Street,scattered clouds,east
-5,14,30,North Main Street,scattered clouds,east
-5,15,0,North Main Street,scattered clouds,east
-5,15,30,North Main Street,scattered clouds,east
-5,16,0,North Main Street,scattered clouds,east
-5,16,30,North Main Street,scattered clouds,east
-5,17,0,North Main Street,scattered clouds,east
-5,17,30,North Main Street,scattered clouds,east
-5,18,0,North Main Street,scattered clouds,east
-5,18,30,North Main Street,scattered clouds,east
-5,19,0,North Main Street,scattered clouds,east
-5,19,30,North Main Street,scattered clouds,east
-5,20,0,North Main Street,scattered clouds,east
-5,20,30,North Main Street,scattered clouds,east
-5,21,0,North Main Street,scattered clouds,east
-5,21,30,North Main Street,scattered clouds,east
-5,22,0,North Main Street,scattered clouds,east
-5,22,30,North Main Street,scattered clouds,east
-5,23,0,North Main Street,scattered clouds,east
-5,23,30,North Main Street,scattered clouds,east
-5,0,0,Paul Street,scattered clouds,east
-5,0,30,Paul Street,scattered clouds,east
-5,1,0,Paul Street,scattered clouds,east
-5,1,30,Paul Street,scattered clouds,east
-5,2,0,Paul Street,scattered clouds,east
-5,2,30,Paul Street,scattered clouds,east
-5,3,0,Paul Street,scattered clouds,east
-5,3,30,Paul Street,scattered clouds,east
-5,4,0,Paul Street,scattered clouds,east
-5,4,30,Paul Street,scattered clouds,east
-5,5,0,Paul Street,scattered clouds,east
-5,5,30,Paul Street,scattered clouds,east
-5,6,0,Paul Street,scattered clouds,east
-5,6,30,Paul Street,scattered clouds,east
-5,7,0,Paul Street,scattered clouds,east
-5,7,30,Paul Street,scattered clouds,east
-5,8,0,Paul Street,scattered clouds,east
-5,8,30,Paul Street,scattered clouds,east
-5,9,0,Paul Street,scattered clouds,east
-5,9,30,Paul Street,scattered clouds,east
-5,10,0,Paul Street,scattered clouds,east
-5,10,30,Paul Street,scattered clouds,east
-5,11,0,Paul Street,scattered clouds,east
-5,11,30,Paul Street,scattered clouds,east
-5,12,0,Paul Street,scattered clouds,east
-5,12,30,Paul Street,scattered clouds,east
-5,13,0,Paul Street,scattered clouds,east
-5,13,30,Paul Street,scattered clouds,east
-5,14,0,Paul Street,scattered clouds,east
-5,14,30,Paul Street,scattered clouds,east
-5,15,0,Paul Street,scattered clouds,east
-5,15,30,Paul Street,scattered clouds,east
-5,16,0,Paul Street,scattered clouds,east
-5,16,30,Paul Street,scattered clouds,east
-5,17,0,Paul Street,scattered clouds,east
-5,17,30,Paul Street,scattered clouds,east
-5,18,0,Paul Street,scattered clouds,east
-5,18,30,Paul Street,scattered clouds,east
-5,19,0,Paul Street,scattered clouds,east
-5,19,30,Paul Street,scattered clouds,east
-5,20,0,Paul Street,scattered clouds,east
-5,20,30,Paul Street,scattered clouds,east
-5,21,0,Paul Street,scattered clouds,east
-5,21,30,Paul Street,scattered clouds,east
-5,22,0,Paul Street,scattered clouds,east
-5,22,30,Paul Street,scattered clouds,east
-5,23,0,Paul Street,scattered clouds,east
-5,23,30,Paul Street,scattered clouds,east
-5,0,0,Saint Finbarr's,scattered clouds,west
-5,0,30,Saint Finbarr's,scattered clouds,west
-5,1,0,Saint Finbarr's,scattered clouds,west
-5,1,30,Saint Finbarr's,scattered clouds,west
-5,2,0,Saint Finbarr's,scattered clouds,west
-5,2,30,Saint Finbarr's,scattered clouds,west
-5,3,0,Saint Finbarr's,scattered clouds,west
-5,3,30,Saint Finbarr's,scattered clouds,west
-5,4,0,Saint Finbarr's,scattered clouds,west
-5,4,30,Saint Finbarr's,scattered clouds,west
-5,5,0,Saint Finbarr's,scattered clouds,west
-5,5,30,Saint Finbarr's,scattered clouds,west
-5,6,0,Saint Finbarr's,scattered clouds,west
-5,6,30,Saint Finbarr's,scattered clouds,west
-5,7,0,Saint Finbarr's,scattered clouds,west
-5,7,30,Saint Finbarr's,scattered clouds,west
-5,8,0,Saint Finbarr's,scattered clouds,west
-5,8,30,Saint Finbarr's,scattered clouds,west
-5,9,0,Saint Finbarr's,scattered clouds,west
-5,9,30,Saint Finbarr's,scattered clouds,west
-5,10,0,Saint Finbarr's,scattered clouds,west
-5,10,30,Saint Finbarr's,scattered clouds,west
-5,11,0,Saint Finbarr's,scattered clouds,west
-5,11,30,Saint Finbarr's,scattered clouds,west
-5,12,0,Saint Finbarr's,scattered clouds,west
-5,12,30,Saint Finbarr's,scattered clouds,west
-5,13,0,Saint Finbarr's,scattered clouds,west
-5,13,30,Saint Finbarr's,scattered clouds,west
-5,14,0,Saint Finbarr's,scattered clouds,west
-5,14,30,Saint Finbarr's,scattered clouds,west
-5,15,0,Saint Finbarr's,scattered clouds,west
-5,15,30,Saint Finbarr's,scattered clouds,west
-5,16,0,Saint Finbarr's,scattered clouds,west
-5,16,30,Saint Finbarr's,scattered clouds,west
-5,17,0,Saint Finbarr's,scattered clouds,west
-5,17,30,Saint Finbarr's,scattered clouds,west
-5,18,0,Saint Finbarr's,scattered clouds,west
-5,18,30,Saint Finbarr's,scattered clouds,west
-5,19,0,Saint Finbarr's,scattered clouds,west
-5,19,30,Saint Finbarr's,scattered clouds,west
-5,20,0,Saint Finbarr's,scattered clouds,west
-5,20,30,Saint Finbarr's,scattered clouds,west
-5,21,0,Saint Finbarr's,scattered clouds,west
-5,21,30,Saint Finbarr's,scattered clouds,west
-5,22,0,Saint Finbarr's,scattered clouds,west
-5,22,30,Saint Finbarr's,scattered clouds,west
-5,23,0,Saint Finbarr's,scattered clouds,west
-5,23,30,Saint Finbarr's,scattered clouds,west
-5,0,0,Merchants Quay,scattered clouds,west
-5,0,30,Merchants Quay,scattered clouds,west
-5,1,0,Merchants Quay,scattered clouds,west
-5,1,30,Merchants Quay,scattered clouds,west
-5,2,0,Merchants Quay,scattered clouds,west
-5,2,30,Merchants Quay,scattered clouds,west
-5,3,0,Merchants Quay,scattered clouds,west
-5,3,30,Merchants Quay,scattered clouds,west
-5,4,0,Merchants Quay,scattered clouds,west
-5,4,30,Merchants Quay,scattered clouds,west
-5,5,0,Merchants Quay,scattered clouds,west
-5,5,30,Merchants Quay,scattered clouds,west
-5,6,0,Merchants Quay,scattered clouds,west
-5,6,30,Merchants Quay,scattered clouds,west
-5,7,0,Merchants Quay,scattered clouds,west
-5,7,30,Merchants Quay,scattered clouds,west
-5,8,0,Merchants Quay,scattered clouds,west
-5,8,30,Merchants Quay,scattered clouds,west
-5,9,0,Merchants Quay,scattered clouds,west
-5,9,30,Merchants Quay,scattered clouds,west
-5,10,0,Merchants Quay,scattered clouds,west
-5,10,30,Merchants Quay,scattered clouds,west
-5,11,0,Merchants Quay,scattered clouds,west
-5,11,30,Merchants Quay,scattered clouds,west
-5,12,0,Merchants Quay,scattered clouds,west
-5,12,30,Merchants Quay,scattered clouds,west
-5,13,0,Merchants Quay,scattered clouds,west
-5,13,30,Merchants Quay,scattered clouds,west
-5,14,0,Merchants Quay,scattered clouds,west
-5,14,30,Merchants Quay,scattered clouds,west
-5,15,0,Merchants Quay,scattered clouds,west
-5,15,30,Merchants Quay,scattered clouds,west
-5,16,0,Merchants Quay,scattered clouds,west
-5,16,30,Merchants Quay,scattered clouds,west
-5,17,0,Merchants Quay,scattered clouds,west
-5,17,30,Merchants Quay,scattered clouds,west
-5,18,0,Merchants Quay,scattered clouds,west
-5,18,30,Merchants Quay,scattered clouds,west
-5,19,0,Merchants Quay,scattered clouds,west
-5,19,30,Merchants Quay,scattered clouds,west
-5,20,0,Merchants Quay,scattered clouds,west
-5,20,30,Merchants Quay,scattered clouds,west
-5,21,0,Merchants Quay,scattered clouds,west
-5,21,30,Merchants Quay,scattered clouds,west
-5,22,0,Merchants Quay,scattered clouds,west
-5,22,30,Merchants Quay,scattered clouds,west
-5,23,0,Merchants Quay,scattered clouds,west
-5,23,30,Merchants Quay,scattered clouds,west
-5,0,0,Grand Parade,scattered clouds,west
-5,0,30,Grand Parade,scattered clouds,west
-5,1,0,Grand Parade,scattered clouds,west
-5,1,30,Grand Parade,scattered clouds,west
-5,2,0,Grand Parade,scattered clouds,west
-5,2,30,Grand Parade,scattered clouds,west
-5,3,0,Grand Parade,scattered clouds,west
-5,3,30,Grand Parade,scattered clouds,west
-5,4,0,Grand Parade,scattered clouds,west
-5,4,30,Grand Parade,scattered clouds,west
-5,5,0,Grand Parade,scattered clouds,west
-5,5,30,Grand Parade,scattered clouds,west
-5,6,0,Grand Parade,scattered clouds,west
-5,6,30,Grand Parade,scattered clouds,west
-5,7,0,Grand Parade,scattered clouds,west
-5,7,30,Grand Parade,scattered clouds,west
-5,8,0,Grand Parade,scattered clouds,west
-5,8,30,Grand Parade,scattered clouds,west
-5,9,0,Grand Parade,scattered clouds,west
-5,9,30,Grand Parade,scattered clouds,west
-5,10,0,Grand Parade,scattered clouds,west
-5,10,30,Grand Parade,scattered clouds,west
-5,11,0,Grand Parade,scattered clouds,west
-5,11,30,Grand Parade,scattered clouds,west
-5,12,0,Grand Parade,scattered clouds,west
-5,12,30,Grand Parade,scattered clouds,west
-5,13,0,Grand Parade,scattered clouds,west
-5,13,30,Grand Parade,scattered clouds,west
-5,14,0,Grand Parade,scattered clouds,west
-5,14,30,Grand Parade,scattered clouds,west
-5,15,0,Grand Parade,scattered clouds,west
-5,15,30,Grand Parade,scattered clouds,west
-5,16,0,Grand Parade,scattered clouds,west
-5,16,30,Grand Parade,scattered clouds,west
-5,17,0,Grand Parade,scattered clouds,west
-5,17,30,Grand Parade,scattered clouds,west
-5,18,0,Grand Parade,scattered clouds,west
-5,18,30,Grand Parade,scattered clouds,west
-5,19,0,Grand Parade,scattered clouds,west
-5,19,30,Grand Parade,scattered clouds,west
-5,20,0,Grand Parade,scattered clouds,west
-5,20,30,Grand Parade,scattered clouds,west
-5,21,0,Grand Parade,scattered clouds,west
-5,21,30,Grand Parade,scattered clouds,west
-5,22,0,Grand Parade,scattered clouds,west
-5,22,30,Grand Parade,scattered clouds,west
-5,23,0,Grand Parade,scattered clouds,west
-5,23,30,Grand Parade,scattered clouds,west
-5,0,0,Carrolls Quay,scattered clouds,west
-5,0,30,Carrolls Quay,scattered clouds,west
-5,1,0,Carrolls Quay,scattered clouds,west
-5,1,30,Carrolls Quay,scattered clouds,west
-5,2,0,Carrolls Quay,scattered clouds,west
-5,2,30,Carrolls Quay,scattered clouds,west
-5,3,0,Carrolls Quay,scattered clouds,west
-5,3,30,Carrolls Quay,scattered clouds,west
-5,4,0,Carrolls Quay,scattered clouds,west
-5,4,30,Carrolls Quay,scattered clouds,west
-5,5,0,Carrolls Quay,scattered clouds,west
-5,5,30,Carrolls Quay,scattered clouds,west
-5,6,0,Carrolls Quay,scattered clouds,west
-5,6,30,Carrolls Quay,scattered clouds,west
-5,7,0,Carrolls Quay,scattered clouds,west
-5,7,30,Carrolls Quay,scattered clouds,west
-5,8,0,Carrolls Quay,scattered clouds,west
-5,8,30,Carrolls Quay,scattered clouds,west
-5,9,0,Carrolls Quay,scattered clouds,west
-5,9,30,Carrolls Quay,scattered clouds,west
-5,10,0,Carrolls Quay,scattered clouds,west
-5,10,30,Carrolls Quay,scattered clouds,west
-5,11,0,Carrolls Quay,scattered clouds,west
-5,11,30,Carrolls Quay,scattered clouds,west
-5,12,0,Carrolls Quay,scattered clouds,west
-5,12,30,Carrolls Quay,scattered clouds,west
-5,13,0,Carrolls Quay,scattered clouds,west
-5,13,30,Carrolls Quay,scattered clouds,west
-5,14,0,Carrolls Quay,scattered clouds,west
-5,14,30,Carrolls Quay,scattered clouds,west
-5,15,0,Carrolls Quay,scattered clouds,west
-5,15,30,Carrolls Quay,scattered clouds,west
-5,16,0,Carrolls Quay,scattered clouds,west
-5,16,30,Carrolls Quay,scattered clouds,west
-5,17,0,Carrolls Quay,scattered clouds,west
-5,17,30,Carrolls Quay,scattered clouds,west
-5,18,0,Carrolls Quay,scattered clouds,west
-5,18,30,Carrolls Quay,scattered clouds,west
-5,19,0,Carrolls Quay,scattered clouds,west
-5,19,30,Carrolls Quay,scattered clouds,west
-5,20,0,Carrolls Quay,scattered clouds,west
-5,20,30,Carrolls Quay,scattered clouds,west
-5,21,0,Carrolls Quay,scattered clouds,west
-5,21,30,Carrolls Quay,scattered clouds,west
-5,22,0,Carrolls Quay,scattered clouds,west
-5,22,30,Carrolls Quay,scattered clouds,west
-5,23,0,Carrolls Quay,scattered clouds,west
-5,23,30,Carrolls Quay,scattered clouds,west
-5,0,0,City Hall - Eglington Street,scattered clouds,west
-5,0,30,City Hall - Eglington Street,scattered clouds,west
-5,1,0,City Hall - Eglington Street,scattered clouds,west
-5,1,30,City Hall - Eglington Street,scattered clouds,west
-5,2,0,City Hall - Eglington Street,scattered clouds,west
-5,2,30,City Hall - Eglington Street,scattered clouds,west
-5,3,0,City Hall - Eglington Street,scattered clouds,west
-5,3,30,City Hall - Eglington Street,scattered clouds,west
-5,4,0,City Hall - Eglington Street,scattered clouds,west
-5,4,30,City Hall - Eglington Street,scattered clouds,west
-5,5,0,City Hall - Eglington Street,scattered clouds,west
-5,5,30,City Hall - Eglington Street,scattered clouds,west
-5,6,0,City Hall - Eglington Street,scattered clouds,west
-5,6,30,City Hall - Eglington Street,scattered clouds,west
-5,7,0,City Hall - Eglington Street,scattered clouds,west
-5,7,30,City Hall - Eglington Street,scattered clouds,west
-5,8,0,City Hall - Eglington Street,scattered clouds,west
-5,8,30,City Hall - Eglington Street,scattered clouds,west
-5,9,0,City Hall - Eglington Street,scattered clouds,west
-5,9,30,City Hall - Eglington Street,scattered clouds,west
-5,10,0,City Hall - Eglington Street,scattered clouds,west
-5,10,30,City Hall - Eglington Street,scattered clouds,west
-5,11,0,City Hall - Eglington Street,scattered clouds,west
-5,11,30,City Hall - Eglington Street,scattered clouds,west
-5,12,0,City Hall - Eglington Street,scattered clouds,west
-5,12,30,City Hall - Eglington Street,scattered clouds,west
-5,13,0,City Hall - Eglington Street,scattered clouds,west
-5,13,30,City Hall - Eglington Street,scattered clouds,west
-5,14,0,City Hall - Eglington Street,scattered clouds,west
-5,14,30,City Hall - Eglington Street,scattered clouds,west
-5,15,0,City Hall - Eglington Street,scattered clouds,west
-5,15,30,City Hall - Eglington Street,scattered clouds,west
-5,16,0,City Hall - Eglington Street,scattered clouds,west
-5,16,30,City Hall - Eglington Street,scattered clouds,west
-5,17,0,City Hall - Eglington Street,scattered clouds,west
-5,17,30,City Hall - Eglington Street,scattered clouds,west
-5,18,0,City Hall - Eglington Street,scattered clouds,west
-5,18,30,City Hall - Eglington Street,scattered clouds,west
-5,19,0,City Hall - Eglington Street,scattered clouds,west
-5,19,30,City Hall - Eglington Street,scattered clouds,west
-5,20,0,City Hall - Eglington Street,scattered clouds,west
-5,20,30,City Hall - Eglington Street,scattered clouds,west
-5,21,0,City Hall - Eglington Street,scattered clouds,west
-5,21,30,City Hall - Eglington Street,scattered clouds,west
-5,22,0,City Hall - Eglington Street,scattered clouds,west
-5,22,30,City Hall - Eglington Street,scattered clouds,west
-5,23,0,City Hall - Eglington Street,scattered clouds,west
-5,23,30,City Hall - Eglington Street,scattered clouds,west
-5,0,0,Black Ash Park & Ride,scattered clouds,west
-5,0,30,Black Ash Park & Ride,scattered clouds,west
-5,1,0,Black Ash Park & Ride,scattered clouds,west
-5,1,30,Black Ash Park & Ride,scattered clouds,west
-5,2,0,Black Ash Park & Ride,scattered clouds,west
-5,2,30,Black Ash Park & Ride,scattered clouds,west
-5,3,0,Black Ash Park & Ride,scattered clouds,west
-5,3,30,Black Ash Park & Ride,scattered clouds,west
-5,4,0,Black Ash Park & Ride,scattered clouds,west
-5,4,30,Black Ash Park & Ride,scattered clouds,west
-5,5,0,Black Ash Park & Ride,scattered clouds,west
-5,5,30,Black Ash Park & Ride,scattered clouds,west
-5,6,0,Black Ash Park & Ride,scattered clouds,west
-5,6,30,Black Ash Park & Ride,scattered clouds,west
-5,7,0,Black Ash Park & Ride,scattered clouds,west
-5,7,30,Black Ash Park & Ride,scattered clouds,west
-5,8,0,Black Ash Park & Ride,scattered clouds,west
-5,8,30,Black Ash Park & Ride,scattered clouds,west
-5,9,0,Black Ash Park & Ride,scattered clouds,west
-5,9,30,Black Ash Park & Ride,scattered clouds,west
-5,10,0,Black Ash Park & Ride,scattered clouds,west
-5,10,30,Black Ash Park & Ride,scattered clouds,west
-5,11,0,Black Ash Park & Ride,scattered clouds,west
-5,11,30,Black Ash Park & Ride,scattered clouds,west
-5,12,0,Black Ash Park & Ride,scattered clouds,west
-5,12,30,Black Ash Park & Ride,scattered clouds,west
-5,13,0,Black Ash Park & Ride,scattered clouds,west
-5,13,30,Black Ash Park & Ride,scattered clouds,west
-5,14,0,Black Ash Park & Ride,scattered clouds,west
-5,14,30,Black Ash Park & Ride,scattered clouds,west
-5,15,0,Black Ash Park & Ride,scattered clouds,west
-5,15,30,Black Ash Park & Ride,scattered clouds,west
-5,16,0,Black Ash Park & Ride,scattered clouds,west
-5,16,30,Black Ash Park & Ride,scattered clouds,west
-5,17,0,Black Ash Park & Ride,scattered clouds,west
-5,17,30,Black Ash Park & Ride,scattered clouds,west
-5,18,0,Black Ash Park & Ride,scattered clouds,west
-5,18,30,Black Ash Park & Ride,scattered clouds,west
-5,19,0,Black Ash Park & Ride,scattered clouds,west
-5,19,30,Black Ash Park & Ride,scattered clouds,west
-5,20,0,Black Ash Park & Ride,scattered clouds,west
-5,20,30,Black Ash Park & Ride,scattered clouds,west
-5,21,0,Black Ash Park & Ride,scattered clouds,west
-5,21,30,Black Ash Park & Ride,scattered clouds,west
-5,22,0,Black Ash Park & Ride,scattered clouds,west
-5,22,30,Black Ash Park & Ride,scattered clouds,west
-5,23,0,Black Ash Park & Ride,scattered clouds,west
-5,23,30,Black Ash Park & Ride,scattered clouds,west
-5,0,0,North Main Street,scattered clouds,west
-5,0,30,North Main Street,scattered clouds,west
-5,1,0,North Main Street,scattered clouds,west
-5,1,30,North Main Street,scattered clouds,west
-5,2,0,North Main Street,scattered clouds,west
-5,2,30,North Main Street,scattered clouds,west
-5,3,0,North Main Street,scattered clouds,west
-5,3,30,North Main Street,scattered clouds,west
-5,4,0,North Main Street,scattered clouds,west
-5,4,30,North Main Street,scattered clouds,west
-5,5,0,North Main Street,scattered clouds,west
-5,5,30,North Main Street,scattered clouds,west
-5,6,0,North Main Street,scattered clouds,west
-5,6,30,North Main Street,scattered clouds,west
-5,7,0,North Main Street,scattered clouds,west
-5,7,30,North Main Street,scattered clouds,west
-5,8,0,North Main Street,scattered clouds,west
-5,8,30,North Main Street,scattered clouds,west
-5,9,0,North Main Street,scattered clouds,west
-5,9,30,North Main Street,scattered clouds,west
-5,10,0,North Main Street,scattered clouds,west
-5,10,30,North Main Street,scattered clouds,west
-5,11,0,North Main Street,scattered clouds,west
-5,11,30,North Main Street,scattered clouds,west
-5,12,0,North Main Street,scattered clouds,west
-5,12,30,North Main Street,scattered clouds,west
-5,13,0,North Main Street,scattered clouds,west
-5,13,30,North Main Street,scattered clouds,west
-5,14,0,North Main Street,scattered clouds,west
-5,14,30,North Main Street,scattered clouds,west
-5,15,0,North Main Street,scattered clouds,west
-5,15,30,North Main Street,scattered clouds,west
-5,16,0,North Main Street,scattered clouds,west
-5,16,30,North Main Street,scattered clouds,west
-5,17,0,North Main Street,scattered clouds,west
-5,17,30,North Main Street,scattered clouds,west
-5,18,0,North Main Street,scattered clouds,west
-5,18,30,North Main Street,scattered clouds,west
-5,19,0,North Main Street,scattered clouds,west
-5,19,30,North Main Street,scattered clouds,west
-5,20,0,North Main Street,scattered clouds,west
-5,20,30,North Main Street,scattered clouds,west
-5,21,0,North Main Street,scattered clouds,west
-5,21,30,North Main Street,scattered clouds,west
-5,22,0,North Main Street,scattered clouds,west
-5,22,30,North Main Street,scattered clouds,west
-5,23,0,North Main Street,scattered clouds,west
-5,23,30,North Main Street,scattered clouds,west
-5,0,0,Paul Street,scattered clouds,west
-5,0,30,Paul Street,scattered clouds,west
-5,1,0,Paul Street,scattered clouds,west
-5,1,30,Paul Street,scattered clouds,west
-5,2,0,Paul Street,scattered clouds,west
-5,2,30,Paul Street,scattered clouds,west
-5,3,0,Paul Street,scattered clouds,west
-5,3,30,Paul Street,scattered clouds,west
-5,4,0,Paul Street,scattered clouds,west
-5,4,30,Paul Street,scattered clouds,west
-5,5,0,Paul Street,scattered clouds,west
-5,5,30,Paul Street,scattered clouds,west
-5,6,0,Paul Street,scattered clouds,west
-5,6,30,Paul Street,scattered clouds,west
-5,7,0,Paul Street,scattered clouds,west
-5,7,30,Paul Street,scattered clouds,west
-5,8,0,Paul Street,scattered clouds,west
-5,8,30,Paul Street,scattered clouds,west
-5,9,0,Paul Street,scattered clouds,west
-5,9,30,Paul Street,scattered clouds,west
-5,10,0,Paul Street,scattered clouds,west
-5,10,30,Paul Street,scattered clouds,west
-5,11,0,Paul Street,scattered clouds,west
-5,11,30,Paul Street,scattered clouds,west
-5,12,0,Paul Street,scattered clouds,west
-5,12,30,Paul Street,scattered clouds,west
-5,13,0,Paul Street,scattered clouds,west
-5,13,30,Paul Street,scattered clouds,west
-5,14,0,Paul Street,scattered clouds,west
-5,14,30,Paul Street,scattered clouds,west
-5,15,0,Paul Street,scattered clouds,west
-5,15,30,Paul Street,scattered clouds,west
-5,16,0,Paul Street,scattered clouds,west
-5,16,30,Paul Street,scattered clouds,west
-5,17,0,Paul Street,scattered clouds,west
-5,17,30,Paul Street,scattered clouds,west
-5,18,0,Paul Street,scattered clouds,west
-5,18,30,Paul Street,scattered clouds,west
-5,19,0,Paul Street,scattered clouds,west
-5,19,30,Paul Street,scattered clouds,west
-5,20,0,Paul Street,scattered clouds,west
-5,20,30,Paul Street,scattered clouds,west
-5,21,0,Paul Street,scattered clouds,west
-5,21,30,Paul Street,scattered clouds,west
-5,22,0,Paul Street,scattered clouds,west
-5,22,30,Paul Street,scattered clouds,west
-5,23,0,Paul Street,scattered clouds,west
-5,23,30,Paul Street,scattered clouds,west
+1,0,0,Saint Finbarr's,scattered clouds,north
+1,0,30,Saint Finbarr's,scattered clouds,north
+1,1,0,Saint Finbarr's,scattered clouds,north
+1,1,30,Saint Finbarr's,scattered clouds,north
+1,2,0,Saint Finbarr's,scattered clouds,north
+1,2,30,Saint Finbarr's,scattered clouds,north
+1,3,0,Saint Finbarr's,scattered clouds,north
+1,3,30,Saint Finbarr's,scattered clouds,north
+1,4,0,Saint Finbarr's,scattered clouds,north
+1,4,30,Saint Finbarr's,scattered clouds,north
+1,5,0,Saint Finbarr's,scattered clouds,north
+1,5,30,Saint Finbarr's,scattered clouds,north
+1,6,0,Saint Finbarr's,scattered clouds,north
+1,6,30,Saint Finbarr's,scattered clouds,north
+1,7,0,Saint Finbarr's,scattered clouds,north
+1,7,30,Saint Finbarr's,scattered clouds,north
+1,8,0,Saint Finbarr's,scattered clouds,north
+1,8,30,Saint Finbarr's,scattered clouds,north
+1,9,0,Saint Finbarr's,scattered clouds,north
+1,9,30,Saint Finbarr's,scattered clouds,north
+1,10,0,Saint Finbarr's,scattered clouds,north
+1,10,30,Saint Finbarr's,scattered clouds,north
+1,11,0,Saint Finbarr's,scattered clouds,north
+1,11,30,Saint Finbarr's,scattered clouds,north
+1,12,0,Saint Finbarr's,scattered clouds,north
+1,12,30,Saint Finbarr's,scattered clouds,north
+1,13,0,Saint Finbarr's,scattered clouds,north
+1,13,30,Saint Finbarr's,scattered clouds,north
+1,14,0,Saint Finbarr's,scattered clouds,north
+1,14,30,Saint Finbarr's,scattered clouds,north
+1,15,0,Saint Finbarr's,scattered clouds,north
+1,15,30,Saint Finbarr's,scattered clouds,north
+1,16,0,Saint Finbarr's,scattered clouds,north
+1,16,30,Saint Finbarr's,scattered clouds,north
+1,17,0,Saint Finbarr's,scattered clouds,north
+1,17,30,Saint Finbarr's,scattered clouds,north
+1,18,0,Saint Finbarr's,scattered clouds,north
+1,18,30,Saint Finbarr's,scattered clouds,north
+1,19,0,Saint Finbarr's,scattered clouds,north
+1,19,30,Saint Finbarr's,scattered clouds,north
+1,20,0,Saint Finbarr's,scattered clouds,north
+1,20,30,Saint Finbarr's,scattered clouds,north
+1,21,0,Saint Finbarr's,scattered clouds,north
+1,21,30,Saint Finbarr's,scattered clouds,north
+1,22,0,Saint Finbarr's,scattered clouds,north
+1,22,30,Saint Finbarr's,scattered clouds,north
+1,23,0,Saint Finbarr's,scattered clouds,north
+1,23,30,Saint Finbarr's,scattered clouds,north
+1,0,0,Merchants Quay,scattered clouds,north
+1,0,30,Merchants Quay,scattered clouds,north
+1,1,0,Merchants Quay,scattered clouds,north
+1,1,30,Merchants Quay,scattered clouds,north
+1,2,0,Merchants Quay,scattered clouds,north
+1,2,30,Merchants Quay,scattered clouds,north
+1,3,0,Merchants Quay,scattered clouds,north
+1,3,30,Merchants Quay,scattered clouds,north
+1,4,0,Merchants Quay,scattered clouds,north
+1,4,30,Merchants Quay,scattered clouds,north
+1,5,0,Merchants Quay,scattered clouds,north
+1,5,30,Merchants Quay,scattered clouds,north
+1,6,0,Merchants Quay,scattered clouds,north
+1,6,30,Merchants Quay,scattered clouds,north
+1,7,0,Merchants Quay,scattered clouds,north
+1,7,30,Merchants Quay,scattered clouds,north
+1,8,0,Merchants Quay,scattered clouds,north
+1,8,30,Merchants Quay,scattered clouds,north
+1,9,0,Merchants Quay,scattered clouds,north
+1,9,30,Merchants Quay,scattered clouds,north
+1,10,0,Merchants Quay,scattered clouds,north
+1,10,30,Merchants Quay,scattered clouds,north
+1,11,0,Merchants Quay,scattered clouds,north
+1,11,30,Merchants Quay,scattered clouds,north
+1,12,0,Merchants Quay,scattered clouds,north
+1,12,30,Merchants Quay,scattered clouds,north
+1,13,0,Merchants Quay,scattered clouds,north
+1,13,30,Merchants Quay,scattered clouds,north
+1,14,0,Merchants Quay,scattered clouds,north
+1,14,30,Merchants Quay,scattered clouds,north
+1,15,0,Merchants Quay,scattered clouds,north
+1,15,30,Merchants Quay,scattered clouds,north
+1,16,0,Merchants Quay,scattered clouds,north
+1,16,30,Merchants Quay,scattered clouds,north
+1,17,0,Merchants Quay,scattered clouds,north
+1,17,30,Merchants Quay,scattered clouds,north
+1,18,0,Merchants Quay,scattered clouds,north
+1,18,30,Merchants Quay,scattered clouds,north
+1,19,0,Merchants Quay,scattered clouds,north
+1,19,30,Merchants Quay,scattered clouds,north
+1,20,0,Merchants Quay,scattered clouds,north
+1,20,30,Merchants Quay,scattered clouds,north
+1,21,0,Merchants Quay,scattered clouds,north
+1,21,30,Merchants Quay,scattered clouds,north
+1,22,0,Merchants Quay,scattered clouds,north
+1,22,30,Merchants Quay,scattered clouds,north
+1,23,0,Merchants Quay,scattered clouds,north
+1,23,30,Merchants Quay,scattered clouds,north
+1,0,0,Grand Parade,scattered clouds,north
+1,0,30,Grand Parade,scattered clouds,north
+1,1,0,Grand Parade,scattered clouds,north
+1,1,30,Grand Parade,scattered clouds,north
+1,2,0,Grand Parade,scattered clouds,north
+1,2,30,Grand Parade,scattered clouds,north
+1,3,0,Grand Parade,scattered clouds,north
+1,3,30,Grand Parade,scattered clouds,north
+1,4,0,Grand Parade,scattered clouds,north
+1,4,30,Grand Parade,scattered clouds,north
+1,5,0,Grand Parade,scattered clouds,north
+1,5,30,Grand Parade,scattered clouds,north
+1,6,0,Grand Parade,scattered clouds,north
+1,6,30,Grand Parade,scattered clouds,north
+1,7,0,Grand Parade,scattered clouds,north
+1,7,30,Grand Parade,scattered clouds,north
+1,8,0,Grand Parade,scattered clouds,north
+1,8,30,Grand Parade,scattered clouds,north
+1,9,0,Grand Parade,scattered clouds,north
+1,9,30,Grand Parade,scattered clouds,north
+1,10,0,Grand Parade,scattered clouds,north
+1,10,30,Grand Parade,scattered clouds,north
+1,11,0,Grand Parade,scattered clouds,north
+1,11,30,Grand Parade,scattered clouds,north
+1,12,0,Grand Parade,scattered clouds,north
+1,12,30,Grand Parade,scattered clouds,north
+1,13,0,Grand Parade,scattered clouds,north
+1,13,30,Grand Parade,scattered clouds,north
+1,14,0,Grand Parade,scattered clouds,north
+1,14,30,Grand Parade,scattered clouds,north
+1,15,0,Grand Parade,scattered clouds,north
+1,15,30,Grand Parade,scattered clouds,north
+1,16,0,Grand Parade,scattered clouds,north
+1,16,30,Grand Parade,scattered clouds,north
+1,17,0,Grand Parade,scattered clouds,north
+1,17,30,Grand Parade,scattered clouds,north
+1,18,0,Grand Parade,scattered clouds,north
+1,18,30,Grand Parade,scattered clouds,north
+1,19,0,Grand Parade,scattered clouds,north
+1,19,30,Grand Parade,scattered clouds,north
+1,20,0,Grand Parade,scattered clouds,north
+1,20,30,Grand Parade,scattered clouds,north
+1,21,0,Grand Parade,scattered clouds,north
+1,21,30,Grand Parade,scattered clouds,north
+1,22,0,Grand Parade,scattered clouds,north
+1,22,30,Grand Parade,scattered clouds,north
+1,23,0,Grand Parade,scattered clouds,north
+1,23,30,Grand Parade,scattered clouds,north
+1,0,0,Carrolls Quay,scattered clouds,north
+1,0,30,Carrolls Quay,scattered clouds,north
+1,1,0,Carrolls Quay,scattered clouds,north
+1,1,30,Carrolls Quay,scattered clouds,north
+1,2,0,Carrolls Quay,scattered clouds,north
+1,2,30,Carrolls Quay,scattered clouds,north
+1,3,0,Carrolls Quay,scattered clouds,north
+1,3,30,Carrolls Quay,scattered clouds,north
+1,4,0,Carrolls Quay,scattered clouds,north
+1,4,30,Carrolls Quay,scattered clouds,north
+1,5,0,Carrolls Quay,scattered clouds,north
+1,5,30,Carrolls Quay,scattered clouds,north
+1,6,0,Carrolls Quay,scattered clouds,north
+1,6,30,Carrolls Quay,scattered clouds,north
+1,7,0,Carrolls Quay,scattered clouds,north
+1,7,30,Carrolls Quay,scattered clouds,north
+1,8,0,Carrolls Quay,scattered clouds,north
+1,8,30,Carrolls Quay,scattered clouds,north
+1,9,0,Carrolls Quay,scattered clouds,north
+1,9,30,Carrolls Quay,scattered clouds,north
+1,10,0,Carrolls Quay,scattered clouds,north
+1,10,30,Carrolls Quay,scattered clouds,north
+1,11,0,Carrolls Quay,scattered clouds,north
+1,11,30,Carrolls Quay,scattered clouds,north
+1,12,0,Carrolls Quay,scattered clouds,north
+1,12,30,Carrolls Quay,scattered clouds,north
+1,13,0,Carrolls Quay,scattered clouds,north
+1,13,30,Carrolls Quay,scattered clouds,north
+1,14,0,Carrolls Quay,scattered clouds,north
+1,14,30,Carrolls Quay,scattered clouds,north
+1,15,0,Carrolls Quay,scattered clouds,north
+1,15,30,Carrolls Quay,scattered clouds,north
+1,16,0,Carrolls Quay,scattered clouds,north
+1,16,30,Carrolls Quay,scattered clouds,north
+1,17,0,Carrolls Quay,scattered clouds,north
+1,17,30,Carrolls Quay,scattered clouds,north
+1,18,0,Carrolls Quay,scattered clouds,north
+1,18,30,Carrolls Quay,scattered clouds,north
+1,19,0,Carrolls Quay,scattered clouds,north
+1,19,30,Carrolls Quay,scattered clouds,north
+1,20,0,Carrolls Quay,scattered clouds,north
+1,20,30,Carrolls Quay,scattered clouds,north
+1,21,0,Carrolls Quay,scattered clouds,north
+1,21,30,Carrolls Quay,scattered clouds,north
+1,22,0,Carrolls Quay,scattered clouds,north
+1,22,30,Carrolls Quay,scattered clouds,north
+1,23,0,Carrolls Quay,scattered clouds,north
+1,23,30,Carrolls Quay,scattered clouds,north
+1,0,0,City Hall - Eglington Street,scattered clouds,north
+1,0,30,City Hall - Eglington Street,scattered clouds,north
+1,1,0,City Hall - Eglington Street,scattered clouds,north
+1,1,30,City Hall - Eglington Street,scattered clouds,north
+1,2,0,City Hall - Eglington Street,scattered clouds,north
+1,2,30,City Hall - Eglington Street,scattered clouds,north
+1,3,0,City Hall - Eglington Street,scattered clouds,north
+1,3,30,City Hall - Eglington Street,scattered clouds,north
+1,4,0,City Hall - Eglington Street,scattered clouds,north
+1,4,30,City Hall - Eglington Street,scattered clouds,north
+1,5,0,City Hall - Eglington Street,scattered clouds,north
+1,5,30,City Hall - Eglington Street,scattered clouds,north
+1,6,0,City Hall - Eglington Street,scattered clouds,north
+1,6,30,City Hall - Eglington Street,scattered clouds,north
+1,7,0,City Hall - Eglington Street,scattered clouds,north
+1,7,30,City Hall - Eglington Street,scattered clouds,north
+1,8,0,City Hall - Eglington Street,scattered clouds,north
+1,8,30,City Hall - Eglington Street,scattered clouds,north
+1,9,0,City Hall - Eglington Street,scattered clouds,north
+1,9,30,City Hall - Eglington Street,scattered clouds,north
+1,10,0,City Hall - Eglington Street,scattered clouds,north
+1,10,30,City Hall - Eglington Street,scattered clouds,north
+1,11,0,City Hall - Eglington Street,scattered clouds,north
+1,11,30,City Hall - Eglington Street,scattered clouds,north
+1,12,0,City Hall - Eglington Street,scattered clouds,north
+1,12,30,City Hall - Eglington Street,scattered clouds,north
+1,13,0,City Hall - Eglington Street,scattered clouds,north
+1,13,30,City Hall - Eglington Street,scattered clouds,north
+1,14,0,City Hall - Eglington Street,scattered clouds,north
+1,14,30,City Hall - Eglington Street,scattered clouds,north
+1,15,0,City Hall - Eglington Street,scattered clouds,north
+1,15,30,City Hall - Eglington Street,scattered clouds,north
+1,16,0,City Hall - Eglington Street,scattered clouds,north
+1,16,30,City Hall - Eglington Street,scattered clouds,north
+1,17,0,City Hall - Eglington Street,scattered clouds,north
+1,17,30,City Hall - Eglington Street,scattered clouds,north
+1,18,0,City Hall - Eglington Street,scattered clouds,north
+1,18,30,City Hall - Eglington Street,scattered clouds,north
+1,19,0,City Hall - Eglington Street,scattered clouds,north
+1,19,30,City Hall - Eglington Street,scattered clouds,north
+1,20,0,City Hall - Eglington Street,scattered clouds,north
+1,20,30,City Hall - Eglington Street,scattered clouds,north
+1,21,0,City Hall - Eglington Street,scattered clouds,north
+1,21,30,City Hall - Eglington Street,scattered clouds,north
+1,22,0,City Hall - Eglington Street,scattered clouds,north
+1,22,30,City Hall - Eglington Street,scattered clouds,north
+1,23,0,City Hall - Eglington Street,scattered clouds,north
+1,23,30,City Hall - Eglington Street,scattered clouds,north
+1,0,0,Black Ash Park & Ride,scattered clouds,north
+1,0,30,Black Ash Park & Ride,scattered clouds,north
+1,1,0,Black Ash Park & Ride,scattered clouds,north
+1,1,30,Black Ash Park & Ride,scattered clouds,north
+1,2,0,Black Ash Park & Ride,scattered clouds,north
+1,2,30,Black Ash Park & Ride,scattered clouds,north
+1,3,0,Black Ash Park & Ride,scattered clouds,north
+1,3,30,Black Ash Park & Ride,scattered clouds,north
+1,4,0,Black Ash Park & Ride,scattered clouds,north
+1,4,30,Black Ash Park & Ride,scattered clouds,north
+1,5,0,Black Ash Park & Ride,scattered clouds,north
+1,5,30,Black Ash Park & Ride,scattered clouds,north
+1,6,0,Black Ash Park & Ride,scattered clouds,north
+1,6,30,Black Ash Park & Ride,scattered clouds,north
+1,7,0,Black Ash Park & Ride,scattered clouds,north
+1,7,30,Black Ash Park & Ride,scattered clouds,north
+1,8,0,Black Ash Park & Ride,scattered clouds,north
+1,8,30,Black Ash Park & Ride,scattered clouds,north
+1,9,0,Black Ash Park & Ride,scattered clouds,north
+1,9,30,Black Ash Park & Ride,scattered clouds,north
+1,10,0,Black Ash Park & Ride,scattered clouds,north
+1,10,30,Black Ash Park & Ride,scattered clouds,north
+1,11,0,Black Ash Park & Ride,scattered clouds,north
+1,11,30,Black Ash Park & Ride,scattered clouds,north
+1,12,0,Black Ash Park & Ride,scattered clouds,north
+1,12,30,Black Ash Park & Ride,scattered clouds,north
+1,13,0,Black Ash Park & Ride,scattered clouds,north
+1,13,30,Black Ash Park & Ride,scattered clouds,north
+1,14,0,Black Ash Park & Ride,scattered clouds,north
+1,14,30,Black Ash Park & Ride,scattered clouds,north
+1,15,0,Black Ash Park & Ride,scattered clouds,north
+1,15,30,Black Ash Park & Ride,scattered clouds,north
+1,16,0,Black Ash Park & Ride,scattered clouds,north
+1,16,30,Black Ash Park & Ride,scattered clouds,north
+1,17,0,Black Ash Park & Ride,scattered clouds,north
+1,17,30,Black Ash Park & Ride,scattered clouds,north
+1,18,0,Black Ash Park & Ride,scattered clouds,north
+1,18,30,Black Ash Park & Ride,scattered clouds,north
+1,19,0,Black Ash Park & Ride,scattered clouds,north
+1,19,30,Black Ash Park & Ride,scattered clouds,north
+1,20,0,Black Ash Park & Ride,scattered clouds,north
+1,20,30,Black Ash Park & Ride,scattered clouds,north
+1,21,0,Black Ash Park & Ride,scattered clouds,north
+1,21,30,Black Ash Park & Ride,scattered clouds,north
+1,22,0,Black Ash Park & Ride,scattered clouds,north
+1,22,30,Black Ash Park & Ride,scattered clouds,north
+1,23,0,Black Ash Park & Ride,scattered clouds,north
+1,23,30,Black Ash Park & Ride,scattered clouds,north
+1,0,0,North Main Street,scattered clouds,north
+1,0,30,North Main Street,scattered clouds,north
+1,1,0,North Main Street,scattered clouds,north
+1,1,30,North Main Street,scattered clouds,north
+1,2,0,North Main Street,scattered clouds,north
+1,2,30,North Main Street,scattered clouds,north
+1,3,0,North Main Street,scattered clouds,north
+1,3,30,North Main Street,scattered clouds,north
+1,4,0,North Main Street,scattered clouds,north
+1,4,30,North Main Street,scattered clouds,north
+1,5,0,North Main Street,scattered clouds,north
+1,5,30,North Main Street,scattered clouds,north
+1,6,0,North Main Street,scattered clouds,north
+1,6,30,North Main Street,scattered clouds,north
+1,7,0,North Main Street,scattered clouds,north
+1,7,30,North Main Street,scattered clouds,north
+1,8,0,North Main Street,scattered clouds,north
+1,8,30,North Main Street,scattered clouds,north
+1,9,0,North Main Street,scattered clouds,north
+1,9,30,North Main Street,scattered clouds,north
+1,10,0,North Main Street,scattered clouds,north
+1,10,30,North Main Street,scattered clouds,north
+1,11,0,North Main Street,scattered clouds,north
+1,11,30,North Main Street,scattered clouds,north
+1,12,0,North Main Street,scattered clouds,north
+1,12,30,North Main Street,scattered clouds,north
+1,13,0,North Main Street,scattered clouds,north
+1,13,30,North Main Street,scattered clouds,north
+1,14,0,North Main Street,scattered clouds,north
+1,14,30,North Main Street,scattered clouds,north
+1,15,0,North Main Street,scattered clouds,north
+1,15,30,North Main Street,scattered clouds,north
+1,16,0,North Main Street,scattered clouds,north
+1,16,30,North Main Street,scattered clouds,north
+1,17,0,North Main Street,scattered clouds,north
+1,17,30,North Main Street,scattered clouds,north
+1,18,0,North Main Street,scattered clouds,north
+1,18,30,North Main Street,scattered clouds,north
+1,19,0,North Main Street,scattered clouds,north
+1,19,30,North Main Street,scattered clouds,north
+1,20,0,North Main Street,scattered clouds,north
+1,20,30,North Main Street,scattered clouds,north
+1,21,0,North Main Street,scattered clouds,north
+1,21,30,North Main Street,scattered clouds,north
+1,22,0,North Main Street,scattered clouds,north
+1,22,30,North Main Street,scattered clouds,north
+1,23,0,North Main Street,scattered clouds,north
+1,23,30,North Main Street,scattered clouds,north
+1,0,0,Paul Street,scattered clouds,north
+1,0,30,Paul Street,scattered clouds,north
+1,1,0,Paul Street,scattered clouds,north
+1,1,30,Paul Street,scattered clouds,north
+1,2,0,Paul Street,scattered clouds,north
+1,2,30,Paul Street,scattered clouds,north
+1,3,0,Paul Street,scattered clouds,north
+1,3,30,Paul Street,scattered clouds,north
+1,4,0,Paul Street,scattered clouds,north
+1,4,30,Paul Street,scattered clouds,north
+1,5,0,Paul Street,scattered clouds,north
+1,5,30,Paul Street,scattered clouds,north
+1,6,0,Paul Street,scattered clouds,north
+1,6,30,Paul Street,scattered clouds,north
+1,7,0,Paul Street,scattered clouds,north
+1,7,30,Paul Street,scattered clouds,north
+1,8,0,Paul Street,scattered clouds,north
+1,8,30,Paul Street,scattered clouds,north
+1,9,0,Paul Street,scattered clouds,north
+1,9,30,Paul Street,scattered clouds,north
+1,10,0,Paul Street,scattered clouds,north
+1,10,30,Paul Street,scattered clouds,north
+1,11,0,Paul Street,scattered clouds,north
+1,11,30,Paul Street,scattered clouds,north
+1,12,0,Paul Street,scattered clouds,north
+1,12,30,Paul Street,scattered clouds,north
+1,13,0,Paul Street,scattered clouds,north
+1,13,30,Paul Street,scattered clouds,north
+1,14,0,Paul Street,scattered clouds,north
+1,14,30,Paul Street,scattered clouds,north
+1,15,0,Paul Street,scattered clouds,north
+1,15,30,Paul Street,scattered clouds,north
+1,16,0,Paul Street,scattered clouds,north
+1,16,30,Paul Street,scattered clouds,north
+1,17,0,Paul Street,scattered clouds,north
+1,17,30,Paul Street,scattered clouds,north
+1,18,0,Paul Street,scattered clouds,north
+1,18,30,Paul Street,scattered clouds,north
+1,19,0,Paul Street,scattered clouds,north
+1,19,30,Paul Street,scattered clouds,north
+1,20,0,Paul Street,scattered clouds,north
+1,20,30,Paul Street,scattered clouds,north
+1,21,0,Paul Street,scattered clouds,north
+1,21,30,Paul Street,scattered clouds,north
+1,22,0,Paul Street,scattered clouds,north
+1,22,30,Paul Street,scattered clouds,north
+1,23,0,Paul Street,scattered clouds,north
+1,23,30,Paul Street,scattered clouds,north
+1,0,0,Saint Finbarr's,scattered clouds,south
+1,0,30,Saint Finbarr's,scattered clouds,south
+1,1,0,Saint Finbarr's,scattered clouds,south
+1,1,30,Saint Finbarr's,scattered clouds,south
+1,2,0,Saint Finbarr's,scattered clouds,south
+1,2,30,Saint Finbarr's,scattered clouds,south
+1,3,0,Saint Finbarr's,scattered clouds,south
+1,3,30,Saint Finbarr's,scattered clouds,south
+1,4,0,Saint Finbarr's,scattered clouds,south
+1,4,30,Saint Finbarr's,scattered clouds,south
+1,5,0,Saint Finbarr's,scattered clouds,south
+1,5,30,Saint Finbarr's,scattered clouds,south
+1,6,0,Saint Finbarr's,scattered clouds,south
+1,6,30,Saint Finbarr's,scattered clouds,south
+1,7,0,Saint Finbarr's,scattered clouds,south
+1,7,30,Saint Finbarr's,scattered clouds,south
+1,8,0,Saint Finbarr's,scattered clouds,south
+1,8,30,Saint Finbarr's,scattered clouds,south
+1,9,0,Saint Finbarr's,scattered clouds,south
+1,9,30,Saint Finbarr's,scattered clouds,south
+1,10,0,Saint Finbarr's,scattered clouds,south
+1,10,30,Saint Finbarr's,scattered clouds,south
+1,11,0,Saint Finbarr's,scattered clouds,south
+1,11,30,Saint Finbarr's,scattered clouds,south
+1,12,0,Saint Finbarr's,scattered clouds,south
+1,12,30,Saint Finbarr's,scattered clouds,south
+1,13,0,Saint Finbarr's,scattered clouds,south
+1,13,30,Saint Finbarr's,scattered clouds,south
+1,14,0,Saint Finbarr's,scattered clouds,south
+1,14,30,Saint Finbarr's,scattered clouds,south
+1,15,0,Saint Finbarr's,scattered clouds,south
+1,15,30,Saint Finbarr's,scattered clouds,south
+1,16,0,Saint Finbarr's,scattered clouds,south
+1,16,30,Saint Finbarr's,scattered clouds,south
+1,17,0,Saint Finbarr's,scattered clouds,south
+1,17,30,Saint Finbarr's,scattered clouds,south
+1,18,0,Saint Finbarr's,scattered clouds,south
+1,18,30,Saint Finbarr's,scattered clouds,south
+1,19,0,Saint Finbarr's,scattered clouds,south
+1,19,30,Saint Finbarr's,scattered clouds,south
+1,20,0,Saint Finbarr's,scattered clouds,south
+1,20,30,Saint Finbarr's,scattered clouds,south
+1,21,0,Saint Finbarr's,scattered clouds,south
+1,21,30,Saint Finbarr's,scattered clouds,south
+1,22,0,Saint Finbarr's,scattered clouds,south
+1,22,30,Saint Finbarr's,scattered clouds,south
+1,23,0,Saint Finbarr's,scattered clouds,south
+1,23,30,Saint Finbarr's,scattered clouds,south
+1,0,0,Merchants Quay,scattered clouds,south
+1,0,30,Merchants Quay,scattered clouds,south
+1,1,0,Merchants Quay,scattered clouds,south
+1,1,30,Merchants Quay,scattered clouds,south
+1,2,0,Merchants Quay,scattered clouds,south
+1,2,30,Merchants Quay,scattered clouds,south
+1,3,0,Merchants Quay,scattered clouds,south
+1,3,30,Merchants Quay,scattered clouds,south
+1,4,0,Merchants Quay,scattered clouds,south
+1,4,30,Merchants Quay,scattered clouds,south
+1,5,0,Merchants Quay,scattered clouds,south
+1,5,30,Merchants Quay,scattered clouds,south
+1,6,0,Merchants Quay,scattered clouds,south
+1,6,30,Merchants Quay,scattered clouds,south
+1,7,0,Merchants Quay,scattered clouds,south
+1,7,30,Merchants Quay,scattered clouds,south
+1,8,0,Merchants Quay,scattered clouds,south
+1,8,30,Merchants Quay,scattered clouds,south
+1,9,0,Merchants Quay,scattered clouds,south
+1,9,30,Merchants Quay,scattered clouds,south
+1,10,0,Merchants Quay,scattered clouds,south
+1,10,30,Merchants Quay,scattered clouds,south
+1,11,0,Merchants Quay,scattered clouds,south
+1,11,30,Merchants Quay,scattered clouds,south
+1,12,0,Merchants Quay,scattered clouds,south
+1,12,30,Merchants Quay,scattered clouds,south
+1,13,0,Merchants Quay,scattered clouds,south
+1,13,30,Merchants Quay,scattered clouds,south
+1,14,0,Merchants Quay,scattered clouds,south
+1,14,30,Merchants Quay,scattered clouds,south
+1,15,0,Merchants Quay,scattered clouds,south
+1,15,30,Merchants Quay,scattered clouds,south
+1,16,0,Merchants Quay,scattered clouds,south
+1,16,30,Merchants Quay,scattered clouds,south
+1,17,0,Merchants Quay,scattered clouds,south
+1,17,30,Merchants Quay,scattered clouds,south
+1,18,0,Merchants Quay,scattered clouds,south
+1,18,30,Merchants Quay,scattered clouds,south
+1,19,0,Merchants Quay,scattered clouds,south
+1,19,30,Merchants Quay,scattered clouds,south
+1,20,0,Merchants Quay,scattered clouds,south
+1,20,30,Merchants Quay,scattered clouds,south
+1,21,0,Merchants Quay,scattered clouds,south
+1,21,30,Merchants Quay,scattered clouds,south
+1,22,0,Merchants Quay,scattered clouds,south
+1,22,30,Merchants Quay,scattered clouds,south
+1,23,0,Merchants Quay,scattered clouds,south
+1,23,30,Merchants Quay,scattered clouds,south
+1,0,0,Grand Parade,scattered clouds,south
+1,0,30,Grand Parade,scattered clouds,south
+1,1,0,Grand Parade,scattered clouds,south
+1,1,30,Grand Parade,scattered clouds,south
+1,2,0,Grand Parade,scattered clouds,south
+1,2,30,Grand Parade,scattered clouds,south
+1,3,0,Grand Parade,scattered clouds,south
+1,3,30,Grand Parade,scattered clouds,south
+1,4,0,Grand Parade,scattered clouds,south
+1,4,30,Grand Parade,scattered clouds,south
+1,5,0,Grand Parade,scattered clouds,south
+1,5,30,Grand Parade,scattered clouds,south
+1,6,0,Grand Parade,scattered clouds,south
+1,6,30,Grand Parade,scattered clouds,south
+1,7,0,Grand Parade,scattered clouds,south
+1,7,30,Grand Parade,scattered clouds,south
+1,8,0,Grand Parade,scattered clouds,south
+1,8,30,Grand Parade,scattered clouds,south
+1,9,0,Grand Parade,scattered clouds,south
+1,9,30,Grand Parade,scattered clouds,south
+1,10,0,Grand Parade,scattered clouds,south
+1,10,30,Grand Parade,scattered clouds,south
+1,11,0,Grand Parade,scattered clouds,south
+1,11,30,Grand Parade,scattered clouds,south
+1,12,0,Grand Parade,scattered clouds,south
+1,12,30,Grand Parade,scattered clouds,south
+1,13,0,Grand Parade,scattered clouds,south
+1,13,30,Grand Parade,scattered clouds,south
+1,14,0,Grand Parade,scattered clouds,south
+1,14,30,Grand Parade,scattered clouds,south
+1,15,0,Grand Parade,scattered clouds,south
+1,15,30,Grand Parade,scattered clouds,south
+1,16,0,Grand Parade,scattered clouds,south
+1,16,30,Grand Parade,scattered clouds,south
+1,17,0,Grand Parade,scattered clouds,south
+1,17,30,Grand Parade,scattered clouds,south
+1,18,0,Grand Parade,scattered clouds,south
+1,18,30,Grand Parade,scattered clouds,south
+1,19,0,Grand Parade,scattered clouds,south
+1,19,30,Grand Parade,scattered clouds,south
+1,20,0,Grand Parade,scattered clouds,south
+1,20,30,Grand Parade,scattered clouds,south
+1,21,0,Grand Parade,scattered clouds,south
+1,21,30,Grand Parade,scattered clouds,south
+1,22,0,Grand Parade,scattered clouds,south
+1,22,30,Grand Parade,scattered clouds,south
+1,23,0,Grand Parade,scattered clouds,south
+1,23,30,Grand Parade,scattered clouds,south
+1,0,0,Carrolls Quay,scattered clouds,south
+1,0,30,Carrolls Quay,scattered clouds,south
+1,1,0,Carrolls Quay,scattered clouds,south
+1,1,30,Carrolls Quay,scattered clouds,south
+1,2,0,Carrolls Quay,scattered clouds,south
+1,2,30,Carrolls Quay,scattered clouds,south
+1,3,0,Carrolls Quay,scattered clouds,south
+1,3,30,Carrolls Quay,scattered clouds,south
+1,4,0,Carrolls Quay,scattered clouds,south
+1,4,30,Carrolls Quay,scattered clouds,south
+1,5,0,Carrolls Quay,scattered clouds,south
+1,5,30,Carrolls Quay,scattered clouds,south
+1,6,0,Carrolls Quay,scattered clouds,south
+1,6,30,Carrolls Quay,scattered clouds,south
+1,7,0,Carrolls Quay,scattered clouds,south
+1,7,30,Carrolls Quay,scattered clouds,south
+1,8,0,Carrolls Quay,scattered clouds,south
+1,8,30,Carrolls Quay,scattered clouds,south
+1,9,0,Carrolls Quay,scattered clouds,south
+1,9,30,Carrolls Quay,scattered clouds,south
+1,10,0,Carrolls Quay,scattered clouds,south
+1,10,30,Carrolls Quay,scattered clouds,south
+1,11,0,Carrolls Quay,scattered clouds,south
+1,11,30,Carrolls Quay,scattered clouds,south
+1,12,0,Carrolls Quay,scattered clouds,south
+1,12,30,Carrolls Quay,scattered clouds,south
+1,13,0,Carrolls Quay,scattered clouds,south
+1,13,30,Carrolls Quay,scattered clouds,south
+1,14,0,Carrolls Quay,scattered clouds,south
+1,14,30,Carrolls Quay,scattered clouds,south
+1,15,0,Carrolls Quay,scattered clouds,south
+1,15,30,Carrolls Quay,scattered clouds,south
+1,16,0,Carrolls Quay,scattered clouds,south
+1,16,30,Carrolls Quay,scattered clouds,south
+1,17,0,Carrolls Quay,scattered clouds,south
+1,17,30,Carrolls Quay,scattered clouds,south
+1,18,0,Carrolls Quay,scattered clouds,south
+1,18,30,Carrolls Quay,scattered clouds,south
+1,19,0,Carrolls Quay,scattered clouds,south
+1,19,30,Carrolls Quay,scattered clouds,south
+1,20,0,Carrolls Quay,scattered clouds,south
+1,20,30,Carrolls Quay,scattered clouds,south
+1,21,0,Carrolls Quay,scattered clouds,south
+1,21,30,Carrolls Quay,scattered clouds,south
+1,22,0,Carrolls Quay,scattered clouds,south
+1,22,30,Carrolls Quay,scattered clouds,south
+1,23,0,Carrolls Quay,scattered clouds,south
+1,23,30,Carrolls Quay,scattered clouds,south
+1,0,0,City Hall - Eglington Street,scattered clouds,south
+1,0,30,City Hall - Eglington Street,scattered clouds,south
+1,1,0,City Hall - Eglington Street,scattered clouds,south
+1,1,30,City Hall - Eglington Street,scattered clouds,south
+1,2,0,City Hall - Eglington Street,scattered clouds,south
+1,2,30,City Hall - Eglington Street,scattered clouds,south
+1,3,0,City Hall - Eglington Street,scattered clouds,south
+1,3,30,City Hall - Eglington Street,scattered clouds,south
+1,4,0,City Hall - Eglington Street,scattered clouds,south
+1,4,30,City Hall - Eglington Street,scattered clouds,south
+1,5,0,City Hall - Eglington Street,scattered clouds,south
+1,5,30,City Hall - Eglington Street,scattered clouds,south
+1,6,0,City Hall - Eglington Street,scattered clouds,south
+1,6,30,City Hall - Eglington Street,scattered clouds,south
+1,7,0,City Hall - Eglington Street,scattered clouds,south
+1,7,30,City Hall - Eglington Street,scattered clouds,south
+1,8,0,City Hall - Eglington Street,scattered clouds,south
+1,8,30,City Hall - Eglington Street,scattered clouds,south
+1,9,0,City Hall - Eglington Street,scattered clouds,south
+1,9,30,City Hall - Eglington Street,scattered clouds,south
+1,10,0,City Hall - Eglington Street,scattered clouds,south
+1,10,30,City Hall - Eglington Street,scattered clouds,south
+1,11,0,City Hall - Eglington Street,scattered clouds,south
+1,11,30,City Hall - Eglington Street,scattered clouds,south
+1,12,0,City Hall - Eglington Street,scattered clouds,south
+1,12,30,City Hall - Eglington Street,scattered clouds,south
+1,13,0,City Hall - Eglington Street,scattered clouds,south
+1,13,30,City Hall - Eglington Street,scattered clouds,south
+1,14,0,City Hall - Eglington Street,scattered clouds,south
+1,14,30,City Hall - Eglington Street,scattered clouds,south
+1,15,0,City Hall - Eglington Street,scattered clouds,south
+1,15,30,City Hall - Eglington Street,scattered clouds,south
+1,16,0,City Hall - Eglington Street,scattered clouds,south
+1,16,30,City Hall - Eglington Street,scattered clouds,south
+1,17,0,City Hall - Eglington Street,scattered clouds,south
+1,17,30,City Hall - Eglington Street,scattered clouds,south
+1,18,0,City Hall - Eglington Street,scattered clouds,south
+1,18,30,City Hall - Eglington Street,scattered clouds,south
+1,19,0,City Hall - Eglington Street,scattered clouds,south
+1,19,30,City Hall - Eglington Street,scattered clouds,south
+1,20,0,City Hall - Eglington Street,scattered clouds,south
+1,20,30,City Hall - Eglington Street,scattered clouds,south
+1,21,0,City Hall - Eglington Street,scattered clouds,south
+1,21,30,City Hall - Eglington Street,scattered clouds,south
+1,22,0,City Hall - Eglington Street,scattered clouds,south
+1,22,30,City Hall - Eglington Street,scattered clouds,south
+1,23,0,City Hall - Eglington Street,scattered clouds,south
+1,23,30,City Hall - Eglington Street,scattered clouds,south
+1,0,0,Black Ash Park & Ride,scattered clouds,south
+1,0,30,Black Ash Park & Ride,scattered clouds,south
+1,1,0,Black Ash Park & Ride,scattered clouds,south
+1,1,30,Black Ash Park & Ride,scattered clouds,south
+1,2,0,Black Ash Park & Ride,scattered clouds,south
+1,2,30,Black Ash Park & Ride,scattered clouds,south
+1,3,0,Black Ash Park & Ride,scattered clouds,south
+1,3,30,Black Ash Park & Ride,scattered clouds,south
+1,4,0,Black Ash Park & Ride,scattered clouds,south
+1,4,30,Black Ash Park & Ride,scattered clouds,south
+1,5,0,Black Ash Park & Ride,scattered clouds,south
+1,5,30,Black Ash Park & Ride,scattered clouds,south
+1,6,0,Black Ash Park & Ride,scattered clouds,south
+1,6,30,Black Ash Park & Ride,scattered clouds,south
+1,7,0,Black Ash Park & Ride,scattered clouds,south
+1,7,30,Black Ash Park & Ride,scattered clouds,south
+1,8,0,Black Ash Park & Ride,scattered clouds,south
+1,8,30,Black Ash Park & Ride,scattered clouds,south
+1,9,0,Black Ash Park & Ride,scattered clouds,south
+1,9,30,Black Ash Park & Ride,scattered clouds,south
+1,10,0,Black Ash Park & Ride,scattered clouds,south
+1,10,30,Black Ash Park & Ride,scattered clouds,south
+1,11,0,Black Ash Park & Ride,scattered clouds,south
+1,11,30,Black Ash Park & Ride,scattered clouds,south
+1,12,0,Black Ash Park & Ride,scattered clouds,south
+1,12,30,Black Ash Park & Ride,scattered clouds,south
+1,13,0,Black Ash Park & Ride,scattered clouds,south
+1,13,30,Black Ash Park & Ride,scattered clouds,south
+1,14,0,Black Ash Park & Ride,scattered clouds,south
+1,14,30,Black Ash Park & Ride,scattered clouds,south
+1,15,0,Black Ash Park & Ride,scattered clouds,south
+1,15,30,Black Ash Park & Ride,scattered clouds,south
+1,16,0,Black Ash Park & Ride,scattered clouds,south
+1,16,30,Black Ash Park & Ride,scattered clouds,south
+1,17,0,Black Ash Park & Ride,scattered clouds,south
+1,17,30,Black Ash Park & Ride,scattered clouds,south
+1,18,0,Black Ash Park & Ride,scattered clouds,south
+1,18,30,Black Ash Park & Ride,scattered clouds,south
+1,19,0,Black Ash Park & Ride,scattered clouds,south
+1,19,30,Black Ash Park & Ride,scattered clouds,south
+1,20,0,Black Ash Park & Ride,scattered clouds,south
+1,20,30,Black Ash Park & Ride,scattered clouds,south
+1,21,0,Black Ash Park & Ride,scattered clouds,south
+1,21,30,Black Ash Park & Ride,scattered clouds,south
+1,22,0,Black Ash Park & Ride,scattered clouds,south
+1,22,30,Black Ash Park & Ride,scattered clouds,south
+1,23,0,Black Ash Park & Ride,scattered clouds,south
+1,23,30,Black Ash Park & Ride,scattered clouds,south
+1,0,0,North Main Street,scattered clouds,south
+1,0,30,North Main Street,scattered clouds,south
+1,1,0,North Main Street,scattered clouds,south
+1,1,30,North Main Street,scattered clouds,south
+1,2,0,North Main Street,scattered clouds,south
+1,2,30,North Main Street,scattered clouds,south
+1,3,0,North Main Street,scattered clouds,south
+1,3,30,North Main Street,scattered clouds,south
+1,4,0,North Main Street,scattered clouds,south
+1,4,30,North Main Street,scattered clouds,south
+1,5,0,North Main Street,scattered clouds,south
+1,5,30,North Main Street,scattered clouds,south
+1,6,0,North Main Street,scattered clouds,south
+1,6,30,North Main Street,scattered clouds,south
+1,7,0,North Main Street,scattered clouds,south
+1,7,30,North Main Street,scattered clouds,south
+1,8,0,North Main Street,scattered clouds,south
+1,8,30,North Main Street,scattered clouds,south
+1,9,0,North Main Street,scattered clouds,south
+1,9,30,North Main Street,scattered clouds,south
+1,10,0,North Main Street,scattered clouds,south
+1,10,30,North Main Street,scattered clouds,south
+1,11,0,North Main Street,scattered clouds,south
+1,11,30,North Main Street,scattered clouds,south
+1,12,0,North Main Street,scattered clouds,south
+1,12,30,North Main Street,scattered clouds,south
+1,13,0,North Main Street,scattered clouds,south
+1,13,30,North Main Street,scattered clouds,south
+1,14,0,North Main Street,scattered clouds,south
+1,14,30,North Main Street,scattered clouds,south
+1,15,0,North Main Street,scattered clouds,south
+1,15,30,North Main Street,scattered clouds,south
+1,16,0,North Main Street,scattered clouds,south
+1,16,30,North Main Street,scattered clouds,south
+1,17,0,North Main Street,scattered clouds,south
+1,17,30,North Main Street,scattered clouds,south
+1,18,0,North Main Street,scattered clouds,south
+1,18,30,North Main Street,scattered clouds,south
+1,19,0,North Main Street,scattered clouds,south
+1,19,30,North Main Street,scattered clouds,south
+1,20,0,North Main Street,scattered clouds,south
+1,20,30,North Main Street,scattered clouds,south
+1,21,0,North Main Street,scattered clouds,south
+1,21,30,North Main Street,scattered clouds,south
+1,22,0,North Main Street,scattered clouds,south
+1,22,30,North Main Street,scattered clouds,south
+1,23,0,North Main Street,scattered clouds,south
+1,23,30,North Main Street,scattered clouds,south
+1,0,0,Paul Street,scattered clouds,south
+1,0,30,Paul Street,scattered clouds,south
+1,1,0,Paul Street,scattered clouds,south
+1,1,30,Paul Street,scattered clouds,south
+1,2,0,Paul Street,scattered clouds,south
+1,2,30,Paul Street,scattered clouds,south
+1,3,0,Paul Street,scattered clouds,south
+1,3,30,Paul Street,scattered clouds,south
+1,4,0,Paul Street,scattered clouds,south
+1,4,30,Paul Street,scattered clouds,south
+1,5,0,Paul Street,scattered clouds,south
+1,5,30,Paul Street,scattered clouds,south
+1,6,0,Paul Street,scattered clouds,south
+1,6,30,Paul Street,scattered clouds,south
+1,7,0,Paul Street,scattered clouds,south
+1,7,30,Paul Street,scattered clouds,south
+1,8,0,Paul Street,scattered clouds,south
+1,8,30,Paul Street,scattered clouds,south
+1,9,0,Paul Street,scattered clouds,south
+1,9,30,Paul Street,scattered clouds,south
+1,10,0,Paul Street,scattered clouds,south
+1,10,30,Paul Street,scattered clouds,south
+1,11,0,Paul Street,scattered clouds,south
+1,11,30,Paul Street,scattered clouds,south
+1,12,0,Paul Street,scattered clouds,south
+1,12,30,Paul Street,scattered clouds,south
+1,13,0,Paul Street,scattered clouds,south
+1,13,30,Paul Street,scattered clouds,south
+1,14,0,Paul Street,scattered clouds,south
+1,14,30,Paul Street,scattered clouds,south
+1,15,0,Paul Street,scattered clouds,south
+1,15,30,Paul Street,scattered clouds,south
+1,16,0,Paul Street,scattered clouds,south
+1,16,30,Paul Street,scattered clouds,south
+1,17,0,Paul Street,scattered clouds,south
+1,17,30,Paul Street,scattered clouds,south
+1,18,0,Paul Street,scattered clouds,south
+1,18,30,Paul Street,scattered clouds,south
+1,19,0,Paul Street,scattered clouds,south
+1,19,30,Paul Street,scattered clouds,south
+1,20,0,Paul Street,scattered clouds,south
+1,20,30,Paul Street,scattered clouds,south
+1,21,0,Paul Street,scattered clouds,south
+1,21,30,Paul Street,scattered clouds,south
+1,22,0,Paul Street,scattered clouds,south
+1,22,30,Paul Street,scattered clouds,south
+1,23,0,Paul Street,scattered clouds,south
+1,23,30,Paul Street,scattered clouds,south
+1,0,0,Saint Finbarr's,scattered clouds,east
+1,0,30,Saint Finbarr's,scattered clouds,east
+1,1,0,Saint Finbarr's,scattered clouds,east
+1,1,30,Saint Finbarr's,scattered clouds,east
+1,2,0,Saint Finbarr's,scattered clouds,east
+1,2,30,Saint Finbarr's,scattered clouds,east
+1,3,0,Saint Finbarr's,scattered clouds,east
+1,3,30,Saint Finbarr's,scattered clouds,east
+1,4,0,Saint Finbarr's,scattered clouds,east
+1,4,30,Saint Finbarr's,scattered clouds,east
+1,5,0,Saint Finbarr's,scattered clouds,east
+1,5,30,Saint Finbarr's,scattered clouds,east
+1,6,0,Saint Finbarr's,scattered clouds,east
+1,6,30,Saint Finbarr's,scattered clouds,east
+1,7,0,Saint Finbarr's,scattered clouds,east
+1,7,30,Saint Finbarr's,scattered clouds,east
+1,8,0,Saint Finbarr's,scattered clouds,east
+1,8,30,Saint Finbarr's,scattered clouds,east
+1,9,0,Saint Finbarr's,scattered clouds,east
+1,9,30,Saint Finbarr's,scattered clouds,east
+1,10,0,Saint Finbarr's,scattered clouds,east
+1,10,30,Saint Finbarr's,scattered clouds,east
+1,11,0,Saint Finbarr's,scattered clouds,east
+1,11,30,Saint Finbarr's,scattered clouds,east
+1,12,0,Saint Finbarr's,scattered clouds,east
+1,12,30,Saint Finbarr's,scattered clouds,east
+1,13,0,Saint Finbarr's,scattered clouds,east
+1,13,30,Saint Finbarr's,scattered clouds,east
+1,14,0,Saint Finbarr's,scattered clouds,east
+1,14,30,Saint Finbarr's,scattered clouds,east
+1,15,0,Saint Finbarr's,scattered clouds,east
+1,15,30,Saint Finbarr's,scattered clouds,east
+1,16,0,Saint Finbarr's,scattered clouds,east
+1,16,30,Saint Finbarr's,scattered clouds,east
+1,17,0,Saint Finbarr's,scattered clouds,east
+1,17,30,Saint Finbarr's,scattered clouds,east
+1,18,0,Saint Finbarr's,scattered clouds,east
+1,18,30,Saint Finbarr's,scattered clouds,east
+1,19,0,Saint Finbarr's,scattered clouds,east
+1,19,30,Saint Finbarr's,scattered clouds,east
+1,20,0,Saint Finbarr's,scattered clouds,east
+1,20,30,Saint Finbarr's,scattered clouds,east
+1,21,0,Saint Finbarr's,scattered clouds,east
+1,21,30,Saint Finbarr's,scattered clouds,east
+1,22,0,Saint Finbarr's,scattered clouds,east
+1,22,30,Saint Finbarr's,scattered clouds,east
+1,23,0,Saint Finbarr's,scattered clouds,east
+1,23,30,Saint Finbarr's,scattered clouds,east
+1,0,0,Merchants Quay,scattered clouds,east
+1,0,30,Merchants Quay,scattered clouds,east
+1,1,0,Merchants Quay,scattered clouds,east
+1,1,30,Merchants Quay,scattered clouds,east
+1,2,0,Merchants Quay,scattered clouds,east
+1,2,30,Merchants Quay,scattered clouds,east
+1,3,0,Merchants Quay,scattered clouds,east
+1,3,30,Merchants Quay,scattered clouds,east
+1,4,0,Merchants Quay,scattered clouds,east
+1,4,30,Merchants Quay,scattered clouds,east
+1,5,0,Merchants Quay,scattered clouds,east
+1,5,30,Merchants Quay,scattered clouds,east
+1,6,0,Merchants Quay,scattered clouds,east
+1,6,30,Merchants Quay,scattered clouds,east
+1,7,0,Merchants Quay,scattered clouds,east
+1,7,30,Merchants Quay,scattered clouds,east
+1,8,0,Merchants Quay,scattered clouds,east
+1,8,30,Merchants Quay,scattered clouds,east
+1,9,0,Merchants Quay,scattered clouds,east
+1,9,30,Merchants Quay,scattered clouds,east
+1,10,0,Merchants Quay,scattered clouds,east
+1,10,30,Merchants Quay,scattered clouds,east
+1,11,0,Merchants Quay,scattered clouds,east
+1,11,30,Merchants Quay,scattered clouds,east
+1,12,0,Merchants Quay,scattered clouds,east
+1,12,30,Merchants Quay,scattered clouds,east
+1,13,0,Merchants Quay,scattered clouds,east
+1,13,30,Merchants Quay,scattered clouds,east
+1,14,0,Merchants Quay,scattered clouds,east
+1,14,30,Merchants Quay,scattered clouds,east
+1,15,0,Merchants Quay,scattered clouds,east
+1,15,30,Merchants Quay,scattered clouds,east
+1,16,0,Merchants Quay,scattered clouds,east
+1,16,30,Merchants Quay,scattered clouds,east
+1,17,0,Merchants Quay,scattered clouds,east
+1,17,30,Merchants Quay,scattered clouds,east
+1,18,0,Merchants Quay,scattered clouds,east
+1,18,30,Merchants Quay,scattered clouds,east
+1,19,0,Merchants Quay,scattered clouds,east
+1,19,30,Merchants Quay,scattered clouds,east
+1,20,0,Merchants Quay,scattered clouds,east
+1,20,30,Merchants Quay,scattered clouds,east
+1,21,0,Merchants Quay,scattered clouds,east
+1,21,30,Merchants Quay,scattered clouds,east
+1,22,0,Merchants Quay,scattered clouds,east
+1,22,30,Merchants Quay,scattered clouds,east
+1,23,0,Merchants Quay,scattered clouds,east
+1,23,30,Merchants Quay,scattered clouds,east
+1,0,0,Grand Parade,scattered clouds,east
+1,0,30,Grand Parade,scattered clouds,east
+1,1,0,Grand Parade,scattered clouds,east
+1,1,30,Grand Parade,scattered clouds,east
+1,2,0,Grand Parade,scattered clouds,east
+1,2,30,Grand Parade,scattered clouds,east
+1,3,0,Grand Parade,scattered clouds,east
+1,3,30,Grand Parade,scattered clouds,east
+1,4,0,Grand Parade,scattered clouds,east
+1,4,30,Grand Parade,scattered clouds,east
+1,5,0,Grand Parade,scattered clouds,east
+1,5,30,Grand Parade,scattered clouds,east
+1,6,0,Grand Parade,scattered clouds,east
+1,6,30,Grand Parade,scattered clouds,east
+1,7,0,Grand Parade,scattered clouds,east
+1,7,30,Grand Parade,scattered clouds,east
+1,8,0,Grand Parade,scattered clouds,east
+1,8,30,Grand Parade,scattered clouds,east
+1,9,0,Grand Parade,scattered clouds,east
+1,9,30,Grand Parade,scattered clouds,east
+1,10,0,Grand Parade,scattered clouds,east
+1,10,30,Grand Parade,scattered clouds,east
+1,11,0,Grand Parade,scattered clouds,east
+1,11,30,Grand Parade,scattered clouds,east
+1,12,0,Grand Parade,scattered clouds,east
+1,12,30,Grand Parade,scattered clouds,east
+1,13,0,Grand Parade,scattered clouds,east
+1,13,30,Grand Parade,scattered clouds,east
+1,14,0,Grand Parade,scattered clouds,east
+1,14,30,Grand Parade,scattered clouds,east
+1,15,0,Grand Parade,scattered clouds,east
+1,15,30,Grand Parade,scattered clouds,east
+1,16,0,Grand Parade,scattered clouds,east
+1,16,30,Grand Parade,scattered clouds,east
+1,17,0,Grand Parade,scattered clouds,east
+1,17,30,Grand Parade,scattered clouds,east
+1,18,0,Grand Parade,scattered clouds,east
+1,18,30,Grand Parade,scattered clouds,east
+1,19,0,Grand Parade,scattered clouds,east
+1,19,30,Grand Parade,scattered clouds,east
+1,20,0,Grand Parade,scattered clouds,east
+1,20,30,Grand Parade,scattered clouds,east
+1,21,0,Grand Parade,scattered clouds,east
+1,21,30,Grand Parade,scattered clouds,east
+1,22,0,Grand Parade,scattered clouds,east
+1,22,30,Grand Parade,scattered clouds,east
+1,23,0,Grand Parade,scattered clouds,east
+1,23,30,Grand Parade,scattered clouds,east
+1,0,0,Carrolls Quay,scattered clouds,east
+1,0,30,Carrolls Quay,scattered clouds,east
+1,1,0,Carrolls Quay,scattered clouds,east
+1,1,30,Carrolls Quay,scattered clouds,east
+1,2,0,Carrolls Quay,scattered clouds,east
+1,2,30,Carrolls Quay,scattered clouds,east
+1,3,0,Carrolls Quay,scattered clouds,east
+1,3,30,Carrolls Quay,scattered clouds,east
+1,4,0,Carrolls Quay,scattered clouds,east
+1,4,30,Carrolls Quay,scattered clouds,east
+1,5,0,Carrolls Quay,scattered clouds,east
+1,5,30,Carrolls Quay,scattered clouds,east
+1,6,0,Carrolls Quay,scattered clouds,east
+1,6,30,Carrolls Quay,scattered clouds,east
+1,7,0,Carrolls Quay,scattered clouds,east
+1,7,30,Carrolls Quay,scattered clouds,east
+1,8,0,Carrolls Quay,scattered clouds,east
+1,8,30,Carrolls Quay,scattered clouds,east
+1,9,0,Carrolls Quay,scattered clouds,east
+1,9,30,Carrolls Quay,scattered clouds,east
+1,10,0,Carrolls Quay,scattered clouds,east
+1,10,30,Carrolls Quay,scattered clouds,east
+1,11,0,Carrolls Quay,scattered clouds,east
+1,11,30,Carrolls Quay,scattered clouds,east
+1,12,0,Carrolls Quay,scattered clouds,east
+1,12,30,Carrolls Quay,scattered clouds,east
+1,13,0,Carrolls Quay,scattered clouds,east
+1,13,30,Carrolls Quay,scattered clouds,east
+1,14,0,Carrolls Quay,scattered clouds,east
+1,14,30,Carrolls Quay,scattered clouds,east
+1,15,0,Carrolls Quay,scattered clouds,east
+1,15,30,Carrolls Quay,scattered clouds,east
+1,16,0,Carrolls Quay,scattered clouds,east
+1,16,30,Carrolls Quay,scattered clouds,east
+1,17,0,Carrolls Quay,scattered clouds,east
+1,17,30,Carrolls Quay,scattered clouds,east
+1,18,0,Carrolls Quay,scattered clouds,east
+1,18,30,Carrolls Quay,scattered clouds,east
+1,19,0,Carrolls Quay,scattered clouds,east
+1,19,30,Carrolls Quay,scattered clouds,east
+1,20,0,Carrolls Quay,scattered clouds,east
+1,20,30,Carrolls Quay,scattered clouds,east
+1,21,0,Carrolls Quay,scattered clouds,east
+1,21,30,Carrolls Quay,scattered clouds,east
+1,22,0,Carrolls Quay,scattered clouds,east
+1,22,30,Carrolls Quay,scattered clouds,east
+1,23,0,Carrolls Quay,scattered clouds,east
+1,23,30,Carrolls Quay,scattered clouds,east
+1,0,0,City Hall - Eglington Street,scattered clouds,east
+1,0,30,City Hall - Eglington Street,scattered clouds,east
+1,1,0,City Hall - Eglington Street,scattered clouds,east
+1,1,30,City Hall - Eglington Street,scattered clouds,east
+1,2,0,City Hall - Eglington Street,scattered clouds,east
+1,2,30,City Hall - Eglington Street,scattered clouds,east
+1,3,0,City Hall - Eglington Street,scattered clouds,east
+1,3,30,City Hall - Eglington Street,scattered clouds,east
+1,4,0,City Hall - Eglington Street,scattered clouds,east
+1,4,30,City Hall - Eglington Street,scattered clouds,east
+1,5,0,City Hall - Eglington Street,scattered clouds,east
+1,5,30,City Hall - Eglington Street,scattered clouds,east
+1,6,0,City Hall - Eglington Street,scattered clouds,east
+1,6,30,City Hall - Eglington Street,scattered clouds,east
+1,7,0,City Hall - Eglington Street,scattered clouds,east
+1,7,30,City Hall - Eglington Street,scattered clouds,east
+1,8,0,City Hall - Eglington Street,scattered clouds,east
+1,8,30,City Hall - Eglington Street,scattered clouds,east
+1,9,0,City Hall - Eglington Street,scattered clouds,east
+1,9,30,City Hall - Eglington Street,scattered clouds,east
+1,10,0,City Hall - Eglington Street,scattered clouds,east
+1,10,30,City Hall - Eglington Street,scattered clouds,east
+1,11,0,City Hall - Eglington Street,scattered clouds,east
+1,11,30,City Hall - Eglington Street,scattered clouds,east
+1,12,0,City Hall - Eglington Street,scattered clouds,east
+1,12,30,City Hall - Eglington Street,scattered clouds,east
+1,13,0,City Hall - Eglington Street,scattered clouds,east
+1,13,30,City Hall - Eglington Street,scattered clouds,east
+1,14,0,City Hall - Eglington Street,scattered clouds,east
+1,14,30,City Hall - Eglington Street,scattered clouds,east
+1,15,0,City Hall - Eglington Street,scattered clouds,east
+1,15,30,City Hall - Eglington Street,scattered clouds,east
+1,16,0,City Hall - Eglington Street,scattered clouds,east
+1,16,30,City Hall - Eglington Street,scattered clouds,east
+1,17,0,City Hall - Eglington Street,scattered clouds,east
+1,17,30,City Hall - Eglington Street,scattered clouds,east
+1,18,0,City Hall - Eglington Street,scattered clouds,east
+1,18,30,City Hall - Eglington Street,scattered clouds,east
+1,19,0,City Hall - Eglington Street,scattered clouds,east
+1,19,30,City Hall - Eglington Street,scattered clouds,east
+1,20,0,City Hall - Eglington Street,scattered clouds,east
+1,20,30,City Hall - Eglington Street,scattered clouds,east
+1,21,0,City Hall - Eglington Street,scattered clouds,east
+1,21,30,City Hall - Eglington Street,scattered clouds,east
+1,22,0,City Hall - Eglington Street,scattered clouds,east
+1,22,30,City Hall - Eglington Street,scattered clouds,east
+1,23,0,City Hall - Eglington Street,scattered clouds,east
+1,23,30,City Hall - Eglington Street,scattered clouds,east
+1,0,0,Black Ash Park & Ride,scattered clouds,east
+1,0,30,Black Ash Park & Ride,scattered clouds,east
+1,1,0,Black Ash Park & Ride,scattered clouds,east
+1,1,30,Black Ash Park & Ride,scattered clouds,east
+1,2,0,Black Ash Park & Ride,scattered clouds,east
+1,2,30,Black Ash Park & Ride,scattered clouds,east
+1,3,0,Black Ash Park & Ride,scattered clouds,east
+1,3,30,Black Ash Park & Ride,scattered clouds,east
+1,4,0,Black Ash Park & Ride,scattered clouds,east
+1,4,30,Black Ash Park & Ride,scattered clouds,east
+1,5,0,Black Ash Park & Ride,scattered clouds,east
+1,5,30,Black Ash Park & Ride,scattered clouds,east
+1,6,0,Black Ash Park & Ride,scattered clouds,east
+1,6,30,Black Ash Park & Ride,scattered clouds,east
+1,7,0,Black Ash Park & Ride,scattered clouds,east
+1,7,30,Black Ash Park & Ride,scattered clouds,east
+1,8,0,Black Ash Park & Ride,scattered clouds,east
+1,8,30,Black Ash Park & Ride,scattered clouds,east
+1,9,0,Black Ash Park & Ride,scattered clouds,east
+1,9,30,Black Ash Park & Ride,scattered clouds,east
+1,10,0,Black Ash Park & Ride,scattered clouds,east
+1,10,30,Black Ash Park & Ride,scattered clouds,east
+1,11,0,Black Ash Park & Ride,scattered clouds,east
+1,11,30,Black Ash Park & Ride,scattered clouds,east
+1,12,0,Black Ash Park & Ride,scattered clouds,east
+1,12,30,Black Ash Park & Ride,scattered clouds,east
+1,13,0,Black Ash Park & Ride,scattered clouds,east
+1,13,30,Black Ash Park & Ride,scattered clouds,east
+1,14,0,Black Ash Park & Ride,scattered clouds,east
+1,14,30,Black Ash Park & Ride,scattered clouds,east
+1,15,0,Black Ash Park & Ride,scattered clouds,east
+1,15,30,Black Ash Park & Ride,scattered clouds,east
+1,16,0,Black Ash Park & Ride,scattered clouds,east
+1,16,30,Black Ash Park & Ride,scattered clouds,east
+1,17,0,Black Ash Park & Ride,scattered clouds,east
+1,17,30,Black Ash Park & Ride,scattered clouds,east
+1,18,0,Black Ash Park & Ride,scattered clouds,east
+1,18,30,Black Ash Park & Ride,scattered clouds,east
+1,19,0,Black Ash Park & Ride,scattered clouds,east
+1,19,30,Black Ash Park & Ride,scattered clouds,east
+1,20,0,Black Ash Park & Ride,scattered clouds,east
+1,20,30,Black Ash Park & Ride,scattered clouds,east
+1,21,0,Black Ash Park & Ride,scattered clouds,east
+1,21,30,Black Ash Park & Ride,scattered clouds,east
+1,22,0,Black Ash Park & Ride,scattered clouds,east
+1,22,30,Black Ash Park & Ride,scattered clouds,east
+1,23,0,Black Ash Park & Ride,scattered clouds,east
+1,23,30,Black Ash Park & Ride,scattered clouds,east
+1,0,0,North Main Street,scattered clouds,east
+1,0,30,North Main Street,scattered clouds,east
+1,1,0,North Main Street,scattered clouds,east
+1,1,30,North Main Street,scattered clouds,east
+1,2,0,North Main Street,scattered clouds,east
+1,2,30,North Main Street,scattered clouds,east
+1,3,0,North Main Street,scattered clouds,east
+1,3,30,North Main Street,scattered clouds,east
+1,4,0,North Main Street,scattered clouds,east
+1,4,30,North Main Street,scattered clouds,east
+1,5,0,North Main Street,scattered clouds,east
+1,5,30,North Main Street,scattered clouds,east
+1,6,0,North Main Street,scattered clouds,east
+1,6,30,North Main Street,scattered clouds,east
+1,7,0,North Main Street,scattered clouds,east
+1,7,30,North Main Street,scattered clouds,east
+1,8,0,North Main Street,scattered clouds,east
+1,8,30,North Main Street,scattered clouds,east
+1,9,0,North Main Street,scattered clouds,east
+1,9,30,North Main Street,scattered clouds,east
+1,10,0,North Main Street,scattered clouds,east
+1,10,30,North Main Street,scattered clouds,east
+1,11,0,North Main Street,scattered clouds,east
+1,11,30,North Main Street,scattered clouds,east
+1,12,0,North Main Street,scattered clouds,east
+1,12,30,North Main Street,scattered clouds,east
+1,13,0,North Main Street,scattered clouds,east
+1,13,30,North Main Street,scattered clouds,east
+1,14,0,North Main Street,scattered clouds,east
+1,14,30,North Main Street,scattered clouds,east
+1,15,0,North Main Street,scattered clouds,east
+1,15,30,North Main Street,scattered clouds,east
+1,16,0,North Main Street,scattered clouds,east
+1,16,30,North Main Street,scattered clouds,east
+1,17,0,North Main Street,scattered clouds,east
+1,17,30,North Main Street,scattered clouds,east
+1,18,0,North Main Street,scattered clouds,east
+1,18,30,North Main Street,scattered clouds,east
+1,19,0,North Main Street,scattered clouds,east
+1,19,30,North Main Street,scattered clouds,east
+1,20,0,North Main Street,scattered clouds,east
+1,20,30,North Main Street,scattered clouds,east
+1,21,0,North Main Street,scattered clouds,east
+1,21,30,North Main Street,scattered clouds,east
+1,22,0,North Main Street,scattered clouds,east
+1,22,30,North Main Street,scattered clouds,east
+1,23,0,North Main Street,scattered clouds,east
+1,23,30,North Main Street,scattered clouds,east
+1,0,0,Paul Street,scattered clouds,east
+1,0,30,Paul Street,scattered clouds,east
+1,1,0,Paul Street,scattered clouds,east
+1,1,30,Paul Street,scattered clouds,east
+1,2,0,Paul Street,scattered clouds,east
+1,2,30,Paul Street,scattered clouds,east
+1,3,0,Paul Street,scattered clouds,east
+1,3,30,Paul Street,scattered clouds,east
+1,4,0,Paul Street,scattered clouds,east
+1,4,30,Paul Street,scattered clouds,east
+1,5,0,Paul Street,scattered clouds,east
+1,5,30,Paul Street,scattered clouds,east
+1,6,0,Paul Street,scattered clouds,east
+1,6,30,Paul Street,scattered clouds,east
+1,7,0,Paul Street,scattered clouds,east
+1,7,30,Paul Street,scattered clouds,east
+1,8,0,Paul Street,scattered clouds,east
+1,8,30,Paul Street,scattered clouds,east
+1,9,0,Paul Street,scattered clouds,east
+1,9,30,Paul Street,scattered clouds,east
+1,10,0,Paul Street,scattered clouds,east
+1,10,30,Paul Street,scattered clouds,east
+1,11,0,Paul Street,scattered clouds,east
+1,11,30,Paul Street,scattered clouds,east
+1,12,0,Paul Street,scattered clouds,east
+1,12,30,Paul Street,scattered clouds,east
+1,13,0,Paul Street,scattered clouds,east
+1,13,30,Paul Street,scattered clouds,east
+1,14,0,Paul Street,scattered clouds,east
+1,14,30,Paul Street,scattered clouds,east
+1,15,0,Paul Street,scattered clouds,east
+1,15,30,Paul Street,scattered clouds,east
+1,16,0,Paul Street,scattered clouds,east
+1,16,30,Paul Street,scattered clouds,east
+1,17,0,Paul Street,scattered clouds,east
+1,17,30,Paul Street,scattered clouds,east
+1,18,0,Paul Street,scattered clouds,east
+1,18,30,Paul Street,scattered clouds,east
+1,19,0,Paul Street,scattered clouds,east
+1,19,30,Paul Street,scattered clouds,east
+1,20,0,Paul Street,scattered clouds,east
+1,20,30,Paul Street,scattered clouds,east
+1,21,0,Paul Street,scattered clouds,east
+1,21,30,Paul Street,scattered clouds,east
+1,22,0,Paul Street,scattered clouds,east
+1,22,30,Paul Street,scattered clouds,east
+1,23,0,Paul Street,scattered clouds,east
+1,23,30,Paul Street,scattered clouds,east
+1,0,0,Saint Finbarr's,scattered clouds,west
+1,0,30,Saint Finbarr's,scattered clouds,west
+1,1,0,Saint Finbarr's,scattered clouds,west
+1,1,30,Saint Finbarr's,scattered clouds,west
+1,2,0,Saint Finbarr's,scattered clouds,west
+1,2,30,Saint Finbarr's,scattered clouds,west
+1,3,0,Saint Finbarr's,scattered clouds,west
+1,3,30,Saint Finbarr's,scattered clouds,west
+1,4,0,Saint Finbarr's,scattered clouds,west
+1,4,30,Saint Finbarr's,scattered clouds,west
+1,5,0,Saint Finbarr's,scattered clouds,west
+1,5,30,Saint Finbarr's,scattered clouds,west
+1,6,0,Saint Finbarr's,scattered clouds,west
+1,6,30,Saint Finbarr's,scattered clouds,west
+1,7,0,Saint Finbarr's,scattered clouds,west
+1,7,30,Saint Finbarr's,scattered clouds,west
+1,8,0,Saint Finbarr's,scattered clouds,west
+1,8,30,Saint Finbarr's,scattered clouds,west
+1,9,0,Saint Finbarr's,scattered clouds,west
+1,9,30,Saint Finbarr's,scattered clouds,west
+1,10,0,Saint Finbarr's,scattered clouds,west
+1,10,30,Saint Finbarr's,scattered clouds,west
+1,11,0,Saint Finbarr's,scattered clouds,west
+1,11,30,Saint Finbarr's,scattered clouds,west
+1,12,0,Saint Finbarr's,scattered clouds,west
+1,12,30,Saint Finbarr's,scattered clouds,west
+1,13,0,Saint Finbarr's,scattered clouds,west
+1,13,30,Saint Finbarr's,scattered clouds,west
+1,14,0,Saint Finbarr's,scattered clouds,west
+1,14,30,Saint Finbarr's,scattered clouds,west
+1,15,0,Saint Finbarr's,scattered clouds,west
+1,15,30,Saint Finbarr's,scattered clouds,west
+1,16,0,Saint Finbarr's,scattered clouds,west
+1,16,30,Saint Finbarr's,scattered clouds,west
+1,17,0,Saint Finbarr's,scattered clouds,west
+1,17,30,Saint Finbarr's,scattered clouds,west
+1,18,0,Saint Finbarr's,scattered clouds,west
+1,18,30,Saint Finbarr's,scattered clouds,west
+1,19,0,Saint Finbarr's,scattered clouds,west
+1,19,30,Saint Finbarr's,scattered clouds,west
+1,20,0,Saint Finbarr's,scattered clouds,west
+1,20,30,Saint Finbarr's,scattered clouds,west
+1,21,0,Saint Finbarr's,scattered clouds,west
+1,21,30,Saint Finbarr's,scattered clouds,west
+1,22,0,Saint Finbarr's,scattered clouds,west
+1,22,30,Saint Finbarr's,scattered clouds,west
+1,23,0,Saint Finbarr's,scattered clouds,west
+1,23,30,Saint Finbarr's,scattered clouds,west
+1,0,0,Merchants Quay,scattered clouds,west
+1,0,30,Merchants Quay,scattered clouds,west
+1,1,0,Merchants Quay,scattered clouds,west
+1,1,30,Merchants Quay,scattered clouds,west
+1,2,0,Merchants Quay,scattered clouds,west
+1,2,30,Merchants Quay,scattered clouds,west
+1,3,0,Merchants Quay,scattered clouds,west
+1,3,30,Merchants Quay,scattered clouds,west
+1,4,0,Merchants Quay,scattered clouds,west
+1,4,30,Merchants Quay,scattered clouds,west
+1,5,0,Merchants Quay,scattered clouds,west
+1,5,30,Merchants Quay,scattered clouds,west
+1,6,0,Merchants Quay,scattered clouds,west
+1,6,30,Merchants Quay,scattered clouds,west
+1,7,0,Merchants Quay,scattered clouds,west
+1,7,30,Merchants Quay,scattered clouds,west
+1,8,0,Merchants Quay,scattered clouds,west
+1,8,30,Merchants Quay,scattered clouds,west
+1,9,0,Merchants Quay,scattered clouds,west
+1,9,30,Merchants Quay,scattered clouds,west
+1,10,0,Merchants Quay,scattered clouds,west
+1,10,30,Merchants Quay,scattered clouds,west
+1,11,0,Merchants Quay,scattered clouds,west
+1,11,30,Merchants Quay,scattered clouds,west
+1,12,0,Merchants Quay,scattered clouds,west
+1,12,30,Merchants Quay,scattered clouds,west
+1,13,0,Merchants Quay,scattered clouds,west
+1,13,30,Merchants Quay,scattered clouds,west
+1,14,0,Merchants Quay,scattered clouds,west
+1,14,30,Merchants Quay,scattered clouds,west
+1,15,0,Merchants Quay,scattered clouds,west
+1,15,30,Merchants Quay,scattered clouds,west
+1,16,0,Merchants Quay,scattered clouds,west
+1,16,30,Merchants Quay,scattered clouds,west
+1,17,0,Merchants Quay,scattered clouds,west
+1,17,30,Merchants Quay,scattered clouds,west
+1,18,0,Merchants Quay,scattered clouds,west
+1,18,30,Merchants Quay,scattered clouds,west
+1,19,0,Merchants Quay,scattered clouds,west
+1,19,30,Merchants Quay,scattered clouds,west
+1,20,0,Merchants Quay,scattered clouds,west
+1,20,30,Merchants Quay,scattered clouds,west
+1,21,0,Merchants Quay,scattered clouds,west
+1,21,30,Merchants Quay,scattered clouds,west
+1,22,0,Merchants Quay,scattered clouds,west
+1,22,30,Merchants Quay,scattered clouds,west
+1,23,0,Merchants Quay,scattered clouds,west
+1,23,30,Merchants Quay,scattered clouds,west
+1,0,0,Grand Parade,scattered clouds,west
+1,0,30,Grand Parade,scattered clouds,west
+1,1,0,Grand Parade,scattered clouds,west
+1,1,30,Grand Parade,scattered clouds,west
+1,2,0,Grand Parade,scattered clouds,west
+1,2,30,Grand Parade,scattered clouds,west
+1,3,0,Grand Parade,scattered clouds,west
+1,3,30,Grand Parade,scattered clouds,west
+1,4,0,Grand Parade,scattered clouds,west
+1,4,30,Grand Parade,scattered clouds,west
+1,5,0,Grand Parade,scattered clouds,west
+1,5,30,Grand Parade,scattered clouds,west
+1,6,0,Grand Parade,scattered clouds,west
+1,6,30,Grand Parade,scattered clouds,west
+1,7,0,Grand Parade,scattered clouds,west
+1,7,30,Grand Parade,scattered clouds,west
+1,8,0,Grand Parade,scattered clouds,west
+1,8,30,Grand Parade,scattered clouds,west
+1,9,0,Grand Parade,scattered clouds,west
+1,9,30,Grand Parade,scattered clouds,west
+1,10,0,Grand Parade,scattered clouds,west
+1,10,30,Grand Parade,scattered clouds,west
+1,11,0,Grand Parade,scattered clouds,west
+1,11,30,Grand Parade,scattered clouds,west
+1,12,0,Grand Parade,scattered clouds,west
+1,12,30,Grand Parade,scattered clouds,west
+1,13,0,Grand Parade,scattered clouds,west
+1,13,30,Grand Parade,scattered clouds,west
+1,14,0,Grand Parade,scattered clouds,west
+1,14,30,Grand Parade,scattered clouds,west
+1,15,0,Grand Parade,scattered clouds,west
+1,15,30,Grand Parade,scattered clouds,west
+1,16,0,Grand Parade,scattered clouds,west
+1,16,30,Grand Parade,scattered clouds,west
+1,17,0,Grand Parade,scattered clouds,west
+1,17,30,Grand Parade,scattered clouds,west
+1,18,0,Grand Parade,scattered clouds,west
+1,18,30,Grand Parade,scattered clouds,west
+1,19,0,Grand Parade,scattered clouds,west
+1,19,30,Grand Parade,scattered clouds,west
+1,20,0,Grand Parade,scattered clouds,west
+1,20,30,Grand Parade,scattered clouds,west
+1,21,0,Grand Parade,scattered clouds,west
+1,21,30,Grand Parade,scattered clouds,west
+1,22,0,Grand Parade,scattered clouds,west
+1,22,30,Grand Parade,scattered clouds,west
+1,23,0,Grand Parade,scattered clouds,west
+1,23,30,Grand Parade,scattered clouds,west
+1,0,0,Carrolls Quay,scattered clouds,west
+1,0,30,Carrolls Quay,scattered clouds,west
+1,1,0,Carrolls Quay,scattered clouds,west
+1,1,30,Carrolls Quay,scattered clouds,west
+1,2,0,Carrolls Quay,scattered clouds,west
+1,2,30,Carrolls Quay,scattered clouds,west
+1,3,0,Carrolls Quay,scattered clouds,west
+1,3,30,Carrolls Quay,scattered clouds,west
+1,4,0,Carrolls Quay,scattered clouds,west
+1,4,30,Carrolls Quay,scattered clouds,west
+1,5,0,Carrolls Quay,scattered clouds,west
+1,5,30,Carrolls Quay,scattered clouds,west
+1,6,0,Carrolls Quay,scattered clouds,west
+1,6,30,Carrolls Quay,scattered clouds,west
+1,7,0,Carrolls Quay,scattered clouds,west
+1,7,30,Carrolls Quay,scattered clouds,west
+1,8,0,Carrolls Quay,scattered clouds,west
+1,8,30,Carrolls Quay,scattered clouds,west
+1,9,0,Carrolls Quay,scattered clouds,west
+1,9,30,Carrolls Quay,scattered clouds,west
+1,10,0,Carrolls Quay,scattered clouds,west
+1,10,30,Carrolls Quay,scattered clouds,west
+1,11,0,Carrolls Quay,scattered clouds,west
+1,11,30,Carrolls Quay,scattered clouds,west
+1,12,0,Carrolls Quay,scattered clouds,west
+1,12,30,Carrolls Quay,scattered clouds,west
+1,13,0,Carrolls Quay,scattered clouds,west
+1,13,30,Carrolls Quay,scattered clouds,west
+1,14,0,Carrolls Quay,scattered clouds,west
+1,14,30,Carrolls Quay,scattered clouds,west
+1,15,0,Carrolls Quay,scattered clouds,west
+1,15,30,Carrolls Quay,scattered clouds,west
+1,16,0,Carrolls Quay,scattered clouds,west
+1,16,30,Carrolls Quay,scattered clouds,west
+1,17,0,Carrolls Quay,scattered clouds,west
+1,17,30,Carrolls Quay,scattered clouds,west
+1,18,0,Carrolls Quay,scattered clouds,west
+1,18,30,Carrolls Quay,scattered clouds,west
+1,19,0,Carrolls Quay,scattered clouds,west
+1,19,30,Carrolls Quay,scattered clouds,west
+1,20,0,Carrolls Quay,scattered clouds,west
+1,20,30,Carrolls Quay,scattered clouds,west
+1,21,0,Carrolls Quay,scattered clouds,west
+1,21,30,Carrolls Quay,scattered clouds,west
+1,22,0,Carrolls Quay,scattered clouds,west
+1,22,30,Carrolls Quay,scattered clouds,west
+1,23,0,Carrolls Quay,scattered clouds,west
+1,23,30,Carrolls Quay,scattered clouds,west
+1,0,0,City Hall - Eglington Street,scattered clouds,west
+1,0,30,City Hall - Eglington Street,scattered clouds,west
+1,1,0,City Hall - Eglington Street,scattered clouds,west
+1,1,30,City Hall - Eglington Street,scattered clouds,west
+1,2,0,City Hall - Eglington Street,scattered clouds,west
+1,2,30,City Hall - Eglington Street,scattered clouds,west
+1,3,0,City Hall - Eglington Street,scattered clouds,west
+1,3,30,City Hall - Eglington Street,scattered clouds,west
+1,4,0,City Hall - Eglington Street,scattered clouds,west
+1,4,30,City Hall - Eglington Street,scattered clouds,west
+1,5,0,City Hall - Eglington Street,scattered clouds,west
+1,5,30,City Hall - Eglington Street,scattered clouds,west
+1,6,0,City Hall - Eglington Street,scattered clouds,west
+1,6,30,City Hall - Eglington Street,scattered clouds,west
+1,7,0,City Hall - Eglington Street,scattered clouds,west
+1,7,30,City Hall - Eglington Street,scattered clouds,west
+1,8,0,City Hall - Eglington Street,scattered clouds,west
+1,8,30,City Hall - Eglington Street,scattered clouds,west
+1,9,0,City Hall - Eglington Street,scattered clouds,west
+1,9,30,City Hall - Eglington Street,scattered clouds,west
+1,10,0,City Hall - Eglington Street,scattered clouds,west
+1,10,30,City Hall - Eglington Street,scattered clouds,west
+1,11,0,City Hall - Eglington Street,scattered clouds,west
+1,11,30,City Hall - Eglington Street,scattered clouds,west
+1,12,0,City Hall - Eglington Street,scattered clouds,west
+1,12,30,City Hall - Eglington Street,scattered clouds,west
+1,13,0,City Hall - Eglington Street,scattered clouds,west
+1,13,30,City Hall - Eglington Street,scattered clouds,west
+1,14,0,City Hall - Eglington Street,scattered clouds,west
+1,14,30,City Hall - Eglington Street,scattered clouds,west
+1,15,0,City Hall - Eglington Street,scattered clouds,west
+1,15,30,City Hall - Eglington Street,scattered clouds,west
+1,16,0,City Hall - Eglington Street,scattered clouds,west
+1,16,30,City Hall - Eglington Street,scattered clouds,west
+1,17,0,City Hall - Eglington Street,scattered clouds,west
+1,17,30,City Hall - Eglington Street,scattered clouds,west
+1,18,0,City Hall - Eglington Street,scattered clouds,west
+1,18,30,City Hall - Eglington Street,scattered clouds,west
+1,19,0,City Hall - Eglington Street,scattered clouds,west
+1,19,30,City Hall - Eglington Street,scattered clouds,west
+1,20,0,City Hall - Eglington Street,scattered clouds,west
+1,20,30,City Hall - Eglington Street,scattered clouds,west
+1,21,0,City Hall - Eglington Street,scattered clouds,west
+1,21,30,City Hall - Eglington Street,scattered clouds,west
+1,22,0,City Hall - Eglington Street,scattered clouds,west
+1,22,30,City Hall - Eglington Street,scattered clouds,west
+1,23,0,City Hall - Eglington Street,scattered clouds,west
+1,23,30,City Hall - Eglington Street,scattered clouds,west
+1,0,0,Black Ash Park & Ride,scattered clouds,west
+1,0,30,Black Ash Park & Ride,scattered clouds,west
+1,1,0,Black Ash Park & Ride,scattered clouds,west
+1,1,30,Black Ash Park & Ride,scattered clouds,west
+1,2,0,Black Ash Park & Ride,scattered clouds,west
+1,2,30,Black Ash Park & Ride,scattered clouds,west
+1,3,0,Black Ash Park & Ride,scattered clouds,west
+1,3,30,Black Ash Park & Ride,scattered clouds,west
+1,4,0,Black Ash Park & Ride,scattered clouds,west
+1,4,30,Black Ash Park & Ride,scattered clouds,west
+1,5,0,Black Ash Park & Ride,scattered clouds,west
+1,5,30,Black Ash Park & Ride,scattered clouds,west
+1,6,0,Black Ash Park & Ride,scattered clouds,west
+1,6,30,Black Ash Park & Ride,scattered clouds,west
+1,7,0,Black Ash Park & Ride,scattered clouds,west
+1,7,30,Black Ash Park & Ride,scattered clouds,west
+1,8,0,Black Ash Park & Ride,scattered clouds,west
+1,8,30,Black Ash Park & Ride,scattered clouds,west
+1,9,0,Black Ash Park & Ride,scattered clouds,west
+1,9,30,Black Ash Park & Ride,scattered clouds,west
+1,10,0,Black Ash Park & Ride,scattered clouds,west
+1,10,30,Black Ash Park & Ride,scattered clouds,west
+1,11,0,Black Ash Park & Ride,scattered clouds,west
+1,11,30,Black Ash Park & Ride,scattered clouds,west
+1,12,0,Black Ash Park & Ride,scattered clouds,west
+1,12,30,Black Ash Park & Ride,scattered clouds,west
+1,13,0,Black Ash Park & Ride,scattered clouds,west
+1,13,30,Black Ash Park & Ride,scattered clouds,west
+1,14,0,Black Ash Park & Ride,scattered clouds,west
+1,14,30,Black Ash Park & Ride,scattered clouds,west
+1,15,0,Black Ash Park & Ride,scattered clouds,west
+1,15,30,Black Ash Park & Ride,scattered clouds,west
+1,16,0,Black Ash Park & Ride,scattered clouds,west
+1,16,30,Black Ash Park & Ride,scattered clouds,west
+1,17,0,Black Ash Park & Ride,scattered clouds,west
+1,17,30,Black Ash Park & Ride,scattered clouds,west
+1,18,0,Black Ash Park & Ride,scattered clouds,west
+1,18,30,Black Ash Park & Ride,scattered clouds,west
+1,19,0,Black Ash Park & Ride,scattered clouds,west
+1,19,30,Black Ash Park & Ride,scattered clouds,west
+1,20,0,Black Ash Park & Ride,scattered clouds,west
+1,20,30,Black Ash Park & Ride,scattered clouds,west
+1,21,0,Black Ash Park & Ride,scattered clouds,west
+1,21,30,Black Ash Park & Ride,scattered clouds,west
+1,22,0,Black Ash Park & Ride,scattered clouds,west
+1,22,30,Black Ash Park & Ride,scattered clouds,west
+1,23,0,Black Ash Park & Ride,scattered clouds,west
+1,23,30,Black Ash Park & Ride,scattered clouds,west
+1,0,0,North Main Street,scattered clouds,west
+1,0,30,North Main Street,scattered clouds,west
+1,1,0,North Main Street,scattered clouds,west
+1,1,30,North Main Street,scattered clouds,west
+1,2,0,North Main Street,scattered clouds,west
+1,2,30,North Main Street,scattered clouds,west
+1,3,0,North Main Street,scattered clouds,west
+1,3,30,North Main Street,scattered clouds,west
+1,4,0,North Main Street,scattered clouds,west
+1,4,30,North Main Street,scattered clouds,west
+1,5,0,North Main Street,scattered clouds,west
+1,5,30,North Main Street,scattered clouds,west
+1,6,0,North Main Street,scattered clouds,west
+1,6,30,North Main Street,scattered clouds,west
+1,7,0,North Main Street,scattered clouds,west
+1,7,30,North Main Street,scattered clouds,west
+1,8,0,North Main Street,scattered clouds,west
+1,8,30,North Main Street,scattered clouds,west
+1,9,0,North Main Street,scattered clouds,west
+1,9,30,North Main Street,scattered clouds,west
+1,10,0,North Main Street,scattered clouds,west
+1,10,30,North Main Street,scattered clouds,west
+1,11,0,North Main Street,scattered clouds,west
+1,11,30,North Main Street,scattered clouds,west
+1,12,0,North Main Street,scattered clouds,west
+1,12,30,North Main Street,scattered clouds,west
+1,13,0,North Main Street,scattered clouds,west
+1,13,30,North Main Street,scattered clouds,west
+1,14,0,North Main Street,scattered clouds,west
+1,14,30,North Main Street,scattered clouds,west
+1,15,0,North Main Street,scattered clouds,west
+1,15,30,North Main Street,scattered clouds,west
+1,16,0,North Main Street,scattered clouds,west
+1,16,30,North Main Street,scattered clouds,west
+1,17,0,North Main Street,scattered clouds,west
+1,17,30,North Main Street,scattered clouds,west
+1,18,0,North Main Street,scattered clouds,west
+1,18,30,North Main Street,scattered clouds,west
+1,19,0,North Main Street,scattered clouds,west
+1,19,30,North Main Street,scattered clouds,west
+1,20,0,North Main Street,scattered clouds,west
+1,20,30,North Main Street,scattered clouds,west
+1,21,0,North Main Street,scattered clouds,west
+1,21,30,North Main Street,scattered clouds,west
+1,22,0,North Main Street,scattered clouds,west
+1,22,30,North Main Street,scattered clouds,west
+1,23,0,North Main Street,scattered clouds,west
+1,23,30,North Main Street,scattered clouds,west
+1,0,0,Paul Street,scattered clouds,west
+1,0,30,Paul Street,scattered clouds,west
+1,1,0,Paul Street,scattered clouds,west
+1,1,30,Paul Street,scattered clouds,west
+1,2,0,Paul Street,scattered clouds,west
+1,2,30,Paul Street,scattered clouds,west
+1,3,0,Paul Street,scattered clouds,west
+1,3,30,Paul Street,scattered clouds,west
+1,4,0,Paul Street,scattered clouds,west
+1,4,30,Paul Street,scattered clouds,west
+1,5,0,Paul Street,scattered clouds,west
+1,5,30,Paul Street,scattered clouds,west
+1,6,0,Paul Street,scattered clouds,west
+1,6,30,Paul Street,scattered clouds,west
+1,7,0,Paul Street,scattered clouds,west
+1,7,30,Paul Street,scattered clouds,west
+1,8,0,Paul Street,scattered clouds,west
+1,8,30,Paul Street,scattered clouds,west
+1,9,0,Paul Street,scattered clouds,west
+1,9,30,Paul Street,scattered clouds,west
+1,10,0,Paul Street,scattered clouds,west
+1,10,30,Paul Street,scattered clouds,west
+1,11,0,Paul Street,scattered clouds,west
+1,11,30,Paul Street,scattered clouds,west
+1,12,0,Paul Street,scattered clouds,west
+1,12,30,Paul Street,scattered clouds,west
+1,13,0,Paul Street,scattered clouds,west
+1,13,30,Paul Street,scattered clouds,west
+1,14,0,Paul Street,scattered clouds,west
+1,14,30,Paul Street,scattered clouds,west
+1,15,0,Paul Street,scattered clouds,west
+1,15,30,Paul Street,scattered clouds,west
+1,16,0,Paul Street,scattered clouds,west
+1,16,30,Paul Street,scattered clouds,west
+1,17,0,Paul Street,scattered clouds,west
+1,17,30,Paul Street,scattered clouds,west
+1,18,0,Paul Street,scattered clouds,west
+1,18,30,Paul Street,scattered clouds,west
+1,19,0,Paul Street,scattered clouds,west
+1,19,30,Paul Street,scattered clouds,west
+1,20,0,Paul Street,scattered clouds,west
+1,20,30,Paul Street,scattered clouds,west
+1,21,0,Paul Street,scattered clouds,west
+1,21,30,Paul Street,scattered clouds,west
+1,22,0,Paul Street,scattered clouds,west
+1,22,30,Paul Street,scattered clouds,west
+1,23,0,Paul Street,scattered clouds,west
+1,23,30,Paul Street,scattered clouds,west

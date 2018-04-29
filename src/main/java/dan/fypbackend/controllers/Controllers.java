@@ -26,6 +26,8 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Timer;
 
+import static dan.fypbackend.services.CalculateTrafficPrediction.getTrafficDelays;
+
 @RestController
 public class Controllers {
 
@@ -72,17 +74,7 @@ public class Controllers {
     }
 
     private ArrayList<TrafficDelay> addDelay(JSONObject current, ArrayList<TrafficDelay> trafficDelays) throws JSONException {
-        Calendar calendar = Calendar.getInstance();
-        calendar.setTimeInMillis(System.currentTimeMillis());
-        calendar.set(Calendar.HOUR_OF_DAY, current.getInt("hour"));
-        calendar.set(Calendar.MINUTE, current.getInt("minute"));
-        TrafficDelay trafficDelay = new TrafficDelay(current.getString("car_park_name"),
-                current.getString("direction"),
-                calendar.getTimeInMillis(),
-                current.getDouble("time")
-        );
-        trafficDelays.add(trafficDelay);
-        return trafficDelays;
+        return getTrafficDelays(current, trafficDelays);
     }
 
 

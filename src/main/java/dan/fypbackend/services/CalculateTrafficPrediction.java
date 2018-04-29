@@ -13,11 +13,11 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.TimerTask;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class CalculateTrafficPrediction extends TimerTask {
     private final ArrayList<CarPark> carParksList;
     private final DatabaseReference traffic = FirebaseDatabase.getInstance().getReference("traffic");
-    private final DatabaseReference delays = FirebaseDatabase.getInstance().getReference("delays");
 
     public CalculateTrafficPrediction(ArrayList<CarPark> carParksList) {
         this.carParksList = carParksList;
@@ -28,19 +28,13 @@ public class CalculateTrafficPrediction extends TimerTask {
         traffic.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                if (updateTrainCsv(dataSnapshot)) {
-                    System.out.println("Training CSV update success");
-                }
+                System.out.print("\n"+updateTrainCsv(dataSnapshot));
                 try {
-                    if (updateTodayCsv()) {
-                        System.out.println("Today CSV update success");
-                    }
-                } catch (MalformedURLException | JSONException e) {
+                    System.out.print("\n"+updateTodayCsv());
+                } catch (MalformedURLException e) {
                     e.printStackTrace();
                 }
-                if (doMlAndExportJson()) {
-                    System.out.println("Machine learning and update JSON success");
-                }
+                System.out.print("\n"+doMlAndExportJson());
             }
 
             @Override
@@ -52,7 +46,7 @@ public class CalculateTrafficPrediction extends TimerTask {
     }
 
     private boolean doMlAndExportJson() {
-        String cmd = "python FYP_MachineLearning.py";
+        String cmd = "sudo python FYP_MachineLearning.py";
         try {
             Runtime.getRuntime().exec(cmd);
         } catch (IOException e) {
@@ -85,16 +79,6 @@ public class CalculateTrafficPrediction extends TimerTask {
                 trafficDelays = addDelay(current, trafficDelays);
             }
         }
-        int count = 0;
-        System.out.print("\n");
-        for (TrafficDelay delay : trafficDelays) {
-            if (delays.child(String.valueOf(count)) != null) {
-                delays.child(String.valueOf(count)).removeValue((error, ref) -> System.out.print("Removed " + error));
-            }
-            delays.child(String.valueOf(count)).setValue(delay, (error, ref) -> System.out.print("Added " + error));
-            count++;
-        }
-
         return true;
     }
 
@@ -198,6 +182,10 @@ public class CalculateTrafficPrediction extends TimerTask {
     }
 
     private ArrayList<TrafficDelay> addDelay(JSONObject current, ArrayList<TrafficDelay> trafficDelays) throws JSONException {
+        return getTrafficDelays(current, trafficDelays);
+    }
+
+    public static ArrayList<TrafficDelay> getTrafficDelays(JSONObject current, ArrayList<TrafficDelay> trafficDelays) {
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(System.currentTimeMillis());
         calendar.set(Calendar.HOUR_OF_DAY, current.getInt("hour"));
