@@ -29,10 +29,14 @@ public class AddTrafficStats extends TimerTask {
     @Override
     public void run() {
         String[] carParkNames = new String[carParksList.size()];
-        StringBuilder urlStringEast = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Youghal&destinations=");
-        StringBuilder urlStringNorth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Mallow,Cork&destinations=");
-        StringBuilder urlStringWest = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Macroom,Cork&destinations=");
-        StringBuilder urlStringSouth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=Clonakilty,Cork&destinations=");
+        StringBuilder urlStringEast = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric
+                                                        &origins=Youghal&destinations=");
+        StringBuilder urlStringNorth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric
+                                                         &origins=Mallow,Cork&destinations=");
+        StringBuilder urlStringWest = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric
+                                                        &origins=Macroom,Cork&destinations=");
+        StringBuilder urlStringSouth = new StringBuilder("https://maps.googleapis.com/maps/api/distancematrix/json?units=metric
+                                                         &origins=Clonakilty,Cork&destinations=");
         int i = 0;
         while (i < carParksList.size()) {
             if (i == carParksList.size() - 1) {
@@ -59,7 +63,8 @@ public class AddTrafficStats extends TimerTask {
             jsonTrafficWest = RetrieveJsonObject.get(new URL(urlStringWest.toString()));
             jsonTrafficSouth = RetrieveJsonObject.get(new URL(urlStringSouth.toString()));
             jsonTrafficNorth = RetrieveJsonObject.get(new URL(urlStringNorth.toString()));
-            jsonWeather = RetrieveJsonObject.get(new URL("http://api.openweathermap.org/data/2.5/weather?q=cork&appid=bd6ab1b7b59f866b3e68f34173c5c570"));
+            jsonWeather = RetrieveJsonObject.get(new URL("http://api.openweathermap.org/data/2.5/weather?q=
+                                                         cork&appid=bd6ab1b7b59f866b3e68f34173c5c570"));
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -81,7 +86,8 @@ public class AddTrafficStats extends TimerTask {
                         trafficStat.setCarParkName(carParkNames[index]);
                         trafficStat.setWeather(weatherString);
                         try {
-                            trafficDb.child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count)).setValue(trafficStat, new DatabaseReference.CompletionListener() {
+                            trafficDb.child(String.valueOf(new Date(System.currentTimeMillis()) + " " + count))
+                                .setValue(trafficStat, new DatabaseReference.CompletionListener() {
                                 @Override
                                 public void onComplete(DatabaseError databaseError, DatabaseReference databaseReference) {
                                     System.out.print("+,");
